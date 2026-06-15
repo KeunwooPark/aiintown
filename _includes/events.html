@@ -1,0 +1,18 @@
+<div class="events">
+{% assign cities = site.data.cities | where: "enabled", true %}
+{% for city in cities %}
+  {% assign city_events = site.data.events[city.id] %}
+  <section class="city-events">
+    <h2 class="city-name">{{ city.name }}{% if city.country %}, {{ city.country }}{% endif %}</h2>
+    {% if city_events and city_events.size > 0 %}
+      <ul class="event-list">
+      {% for event in city_events %}
+        {% include event-card.html event=event %}
+      {% endfor %}
+      </ul>
+    {% else %}
+      <p class="no-events">No upcoming events found yet.</p>
+    {% endif %}
+  </section>
+{% endfor %}
+</div>

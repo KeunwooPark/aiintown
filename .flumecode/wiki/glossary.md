@@ -8,7 +8,11 @@
 
 **Front matter** — The YAML block fenced by `---` at the top of a content file (e.g. `index.md`). It sets per-page variables such as `layout` and `title` that the theme reads. A file with no front matter is copied verbatim instead of being processed.
 
-**`minima`** — Jekyll's default theme, providing the layouts and styling for this otherwise-empty site. Selected via `theme: minima` in `_config.yml`.
+**`minima`** — Jekyll's default theme, providing the layouts and styling for the site. Selected via `theme: minima` in `_config.yml`; extended (not replaced) by the repo's `_includes/` partials and `assets/main.scss`.
+
+**Include (partial)** — A reusable snippet under `_includes/` pulled into a page with `{% include file.html %}`, optionally with parameters (e.g. `{% include event-card.html event=event %}`, read inside as `include.event`). The site uses `events.html` (the per-city loop) and `event-card.html` (one event).
+
+**`site.data`** — The Liquid object exposing everything under `_data/`. A file `_data/foo.json` is reachable as `site.data.foo`; the events partial indexes it dynamically as `site.data.events[city.id]`.
 
 **`_config.yml`** — Jekyll's site-wide configuration file, read once at build time.
 

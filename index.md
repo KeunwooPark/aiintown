@@ -1,6 +1,8 @@
 ---
-layout: home
-title: Home
+layout: page
+title: AI Events in Town
 ---
 
-Welcome. This site is under construction.
+Upcoming AI events by city.
+
+{% include events.html %}
