@@ -29,6 +29,17 @@ def search_city(city):
         f"that have already finished. Return ONLY a JSON array; each item: title, "
         f"date (YYYY-MM-DD if known), venue, url, source, description."
     )
+    language = city.get("language")
+    if language:
+        prompt += (
+            f" Search the web in {language} as well as English, and read "
+            f"{language}-language sources, so you also catch locally-indexed events."
+        )
+    prompt += (
+        " Include small, grassroots and community events (university clubs, "
+        "coworking spaces, local meetup/community sites and venues), in addition "
+        "to — not instead of — larger conferences and international events."
+    )
     hints = city.get("query_hints", [])
     if hints:
         prompt += f" If you find relevant events, focus on topics: {', '.join(hints)}."
