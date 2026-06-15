@@ -15,7 +15,9 @@ This subsystem **generates data, not pages**. A daily job collects events with a
 
 ### `_data/cities.yml` — the input
 
-The single human-editable source of truth for which cities to search. It is a YAML list; each entry has `id` (slug used as the output filename), `name`, `country`, `enabled`, and optional `query_hints` (keywords injected into the prompt). Adding or removing a city is a pure data edit — no code change — and the script iterates every entry where `enabled` is not `false`.
+The single human-editable source of truth for which cities to search. It is a YAML list; each entry has `id` (slug used as the output filename), `name`, `country`, `enabled`, an optional `language` (a human-readable name like `Korean` or `German`, no locale codes), and optional `query_hints` (keywords injected into the prompt). Adding or removing a city is a pure data edit — no code change — and the script iterates every entry where `enabled` is not `false`.
+
+`language` drives a local-language search instruction in the prompt (see the worker below), and `query_hints` mixes English topic/format terms with local-language general keywords (e.g. Seoul carries `밋업`/`세미나`, Berlin carries `Treffen`/`Vortrag`) so coverage broadens rather than shifts. The hints stay topic-/format-focused; language selection lives in the dedicated `language` field, not in `query_hints`.
 
 ### `scripts/search_events.py` — the worker
 
@@ -23,6 +25,7 @@ For each enabled city the script builds a prompt, calls Claude, parses the respo
 
 - **Web search is mandatory.** The request passes the `web_search_20250305` server-side tool (name `web_search`, `max_uses: 5`). Without it Claude cannot browse and would hallucinate events. `MODEL` is pinned in one constant (`claude-sonnet-4-5`).
 - **Run-date-scoped prompt.** `RUN_DATE` (today) is interpolated into the prompt, which instructs Claude to return *only* upcoming, in-person AI events on or after that date as a JSON array of `title`, `date`, `venue`, `url`, `source`, `description`.
+- **Localized, community-aware prompt.** When a city defines `language`, `search_city` appends a sentence telling Claude to also search the web and read sources in that language (in addition to English) to catch locally-indexed events; the sentence is skipped when `language` is absent, keeping the prompt back-compatible. A further sentence — added for every city — tells Claude to include small, grassroots, and community events (university clubs, coworking spaces, local meetup/community sites and venues) *in addition to, not instead of,* larger conferences and international events. The output schema, `web_search` config, and `parse_json_array` handling are unchanged, so non-ASCII titles still round-trip via the `ensure_ascii=False` write path.
 - **Lazy client.** The `Anthropic()` client is created inside `main()`, not at import, so the test suite can import the module without `ANTHROPIC_API_KEY`.
 - **Defensive parsing.** `parse_json_array` extracts the array from possibly-prose output — preferring a fenced ```` ```json ```` block, else the first `[` … last `]` span — and returns `[]` (never raises) on malformed output, dropping any item lacking a `title`. This is what keeps a bad LLM response from corrupting the data files.
 - **Code-level upcoming guard.** `is_upcoming` drops events whose parseable `date` is strictly before `RUN_DATE`, but *keeps* events with missing/unparseable dates (they could still be upcoming). `_apply_date_status` tags those kept-but-undated events with `date_status: "unknown"` so consumers can surface the uncertainty.
