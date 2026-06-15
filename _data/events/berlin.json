@@ -1,0 +1,74 @@
+[
+  {
+    "title": "AI Tinkerers Berlin - June 17, 2026",
+    "date": "2026-06-17",
+    "venue": "TBA",
+    "url": "https://berlin.aitinkerers.org/",
+    "source": "AI Tinkerers Berlin",
+    "description": "In-person meetup for engineers, founders, researchers, and product builders working on AI agents, multimodal and voice interfaces, RAG and knowledge systems, AI coding tools, and production AI infrastructure. Features live demos from local builders, technical Q&A, and networking. Demos show real systems or code, not sales decks.",
+    "city": "berlin",
+    "id": "d707bb6ed90b9c79",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
+    "title": "AI Agents Summit 2026 (AIS26)",
+    "date": "2026-06-18",
+    "venue": "Berlin (part of Berlin Blockchain Week)",
+    "url": "https://ai-berlin.com/events-tiles/event/ai-agents-summit-2026",
+    "source": "AI Berlin",
+    "description": "Flagship gathering for the global agentic ecosystem. Under the theme 'From Chatbots to Autonomous Economies', explores how agents coordinate with each other and with humans, how they create and capture value and revenue, and how much autonomy we can safely give them across digital networks.",
+    "city": "berlin",
+    "id": "2bc4b020843b95e0",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
+    "title": "Berlin Robotics x AI Hackathon",
+    "date": "2026-06-20",
+    "venue": "Lohmühlenstr. 65, 12435 Berlin (CIC Innovation Campus, Treptow-Köpenick district)",
+    "url": "https://www.eventbrite.com/e/berlin-robotics-x-ai-hackathon-tickets-1986078420018",
+    "source": "Eventbrite",
+    "description": "48-hour hackathon (June 20-21) for robotics engineers, software developers, designers, and entrepreneurs. Focuses on merging Robotics with Agentic AI to engineer functional, real-world solutions. Features hands-on innovation with agentic coding and robotics hardware, expert mentorship from industry leaders in robotics and AI.",
+    "city": "berlin",
+    "id": "6a08c3aad8277e47",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
+    "title": "GITEX AI EUROPE 2026",
+    "date": "2026-06-30",
+    "venue": "Messe Berlin Exhibition Center (South Entrance)",
+    "url": "https://www.eventbrite.com/e/gitex-ai-europe-2026-tickets-1980168722955",
+    "source": "Eventbrite / GITEX",
+    "description": "Two-day event (June 30 - July 1) bringing together Europe's AI pioneers, enterprise leaders, frontier startups, investors and policymakers. Features AI Everything Europe showcasing cutting-edge AI use cases, North Star Europe for startups & scaleups, and multiple conference tracks. Expected 30,000+ tech & business leaders, 2,000+ enterprises & startups, 600+ investors.",
+    "city": "berlin",
+    "id": "3544cd94a404d216",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
+    "title": "Agentic AI Summit Berlin 2026",
+    "date": "2026-09-15",
+    "venue": "Berlin, Germany",
+    "url": "https://www.aiexpertmagazine.com/agentic-ai-summit-berlin-2026-everything-you-need-to-know/",
+    "source": "Agentic AI Alliance",
+    "description": "Engineering-first conference for AI engineers, developers, and executives building and deploying advanced agentic AI systems. Focuses on multi-agent architectures and production deployment, beyond single-model chatbots toward autonomous, multi-agent workflows.",
+    "city": "berlin",
+    "id": "76b45266d6b2152e",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
+    "title": "MLcon Berlin 2026",
+    "date": "2026-11-16",
+    "venue": "Maritim ProArte Hotel Berlin",
+    "url": "https://mlconference.ai/berlin/",
+    "source": "MLconference.ai",
+    "description": "Five-day event (Nov 16-20, 2026) focusing on Generative AI, LLMs, MLOps, ML Strategy and machine learning technologies. Features workshops, keynotes, bootcamps, and networking opportunities. Expo days: Nov 18-19, 2026. Available in-person or online.",
+    "city": "berlin",
+    "id": "9ce451565f568456",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  }
+]
