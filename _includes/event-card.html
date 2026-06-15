@@ -1,16 +1,12 @@
 {% assign e = include.event %}
-<li class="event-card">
-  <h3 class="event-title">
-    {% if e.url %}<a href="{{ e.url }}">{{ e.title }}</a>{% else %}{{ e.title }}{% endif %}
-  </h3>
-  <p class="event-meta">
-    {% if e.date_status == "unknown" or e.date == nil or e.date == "" %}
-      <span class="event-date">Date TBD</span>
-    {% else %}
-      <span class="event-date">{{ e.date | date: "%b %-d, %Y" }}</span>
-    {% endif %}
-    {% if e.venue %}<span class="event-venue"> · {{ e.venue }}</span>{% endif %}
-  </p>
-  {% if e.description %}<p class="event-description">{{ e.description }}</p>{% endif %}
-  {% if e.source %}<p class="event-source">Source: {{ e.source }}</p>{% endif %}
-</li>
+<article class="event-card" data-city="{{ include.city.id }}" data-title="{{ e.title | downcase }}">
+  {% if e.date_status == "unknown" or e.date == nil or e.date == "" %}
+    <time>Date TBD</time>
+  {% else %}
+    <time datetime="{{ e.date }}">{{ e.date | date: "%b %-d, %Y" }}</time>
+  {% endif %}
+  <h3>{% if e.url %}<a href="{{ e.url }}" rel="noopener" target="_blank">{{ e.title }}</a>{% else %}{{ e.title }}{% endif %}</h3>
+  {% if e.venue %}<p class="venue">{{ e.venue }}</p>{% endif %}
+  {% if e.description %}<p class="desc">{{ e.description }}</p>{% endif %}
+  {% if e.source %}<span class="source">{{ e.source }}</span>{% endif %}
+</article>
