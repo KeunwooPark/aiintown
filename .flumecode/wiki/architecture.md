@@ -28,7 +28,7 @@ A second, unrelated pipeline writes *data* into the repo. It does not build or s
 1. **Schedule.** The `search-ai-events` GitHub Actions workflow fires daily (and on manual dispatch). This is the repo's only `.github/workflows` file and is **not** a deploy workflow.
 2. **Search.** It runs `scripts/search_events.py`, which reads `_data/cities.yml` and, per enabled city, calls the Anthropic Messages API with the server-side `web_search` tool to find upcoming offline AI events.
 3. **Store.** The script filters out past events, dedupes by a stable `id`, accumulates `first_seen`/`last_seen` history, and writes `_data/events/<city-id>.json`.
-4. **Commit.** The workflow commits any change under `_data/events/` back to `main`. That push then triggers the normal Pages build above — but no template renders the events yet (data-only by design).
+4. **Commit.** The workflow commits any change under `_data/events/` back to `main`. That push then triggers the normal Pages build above, which now renders the events: the homepage (`index.md`) includes `_includes/events.html`, which reads `site.data.events` and lists each enabled city's events. So data flows end-to-end — search writes JSON, the build turns it into HTML — with no manual step in between.
 
 See [components/event-search.md](components/event-search.md) for the details and gotchas.
 
