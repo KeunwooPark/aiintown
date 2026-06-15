@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
-# Optional: faster local watch on some platforms
-# gem "webrick"
+# Needed for `jekyll serve` on Ruby 3.0+ (webrick left the stdlib)
+gem "webrick"

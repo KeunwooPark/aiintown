@@ -1,4 +1,4 @@
-<!-- wiki-synced-to: 6862c532a25728ecab24810bcd2809c3454970ea -->
+<!-- wiki-synced-to: 2d6ff4d133ed1717fa627cc0654e15f8ce52b5cb -->
 
 # aiintown wiki
 
@@ -11,6 +11,7 @@ This repository is a single static website. It uses [Jekyll](https://jekyllrb.co
 | Component   | What it does                       | Wiki page                                | Key paths                            |
 | ----------- | ---------------------------------- | ---------------------------------------- | ------------------------------------ |
 | Jekyll site | The whole static site + its config | [components/site.md](components/site.md) | `_config.yml`, `index.md`, `Gemfile` |
+| UI Preview  | How sessions screenshot UI changes | [components/ui-preview.md](components/ui-preview.md) | `.flumecode/plugins/ui-preview.json`, `Gemfile` |
 
 See also [architecture.md](architecture.md) for the build-and-deploy flow and [glossary.md](glossary.md) for Jekyll / GitHub Pages terms.
 

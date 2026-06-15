@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "outputFormat": { "kind": "screenshots" },
+  "appDir": ".",
+  "install": ["bundle install"],
+  "devServer": "bundle exec jekyll serve --host 127.0.0.1 --port {PORT} --no-watch",
+  "readyPath": "/aiintown/",
+  "uiGlobs": [
+    "_layouts/**/*.html",
+    "_includes/**/*.html",
+    "_sass/**/*.scss",
+    "assets/**/*.css",
+    "assets/**/*.scss",
+    "*.html",
+    "*.md",
+    "_config.yml"
+  ],
+  "showcase": {
+    "kind": "jekyll-page",
+    "instructions": "Create a single showcase page file at the repo root named `flumecode_preview.html` (the name must NOT begin with `_` or `__` — Jekyll excludes files whose basename starts with those from the build, which would make the page 404) with Jekyll front matter `permalink: /__flumecode_preview/`. Render the REAL changed UI — never rebuild it: for a changed _layouts/<name>.html, set front matter `layout: <name>` and supply realistic hard-coded fake front-matter variables (e.g. title, page vars) plus fake body content the layout reads; for a changed _includes/<name>.html, in the body use `{% include <name>.html param='...' %}` passing hard-coded fake parameters; for a changed page (.md/.html), set its real `layout:` and paste hard-coded fake content that exercises the change. Style-only changes (_sass/assets) just need representative fake markup using the affected classes. NEVER query data or hit a backend — none is reachable; every variable must be hard-coded fake data. Because `_config.yml` sets `baseurl: /aiintown`, the page is served at `/aiintown/__flumecode_preview/` — record THAT full URL as the showcase URL. Before finishing, run `bundle install` then `bundle exec jekyll serve --host 127.0.0.1 --port {PORT} --no-watch` and confirm `GET /aiintown/__flumecode_preview/` returns HTTP 200 (not 404/500)."
+  }
+}
