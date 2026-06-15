@@ -1,0 +1,10 @@
+- id: seoul
+  name: Seoul
+  country: South Korea
+  enabled: true
+  query_hints: ["AI", "machine learning", "LLM", "meetup", "conference", "talk"]
+- id: berlin
+  name: Berlin
+  country: Germany
+  enabled: true
+  query_hints: ["AI", "LLM", "meetup"]

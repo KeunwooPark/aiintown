@@ -25,3 +25,19 @@
 **`baseurl`** — The path prefix a project site is served under (`/aiintown` here). Internal links must respect it, or they 404. A user/organization site uses an empty `baseurl`.
 
 **Deploy from a branch** — The GitHub Pages source mode used here: GitHub builds and serves from a chosen branch (`main`) and folder (`/ (root)`). Enabled manually in Settings → Pages.
+
+## AI event search
+
+**`_data/`** — Jekyll's data directory. Any YAML/JSON file here is auto-loaded and exposed to templates as `site.data.<filename>`. The event subsystem reads `_data/cities.yml` and writes `_data/events/<city>.json` into it.
+
+**Web search tool** — Anthropic's server-side `web_search_20250305` tool. When enabled in a Messages API request, Claude can browse the live web to ground its answers. It is a **billed** tool — usage counts toward API cost. Without it the model would hallucinate events.
+
+**`ANTHROPIC_API_KEY`** — The Anthropic API credential. Supplied as a GitHub Actions repository secret and read from the environment by the `Anthropic()` client; required for the workflow to run.
+
+**Upcoming event** — An event whose date is on or after the run date. The script keeps these and drops events with a parseable past date. Events with a missing/unparseable date are kept too (they may be upcoming) and flagged `date_status: "unknown"`.
+
+**Stable `id`** — A 16-character SHA-1 fingerprint of an event's normalized `title|date|city`. It is the dedupe key across runs, so the same event is updated rather than duplicated.
+
+**`first_seen` / `last_seen`** — ISO dates recording when an event was first discovered and most recently re-seen. `first_seen` is preserved on updates; `last_seen` advances each run that returns the event, giving an accumulating history.
+
+**`workflow_dispatch`** — A GitHub Actions trigger that lets a workflow be started manually from the Actions UI, alongside its scheduled `cron` trigger.
