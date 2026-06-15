@@ -1,10 +1,10 @@
-<!-- wiki-synced-to: 415850996d5a09c181ba18f4297211c0739ca767 -->
+<!-- wiki-synced-to: a347a938aa79cd5dc90d41fffb2a0e6d74ec32cb -->
 
 # aiintown wiki
 
-> **TL;DR** — `aiintown` is a minimal Jekyll site built and served natively by GitHub Pages whose homepage lists upcoming AI events grouped by city, plus a scheduled GitHub Actions job that uses Claude web search to collect those events into committed per-city JSON data files.
+> **TL;DR** — `aiintown` (product name "AI in Town") is a minimal Jekyll site built and served natively by GitHub Pages whose homepage lists upcoming AI events grouped by city, plus a scheduled GitHub Actions job that uses Claude web search to collect those events into committed per-city JSON data files.
 
-This repository is a static website. It uses [Jekyll](https://jekyllrb.com/) with the default `minima` theme and is published through GitHub Pages' native build (the `github-pages` gem), deployed from the `main` branch root. There is no application backend or JavaScript build tooling. A daily GitHub Actions workflow plus a Python script searches the web (via Claude) for upcoming offline AI events per city and commits the results under `_data/events/`; the homepage then renders that data at build time through a small set of `_includes/` partials.
+This repository is a static website, presented to users as **AI in Town** — a site that collects and shows local offline meetups across various cities. It uses [Jekyll](https://jekyllrb.com/) with the default `minima` theme and is published through GitHub Pages' native build (the `github-pages` gem), deployed from the `main` branch root. There is no application backend or JavaScript build tooling. A daily GitHub Actions workflow plus a Python script searches the web (via Claude) for upcoming offline AI events per city and commits the results under `_data/events/`; the homepage then renders that data at build time through a small set of `_includes/` partials.
 
 ## Navigation map
 
