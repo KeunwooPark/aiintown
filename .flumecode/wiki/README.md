@@ -1,4 +1,4 @@
-<!-- wiki-synced-to: a347a938aa79cd5dc90d41fffb2a0e6d74ec32cb -->
+<!-- wiki-synced-to: c6c5870b9fc4a909671c661bcc02e6910b7d32c1 -->
 
 # aiintown wiki
 
@@ -10,7 +10,7 @@ This repository is a static website. It uses [Jekyll](https://jekyllrb.com/) wit
 
 | Component   | What it does                       | Wiki page                                | Key paths                            |
 | ----------- | ---------------------------------- | ---------------------------------------- | ------------------------------------ |
-| Jekyll site | Custom-themed site rendering events by city | [components/site.md](components/site.md) | `index.md`, `_layouts/`, `_includes/`, `_sass/`, `assets/css/main.scss`, `_config.yml` |
+| Jekyll site | Custom-themed site rendering events by city, with client-side city search | [components/site.md](components/site.md) | `index.md`, `_layouts/`, `_includes/`, `_sass/`, `assets/css/main.scss`, `assets/js/search.js`, `_config.yml` |
 | AI event search | Daily Claude search → per-city event JSON | [components/event-search.md](components/event-search.md) | `_data/cities.yml`, `scripts/search_events.py`, `.github/workflows/search-ai-events.yml` |
 | UI Preview  | How sessions screenshot UI changes | [components/ui-preview.md](components/ui-preview.md) | `.flumecode/plugins/ui-preview.json`, `Gemfile` |
 
