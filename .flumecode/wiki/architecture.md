@@ -14,7 +14,7 @@ This is a **static site with no build step of our own**. We commit Jekyll source
 
 ## Build-and-deploy flow
 
-1. **Author.** Content and configuration are plain files at the repo root: `_config.yml` (site settings) and `index.md` (the homepage). Front matter on `index.md` selects a theme layout.
+1. **Author.** Content and configuration are plain files at the repo root: `_config.yml` (site settings) and `index.md` (the homepage). Front matter on `index.md` selects a layout from the repo's **own custom theme** under `_layouts/` (`minima` is configured only as a fallback). The botanic SCSS in `_sass/` is compiled to `assets/css/main.css` as part of the build.
 2. **Push.** Changes are committed to the `main` branch.
 3. **Build.** GitHub Pages detects the push, installs the `github-pages` gem (pinned in `Gemfile`), and runs `jekyll build`. The output is the static `_site/` directory.
 4. **Serve.** GitHub serves `_site/` at `https://keunwoopark.github.io/aiintown/`.
@@ -28,7 +28,7 @@ A second, unrelated pipeline writes *data* into the repo. It does not build or s
 1. **Schedule.** The `search-ai-events` GitHub Actions workflow fires daily (and on manual dispatch). This is the repo's only `.github/workflows` file and is **not** a deploy workflow.
 2. **Search.** It runs `scripts/search_events.py`, which reads `_data/cities.yml` and, per enabled city, calls the Anthropic Messages API with the server-side `web_search` tool to find upcoming offline AI events.
 3. **Store.** The script filters out past events, dedupes by a stable `id`, accumulates `first_seen`/`last_seen` history, and writes `_data/events/<city-id>.json`.
-4. **Commit.** The workflow commits any change under `_data/events/` back to `main`. That push then triggers the normal Pages build above, which now renders the events: the homepage (`index.md`) includes `_includes/events.html`, which reads `site.data.events` and lists each enabled city's events. So data flows end-to-end — search writes JSON, the build turns it into HTML — with no manual step in between.
+4. **Commit.** The workflow commits any change under `_data/events/` back to `main`. That push then triggers the normal Pages build above, which now renders the events: the homepage (`index.md`, `layout: home`) drives `_layouts/home.html`, which reads `site.data.events` and lists each enabled city's events as cards. So data flows end-to-end — search writes JSON, the build turns it into HTML — with no manual step in between.
 
 See [components/event-search.md](components/event-search.md) for the details and gotchas.
 

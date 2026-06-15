@@ -1,8 +1,5 @@
 ---
-layout: page
-title: AI Events in Town
+layout: home
+title: aiintown
 ---
-
-Upcoming AI events by city.
-
-{% include events.html %}
+<!-- Body intentionally empty: home.html renders events from site.data -->

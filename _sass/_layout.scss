@@ -1,0 +1,7 @@
+.container { max-width:$maxwidth; margin:0 auto; padding:0 1.25rem; }
+.site-header { background:$color-leaf; color:#fff; padding:2.5rem 0; }
+.site-header h1 { color:#fff; font-size:2.4rem; margin:0; }
+.site-header .tagline { color:rgba(255,255,255,.85); }
+.city-section { margin:2.5rem 0; }
+.city-section > h2 { border-bottom:2px solid $color-leaf-light; padding-bottom:.4rem; }
+.site-footer { margin-top:4rem; padding:2rem 0; color:$color-muted; border-top:1px solid #e3dfce; }
