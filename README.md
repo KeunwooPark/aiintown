@@ -1,6 +1,12 @@
 # aiintown
 
+'AI in Town' is a website that collects and shows local offline meetups in various cities.
+
 A site served with GitHub Pages using Jekyll and the Minima theme.
+
+## How to contribute
+
+If you want to add cities or ask for features, you can add sketches in the [FlumeCode repository](https://www.flumecode.work/repositories/26c6aa50-ba00-4b22-b371-fb4ccfe0fe0b) — sketches are lightweight proposals for new cities and feature ideas.
 
 ## Enabling GitHub Pages
 
@@ -75,3 +81,5 @@ Search is scoped to upcoming events only — the script discards anything dated 
 ### Rendering events on the site
 
 Displaying events on the Jekyll site is intentionally out of scope for now. The workflow is data-only; the JSON files are committed to the repository so a future template can consume them.
+
+This project was made by [FlumeCode](https://www.flumecode.work).
