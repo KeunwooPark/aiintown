@@ -1,6 +1,6 @@
 # Architecture
 
-> **TL;DR** — Source markdown lives at the repo root; GitHub Pages builds it into static HTML with Jekyll and serves it from the `main` branch — no servers, no CI workflow.
+> **TL;DR** — Source markdown lives at the repo root; GitHub Pages builds it into static HTML with Jekyll and serves it from the `main` branch — no deploy workflow. A separate scheduled Actions job generates event data but does not build or deploy the site.
 
 > **At a glance**
 > **Purpose** — Explain how a few flat files at the repo root become a published website.
@@ -21,9 +21,20 @@ This is a **static site with no build step of our own**. We commit Jekyll source
 
 The build artifact (`_site/`) and lockfile caches are never committed — see `.gitignore`.
 
+## The data-generation flow (independent of the build)
+
+A second, unrelated pipeline writes *data* into the repo. It does not build or serve anything — it only commits files that the Pages build later picks up:
+
+1. **Schedule.** The `search-ai-events` GitHub Actions workflow fires daily (and on manual dispatch). This is the repo's only `.github/workflows` file and is **not** a deploy workflow.
+2. **Search.** It runs `scripts/search_events.py`, which reads `_data/cities.yml` and, per enabled city, calls the Anthropic Messages API with the server-side `web_search` tool to find upcoming offline AI events.
+3. **Store.** The script filters out past events, dedupes by a stable `id`, accumulates `first_seen`/`last_seen` history, and writes `_data/events/<city-id>.json`.
+4. **Commit.** The workflow commits any change under `_data/events/` back to `main`. That push then triggers the normal Pages build above — but no template renders the events yet (data-only by design).
+
+See [components/event-search.md](components/event-search.md) for the details and gotchas.
+
 ## Key decisions and their rationale
 
-- **Native GitHub Pages build, not a custom workflow.** Using the `github-pages` gem means GitHub builds the site server-side. This keeps the repo free of any `.github/workflows` deploy file. The trade-off: only GitHub's [fixed allow-list of Jekyll plugins](https://pages.github.com/versions/) works; an unsupported plugin would force a switch to a GitHub Actions workflow.
+- **Native GitHub Pages build, not a custom workflow.** Using the `github-pages` gem means GitHub builds the site server-side. The repo has no `.github/workflows` *deploy* file. The trade-off: only GitHub's [fixed allow-list of Jekyll plugins](https://pages.github.com/versions/) works; an unsupported plugin would force a switch to a GitHub Actions build workflow.
 - **Pinning `github-pages` locally.** The `Gemfile` pins the same gem GitHub runs, so a local `bundle exec jekyll build` matches production and avoids version drift between preview and deploy.
 - **Project-site URL configuration.** The repo is a *project site*, served under a path segment (`/aiintown`), not at the domain root. So `_config.yml` sets `url: https://keunwoopark.github.io` and `baseurl: /aiintown`. If the repo were ever renamed to `keunwoopark.github.io` (a user/organization site), `baseurl` must change to `""` or internal links would 404.
 
