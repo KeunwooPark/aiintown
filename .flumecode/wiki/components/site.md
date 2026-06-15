@@ -1,15 +1,24 @@
 # Jekyll site
 
-> **TL;DR** — A minimal Jekyll site whose homepage renders the collected AI events grouped by city, built on the `minima` theme with a couple of small custom includes and a stylesheet.
+> **TL;DR** — A Jekyll site with its **own custom theme** (own layouts, includes, and SCSS) whose homepage renders the collected AI events grouped by city in a botanic-garden / organic visual style.
 
 > **Purpose** — Document each source file of the site and what it controls.
-> **Key files** — `_config.yml`, `index.md`, `_includes/events.html`, `_includes/event-card.html`, `assets/main.scss`, `Gemfile`.
-> **Depends on** — Jekyll + the `minima` theme via the `github-pages` gem; the event data under `_data/` (see [components/event-search.md](components/event-search.md)). **Used by** — GitHub Pages' build.
+> **Key files** — `_config.yml`, `index.md`, `_layouts/default.html`, `_layouts/home.html`, `_includes/event-card.html`, `_sass/`, `assets/css/main.scss`, `Gemfile`.
+> **Depends on** — Jekyll via the `github-pages` gem; the event data under `_data/` (see [components/event-search.md](components/event-search.md)). `minima` remains configured only as a fallback. **Used by** — GitHub Pages' build.
 > **Related** — [architecture.md](architecture.md) for the build/deploy flow, [glossary.md](glossary.md) for terms.
 
 ## Layout
 
-The site is small. Content and config sit at the repo root (`_config.yml`, `index.md`); a thin rendering layer extends the `minima` theme with two `_includes/` partials and a single `assets/main.scss`. There are no `_layouts/` or `_posts/` — page chrome still comes from the theme; the includes only add the events list to the homepage body.
+The site ships its **own theme** rather than leaning on `minima`'s chrome. Content and config sit at the repo root (`_config.yml`, `index.md`); the presentation layer is fully committed: `_layouts/` (page skeletons), `_includes/` (header, footer, event card), and `_sass/` partials compiled through `assets/css/main.scss`. `theme: minima` stays in `_config.yml` purely as a fallback for anything not overridden — but the committed `_layouts/default.html` takes precedence, so no `minima` chrome renders. There are no `_posts/`.
+
+### Theme structure
+
+The render tree is layered so styling and structure each have one home:
+
+- **`_layouts/default.html`** — the HTML skeleton (`<head>` + stylesheet link, then header → page `content` → footer).
+- **`_layouts/home.html`** — wraps `default` and renders the per-city events listing (replaces the old `_includes/events.html`).
+- **`_includes/`** — `header.html` (hero), `footer.html` (attribution), `event-card.html` (one event).
+- **`_sass/`** — SCSS partials (`_variables`, `_base`, `_layout`, `_event-card`) imported by `assets/css/main.scss`.
 
 ## Source files
 
@@ -25,19 +34,34 @@ Changing `_config.yml` requires a build restart locally (Jekyll does not hot-rel
 
 ### `index.md`
 
-The homepage. Its front matter uses `layout: page` (not `minima`'s `home`, which would inject a blog-post list) so the page renders its own body inside the theme's header/footer chrome. The body is a one-line intro plus `{% include events.html %}`, which delegates all event rendering to the partial below.
+The homepage. Its front matter is now just `layout: home` plus a `title`; the body is intentionally empty (a comment) because `_layouts/home.html` renders the entire events listing from `site.data`. This replaces the earlier under-construction placeholder and the `{% include events.html %}` approach.
 
-### `_includes/events.html`
+### `_layouts/default.html`
 
-The events listing partial. It loops over the **enabled** cities — `site.data.cities | where: "enabled", true` — and for each one indexes the matching event array as `site.data.events[city.id]` (the data file is `_data/events/<city.id>.json`, exposed by Jekyll under that key). Each city becomes a `<section>` with an `<h2>` heading (`name`, plus `, country` when present). When a city's array is non-empty it renders an `<ul>` of cards via `{% include event-card.html event=event %}`; when empty or missing it shows a `No upcoming events found yet.` message instead of erroring. The loop is fully data-driven: adding a city to `_data/cities.yml` needs no template edit.
+The base HTML skeleton every page wraps. The `<head>` sets charset/viewport, the page title (`page.title | default: site.title`), and links the compiled stylesheet via `{{ '/assets/css/main.css' | relative_url }}` — `relative_url` is required because the site is served under `baseurl: /aiintown`. The `<body>` pulls in `header.html`, then the page `content` inside `<main class="container">`, then `footer.html`. This override is what suppresses `minima`'s default chrome.
+
+### `_layouts/home.html`
+
+The events listing layout (`layout: default`). It loops over `site.data.cities`, **skipping disabled cities** with `{% unless city.enabled == false %}` (so a city is enabled unless explicitly `enabled: false`). For each city it emits a `.city-section` carrying `data-city-id` / `data-city-name` attributes, an `<h2>` of `name, country`, and the events from `site.data.events[city.id] | sort: 'date'` rendered as an `.event-list` of cards via `{% include event-card.html event=event city=city %}`. Empty/missing arrays show a `No upcoming events found yet.` message instead of erroring. A hidden `.no-results` line and the `data-*` attributes are placeholders for a future client-side city filter (not yet present). The loop is fully data-driven: adding a city to `_data/cities.yml` needs no template edit.
+
+### `_includes/header.html` and `_includes/footer.html`
+
+`header.html` is the botanic hero banner — `site.title` and a tagline inside `.site-header`. `footer.html` is the attribution strip showing `site.description`. Both override `minima`'s equivalents.
 
 ### `_includes/event-card.html`
 
-Renders one event passed in as `include.event`. The title links to `event.url` when present, else plain text. The date line formats `event.date` with Liquid's `date` filter, **except** when `date_status == "unknown"` or `date` is blank — those route to a literal `Date TBD` and never reach the filter (which would choke on an unparseable string). `venue`, `description`, and `source` each render only when present, guarded by `{% if %}` so missing optional fields produce no empty markup. Field names mirror the schema written by `scripts/search_events.py` (see [components/event-search.md](components/event-search.md)).
+Renders one event passed in as `include.event` (aliased to `e`), plus `include.city` for the `data-city="{{ city.id }}"` and `data-title` attributes (hooks for the future filter, and the Booking.com-style result-card structure). The title links to `e.url` when present, else plain text. The date line formats `e.date` with Liquid's `date` filter, **except** when `date_status == "unknown"` or `date` is blank — those route to a literal `Date TBD` and never reach the filter (which would choke on an unparseable string). `venue`, `description`, and `source` each render only when present, guarded by `{% if %}`. Field names mirror the schema written by `scripts/search_events.py` (see [components/event-search.md](components/event-search.md)).
 
-### `assets/main.scss`
+### `_sass/` partials and `assets/css/main.scss`
 
-Light custom styling layered on the theme. The empty front-matter block (`---` / `---`) makes Jekyll process the file into CSS; `@import "minima";` keeps all the theme's styles, after which a handful of rules style the event cards (list bullets removed, muted meta text, spacing). Non-essential — the page renders correctly without it.
+The custom design system. `assets/css/main.scss` carries the empty front-matter fence (`---` / `---`) that makes `jekyll-sass-converter` compile it to `assets/css/main.css`; it `@import`s the partials in order. The partials are:
+
+- **`_variables.scss`** — the single source of truth for the look: a botanic palette (leafy greens, earthy brown, soft cream `$color-bg`), spacing/radius/shadow tokens, and the type stacks — a **New York Times-style serif** (`$font-serif`) for headlines and a clean system sans (`$font-sans`) for body.
+- **`_base.scss`** — element resets and typography (serif headlines colored leaf-green, sans body).
+- **`_layout.scss`** — `.container`, the `.site-header` hero, `.city-section`, and `.site-footer`.
+- **`_event-card.scss`** — the Booking.com-style `.event-card` (rounded corners, soft shadow, date/venue/description, source pill).
+
+Tune colors or fonts in `_variables.scss` and everything downstream follows.
 
 ### `Gemfile`
 
@@ -62,7 +86,8 @@ The site is then served at `http://localhost:4000/aiintown/` — the path reflec
 
 ## Extension points
 
-- **Add a city** by editing `_data/cities.yml` only — the events partial picks it up with no template change.
-- **Change how an event displays** by editing `_includes/event-card.html`; restyle via `assets/main.scss`.
-- **Add pages** by creating more `.md` / `.html` files with front matter at the root or in subfolders.
+- **Add a city** by editing `_data/cities.yml` only — `_layouts/home.html` picks it up with no template change.
+- **Change how an event displays** by editing `_includes/event-card.html`.
+- **Retune the look** — colors, spacing, and fonts live in `_sass/_variables.scss`; structural rules in the other `_sass/` partials.
+- **Add pages** by creating more `.md` / `.html` files with front matter at the root or in subfolders (use `layout: default` to inherit the theme).
 - **Add a plugin** only from GitHub Pages' [supported plugin list](https://pages.github.com/versions/); anything outside it requires switching to a GitHub Actions build workflow.

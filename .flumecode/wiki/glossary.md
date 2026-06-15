@@ -8,11 +8,17 @@
 
 **Front matter** — The YAML block fenced by `---` at the top of a content file (e.g. `index.md`). It sets per-page variables such as `layout` and `title` that the theme reads. A file with no front matter is copied verbatim instead of being processed.
 
-**`minima`** — Jekyll's default theme, providing the layouts and styling for the site. Selected via `theme: minima` in `_config.yml`; extended (not replaced) by the repo's `_includes/` partials and `assets/main.scss`.
+**`minima`** — Jekyll's default theme. Still named via `theme: minima` in `_config.yml`, but only as a **fallback**: the repo ships its own theme (`_layouts/`, `_includes/`, `_sass/`) whose `_layouts/default.html` takes precedence, so no `minima` chrome actually renders.
 
-**Include (partial)** — A reusable snippet under `_includes/` pulled into a page with `{% include file.html %}`, optionally with parameters (e.g. `{% include event-card.html event=event %}`, read inside as `include.event`). The site uses `events.html` (the per-city loop) and `event-card.html` (one event).
+**Layout** — A template under `_layouts/` that wraps a page's content. A page's front matter picks one with `layout:`, and a layout can itself nest in another (`home` → `default` here). The site's custom layouts replace `minima`'s.
 
-**`site.data`** — The Liquid object exposing everything under `_data/`. A file `_data/foo.json` is reachable as `site.data.foo`; the events partial indexes it dynamically as `site.data.events[city.id]`.
+**Include (partial)** — A reusable snippet under `_includes/` pulled into a page or layout with `{% include file.html %}`, optionally with parameters (e.g. `{% include event-card.html event=event city=city %}`, read inside as `include.event` / `include.city`). The site uses `header.html`, `footer.html`, and `event-card.html`.
+
+**`_sass/` and SCSS compilation** — SCSS partials (`_variables`, `_base`, `_layout`, `_event-card`) live under `_sass/`. `assets/css/main.scss` carries an empty front-matter fence so `jekyll-sass-converter` (bundled with `github-pages`) compiles its `@import`s into `assets/css/main.css`.
+
+**`relative_url`** — A Liquid filter that prefixes a path with the site's `baseurl` (`/aiintown`). Asset and internal links use it so they resolve correctly under the project-site path.
+
+**`site.data`** — The Liquid object exposing everything under `_data/`. A file `_data/foo.json` is reachable as `site.data.foo`; the home layout indexes events dynamically as `site.data.events[city.id]`.
 
 **`_config.yml`** — Jekyll's site-wide configuration file, read once at build time.
 
