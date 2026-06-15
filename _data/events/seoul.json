@@ -12,6 +12,18 @@
     "last_seen": "2026-06-15"
   },
   {
+    "title": "Festival of Learning 2026 (AIED 2026, ACM Learning at Scale)",
+    "date": "2026-06-27",
+    "venue": "COEX Conference Center, Seoul",
+    "url": "https://festival-of-learning-2026.info/",
+    "source": "Festival of Learning",
+    "description": "Co-located conferences bringing together academic communities in AI, Education, Learning Sciences, and Human-Computer Interaction. Workshops/tutorials June 27-28, paper/poster sessions June 29-July 3. Includes the 27th International Conference on AI in Education focusing on Generative AI and its impact on learning.",
+    "city": "seoul",
+    "id": "9ef29be58a816282",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
     "title": "Festival of Learning 2026 (including AIED 2026 and ACM Learning at Scale)",
     "date": "2026-06-27",
     "venue": "COEX Conference Center, Seoul",
@@ -104,6 +116,18 @@
     "description": "Conference on AI and robotics software lifecycle management. Available in virtual and in-person formats.",
     "city": "seoul",
     "id": "3f03c74c36226163",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
+    "title": "AI Summit Seoul & Expo 2026",
+    "date": "2026-08-19",
+    "venue": "COEX Grand Ballroom & Exhibition Hall B, Gangnam-gu, Seoul",
+    "url": "https://www.aisummitseoul.com/",
+    "source": "DMK Global",
+    "description": "Korea's leading AI conference and exhibition bringing together global AI leaders, industry experts, and innovators. Features conference sessions, enterprise case studies, and dynamic expo showcasing cutting-edge AI technologies including Generative AI, Large Language Models, Enterprise AI, AI Transformation, and Agentic AI. Expected attendance: 30,000 people with 1,500 exhibitors.",
+    "city": "seoul",
+    "id": "58772b77e43b5f72",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
   },
