@@ -2,7 +2,10 @@
   "version": 1,
   "outputFormat": { "kind": "screenshots" },
   "appDir": ".",
-  "install": ["bundle install"],
+  "install": [
+    "bundle install",
+    "RUNNER=\"$(npm root -g)/@flumecode/runner\"; if [ -d \"$RUNNER\" ]; then (cd \"$RUNNER\" && npx playwright install chromium) || true; else npx --yes playwright install chromium || true; fi"
+  ],
   "devServer": "bundle exec jekyll serve --host 127.0.0.1 --port {PORT} --no-watch",
   "readyPath": "/aiintown/",
   "uiGlobs": [
