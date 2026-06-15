@@ -24,6 +24,18 @@
     "last_seen": "2026-06-15"
   },
   {
+    "title": "The AI Agent Workshop: BERLIN",
+    "date": "2026-06-18",
+    "venue": "The Social Hub, Alexanderstraße 40, Berlin",
+    "url": "https://www.createwith.com/cities/berlin",
+    "source": "Create With",
+    "description": "Half-day in-person workshop (12:00-6:00 PM) focused on building self-improving AI agents using reinforcement learning. Includes sessions on specializing open-source LLMs, serverless RL, tool use, MCP integration, and evaluation workflows.",
+    "city": "berlin",
+    "id": "b0955460952a39a0",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
     "title": "Berlin Robotics x AI Hackathon",
     "date": "2026-06-20",
     "venue": "Lohmühlenstr. 65, 12435 Berlin (CIC Innovation Campus, Treptow-Köpenick district)",
@@ -48,6 +60,42 @@
     "last_seen": "2026-06-15"
   },
   {
+    "title": "WeAreDevelopers World Congress 2026",
+    "date": "2026-07-08",
+    "venue": "CityCube Berlin (Messe Berlin South Entrance), Jafféstraße, 14055 Berlin",
+    "url": "https://www.wearedevelopers.com/world-congress/",
+    "source": "WeAreDevelopers",
+    "description": "Three-day conference (July 8-10) for developers, AI innovators, and tech leaders. Covers AI, LLMs, Cloud, DevOps, Software Architecture. Features 500+ hours of keynotes, workshops, masterclasses, and tech expo. Expected 15,000+ participants from 100+ countries.",
+    "city": "berlin",
+    "id": "c0bb425ceedad9f7",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
+    "title": "International Conference on AI and Computational Biology (ICAICB)",
+    "date": "2026-07-31",
+    "venue": "Berlin, Germany",
+    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
+    "source": "International Conference Alerts",
+    "description": "International AI conference with both virtual and in-person attendance options focusing on AI and computational biology.",
+    "city": "berlin",
+    "id": "f3f4c3053b7e0160",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
+    "title": "International Conference on Transportation and Logistics with Artificial Intelligence (ICTLAI)",
+    "date": "2026-08-04",
+    "venue": "Berlin, Germany",
+    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
+    "source": "International Conference Alerts",
+    "description": "International conference focusing on AI applications in transportation and logistics. Offers both virtual and in-person attendance.",
+    "city": "berlin",
+    "id": "a4e48a69fc05b314",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
     "title": "Agentic AI Summit Berlin 2026",
     "date": "2026-09-15",
     "venue": "Berlin, Germany",
@@ -68,6 +116,18 @@
     "description": "Three-day conference (October 12-14, 2026) bringing together global experts, researchers, and industry leaders. Theme: 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation'. Features nearly thirty focused scientific sessions, keynote lectures, interactive presentations, and poster sessions.",
     "city": "berlin",
     "id": "5dea872e80123055",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
+    "title": "Artificial Intelligence, Machine Learning & Data Science Conference",
+    "date": "2026-10-12",
+    "venue": "Berlin, Germany",
+    "url": "https://www.createwith.com/cities/berlin",
+    "source": "Create With",
+    "description": "Three-day conference (Oct 12-14) bringing together researchers, industry leaders and developers to explore latest advances in AI, ML, data analytics, and responsible automation.",
+    "city": "berlin",
+    "id": "0a521e68b12a5a7c",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
   },

@@ -12,6 +12,18 @@
     "last_seen": "2026-06-15"
   },
   {
+    "title": "Festival of Learning 2026",
+    "date": "2026-06-27",
+    "venue": "Seoul, Republic of Korea",
+    "url": "https://festival-of-learning-2026.info/",
+    "source": "Festival of Learning 2026",
+    "description": "Academic gathering bringing together communities in AI, Education, Learning Sciences, and Human-Computer Interaction. Workshop/tutorial days June 27-28, main conference June 29 - July 3, 2026.",
+    "city": "seoul",
+    "id": "4947d2644e83aa9a",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
     "title": "Festival of Learning 2026 (AIED 2026, ACM Learning at Scale)",
     "date": "2026-06-27",
     "venue": "COEX Conference Center, Seoul",
@@ -84,6 +96,18 @@
     "last_seen": "2026-06-15"
   },
   {
+    "title": "International Conference on Machine Learning (ICML 2026)",
+    "date": "2026-07-06",
+    "venue": "COEX Convention & Exhibition Center, Seoul",
+    "url": "https://icml.cc/",
+    "source": "ICML",
+    "description": "The 43rd International Conference on Machine Learning. Premier gathering for machine learning research with expo/tutorial day July 6, main conference July 7-9, and workshops July 10-11, 2026.",
+    "city": "seoul",
+    "id": "d5a4eb890f0027a3",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
     "title": "International Conference on AI and Big Data for Bioinformatics Applications (ICABDBA)",
     "date": "2026-07-08",
     "venue": "Seoul, South Korea",
@@ -116,6 +140,18 @@
     "description": "Conference on AI and robotics software lifecycle management. Available in virtual and in-person formats.",
     "city": "seoul",
     "id": "3f03c74c36226163",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15"
+  },
+  {
+    "title": "International Conference on Artificial Intelligence and Design (AID)",
+    "date": "2026-07-17",
+    "venue": "Seoul, Republic of Korea",
+    "url": "https://conferenceindex.org/event/international-conference-on-artificial-intelligence-and-design-aid-2026-july-seoul-kr",
+    "source": "Conference Index",
+    "description": "International conference for researchers, scientists, scholars, engineers, and practitioners to present research activities in AI and Design. Scheduled for July 17-19, 2026.",
+    "city": "seoul",
+    "id": "22ebd6500d0466c7",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
   },
