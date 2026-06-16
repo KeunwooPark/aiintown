@@ -1,5 +1,6 @@
 * { box-sizing: border-box; }
 body { margin:0; background:$color-bg; color:$color-ink; font-family:$font-sans; line-height:1.55; }
-h1,h2,h3 { font-family:$font-serif; color:$color-leaf; line-height:1.2; }
-a { color:$color-leaf; }
+h1,h2,h3 { font-family:$font-serif; color:$color-ink; line-height:1.2; }
+a { color:$color-accent; }
+a:hover { color:$color-ink; }
 img, svg { max-width:100%; }

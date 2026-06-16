@@ -1,4 +1,5 @@
 .sr-only { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0,0,0,0); }
 .city-search { margin-top:1.25rem; max-width:480px; }
-.city-search input { width:100%; padding:.85rem 1.1rem; border:none; border-radius:999px; font-size:1rem; box-shadow:$shadow; }
-.city-search input:focus { outline:3px solid $color-leaf-light; }
+// Hard ink border, square corners — matches card and section heading style.
+.city-search input { width:100%; padding:.85rem 1.1rem; border:$border; border-radius:0; box-shadow:$shadow; font-size:1rem; background:$color-surface; color:$color-ink; }
+.city-search input:focus { outline:3px solid $color-accent; }

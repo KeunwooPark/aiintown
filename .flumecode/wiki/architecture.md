@@ -14,7 +14,7 @@ This is a **static site with no build step of our own**. We commit Jekyll source
 
 ## Build-and-deploy flow
 
-1. **Author.** Content and configuration are plain files at the repo root: `_config.yml` (site settings) and `index.md` (the homepage). Front matter on `index.md` selects a layout from the repo's **own custom theme** under `_layouts/` (`minima` is configured only as a fallback). The botanic SCSS in `_sass/` is compiled to `assets/css/main.css` as part of the build.
+1. **Author.** Content and configuration are plain files at the repo root: `_config.yml` (site settings) and `index.md` (the homepage). Front matter on `index.md` selects a layout from the repo's **own custom theme** under `_layouts/` (`minima` is configured only as a fallback). The two-ink lithograph SCSS in `_sass/` is compiled to `assets/css/main.css` as part of the build.
 2. **Push.** Changes are committed to the `main` branch.
 3. **Build.** GitHub Pages detects the push, installs the `github-pages` gem (pinned in `Gemfile`), and runs `jekyll build`. The output is the static `_site/` directory.
 4. **Serve.** GitHub serves `_site/` at `https://keunwoopark.github.io/aiintown/`.

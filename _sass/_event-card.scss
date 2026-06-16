@@ -3,21 +3,24 @@
 .event-card {
   background: $color-surface;
   border-radius: $radius;
+  border: $border;
   box-shadow: $shadow;
   padding: 1.25rem 1.5rem;
   display: flex;
   flex-direction: column;
   gap: .4rem;
-  transition: transform .18s ease, box-shadow .18s ease;
+  transition: background .15s ease, border-color .15s ease;
 }
 
+// Flat hover: vermilion border + warm tint instead of lift + shadow.
 .event-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 12px 30px rgba(47,93,58,.18);
+  border-color: $color-accent;
+  background: #faf2ee;
 }
 
-.event-card time { color:$color-earth; font-weight:600; font-size:.9rem; }
-.event-card h3 { margin:.1rem 0; font-size:1.3rem; }
+.event-card time { color:$color-accent; font-weight:600; font-size:.9rem; text-transform:uppercase; letter-spacing:.04em; }
+.event-card h3 { font-size:1.3rem; margin:.1rem 0; color:$color-ink; }
 .event-card .venue { color:$color-muted; margin:0; }
 .event-card .desc { margin:.3rem 0 0; }
-.event-card .source { align-self:flex-start; background:rgba(106,143,95,.15); color:$color-leaf; border-radius:999px; padding:.15rem .6rem; font-size:.75rem; }
+// Hard ink border badge replaces rounded rgba-fill pill.
+.event-card .source { align-self:flex-start; background:transparent; color:$color-ink; border:1px solid $color-ink; border-radius:0; padding:.15rem .6rem; font-size:.75rem; text-transform:uppercase; letter-spacing:.04em; }

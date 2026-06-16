@@ -1,6 +1,6 @@
 # Jekyll site
 
-> **TL;DR** — A Jekyll site with its **own custom theme** (own layouts, includes, and SCSS) whose homepage renders the collected AI events grouped by city in a botanic-garden / organic visual style.
+> **TL;DR** — A Jekyll site with its **own custom theme** (own layouts, includes, and SCSS) whose homepage renders the collected AI events grouped by city in a stark two-ink lithograph print-shop visual style.
 
 > **Purpose** — Document each source file of the site and what it controls.
 > **Key files** — `_config.yml`, `index.md`, `_layouts/default.html`, `_layouts/home.html`, `_includes/event-card.html`, `_sass/`, `assets/css/main.scss`, `Gemfile`.
@@ -50,7 +50,7 @@ Holds all UI chrome strings for each supported locale (`en`, `ko`, `de`). Each k
 
 ### `_includes/header.html` and `_includes/footer.html`
 
-`header.html` is the botanic hero banner — `site.title`, a tagline (with `data-i18n="tagline"` for runtime localization), a `<label class="lang-switch">` containing a `<select id="lang-switcher">` built from `site.data.i18n`, and the search bar via `{% include search-bar.html %}`. `footer.html` is the attribution strip showing `site.description`. Both override `minima`'s equivalents.
+`header.html` is the flat two-ink hero banner — `site.title`, a tagline (with `data-i18n="tagline"` for runtime localization), a `<label class="lang-switch">` containing a `<select id="lang-switcher">` built from `site.data.i18n`, and the search bar via `{% include search-bar.html %}`. `footer.html` is the attribution strip showing `site.description`. Both override `minima`'s equivalents.
 
 ### `_includes/event-card.html`
 
@@ -72,11 +72,11 @@ No backend or build tooling is involved beyond the static datalist generation; s
 
 The custom design system. `assets/css/main.scss` carries the empty front-matter fence (`---` / `---`) that makes `jekyll-sass-converter` compile it to `assets/css/main.css`; it `@import`s the partials in order. The partials are:
 
-- **`_variables.scss`** — the single source of truth for the look: a botanic palette (leafy greens, earthy brown, soft cream `$color-bg`), spacing/radius/shadow tokens, and the type stacks — an **elegant display serif** `'Fraunces'` (`$font-serif`, loaded from Google Fonts) for headlines and a **warm humanist sans** `'Nunito Sans'` (`$font-sans`) for body, each followed by the original serif / system fallbacks. The palette is unchanged; this is a typography + decoration pass.
-- **`_base.scss`** — element resets and typography (serif headlines colored leaf-green, sans body).
-- **`_layout.scss`** — `.container`, the `.site-header` hero, `.city-section`, and `.site-footer`. The hero uses a **layered `linear-gradient`** (explicit hex stops, avoiding deprecated `darken()`/`lighten()`) instead of a flat green, plus a low-opacity botanical leaf watermark via `.site-header::after`; city headings carry a small inline-SVG leaf marker via `.city-section > h2::before`. Both motifs are data-URI SVGs — no raster assets.
-- **`_event-card.scss`** — the Booking.com-style `.event-card` (rounded corners, soft shadow, date/venue/description, source pill), now with a `transition` and a **`:hover` lift** (`translateY(-3px)` and a deeper green-tinted shadow).
-- **`_search.scss`** — the `.city-search` form styling and the `.sr-only` screen-reader utility.
+- **`_variables.scss`** — the single source of truth for the look: a **two-ink lithograph palette** — cream paper `$color-bg`, near-black `$color-ink`, and a single bold vermilion `$color-accent` (the second ink) — plus flat tokens (`$radius: 0` for square corners, `$shadow: none`, and a `$border: 2px solid $color-ink` hard ink-frame token) and the type stacks: an **elegant display serif** `'Fraunces'` (`$font-serif`, loaded from Google Fonts) for headlines and a **warm humanist sans** `'Nunito Sans'` (`$font-sans`) for body, each followed by the original serif / system fallbacks. The old green/earth tokens (`$color-leaf`, `$color-leaf-light`, `$color-earth`) were removed — partials now reference `$color-ink`/`$color-accent` directly.
+- **`_base.scss`** — element resets and typography: serif headlines colored ink-black, sans body, and links in the vermilion accent (ink on hover).
+- **`_layout.scss`** — `.container`, the `.site-header` hero, `.city-section`, and `.site-footer`. The hero is **flat**: a solid cream `$color-bg` field with a hard ink `border-bottom`, no gradient — ink headline + vermilion tagline. Decoration is **geometric primitives** (data-URI SVGs, no raster assets): a vermilion `<circle>` in the hero corner via `.site-header::after`, and a small vermilion `<rect>` (filled square) marker before each city heading via `.city-section > h2::before`. Section headings and the footer use the hard `$border` ink rule.
+- **`_event-card.scss`** — the `.event-card` is **flat with a hard ink border** (`$border`) and square corners (no shadow); the `:hover` swaps the border to the vermilion accent and adds a faint warm tint (no `translateY` lift, no shadow). The `.source` badge is a square ink-outlined tag (replacing the old rounded green pill); `time` is uppercase vermilion.
+- **`_search.scss`** — the `.city-search` form (a square, hard-ink-bordered input with a vermilion focus outline) and the `.sr-only` screen-reader utility.
 
 Tune colors or fonts in `_variables.scss` and everything downstream follows.
 
