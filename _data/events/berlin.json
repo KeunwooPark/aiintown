@@ -1,5 +1,18 @@
 [
   {
+    "title": "Berlin AI Builders Meetup (Ojin AIxHaus)",
+    "date": "2026",
+    "venue": "Ojin AIxHaus, Berlin Mitte",
+    "url": "https://luma.com/x0iqonf2",
+    "source": "Luma",
+    "description": "Community space powered by Journee (The Human AI Company) where scientists, ML engineers, founders, creators, and AI enthusiasts build the future of AI. Currently curating 2026 events calendar for meetups, workshops, and hackathons. Supported by Cloudflare and offers Google Cloud credits to attendees.",
+    "city": "berlin",
+    "id": "7e60850143bd6a60",
+    "date_status": "unknown",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
+  },
+  {
     "title": "AI Tinkerers Berlin - June 17, 2026",
     "date": "2026-06-17",
     "venue": "TBA",
@@ -33,7 +46,7 @@
     "city": "berlin",
     "id": "b0955460952a39a0",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
+    "last_seen": "2026-06-16"
   },
   {
     "title": "Berlin Robotics x AI Hackathon",
@@ -46,6 +59,18 @@
     "id": "6a08c3aad8277e47",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
+  },
+  {
+    "title": "{Tech: Europe} Berlin AI Hackathon",
+    "date": "2026-06-21",
+    "venue": "Berlin",
+    "url": "https://luma.com/berlin-ai-hack",
+    "source": "Luma",
+    "description": "Full weekend AI hackathon with hacking, learning, and networking. Limited to 90 participants. Includes opening & matchmaking, competition, finalist pitches, and award ceremony. First come, first serve entry.",
+    "city": "berlin",
+    "id": "72a427b796358813",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
   },
   {
     "title": "CONNECTED Berlin",
@@ -144,6 +169,18 @@
     "last_seen": "2026-06-16"
   },
   {
+    "title": "Language AI Meetup Berlin",
+    "date": "2026-07-06",
+    "venue": "Berlin",
+    "url": "https://www.meetup.com/language-ai-meetup/",
+    "source": "Meetup - Language AI Meetup",
+    "description": "Platform to discuss all things related to artificial intelligence and language. Connects practitioners, researchers and language aficionados. Provides networking opportunities, insightful discussions, and updates on latest advancements in Language AI. Led and sponsored by Supertext.",
+    "city": "berlin",
+    "id": "b40a360143b31f52",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
+  },
+  {
     "title": "Global AI Berlin",
     "date": "2026-07-08",
     "venue": "Berlin, Germany",
@@ -224,6 +261,18 @@
     "description": "Two-day festival (September 16-17) featuring 350+ speakers across six stages from business, tech, health and politics. Expected 11,000+ guests. Includes keynotes, panels, masterclasses, networking, and street food. All participants receive an official AI certificate. Aimed at C-level, entrepreneurs, decision-makers and startups.",
     "city": "berlin",
     "id": "79d2d71d54f70b95",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
+  },
+  {
+    "title": "Enterprise AI Summit",
+    "date": "2026-09-16",
+    "venue": "Maritim proArte Hotel, Friedrichstraße 151, Berlin",
+    "url": "https://10times.com/enterprise-ai-and-machine-learning-show",
+    "source": "10times",
+    "description": "Premier event for top-level networking among AI and machine learning decision-makers. Over 500 participants from Germany, Austria, and Switzerland. 2.5-day program with success stories, cutting-edge technologies, practical use cases from fraud detection to predictive analytics. Topics include Applied AI, ML, Business Analytics, Deep Learning, NLP.",
+    "city": "berlin",
+    "id": "f525bf5578e315d5",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
