@@ -1,5 +1,17 @@
 [
   {
+    "title": "Seoul AI Policy Conference 2026 (SAIPCON 2026)",
+    "date": "2026-06-16",
+    "venue": "The Plaza Hotel, Seoul",
+    "url": "https://www.saipcon.com/",
+    "source": "Eventbrite, Official Website",
+    "description": "Two-day conference exploring AI governance across education, finance, security, human rights, and more. Sessions focus on policy foundations of the AI era and real-world governance challenges. Topics include AI & Education, AI & Finance, AI Sovereignty & National Strategy, AI & Healthcare, AI & National Security, and more.",
+    "city": "seoul",
+    "id": "f8393cefe9ded1c9",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
+  },
+  {
     "title": "AAAI 2026 Summer Symposium Series",
     "date": "2026-06-22",
     "venue": "Dongguk University, Seoul",
@@ -46,6 +58,18 @@
     "id": "a84d72bc96ac1ba7",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
+  },
+  {
+    "title": "27th International Conference on Artificial Intelligence in Education (AIED 2026)",
+    "date": "2026-06-29",
+    "venue": "Seoul",
+    "url": "https://www.aied-conference.org/2026",
+    "source": "AIED Official Website",
+    "description": "International conference (June 29 - July 3) examining how emerging technologies, especially Generative AI, are transforming education. Focus on human-AI collaboration, AI agency, and reimagining AIED systems as adaptive teammates. Part of Festival of Learning 2026.",
+    "city": "seoul",
+    "id": "4342e8ff56ae9a02",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
   },
   {
     "title": "ACM Learning at Scale 2026",
@@ -141,7 +165,7 @@
     "city": "seoul",
     "id": "d5a4eb890f0027a3",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
+    "last_seen": "2026-06-16"
   },
   {
     "title": "Infineon AI Summit Seoul 2026",

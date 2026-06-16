@@ -21,7 +21,7 @@
     "city": "berlin",
     "id": "2bc4b020843b95e0",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
+    "last_seen": "2026-06-16"
   },
   {
     "title": "The AI Agent Workshop: BERLIN",
@@ -48,6 +48,18 @@
     "last_seen": "2026-06-15"
   },
   {
+    "title": "CONNECTED Berlin",
+    "date": "2026-06-26",
+    "venue": "Berlin",
+    "url": "https://connectedconference.de/",
+    "source": "CONNECTED Conference",
+    "description": "One-day in-person event focused on concrete AI use cases and integration of AI into existing IT landscapes, especially Microsoft and SAP environments. Features impulse formats, sessions, and moderated discussions. Designed for CEOs, CIOs, CTOs, CDOs, and IT decision-makers.",
+    "city": "berlin",
+    "id": "d2dd0b6355190911",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
+  },
+  {
     "title": "CONNECTED Berlin 2026",
     "date": "2026-06-26",
     "venue": "Rooftop Location in Berlin",
@@ -72,6 +84,18 @@
     "last_seen": "2026-06-16"
   },
   {
+    "title": "International Conference on AI Robotics Software for Human-Robot Interaction (ICARSHRI)",
+    "date": "2026-06-30",
+    "venue": "Berlin, Germany",
+    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
+    "source": "International Conference Alerts",
+    "description": "International conference on AI robotics and human-robot interaction. Virtual and in-person attendance options available.",
+    "city": "berlin",
+    "id": "de52a9274b08b45e",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
+  },
+  {
     "title": "International Conference on AI-driven Data Science and Machine Learning Applications (ICADSL)",
     "date": "2026-06-30",
     "venue": "Berlin, Germany",
@@ -92,6 +116,18 @@
     "description": "Two-day conference (July 1-2) bringing together HR leaders to discuss latest advances and best practices in using Agentic AI in human resources.",
     "city": "berlin",
     "id": "c024252582f5deff",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
+  },
+  {
+    "title": "International Conference on AI-driven Data Science and Machine Learning Applications (ICADSL)",
+    "date": "2026-07-03",
+    "venue": "Berlin, Germany",
+    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
+    "source": "International Conference Alerts",
+    "description": "International conference on AI-driven data science and machine learning applications. Virtual and in-person attendance options available.",
+    "city": "berlin",
+    "id": "e463a29104da922a",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -225,7 +261,7 @@
     "city": "berlin",
     "id": "0a521e68b12a5a7c",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
+    "last_seen": "2026-06-16"
   },
   {
     "title": "International Conference on Artificial Intelligence, Machine Learning & Data Science (AIML)",
@@ -236,6 +272,18 @@
     "description": "Three-day conference (October 12-14) with theme 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation'. Features 30 scientific sessions, keynote lectures, interactive presentations, and poster sessions.",
     "city": "berlin",
     "id": "8a0ccd9b770466da",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
+  },
+  {
+    "title": "The Berlin AI Conference 2026",
+    "date": "2026-10-15",
+    "venue": "SPACE SHACK Coworking",
+    "url": "https://www.eventbrite.ie/e/the-berlin-ai-conference-2026-tickets-1983880925252",
+    "source": "Eventbrite",
+    "description": "Evening event (6 PM - 10 PM) gathering 150 business, innovation, product, and tech leaders from across Berlin. Features a 45-minute panel discussion (6:30-7:15 PM) with six speakers including AI leaders from Babbel, Rhapsody, and Charité. Includes complimentary drinks, snacks, and access to a networking app. Hosted by Startup Network Europe.",
+    "city": "berlin",
+    "id": "31b369b641078702",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
