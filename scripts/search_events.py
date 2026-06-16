@@ -1,4 +1,5 @@
 import json, hashlib, datetime, pathlib, yaml
+from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 
 MODEL = "claude-sonnet-4-5"
 DATA = pathlib.Path("_data")
@@ -54,14 +55,20 @@ def search_city(city):
     hints = city.get("query_hints", [])
     if hints:
         prompt += f" If you find relevant events, focus on topics: {', '.join(hints)}."
-    known = _existing_event_titles(city)
+    prompt += (
+        " Return each DISTINCT event only ONCE: do not list the same event multiple"
+        " times under different title phrasings or from different sources. Use the"
+        " event's primary/official page as `url`; if several sources describe the same"
+        " event, merge them into a single item with the best title and that canonical URL."
+    )
+    known = _existing_event_entries(city)
     if known:
+        listing = "; ".join(f"{t} — {u}" if u else t for t, u in known)
         prompt += (
-            " We already have these events on file: "
-            + "; ".join(known)
-            + ". Prioritize discovering ADDITIONAL upcoming events that are NOT "
-            "already in this list; focus your searches on new, smaller, or "
-            "recently-announced events beyond the ones above."
+            " We already have these events on file (title — url): " + listing +
+            ". Prioritize discovering ADDITIONAL upcoming events that are NOT already"
+            " in this list (match by URL as well as title); focus on new, smaller, or"
+            " recently-announced events beyond the ones above."
         )
     msg = client.messages.create(
         model=MODEL,
@@ -73,35 +80,99 @@ def search_city(city):
     return parse_json_array(text)
 
 
+def _combine(a, b):
+    """Pick the canonical record when a and b collide; keep widest seen-window."""
+    def known(r):
+        return r.get("date_status") != "unknown" and bool(r.get("date"))
+    if known(a) != known(b):
+        keep = a if known(a) else b
+    elif len(a.get("description", "")) != len(b.get("description", "")):
+        keep = a if len(a.get("description", "")) > len(b.get("description", "")) else b
+    else:
+        keep = a if a.get("title", "") <= b.get("title", "") else b
+    keep = dict(keep)
+    fs = [r.get("first_seen") for r in (a, b) if r.get("first_seen")]
+    ls = [r.get("last_seen") for r in (a, b) if r.get("last_seen")]
+    if fs:
+        keep["first_seen"] = min(fs)
+    if ls:
+        keep["last_seen"] = max(ls)
+    return keep
+
+
 def merge(city, found):
     path = EVENTS_DIR / f"{city['id']}.json"
     existing = json.loads(path.read_text()) if path.exists() else []
-    by_id = {e["id"]: e for e in existing}
+
+    by_id = {}
+    for e in existing:
+        e = {**e, "city": e.get("city", city["id"])}
+        eid = event_id(e)
+        by_id[eid] = _combine(by_id[eid], e) if eid in by_id else e
 
     for raw in found:
         if not is_upcoming(raw.get("date")):
             continue
         e = {**raw, "city": city["id"]}
-        e["id"] = event_id(e)
         _apply_date_status(e)
-        if e["id"] in by_id:
-            by_id[e["id"]]["last_seen"] = RUN_DATE_STR
+        eid = event_id(e)
+        if eid in by_id:
+            prev = by_id[eid]
+            survivor = _combine(prev, {**e, "first_seen": prev.get("first_seen", RUN_DATE_STR),
+                                       "last_seen": RUN_DATE_STR})
+            survivor["first_seen"] = min(prev.get("first_seen", RUN_DATE_STR), RUN_DATE_STR)
+            survivor["last_seen"] = RUN_DATE_STR
+            by_id[eid] = survivor
         else:
             e["first_seen"] = e["last_seen"] = RUN_DATE_STR
-            by_id[e["id"]] = e
+            by_id[eid] = e
 
-    records = sorted(
-        by_id.values(),
-        key=lambda x: (x.get("date") or "9999", x["title"]),
-    )
+    records = sorted(by_id.values(), key=lambda x: (x.get("date") or "9999", x["title"]))
+    # The rendered site and downstream data files key on `id`, so every written record must carry it.
+    for eid, rec in by_id.items():
+        rec["id"] = eid
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(records, indent=2, ensure_ascii=False) + "\n")
 
 
 # --- helpers ---
 
+TRACKING_PARAMS = {
+    "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
+    "fbclid", "gclid", "mc_cid", "mc_eid", "ref", "ref_src",
+}
+
+
+def normalize_url(url):
+    """Canonical, comparable form of a URL, or '' if there is no usable URL.
+    Collapses http/https, leading www., trailing slash, fragment, tracking params."""
+    if not url or not isinstance(url, str):
+        return ""
+    u = url.strip()
+    if not u:
+        return ""
+    if "://" not in u:
+        u = "https://" + u
+    parts = urlsplit(u)
+    host = parts.netloc.lower()
+    if host.startswith("www."):
+        host = host[4:]
+    path = parts.path.rstrip("/")
+    kept = [(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
+            if k.lower() not in TRACKING_PARAMS]
+    query = urlencode(sorted(kept))
+    if not host:
+        return ""
+    # scheme intentionally dropped so http/https compare equal
+    return urlunsplit(("", host, path, query, ""))
+
+
 def event_id(e):
-    key = f"{e['title'].strip().lower()}|{e.get('date', '')}|{e['city']}"
+    url = normalize_url(e.get("url"))
+    if url:
+        key = f"url|{url}|{e['city']}"
+    else:
+        key = f"{e['title'].strip().lower()}|{e.get('date', '')}|{e['city']}"
     return hashlib.sha1(key.encode()).hexdigest()[:16]
 
 
@@ -114,8 +185,8 @@ def is_upcoming(date_str):
         return True
 
 
-def _existing_event_titles(city, limit=EXISTING_TITLE_LIMIT):
-    """Return up to `limit` upcoming event titles already stored for this city."""
+def _existing_event_entries(city, limit=EXISTING_TITLE_LIMIT):
+    """Return up to `limit` (title, url) pairs for upcoming events already stored for this city."""
     city_id = city.get("id")
     if not city_id:
         return []
@@ -126,11 +197,9 @@ def _existing_event_titles(city, limit=EXISTING_TITLE_LIMIT):
         records = json.loads(path.read_text())
     except (json.JSONDecodeError, OSError):
         return []
-    titles = [
-        r["title"] for r in records
-        if isinstance(r, dict) and r.get("title") and is_upcoming(r.get("date"))
-    ]
-    return titles[:limit]
+    out = [(r["title"], r.get("url", "")) for r in records
+           if isinstance(r, dict) and r.get("title") and is_upcoming(r.get("date"))]
+    return out[:limit]
 
 
 def _apply_date_status(e):

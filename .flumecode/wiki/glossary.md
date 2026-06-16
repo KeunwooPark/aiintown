@@ -58,8 +58,10 @@
 
 **Upcoming event** — An event whose date is on or after the run date. The script keeps these and drops events with a parseable past date. Events with a missing/unparseable date are kept too (they may be upcoming) and flagged `date_status: "unknown"`.
 
-**Stable `id`** — A 16-character SHA-1 fingerprint of an event's normalized `title|date|city`. It is the dedupe key across runs, so the same event is updated rather than duplicated.
+**Stable `id`** — A 16-character SHA-1 fingerprint that keys an event for dedup across runs. It hashes the event's **normalized URL within its city** (`url|<normalized-url>|<city>`) when a usable URL is present, falling back to the legacy `title|date|city` form only for URL-less records. Keying on the URL means the same event collapses to one record even when its title varies; see [components/event-search.md](components/event-search.md).
 
-**`first_seen` / `last_seen`** — ISO dates recording when an event was first discovered and most recently re-seen. `first_seen` is preserved on updates; `last_seen` advances each run that returns the event, giving an accumulating history.
+**Normalized URL** — A conservative canonical form of an event URL used as the dedup key, produced by `normalize_url`. It lowercases the host, strips a leading `www.`, treats `http`/`https` as equal (the scheme is dropped), drops the fragment and common tracking params (`utm_*`, `fbclid`, `gclid`, …), strips a trailing `/`, and preserves the remaining query. Two URLs that canonicalize to the same string are treated as the same event resource.
+
+**`first_seen` / `last_seen`** — ISO dates recording when an event was first discovered and most recently re-seen. When duplicate records collapse, the survivor keeps the **earliest** `first_seen` and **latest** `last_seen`, so dedup never narrows the seen-window. `first_seen` is preserved on updates; `last_seen` advances each run that returns the event, giving an accumulating history.
 
 **`workflow_dispatch`** — A GitHub Actions trigger that lets a workflow be started manually from the Actions UI, alongside its scheduled `cron` trigger.

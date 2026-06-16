@@ -44,6 +44,30 @@ class TestIsUpcoming(unittest.TestCase):
         self.assertTrue(se.is_upcoming("2025-06-15"))
 
 
+class TestNormalizeUrl(unittest.TestCase):
+    def test_empty_and_none(self):
+        self.assertEqual(se.normalize_url(""), "")
+        self.assertEqual(se.normalize_url(None), "")
+
+    def test_www_scheme_slash_tracking_fragment(self):
+        a = se.normalize_url("http://www.Example.com/path/?utm_source=x#frag")
+        b = se.normalize_url("https://example.com/path")
+        self.assertEqual(a, b)
+
+
+class TestEventIdUrl(unittest.TestCase):
+    def test_same_url_different_title_same_id(self):
+        a = {"title": "ICML 2026", "date": "2026-07-06", "city": "seoul", "url": "https://icml.cc/"}
+        b = {"title": "International Conference on Machine Learning (ICML 2026)",
+             "date": "2026-07-06", "city": "seoul", "url": "http://www.icml.cc"}
+        self.assertEqual(se.event_id(a), se.event_id(b))
+
+    def test_no_url_falls_back_to_title(self):
+        a = {"title": "Meetup A", "date": "2025-07-01", "city": "seoul"}
+        b = {"title": "Meetup B", "date": "2025-07-01", "city": "seoul"}
+        self.assertNotEqual(se.event_id(a), se.event_id(b))
+
+
 class TestEventId(unittest.TestCase):
     def _make(self, title, date, city):
         return {"title": title, "date": date, "city": city}
@@ -132,7 +156,8 @@ class TestMerge(unittest.TestCase):
         return {"id": city_id, "name": "Seoul", "country": "South Korea"}
 
     def _event(self, title="AI Meetup", date="2025-07-01"):
-        return {"title": title, "date": date, "venue": "HQ", "url": "http://example.com",
+        # No URL so dedup falls back to title-based keying; use _event_url() for URL tests.
+        return {"title": title, "date": date, "venue": "HQ",
                 "source": "web", "description": "Great event"}
 
     def _load(self, city_id="seoul"):
@@ -224,6 +249,27 @@ class TestMerge(unittest.TestCase):
         self.assertEqual(rec["title_local"], "서울 AI 밋업")
         self.assertEqual(rec["description_local"], "훌륭한 행사")
 
+    def _event_url(self, title, url, date="2025-07-01"):
+        return {"title": title, "date": date, "venue": "HQ", "url": url,
+                "source": "web", "description": "x"}
+
+    def test_url_duplicates_collapse_in_found(self):
+        city = self._city()
+        se.merge(city, [self._event_url("ICML A", "https://icml.cc/"),
+                        self._event_url("ICML (B)", "http://www.icml.cc")])
+        self.assertEqual(len(self._load()), 1)
+
+    def test_existing_url_duplicates_collapse_on_load(self):
+        city = self._city()
+        se.merge(city, [self._event_url("ICML A", "https://icml.cc/")])
+        se.RUN_DATE_STR = "2025-06-20"
+        se.merge(city, [self._event_url("ICML (B)", "http://www.icml.cc")])
+        se.merge(city, [])
+        recs = self._load()
+        self.assertEqual(len(recs), 1)
+        self.assertEqual(recs[0]["first_seen"], "2025-06-15")
+        self.assertEqual(recs[0]["last_seen"], "2025-06-20")
+
 
 class TestSearchCity(unittest.TestCase):
     def setUp(self):
@@ -274,6 +320,11 @@ class TestSearchCity(unittest.TestCase):
         prompt = se.client.messages.create.call_args.kwargs["messages"][0]["content"]
         self.assertIn("title_local", prompt)
         self.assertIn("description_local", prompt)
+
+    def test_prompt_instructs_single_event_per_url(self):
+        se.search_city({"name": "Seoul", "country": "South Korea"})
+        prompt = se.client.messages.create.call_args.kwargs["messages"][0]["content"]
+        self.assertIn("only ONCE", prompt)
 
 
 if __name__ == "__main__":
