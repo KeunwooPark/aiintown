@@ -270,6 +270,101 @@ class TestMerge(unittest.TestCase):
         self.assertEqual(recs[0]["first_seen"], "2025-06-15")
         self.assertEqual(recs[0]["last_seen"], "2025-06-20")
 
+    def test_merge_returns_counts_for_new_events(self):
+        counts = se.merge(self._city(), [self._event()])
+        self.assertEqual(counts["fetched"], 1)
+        self.assertEqual(counts["new"], 1)
+        self.assertEqual(counts["duplicates"], 0)
+        self.assertEqual(counts["skipped_past"], 0)
+
+    def test_merge_counts_duplicates_on_rerun(self):
+        se.merge(self._city(), [self._event()])
+        counts = se.merge(self._city(), [self._event()])
+        self.assertEqual(counts["new"], 0)
+        self.assertEqual(counts["duplicates"], 1)
+
+    def test_merge_counts_skipped_past(self):
+        counts = se.merge(self._city(), [self._event(date="2025-01-01")])
+        self.assertEqual(counts["skipped_past"], 1)
+        self.assertEqual(counts["new"], 0)
+
+
+class TestWriteRunLog(unittest.TestCase):
+    def setUp(self):
+        self._tmpdir = pathlib.Path(tempfile.mkdtemp())
+
+        patcher_logs_dir = unittest.mock.patch.object(
+            se, "LOGS_DIR", self._tmpdir
+        )
+        patcher_run_log = unittest.mock.patch.object(
+            se, "RUN_LOG", self._tmpdir / "search_runs.jsonl"
+        )
+        patcher_run_date_str = unittest.mock.patch.object(
+            se, "RUN_DATE_STR", "2025-06-15"
+        )
+
+        patcher_logs_dir.start()
+        patcher_run_log.start()
+        patcher_run_date_str.start()
+
+        self.addCleanup(patcher_logs_dir.stop)
+        self.addCleanup(patcher_run_log.stop)
+        self.addCleanup(patcher_run_date_str.stop)
+
+    def _city_counts(self, city, fetched, new, duplicates, skipped_past):
+        return {
+            "city": city,
+            "fetched": fetched,
+            "new": new,
+            "duplicates": duplicates,
+            "skipped_past": skipped_past,
+        }
+
+    @unittest.mock.patch("builtins.print")
+    def test_success_path_writes_valid_json_line(self, _mock_print):
+        per_city = [
+            self._city_counts("seoul", fetched=3, new=1, duplicates=2, skipped_past=0),
+            self._city_counts("berlin", fetched=5, new=3, duplicates=1, skipped_past=1),
+        ]
+        se.write_run_log(per_city)
+
+        lines = se.RUN_LOG.read_text(encoding="utf-8").splitlines()
+        self.assertEqual(len(lines), 1)
+
+        entry = json.loads(lines[0])
+        self.assertEqual(entry["run_date"], "2025-06-15")
+        self.assertEqual(entry["cities"], per_city)
+        self.assertEqual(entry["totals"]["fetched"], 8)
+        self.assertEqual(entry["totals"]["new"], 4)
+        self.assertEqual(entry["totals"]["duplicates"], 3)
+        self.assertEqual(entry["totals"]["skipped_past"], 1)
+
+    @unittest.mock.patch("builtins.print")
+    def test_append_behavior_two_calls_produce_two_lines(self, _mock_print):
+        per_city = [self._city_counts("seoul", fetched=2, new=2, duplicates=0, skipped_past=0)]
+        se.write_run_log(per_city)
+        se.write_run_log(per_city)
+
+        lines = se.RUN_LOG.read_text(encoding="utf-8").splitlines()
+        self.assertEqual(len(lines), 2)
+        # Both lines must be valid JSON.
+        for line in lines:
+            json.loads(line)
+
+    @unittest.mock.patch("builtins.print")
+    def test_empty_per_city_totals_are_all_zero(self, _mock_print):
+        se.write_run_log([])
+
+        lines = se.RUN_LOG.read_text(encoding="utf-8").splitlines()
+        self.assertEqual(len(lines), 1)
+
+        entry = json.loads(lines[0])
+        self.assertEqual(entry["cities"], [])
+        self.assertEqual(entry["totals"]["fetched"], 0)
+        self.assertEqual(entry["totals"]["new"], 0)
+        self.assertEqual(entry["totals"]["duplicates"], 0)
+        self.assertEqual(entry["totals"]["skipped_past"], 0)
+
 
 class TestSearchCity(unittest.TestCase):
     def setUp(self):

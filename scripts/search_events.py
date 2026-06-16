@@ -4,6 +4,8 @@ from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 MODEL = "claude-sonnet-4-5"
 DATA = pathlib.Path("_data")
 EVENTS_DIR = DATA / "events"
+LOGS_DIR = pathlib.Path("logs")
+RUN_LOG = LOGS_DIR / "search_runs.jsonl"
 RUN_DATE = datetime.date.today()
 RUN_DATE_STR = RUN_DATE.isoformat()
 
@@ -20,9 +22,25 @@ def main():
     client = Anthropic()
 
     cities = yaml.safe_load((DATA / "cities.yml").read_text())
+    per_city = []
     for city in cities:
         if city.get("enabled", True):
-            merge(city, search_city(city))
+            per_city.append(merge(city, search_city(city)))
+    write_run_log(per_city)
+
+
+def write_run_log(per_city):
+    totals = {k: sum(c[k] for c in per_city)
+              for k in ("fetched", "new", "duplicates", "skipped_past")}
+    entry = {"run_date": RUN_DATE_STR, "cities": per_city, "totals": totals}
+    LOGS_DIR.mkdir(parents=True, exist_ok=True)
+    with RUN_LOG.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+    for c in per_city:
+        print(f"{c['city']}: fetched={c['fetched']} new={c['new']} "
+              f"duplicates={c['duplicates']} skipped_past={c['skipped_past']}")
+    print(f"TOTAL: fetched={totals['fetched']} new={totals['new']} "
+          f"duplicates={totals['duplicates']} skipped_past={totals['skipped_past']}")
 
 
 def search_city(city):
@@ -103,6 +121,7 @@ def _combine(a, b):
 def merge(city, found):
     path = EVENTS_DIR / f"{city['id']}.json"
     existing = json.loads(path.read_text()) if path.exists() else []
+    counts = {"city": city["id"], "fetched": len(found), "new": 0, "duplicates": 0, "skipped_past": 0}
 
     by_id = {}
     for e in existing:
@@ -112,11 +131,13 @@ def merge(city, found):
 
     for raw in found:
         if not is_upcoming(raw.get("date")):
+            counts["skipped_past"] += 1
             continue
         e = {**raw, "city": city["id"]}
         _apply_date_status(e)
         eid = event_id(e)
         if eid in by_id:
+            counts["duplicates"] += 1
             prev = by_id[eid]
             survivor = _combine(prev, {**e, "first_seen": prev.get("first_seen", RUN_DATE_STR),
                                        "last_seen": RUN_DATE_STR})
@@ -124,6 +145,7 @@ def merge(city, found):
             survivor["last_seen"] = RUN_DATE_STR
             by_id[eid] = survivor
         else:
+            counts["new"] += 1
             e["first_seen"] = e["last_seen"] = RUN_DATE_STR
             by_id[eid] = e
 
@@ -133,6 +155,7 @@ def merge(city, found):
         rec["id"] = eid
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(records, indent=2, ensure_ascii=False) + "\n")
+    return counts
 
 
 # --- helpers ---
