@@ -4,6 +4,16 @@
 
   function known(l) { return I18N.hasOwnProperty(l); }
 
+  function setHidden(elements, hidden) {
+    Array.prototype.forEach.call(elements, function (el) { el.hidden = hidden; });
+  }
+
+  function applyLocaleToSection(sec, lang) {
+    var useLocal = sec.getAttribute('data-city-locale') === lang;
+    setHidden(sec.querySelectorAll('.t-en, .d-en'), useLocal);
+    setHidden(sec.querySelectorAll('.t-local, .d-local'), !useLocal);
+  }
+
   function applyLang(lang) {
     var dict = I18N[lang] || I18N.en || {};
     document.documentElement.lang = lang;
@@ -15,6 +25,10 @@
       var k = el.getAttribute('data-i18n-placeholder');
       if (dict[k] != null) el.setAttribute('placeholder', dict[k]);
     });
+    var citySections = document.querySelectorAll('[data-city-section]');
+    for (var i = 0; i < citySections.length; i++) {
+      applyLocaleToSection(citySections[i], lang);
+    }
   }
 
   var stored = localStorage.getItem('lang');

@@ -30,13 +30,15 @@ def search_city(city):
         f"events (meetups, conferences, talks) in {city['name']}, {city['country']} "
         f"happening on or after {RUN_DATE_STR}. Use web search. Do NOT include events "
         f"that have already finished. Return ONLY a JSON array; each item: title, "
-        f"date (YYYY-MM-DD if known), venue, url, source, description."
+        f"date (YYYY-MM-DD if known), venue, url, source, description, title_local, description_local."
     )
     language = city.get("language")
     if language:
         prompt += (
             f" Search the web in {language} as well as English, and read "
             f"{language}-language sources, so you also catch locally-indexed events."
+            f" For title_local and description_local, give the title and description"
+            f" written in {language} (copy them verbatim if the event is already in {language})."
         )
     prompt += (
         " Include small, grassroots and community events (university clubs, "

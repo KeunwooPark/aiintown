@@ -3,6 +3,7 @@
   country: South Korea
   enabled: true
   language: Korean
+  locale: ko
   query_hints: ["AI", "machine learning", "LLM", "meetup", "conference", "talk", "밋업", "세미나", "강연", "컨퍼런스"]
   event_platforms: ["Onoffmix", "Festa", "EventUs"]
 - id: berlin
@@ -10,5 +11,6 @@
   country: Germany
   enabled: true
   language: German
+  locale: de
   query_hints: ["AI", "LLM", "meetup", "Treffen", "Vortrag", "Konferenz"]
   event_platforms: ["Eventbrite Berlin", "Meetup Berlin"]
