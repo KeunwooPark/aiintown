@@ -14,7 +14,11 @@
 
 **Include (partial)** — A reusable snippet under `_includes/` pulled into a page or layout with `{% include file.html %}`, optionally with parameters (e.g. `{% include event-card.html event=event city=city %}`, read inside as `include.event` / `include.city`). The site uses `header.html`, `footer.html`, `event-card.html`, and `search-bar.html`.
 
-**`_sass/` and SCSS compilation** — SCSS partials (`_variables`, `_base`, `_layout`, `_event-card`, `_search`) live under `_sass/`. `assets/css/main.scss` carries an empty front-matter fence so `jekyll-sass-converter` (bundled with `github-pages`) compiles its `@import`s into `assets/css/main.css`.
+**`_sass/` and SCSS compilation** — SCSS partials (`_variables`, `_base`, `_layout`, `_event-card`, `_search`, `_departure-board`) live under `_sass/`. `assets/css/main.scss` carries an empty front-matter fence so `jekyll-sass-converter` (bundled with `github-pages`) compiles its `@import`s into `assets/css/main.css`.
+
+**Departure board** — The homepage's airport-departure-sign metaphor: `_layouts/home.html` renders the cities as a monospace, dark-panel grid (`.departure-board` / `.board-row`, styled in `_sass/_departure-board.scss`) instead of listing events. Each row's columns map onto the data (destination = city, then country, then a "next event" time/status column) and link to that city's page.
+
+**Per-city page / stub** — Each city's events live on a dedicated page at `/cities/<id>/`, rendered by `_layouts/city.html`. Because GitHub Pages' native build allows no generator plugin, the page is materialized by a tiny front-matter-only **stub** file `cities/<id>.html` that binds `city_id` to the layout. Adding a city needs both a `_data/cities.yml` entry and a matching stub.
 
 **`relative_url`** — A Liquid filter that prefixes a path with the site's `baseurl` (`/aiintown`). Asset and internal links use it so they resolve correctly under the project-site path.
 

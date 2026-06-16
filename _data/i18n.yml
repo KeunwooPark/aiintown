@@ -7,6 +7,10 @@ en:
   no_events: "No upcoming events found yet."
   no_cities: "No cities match your search."
   date_tbd: "Date TBD"
+  board_destination: "Destination"
+  board_country: "Country"
+  board_next: "Next"
+  back_to_cities: "All cities"
 ko:
   name: 한국어
   language_label: "언어"
@@ -16,6 +20,10 @@ ko:
   no_events: "아직 예정된 행사가 없습니다."
   no_cities: "검색과 일치하는 도시가 없습니다."
   date_tbd: "날짜 미정"
+  board_destination: "도시"
+  board_country: "국가"
+  board_next: "다음 행사"
+  back_to_cities: "전체 도시"
 de:
   name: Deutsch
   language_label: "Sprache"
@@ -25,3 +33,7 @@ de:
   no_events: "Noch keine bevorstehenden Events gefunden."
   no_cities: "Keine Städte entsprechen deiner Suche."
   date_tbd: "Datum offen"
+  board_destination: "Ziel"
+  board_country: "Land"
+  board_next: "Nächstes"
+  back_to_cities: "Alle Städte"

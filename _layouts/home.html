@@ -1,21 +1,30 @@
 ---
 layout: default
 ---
-{% for city in site.data.cities %}
-  {% unless city.enabled == false %}
-  <section class="city-section" data-city-section data-city-id="{{ city.id }}" data-city-name="{{ city.name }}" data-city-locale="{{ city.locale }}">
-    <h2>{{ city.name }}, {{ city.country }}</h2>
-    {% assign events = site.data.events[city.id] | sort: 'date' %}
-    {% if events and events.size > 0 %}
-      <div class="event-list">
-        {% for event in events %}
-          {% include event-card.html event=event city=city %}
-        {% endfor %}
-      </div>
-    {% else %}
-      <p class="empty" data-i18n="no_events">No upcoming events found yet.</p>
-    {% endif %}
-  </section>
-  {% endunless %}
-{% endfor %}
+<div class="departure-board">
+  <div class="board-head">
+    <span data-i18n="board_destination">Destination</span>
+    <span data-i18n="board_country">Country</span>
+    <span data-i18n="board_next">Next</span>
+    <span></span>
+  </div>
+  {% for city in site.data.cities %}
+    {% unless city.enabled == false %}
+      {% assign events = site.data.events[city.id] | sort: 'date' %}
+      <a class="board-row"
+         data-city-section data-city-id="{{ city.id }}" data-city-name="{{ city.name }}" data-city-locale="{{ city.locale }}"
+         href="{{ '/cities/' | append: city.id | append: '/' | relative_url }}">
+        <span class="dest">{{ city.name }}</span>
+        <span class="country">{{ city.country }}</span>
+        <span class="when">
+          {% if events and events.size > 0 %}
+            {% assign first = events | first %}
+            {% if first.date_status != 'unknown' and first.date and first.date != '' %}{{ first.date | date: "%b %-d" }}{% else %}<span data-i18n="date_tbd">Date TBD</span>{% endif %}
+          {% else %}<span data-i18n="no_events">No upcoming events found yet.</span>{% endif %}
+        </span>
+        <span class="gate" aria-hidden="true">&#9658;</span>
+      </a>
+    {% endunless %}
+  {% endfor %}
+</div>
 <p class="no-results" data-i18n="no_cities" hidden>No cities match your search.</p>
