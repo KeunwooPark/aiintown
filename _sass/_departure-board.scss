@@ -26,4 +26,11 @@
 .board-row:last-child { border-bottom: 0; }
 .board-row .when { color: $color-accent; }
 .board-row .gate { color: $color-accent; }
-.board-row:hover { background: rgba($color-accent, .18); }
+.board-row:hover {
+  background: $color-accent;
+  color: $color-ink;
+}
+.board-row:hover .when,
+.board-row:hover .gate {
+  color: $color-ink;
+}
