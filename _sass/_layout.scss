@@ -25,6 +25,13 @@
   background-repeat: no-repeat;
 }
 
+// Raise the content wrapper above the decorative ::after circle (z-index: auto ≈ 0),
+// so the title and tagline paint on top regardless of DOM order.
+.site-header .container {
+  position: relative;
+  z-index: 1;
+}
+
 .site-header h1 { color:$color-ink; font-size:2.4rem; margin:0; font-weight:600; letter-spacing:-0.01em; }
 // Vermilion tagline reads as the second ink color against cream.
 .site-header .tagline { color:$color-accent; }
