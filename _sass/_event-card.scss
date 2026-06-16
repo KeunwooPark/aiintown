@@ -1,5 +1,24 @@
 .event-list { display:grid; gap:1rem; }
-.event-card { background:$color-surface; border-radius:$radius; box-shadow:$shadow; padding:1.25rem 1.5rem; display:flex; flex-direction:column; gap:.4rem; }
+
+.event-card {
+  background: $color-surface;
+  border-radius: $radius;
+  box-shadow: $shadow;
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: .4rem;
+  // Left-border accent animates in on hover to echo the botanical green palette.
+  border-left: 3px solid transparent;
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+
+.event-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(47,93,58,.18);
+  border-left-color: $color-leaf-light;
+}
+
 .event-card time { color:$color-earth; font-weight:600; font-size:.9rem; }
 .event-card h3 { margin:.1rem 0; font-size:1.3rem; }
 .event-card .venue { color:$color-muted; margin:0; }

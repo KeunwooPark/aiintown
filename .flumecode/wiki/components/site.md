@@ -38,7 +38,7 @@ The homepage. Its front matter is now just `layout: home` plus a `title` (`AI in
 
 ### `_layouts/default.html`
 
-The base HTML skeleton every page wraps. The `<head>` sets charset/viewport, the page title (`page.title | default: site.title`), and links the compiled stylesheet via `{{ '/assets/css/main.css' | relative_url }}` — `relative_url` is required because the site is served under `baseurl: /aiintown`. The `<body>` pulls in `header.html`, then the page `content` inside `<main class="container">`, then `footer.html`. This override is what suppresses `minima`'s default chrome.
+The base HTML skeleton every page wraps. The `<head>` sets charset/viewport, the page title (`page.title | default: site.title`), preconnects to and loads the **Google Fonts** web typefaces (`Fraunces` display serif + `Nunito Sans` humanist sans, with `display=swap`), then links the compiled stylesheet via `{{ '/assets/css/main.css' | relative_url }}` — `relative_url` is required because the site is served under `baseurl: /aiintown`. The font `<link>` precedes `main.css` so the `$font-serif` / `$font-sans` stacks resolve against loaded fonts. Google Fonts is the one external runtime dependency; self-host under `assets/` if fully-offline rendering is ever required. The `<body>` pulls in `header.html`, then the page `content` inside `<main class="container">`, then `footer.html`. This override is what suppresses `minima`'s default chrome.
 
 ### `_layouts/home.html`
 
@@ -60,10 +60,10 @@ Renders one event passed in as `include.event` (aliased to `e`), plus `include.c
 
 The custom design system. `assets/css/main.scss` carries the empty front-matter fence (`---` / `---`) that makes `jekyll-sass-converter` compile it to `assets/css/main.css`; it `@import`s the partials in order. The partials are:
 
-- **`_variables.scss`** — the single source of truth for the look: a botanic palette (leafy greens, earthy brown, soft cream `$color-bg`), spacing/radius/shadow tokens, and the type stacks — a **New York Times-style serif** (`$font-serif`) for headlines and a clean system sans (`$font-sans`) for body.
+- **`_variables.scss`** — the single source of truth for the look: a botanic palette (leafy greens, earthy brown, soft cream `$color-bg`), spacing/radius/shadow tokens, and the type stacks — an **elegant display serif** `'Fraunces'` (`$font-serif`, loaded from Google Fonts) for headlines and a **warm humanist sans** `'Nunito Sans'` (`$font-sans`) for body, each followed by the original serif / system fallbacks. The palette is unchanged; this is a typography + decoration pass.
 - **`_base.scss`** — element resets and typography (serif headlines colored leaf-green, sans body).
-- **`_layout.scss`** — `.container`, the `.site-header` hero, `.city-section`, and `.site-footer`.
-- **`_event-card.scss`** — the Booking.com-style `.event-card` (rounded corners, soft shadow, date/venue/description, source pill).
+- **`_layout.scss`** — `.container`, the `.site-header` hero, `.city-section`, and `.site-footer`. The hero uses a **layered `linear-gradient`** (explicit hex stops, avoiding deprecated `darken()`/`lighten()`) instead of a flat green, plus a low-opacity botanical leaf watermark via `.site-header::after`; city headings carry a small inline-SVG leaf marker via `.city-section > h2::before`. Both motifs are data-URI SVGs — no raster assets.
+- **`_event-card.scss`** — the Booking.com-style `.event-card` (rounded corners, soft shadow, date/venue/description, source pill), now with a `transition` and a **`:hover` lift** (`translateY(-3px)`, deeper green-tinted shadow, and a `$color-leaf-light` left-border accent that animates in).
 - **`_search.scss`** — the `.city-search` form styling and the `.sr-only` screen-reader utility.
 
 Tune colors or fonts in `_variables.scss` and everything downstream follows.
