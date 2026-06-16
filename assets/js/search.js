@@ -10,8 +10,16 @@
 
   function applyLocaleToSection(sec, lang) {
     var useLocal = sec.getAttribute('data-city-locale') === lang;
-    setHidden(sec.querySelectorAll('.t-en, .d-en'), useLocal);
+    Array.prototype.forEach.call(sec.querySelectorAll('.t-en, .d-en'), function (en) {
+      hideEnglishSpanIfLocalized(en, useLocal);
+    });
     setHidden(sec.querySelectorAll('.t-local, .d-local'), !useLocal);
+  }
+
+  function hideEnglishSpanIfLocalized(en, useLocal) {
+    var localClass = en.classList.contains('t-en') ? '.t-local' : '.d-local';
+    var hasLocal = en.parentNode.querySelector(localClass) !== null;
+    en.hidden = useLocal && hasLocal;
   }
 
   function applyLang(lang) {
