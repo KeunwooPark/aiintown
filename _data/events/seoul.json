@@ -7,7 +7,7 @@
     "source": "Eventbrite, Official Website",
     "description": "Two-day conference exploring AI governance across education, finance, security, human rights, and more. Sessions focus on policy foundations of the AI era and real-world governance challenges. Topics include AI & Education, AI & Finance, AI Sovereignty & National Strategy, AI & Healthcare, AI & National Security, and more.",
     "city": "seoul",
-    "id": "f8393cefe9ded1c9",
+    "id": "1b66ff068b8fa021",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -19,32 +19,8 @@
     "source": "AAAI",
     "description": "Annual set of AI symposia running in parallel at a common site, designed to bring colleagues together in an intimate forum while providing a significant gathering point for the AI community. Features a two-and-a-half-day format for in-depth feedback and discussion.",
     "city": "seoul",
-    "id": "bef5808d13e2548a",
+    "id": "5efdcf147423dd5e",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "Festival of Learning 2026",
-    "date": "2026-06-27",
-    "venue": "Seoul, Republic of Korea",
-    "url": "https://festival-of-learning-2026.info/",
-    "source": "Festival of Learning 2026",
-    "description": "Academic gathering bringing together communities in AI, Education, Learning Sciences, and Human-Computer Interaction. Workshop/tutorial days June 27-28, main conference June 29 - July 3, 2026.",
-    "city": "seoul",
-    "id": "4947d2644e83aa9a",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "Festival of Learning 2026 (AIED 2026 and ACM Learning at Scale)",
-    "date": "2026-06-27",
-    "venue": "Seoul, Korea",
-    "url": "https://www.aied-conference.org/2026",
-    "source": "AIED Conference",
-    "description": "Festival bringing together academic communities in AI, Education, Learning Sciences, and Human-Computer Interaction from June 27 to July 3",
-    "city": "seoul",
-    "id": "b46872942752bcc9",
-    "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
   {
@@ -55,32 +31,8 @@
     "source": "Festival of Learning",
     "description": "Co-located conferences bringing together academic communities in AI, Education, Learning Sciences, and Human-Computer Interaction. Workshops/tutorials June 27-28, paper/poster sessions June 29-July 3. Includes the 27th International Conference on AI in Education focusing on Generative AI and its impact on learning.",
     "city": "seoul",
-    "id": "9ef29be58a816282",
+    "id": "d462c41b48ad8dc0",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
-  },
-  {
-    "title": "Festival of Learning 2026 (including AIED 2026 and ACM Learning at Scale)",
-    "date": "2026-06-27",
-    "venue": "COEX Conference Center, Seoul",
-    "url": "https://festival-of-learning-2026.info/",
-    "source": "Festival of Learning",
-    "description": "Brings together academic communities in AI, Education, Learning Sciences, and Human-Computer Interaction. Co-locates multiple conferences including AIED 2026 (27th International Conference on Artificial Intelligence in Education, June 29 - July 3) and ACM Learning at Scale (June 29 - July 3).",
-    "city": "seoul",
-    "id": "a84d72bc96ac1ba7",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
-  },
-  {
-    "title": "27th International Conference on Artificial Intelligence in Education (AIED 2026)",
-    "date": "2026-06-29",
-    "venue": "Seoul",
-    "url": "https://www.aied-conference.org/2026",
-    "source": "AIED Official Website",
-    "description": "International conference (June 29 - July 3) examining how emerging technologies, especially Generative AI, are transforming education. Focus on human-AI collaboration, AI agency, and reimagining AIED systems as adaptive teammates. Part of Festival of Learning 2026.",
-    "city": "seoul",
-    "id": "4342e8ff56ae9a02",
-    "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
   {
@@ -91,7 +43,7 @@
     "source": "ACM L@S",
     "description": "The ACM Learning at Scale conference is part of the Festival of Learning 2026 in Seoul. Workshops on June 29; paper/poster sessions between June 30 – July 3.",
     "city": "seoul",
-    "id": "76d4b93fd40608a2",
+    "id": "c93881ed17fddd95",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -103,7 +55,7 @@
     "source": "AIED Conference",
     "description": "AIED 2026 serves as a vibrant forum for researchers, practitioners, and policymakers to explore and shape the evolving landscape of AI in education. The conference invites critical and creative examination of how emerging technologies, especially Generative AI, are transforming the roles of both humans and AI in learning.",
     "city": "seoul",
-    "id": "dead010bbf432788",
+    "id": "36474aedad29718d",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -115,56 +67,8 @@
     "source": "International Conference Alerts",
     "description": "International conference focusing on cybersecurity and artificial intelligence. Offers both virtual and in-person attendance options.",
     "city": "seoul",
-    "id": "11b08d1b70e0cc38",
+    "id": "98dd8b906bab4381",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
-  },
-  {
-    "title": "International Conference on Machine Learning and Artificial Intelligence Applications (ICMLAIA)",
-    "date": "2026-07-03",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/south-korea/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "International conference focused on machine learning and AI applications. Available in virtual and in-person formats.",
-    "city": "seoul",
-    "id": "c457d615252731f9",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
-  },
-  {
-    "title": "International Conference on Machine Learning and Data Analytics (ICMLDA)",
-    "date": "2026-07-03",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/south-korea/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "International conference on machine learning and data analytics. Features both virtual and in-person participation modes.",
-    "city": "seoul",
-    "id": "da6ca6ff3325ce0f",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
-  },
-  {
-    "title": "ICML 2026 (International Conference on Machine Learning)",
-    "date": "2026-07-06",
-    "venue": "COEX Convention & Exhibition Center, Seoul",
-    "url": "https://icml.cc/",
-    "source": "ICML",
-    "description": "One of the premier machine learning conferences globally. July 6: Expo/Tutorial Day; July 7-9: Main Conference; July 10-11: Workshops. Major annual gathering for ML researchers, practitioners, and industry leaders.",
-    "city": "seoul",
-    "id": "990fd195ba50f5b3",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
-  },
-  {
-    "title": "ICML 2026 - 43rd International Conference on Machine Learning",
-    "date": "2026-07-06",
-    "venue": "COEX Convention & Exhibition Center, Seoul",
-    "url": "https://icml.cc/",
-    "source": "ICML",
-    "description": "Premier international machine learning conference, July 6-11, 2026 (July 6: Expo/Tutorial Day; July 7-9: Main Conference; July 10-11: Workshops). Expected 10,000+ attendees",
-    "city": "seoul",
-    "id": "37a86496d7b86f9a",
-    "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
   {
@@ -175,19 +79,7 @@
     "source": "ICML",
     "description": "The International Conference on Machine Learning (ICML) is the premier gathering of professionals dedicated to the advancement of machine learning. ICML is globally renowned for presenting and publishing cutting-edge research on all aspects of machine learning. July 6: Expo/Tutorial Day; July 7–9: Main Conference; July 10–11: Workshops.",
     "city": "seoul",
-    "id": "76222d06bf756f6d",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "International Conference on Machine Learning (ICML 2026)",
-    "date": "2026-07-06",
-    "venue": "COEX Convention & Exhibition Center, Seoul",
-    "url": "https://icml.cc/",
-    "source": "ICML",
-    "description": "The 43rd International Conference on Machine Learning. Premier gathering for machine learning research with expo/tutorial day July 6, main conference July 7-9, and workshops July 10-11, 2026.",
-    "city": "seoul",
-    "id": "d5a4eb890f0027a3",
+    "id": "dddbd813ee84b628",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-16"
   },
@@ -199,44 +91,8 @@
     "source": "Infineon Technologies / KGCCI",
     "description": "Co-hosted by Infineon Technologies and the Korean-German Chamber of Commerce and Industry (KGCCI), this landmark summit unites AI ecosystem leaders from Korea and Germany. The event highlights Korea's rapidly growing AI datacenter infrastructure market and serves as a strategic platform for government agencies, enterprises, SMEs, and academia from both nations to explore synergies and partnership opportunities. Time: 18:30 - 21:00 KST.",
     "city": "seoul",
-    "id": "49004dde6744abf8",
+    "id": "61f806f4aa536cc0",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "International Conference on AI and Big Data for Bioinformatics Applications (ICABDBA)",
-    "date": "2026-07-08",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/south-korea/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "Conference on AI and big data applications in bioinformatics. Supports virtual and in-person attendance.",
-    "city": "seoul",
-    "id": "b58c0f410e37bef1",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "International Conference on Robotics Software Debugging with AI (ICRSDAI)",
-    "date": "2026-07-14",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/south-korea/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "Conference focused on robotics software debugging using AI techniques. Offers both virtual and in-person participation options.",
-    "city": "seoul",
-    "id": "b24c0ec53044cf27",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "International Conference on AI and Robotics Software Lifecycle Management (ICAIRSLM)",
-    "date": "2026-07-15",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/south-korea/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "Conference on AI and robotics software lifecycle management. Available in virtual and in-person formats.",
-    "city": "seoul",
-    "id": "3f03c74c36226163",
-    "first_seen": "2026-06-15",
     "last_seen": "2026-06-16"
   },
   {
@@ -247,7 +103,7 @@
     "source": "Conference Index",
     "description": "International conference for researchers, scientists, scholars, engineers, and practitioners to present research activities in AI and Design. Scheduled for July 17-19, 2026.",
     "city": "seoul",
-    "id": "22ebd6500d0466c7",
+    "id": "f8c49fac1f92a247",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
   },
@@ -259,20 +115,8 @@
     "source": "DMK Global",
     "description": "Korea's leading AI conference and exhibition bringing together global AI leaders, industry experts, and innovators. Features conference sessions, enterprise case studies, and dynamic expo showcasing cutting-edge AI technologies including Generative AI, Large Language Models, Enterprise AI, AI Transformation, and Agentic AI. Expected attendance: 30,000 people with 1,500 exhibitors.",
     "city": "seoul",
-    "id": "58772b77e43b5f72",
+    "id": "07e3f49f1dc1a742",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "AI Summit Seoul & Expo 2026 (9th edition)",
-    "date": "2026-08-19",
-    "venue": "COEX Grand Ballroom & Hall B, Seoul",
-    "url": "https://www.aisummitseoul.com/",
-    "source": "AI Summit Seoul",
-    "description": "Leading global AI conference (9th edition since 2018) running August 19-20 (conference) and August 19-21 (expo), featuring AI Agent, Agentic AI, Physical AI, and industry-specific AI applications. Expected 30,000+ attendees",
-    "city": "seoul",
-    "id": "9daa0dc58b4c58f4",
-    "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
   {
@@ -283,7 +127,7 @@
     "source": "DMK Global / Eventbrite",
     "description": "Korea's leading AI conference and exhibition bringing together global AI leaders, industry experts, and innovators. Features conference sessions, enterprise case studies, and a dynamic expo showcasing cutting-edge AI technologies. Focuses on convergence of AI and industry.",
     "city": "seoul",
-    "id": "5c89d95ae2a61a1c",
+    "id": "b24cd1805dbee57d",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
   },
@@ -295,7 +139,7 @@
     "source": "Conference Index",
     "description": "International conference covering machine learning and cybersecurity topics.",
     "city": "seoul",
-    "id": "cc753fa8c3deb889",
+    "id": "07dcb56d833f6ee7",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
   },
@@ -307,7 +151,7 @@
     "source": "Korean Institute of Communications and Information Sciences",
     "description": "Organized by the Korean Institute of Communications and Information Sciences AI Society. Features keynote speeches, top conference tutorials, AI convergence workshops, and undergraduate paper competition. September 30 - October 3, 2026. Note: This event is in Jeju, not Seoul.",
     "city": "seoul",
-    "id": "ad88d58801787f86",
+    "id": "31273fa4795e36ac",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   }

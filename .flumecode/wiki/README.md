@@ -11,7 +11,7 @@ This repository is a static website, presented to users as **AI in Town** — a 
 | Component   | What it does                       | Wiki page                                | Key paths                            |
 | ----------- | ---------------------------------- | ---------------------------------------- | ------------------------------------ |
 | Jekyll site | Departure-board city landing + per-city event pages, with client-side city search and UI language switching | [components/site.md](components/site.md) | `index.md`, `cities/`, `_layouts/`, `_includes/`, `_sass/`, `assets/css/main.scss`, `assets/js/search.js`, `_data/i18n.yml`, `_config.yml` |
-| AI event search | Daily Claude search → per-city event JSON | [components/event-search.md](components/event-search.md) | `_data/cities.yml`, `scripts/search_events.py`, `.github/workflows/search-ai-events.yml` |
+| AI event search | Daily Claude search → per-city event JSON, deduped by URL | [components/event-search.md](components/event-search.md) | `_data/cities.yml`, `scripts/search_events.py`, `scripts/dedupe_events.py`, `.github/workflows/search-ai-events.yml` |
 | UI Preview  | How sessions screenshot UI changes | [components/ui-preview.md](components/ui-preview.md) | `.flumecode/plugins/ui-preview.json`, `Gemfile` |
 
 See also [architecture.md](architecture.md) for the build-and-deploy flow and [glossary.md](glossary.md) for Jekyll / GitHub Pages terms.
