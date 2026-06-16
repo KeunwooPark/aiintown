@@ -7,6 +7,7 @@ RUN_DATE = datetime.date.today()
 RUN_DATE_STR = RUN_DATE.isoformat()
 
 GLOBAL_EVENT_PLATFORMS = ["Luma", "Eventbrite", "Meetup"]
+EXISTING_TITLE_LIMIT = 50
 
 # Instantiated lazily in main() so test imports don't require ANTHROPIC_API_KEY.
 client = None
@@ -51,10 +52,19 @@ def search_city(city):
     hints = city.get("query_hints", [])
     if hints:
         prompt += f" If you find relevant events, focus on topics: {', '.join(hints)}."
+    known = _existing_event_titles(city)
+    if known:
+        prompt += (
+            " We already have these events on file: "
+            + "; ".join(known)
+            + ". Prioritize discovering ADDITIONAL upcoming events that are NOT "
+            "already in this list; focus your searches on new, smaller, or "
+            "recently-announced events beyond the ones above."
+        )
     msg = client.messages.create(
         model=MODEL,
-        max_tokens=4000,
-        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 5}],
+        max_tokens=8000,  # was 4000 — avoid truncating large JSON arrays into parse failures
+        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 8}],  # was max_uses: 5
         messages=[{"role": "user", "content": prompt}],
     )
     text = "".join(b.text for b in msg.content if b.type == "text")
@@ -100,6 +110,25 @@ def is_upcoming(date_str):
         return datetime.date.fromisoformat(date_str[:10]) >= RUN_DATE
     except ValueError:
         return True
+
+
+def _existing_event_titles(city, limit=EXISTING_TITLE_LIMIT):
+    """Return up to `limit` upcoming event titles already stored for this city."""
+    city_id = city.get("id")
+    if not city_id:
+        return []
+    path = EVENTS_DIR / f"{city_id}.json"
+    if not path.exists():
+        return []
+    try:
+        records = json.loads(path.read_text())
+    except (json.JSONDecodeError, OSError):
+        return []
+    titles = [
+        r["title"] for r in records
+        if isinstance(r, dict) and r.get("title") and is_upcoming(r.get("date"))
+    ]
+    return titles[:limit]
 
 
 def _apply_date_status(e):
