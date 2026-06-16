@@ -26,7 +26,7 @@ The render tree is layered so styling and structure each have one home:
 
 Site-wide settings read by Jekyll at build time. It sets:
 
-- `title` and `description` — site metadata surfaced by the theme.
+- `title` and `description` — site metadata surfaced by the theme. `title` is the **user-facing brand name** (`AI in Town`), rendered in the header and used as the default browser-tab title; it is deliberately distinct from the `aiintown` repo/URL slug below.
 - `theme: minima` — uses the default Jekyll theme, so no layouts are committed here.
 - `url` and `baseurl` — configured for a **project site** at `https://keunwoopark.github.io/aiintown/`. The `/aiintown` path is the `baseurl`; see [architecture.md](architecture.md) for why this matters and what breaks if the repo becomes a user/organization site.
 
@@ -34,7 +34,7 @@ Changing `_config.yml` requires a build restart locally (Jekyll does not hot-rel
 
 ### `index.md`
 
-The homepage. Its front matter is now just `layout: home` plus a `title`; the body is intentionally empty (a comment) because `_layouts/home.html` renders the entire events listing from `site.data`. This replaces the earlier under-construction placeholder and the `{% include events.html %}` approach.
+The homepage. Its front matter is now just `layout: home` plus a `title` (`AI in Town`, which overrides `site.title` for the homepage `<title>` via `page.title | default: site.title`); the body is intentionally empty (a comment) because `_layouts/home.html` renders the entire events listing from `site.data`. This replaces the earlier under-construction placeholder and the `{% include events.html %}` approach.
 
 ### `_layouts/default.html`
 
