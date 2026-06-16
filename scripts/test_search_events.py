@@ -249,6 +249,17 @@ class TestSearchCity(unittest.TestCase):
         self.assertIn("Eventbrite", prompt)
         self.assertIn("Meetup", prompt)
 
+    def test_prompt_includes_existing_titles_when_file_present(self):
+        tmp = tempfile.mkdtemp()
+        with unittest.mock.patch.object(se, "EVENTS_DIR", pathlib.Path(tmp)):
+            (pathlib.Path(tmp) / "seoul.json").write_text(json.dumps([
+                {"title": "Existing Gathering", "date": "2099-01-01", "city": "seoul"}
+            ]))
+            se.search_city({"id": "seoul", "name": "Seoul", "country": "South Korea"})
+        prompt = se.client.messages.create.call_args.kwargs["messages"][0]["content"]
+        self.assertIn("Existing Gathering", prompt)
+        self.assertIn("ADDITIONAL", prompt)
+
 
 if __name__ == "__main__":
     unittest.main()
