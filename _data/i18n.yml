@@ -1,0 +1,27 @@
+en:
+  name: English
+  language_label: "Language"
+  tagline: "Upcoming in-person AI events, city by city."
+  search_label: "Search by city"
+  search_placeholder: "Search events by city…"
+  no_events: "No upcoming events found yet."
+  no_cities: "No cities match your search."
+  date_tbd: "Date TBD"
+ko:
+  name: 한국어
+  language_label: "언어"
+  tagline: "도시별로 만나는 오프라인 AI 행사."
+  search_label: "도시로 검색"
+  search_placeholder: "도시 이름으로 행사 검색…"
+  no_events: "아직 예정된 행사가 없습니다."
+  no_cities: "검색과 일치하는 도시가 없습니다."
+  date_tbd: "날짜 미정"
+de:
+  name: Deutsch
+  language_label: "Sprache"
+  tagline: "Kommende AI-Events vor Ort, Stadt für Stadt."
+  search_label: "Nach Stadt suchen"
+  search_placeholder: "Events nach Stadt suchen…"
+  no_events: "Noch keine bevorstehenden Events gefunden."
+  no_cities: "Keine Städte entsprechen deiner Suche."
+  date_tbd: "Datum offen"

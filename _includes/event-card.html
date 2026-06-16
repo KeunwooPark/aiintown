@@ -1,7 +1,7 @@
 {% assign e = include.event %}
 <article class="event-card" data-city="{{ include.city.id }}" data-title="{{ e.title | downcase }}">
   {% if e.date_status == "unknown" or e.date == nil or e.date == "" %}
-    <time>Date TBD</time>
+    <time data-i18n="date_tbd">Date TBD</time>
   {% else %}
     <time datetime="{{ e.date }}">{{ e.date | date: "%b %-d, %Y" }}</time>
   {% endif %}

@@ -44,17 +44,27 @@ The base HTML skeleton every page wraps. The `<head>` sets charset/viewport, the
 
 The events listing layout (`layout: default`). It loops over `site.data.cities`, **skipping disabled cities** with `{% unless city.enabled == false %}` (so a city is enabled unless explicitly `enabled: false`). For each city it emits a `.city-section` carrying `data-city-id` / `data-city-name` attributes, an `<h2>` of `name, country`, and the events from `site.data.events[city.id] | sort: 'date'` rendered as an `.event-list` of cards via `{% include event-card.html event=event city=city %}`. Empty/missing arrays show a `No upcoming events found yet.` message instead of erroring. The hidden `.no-results` line and `data-*` attributes are the hooks the client-side city filter uses; the filter is implemented in `assets/js/search.js` and toggles each `.city-section`'s `hidden` attribute (showing `.no-results` when nothing matches). The loop is fully data-driven: adding a city to `_data/cities.yml` needs no template edit.
 
+### `_data/i18n.yml`
+
+Holds all UI chrome strings for each supported locale (`en`, `ko`, `de`). Each key is a locale code whose value is a map of string keys (`name` for the switcher option label, plus `language_label`, `tagline`, `search_label`, `search_placeholder`, `no_events`, `no_cities`, `date_tbd`). Jekyll's `site.data.i18n` makes this available to templates at build time and to JavaScript via `window.SITE_I18N` (injected in `_layouts/default.html`).
+
 ### `_includes/header.html` and `_includes/footer.html`
 
-`header.html` is the botanic hero banner — `site.title` and a tagline inside `.site-header`; it also mounts the search bar via `{% include search-bar.html %}`. `footer.html` is the attribution strip showing `site.description`. Both override `minima`'s equivalents.
+`header.html` is the botanic hero banner — `site.title`, a tagline (with `data-i18n="tagline"` for runtime localization), a `<label class="lang-switch">` containing a `<select id="lang-switcher">` built from `site.data.i18n`, and the search bar via `{% include search-bar.html %}`. `footer.html` is the attribution strip showing `site.description`. Both override `minima`'s equivalents.
 
 ### `_includes/event-card.html`
 
 Renders one event passed in as `include.event` (aliased to `e`), plus `include.city` for the `data-city="{{ city.id }}"` and `data-title` attributes (hooks for the future filter, and the Booking.com-style result-card structure). The title links to `e.url` when present, else plain text. The date line formats `e.date` with Liquid's `date` filter, **except** when `date_status == "unknown"` or `date` is blank — those route to a literal `Date TBD` and never reach the filter (which would choke on an unparseable string). `venue`, `description`, and `source` each render only when present, guarded by `{% if %}`. Field names mirror the schema written by `scripts/search_events.py` (see [components/event-search.md](components/event-search.md)).
 
-### Client-side city search
+### Client-side city search and language switching
 
-`_includes/search-bar.html` renders a `<form class="city-search">` containing an `<input id="city-search">` and a `<datalist id="city-options">` whose `<option>` elements are built from `site.data.cities` at build time. `assets/js/search.js` is linked from `_layouts/default.html` with `relative_url` and `defer`; on each `input` event it reads the query, matches it case-insensitively against each `.city-section`'s `data-city-name` and `data-city-id` attributes, toggles the section's `hidden` attribute accordingly, and reveals the `.no-results` element when no section matches. No backend or build tooling is involved beyond the static datalist generation; styling lives in `_sass/_search.scss`.
+`_includes/search-bar.html` renders a `<form class="city-search">` containing an `<input id="city-search" data-i18n-placeholder="search_placeholder">` and a `<datalist id="city-options">` whose `<option>` elements are built from `site.data.cities` at build time. `assets/js/search.js` is linked from `_layouts/default.html` with `relative_url` and `defer`; it handles two concerns:
+
+1. **Language switching** — reads `window.SITE_I18N` (injected by `_layouts/default.html` from `site.data.i18n`). `applyLang(lang)` sets `document.documentElement.lang`, then updates `textContent` for every `[data-i18n]` element and `placeholder` for every `[data-i18n-placeholder]` element using the locale dict. The active locale is persisted to `localStorage` and restored on page load. The `<select id="lang-switcher">` (in `header.html`) drives the switcher.
+
+2. **City filtering** — on each `input` event it reads the query, matches it case-insensitively against each `.city-section`'s `data-city-name` and `data-city-id` attributes, toggles the section's `hidden` attribute accordingly, and reveals the `.no-results` element when no section matches.
+
+No backend or build tooling is involved beyond the static datalist generation; styling lives in `_sass/_search.scss`.
 
 ### `_sass/` partials and `assets/css/main.scss`
 

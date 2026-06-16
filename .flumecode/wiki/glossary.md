@@ -22,6 +22,8 @@
 
 **Client-side city search / `<datalist>`** — The search bar (`_includes/search-bar.html` + `assets/js/search.js`) filters events entirely in the browser, with no reload or backend. A native HTML `<datalist>` of city names is generated from `site.data.cities` at build time for autocomplete, and a vanilla-JS `input` handler toggles each city section's `hidden` attribute. No JS build tooling is involved.
 
+**UI chrome localization / `_data/i18n.yml`** — A client-side translation mechanism for the site's fixed UI strings (tagline, search labels, empty-state messages, `Date TBD`) — *not* the event data, which stays in its source language. `_data/i18n.yml` holds one entry per locale (`en`, `ko`, `de`); the table is serialized into the page as `window.SITE_I18N` and applied by `assets/js/search.js`. Templates tag translatable elements with `data-i18n="<key>"` (text) or `data-i18n-placeholder="<key>"` (attribute), keeping the English literal as a pre-JS / crawler fallback. The `<select id="lang-switcher">` lets a visitor pick a locale; the choice is persisted in `localStorage` under `lang` and restored on reload.
+
 **`_config.yml`** — Jekyll's site-wide configuration file, read once at build time.
 
 **`_site/`** — The generated output directory Jekyll writes the built static site into. Gitignored; GitHub regenerates it server-side.
