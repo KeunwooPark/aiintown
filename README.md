@@ -57,6 +57,7 @@ Edit `_data/cities.yml` to control which cities are searched. Each entry support
 | `country` | Country name passed to the model |
 | `enabled` | Set to `false` to skip a city without removing it |
 | `query_hints` | Keywords injected into the search prompt |
+| `event_platforms` | Optional list of local/regional event-listing platforms for that city (added to the built-in global list of Luma, Eventbrite, Meetup that applies to every city) |
 
 ### Per-city event data shape
 
