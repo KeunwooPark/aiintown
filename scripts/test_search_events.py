@@ -10,6 +10,8 @@ import pathlib
 import tempfile
 import unittest
 import unittest.mock
+from types import SimpleNamespace
+from unittest.mock import MagicMock
 
 import scripts.search_events as se
 
@@ -212,6 +214,40 @@ class TestMerge(unittest.TestCase):
         self.assertEqual(records[0]["title"], "Early Event")
         self.assertEqual(records[1]["title"], "Alpha Event")
         self.assertEqual(records[2]["title"], "Zebra Event")
+
+
+class TestSearchCity(unittest.TestCase):
+    def setUp(self):
+        self._orig_client = se.client
+        mock_client = MagicMock()
+        mock_client.messages.create.return_value = MagicMock(
+            content=[SimpleNamespace(type="text", text="[]")]
+        )
+        se.client = mock_client
+
+    def tearDown(self):
+        se.client = self._orig_client
+
+    def test_prompt_includes_global_and_local_platforms(self):
+        city = {
+            "name": "Seoul",
+            "country": "South Korea",
+            "event_platforms": ["Onoffmix"],
+        }
+        se.search_city(city)
+        prompt = se.client.messages.create.call_args.kwargs["messages"][0]["content"]
+        self.assertIn("Luma", prompt)
+        self.assertIn("Eventbrite", prompt)
+        self.assertIn("Meetup", prompt)
+        self.assertIn("Onoffmix", prompt)
+
+    def test_prompt_without_local_platforms_is_valid(self):
+        city = {"name": "Berlin", "country": "Germany"}
+        se.search_city(city)
+        prompt = se.client.messages.create.call_args.kwargs["messages"][0]["content"]
+        self.assertIn("Luma", prompt)
+        self.assertIn("Eventbrite", prompt)
+        self.assertIn("Meetup", prompt)
 
 
 if __name__ == "__main__":

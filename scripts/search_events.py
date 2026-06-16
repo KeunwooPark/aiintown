@@ -6,6 +6,8 @@ EVENTS_DIR = DATA / "events"
 RUN_DATE = datetime.date.today()
 RUN_DATE_STR = RUN_DATE.isoformat()
 
+GLOBAL_EVENT_PLATFORMS = ["Luma", "Eventbrite", "Meetup"]
+
 # Instantiated lazily in main() so test imports don't require ANTHROPIC_API_KEY.
 client = None
 
@@ -39,6 +41,12 @@ def search_city(city):
         " Include small, grassroots and community events (university clubs, "
         "coworking spaces, local meetup/community sites and venues), in addition "
         "to — not instead of — larger conferences and international events."
+    )
+    local = city.get("event_platforms", [])
+    platforms = GLOBAL_EVENT_PLATFORMS + local
+    prompt += (
+        " In addition to general web search, also check dedicated event-listing "
+        f"platforms such as {', '.join(platforms)} for matching events."
     )
     hints = city.get("query_hints", [])
     if hints:
