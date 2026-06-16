@@ -1,7 +1,13 @@
 <header class="site-header">
   <div class="container">
     <h1>{{ site.title }}</h1>
-    <p class="tagline">Upcoming in-person AI events, city by city.</p>
+    <p class="tagline" data-i18n="tagline">Upcoming in-person AI events, city by city.</p>
+    <label class="lang-switch">
+      <span class="sr-only" data-i18n="language_label">Language</span>
+      <select id="lang-switcher">
+        {% for pair in site.data.i18n %}<option value="{{ pair[0] }}">{{ pair[1].name }}</option>{% endfor %}
+      </select>
+    </label>
     {% include search-bar.html %}
   </div>
 </header>

@@ -1,6 +1,6 @@
 <form class="city-search" role="search" onsubmit="return false;">
-  <label for="city-search" class="sr-only">Search by city</label>
-  <input id="city-search" type="search" list="city-options" placeholder="Search events by city…" autocomplete="off">
+  <label for="city-search" class="sr-only" data-i18n="search_label">Search by city</label>
+  <input id="city-search" type="search" list="city-options" placeholder="Search events by city…" autocomplete="off" data-i18n-placeholder="search_placeholder">
   <datalist id="city-options">
     {% for city in site.data.cities %}{% unless city.enabled == false %}<option value="{{ city.name }}"></option>{% endunless %}{% endfor %}
   </datalist>

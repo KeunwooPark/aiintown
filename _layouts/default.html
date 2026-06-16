@@ -15,6 +15,7 @@
     {{ content }}
   </main>
   {% include footer.html %}
+  <script>window.SITE_I18N = {{ site.data.i18n | jsonify }};</script>
   <script src="{{ '/assets/js/search.js' | relative_url }}" defer></script>
 </body>
 </html>

@@ -13,9 +13,9 @@ layout: default
         {% endfor %}
       </div>
     {% else %}
-      <p class="empty">No upcoming events found yet.</p>
+      <p class="empty" data-i18n="no_events">No upcoming events found yet.</p>
     {% endif %}
   </section>
   {% endunless %}
 {% endfor %}
-<p class="no-results" hidden>No cities match your search.</p>
+<p class="no-results" data-i18n="no_cities" hidden>No cities match your search.</p>
