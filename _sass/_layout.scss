@@ -32,6 +32,21 @@
   z-index: 1;
 }
 
+// Pinned to the container's top-right so it layers above the decorative ::after circle (z-index: 2 > container z-index: 1).
+.header-links {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  z-index: 2;
+  display: flex;
+  gap: 1rem;
+  font-family: $font-sans;
+  font-weight: 600;
+
+  a { color: $color-ink; text-decoration: none; }
+  a:hover { color: $color-accent; }
+}
+
 .site-header h1 { color:$color-ink; font-size:2.4rem; margin:0; font-weight:600; letter-spacing:-0.01em; }
 // Vermilion tagline reads as the second ink color against cream.
 .site-header .tagline { color:$color-accent; }
