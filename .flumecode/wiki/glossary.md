@@ -12,13 +12,15 @@
 
 **Layout** — A template under `_layouts/` that wraps a page's content. A page's front matter picks one with `layout:`, and a layout can itself nest in another (`home` → `default` here). The site's custom layouts replace `minima`'s.
 
-**Include (partial)** — A reusable snippet under `_includes/` pulled into a page or layout with `{% include file.html %}`, optionally with parameters (e.g. `{% include event-card.html event=event city=city %}`, read inside as `include.event` / `include.city`). The site uses `header.html`, `footer.html`, and `event-card.html`.
+**Include (partial)** — A reusable snippet under `_includes/` pulled into a page or layout with `{% include file.html %}`, optionally with parameters (e.g. `{% include event-card.html event=event city=city %}`, read inside as `include.event` / `include.city`). The site uses `header.html`, `footer.html`, `event-card.html`, and `search-bar.html`.
 
-**`_sass/` and SCSS compilation** — SCSS partials (`_variables`, `_base`, `_layout`, `_event-card`) live under `_sass/`. `assets/css/main.scss` carries an empty front-matter fence so `jekyll-sass-converter` (bundled with `github-pages`) compiles its `@import`s into `assets/css/main.css`.
+**`_sass/` and SCSS compilation** — SCSS partials (`_variables`, `_base`, `_layout`, `_event-card`, `_search`) live under `_sass/`. `assets/css/main.scss` carries an empty front-matter fence so `jekyll-sass-converter` (bundled with `github-pages`) compiles its `@import`s into `assets/css/main.css`.
 
 **`relative_url`** — A Liquid filter that prefixes a path with the site's `baseurl` (`/aiintown`). Asset and internal links use it so they resolve correctly under the project-site path.
 
 **`site.data`** — The Liquid object exposing everything under `_data/`. A file `_data/foo.json` is reachable as `site.data.foo`; the home layout indexes events dynamically as `site.data.events[city.id]`.
+
+**Client-side city search / `<datalist>`** — The search bar (`_includes/search-bar.html` + `assets/js/search.js`) filters events entirely in the browser, with no reload or backend. A native HTML `<datalist>` of city names is generated from `site.data.cities` at build time for autocomplete, and a vanilla-JS `input` handler toggles each city section's `hidden` attribute. No JS build tooling is involved.
 
 **`_config.yml`** — Jekyll's site-wide configuration file, read once at build time.
 

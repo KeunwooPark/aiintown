@@ -17,8 +17,8 @@ The render tree is layered so styling and structure each have one home:
 
 - **`_layouts/default.html`** — the HTML skeleton (`<head>` + stylesheet link, then header → page `content` → footer).
 - **`_layouts/home.html`** — wraps `default` and renders the per-city events listing (replaces the old `_includes/events.html`).
-- **`_includes/`** — `header.html` (hero), `footer.html` (attribution), `event-card.html` (one event).
-- **`_sass/`** — SCSS partials (`_variables`, `_base`, `_layout`, `_event-card`) imported by `assets/css/main.scss`.
+- **`_includes/`** — `header.html` (hero), `footer.html` (attribution), `event-card.html` (one event), `search-bar.html` (the city search input + autocomplete `<datalist>`).
+- **`_sass/`** — SCSS partials (`_variables`, `_base`, `_layout`, `_event-card`, `_search`) imported by `assets/css/main.scss`.
 
 ## Source files
 
@@ -42,15 +42,19 @@ The base HTML skeleton every page wraps. The `<head>` sets charset/viewport, the
 
 ### `_layouts/home.html`
 
-The events listing layout (`layout: default`). It loops over `site.data.cities`, **skipping disabled cities** with `{% unless city.enabled == false %}` (so a city is enabled unless explicitly `enabled: false`). For each city it emits a `.city-section` carrying `data-city-id` / `data-city-name` attributes, an `<h2>` of `name, country`, and the events from `site.data.events[city.id] | sort: 'date'` rendered as an `.event-list` of cards via `{% include event-card.html event=event city=city %}`. Empty/missing arrays show a `No upcoming events found yet.` message instead of erroring. A hidden `.no-results` line and the `data-*` attributes are placeholders for a future client-side city filter (not yet present). The loop is fully data-driven: adding a city to `_data/cities.yml` needs no template edit.
+The events listing layout (`layout: default`). It loops over `site.data.cities`, **skipping disabled cities** with `{% unless city.enabled == false %}` (so a city is enabled unless explicitly `enabled: false`). For each city it emits a `.city-section` carrying `data-city-id` / `data-city-name` attributes, an `<h2>` of `name, country`, and the events from `site.data.events[city.id] | sort: 'date'` rendered as an `.event-list` of cards via `{% include event-card.html event=event city=city %}`. Empty/missing arrays show a `No upcoming events found yet.` message instead of erroring. The hidden `.no-results` line and `data-*` attributes are the hooks the client-side city filter uses; the filter is implemented in `assets/js/search.js` and toggles each `.city-section`'s `hidden` attribute (showing `.no-results` when nothing matches). The loop is fully data-driven: adding a city to `_data/cities.yml` needs no template edit.
 
 ### `_includes/header.html` and `_includes/footer.html`
 
-`header.html` is the botanic hero banner — `site.title` and a tagline inside `.site-header`. `footer.html` is the attribution strip showing `site.description`. Both override `minima`'s equivalents.
+`header.html` is the botanic hero banner — `site.title` and a tagline inside `.site-header`; it also mounts the search bar via `{% include search-bar.html %}`. `footer.html` is the attribution strip showing `site.description`. Both override `minima`'s equivalents.
 
 ### `_includes/event-card.html`
 
 Renders one event passed in as `include.event` (aliased to `e`), plus `include.city` for the `data-city="{{ city.id }}"` and `data-title` attributes (hooks for the future filter, and the Booking.com-style result-card structure). The title links to `e.url` when present, else plain text. The date line formats `e.date` with Liquid's `date` filter, **except** when `date_status == "unknown"` or `date` is blank — those route to a literal `Date TBD` and never reach the filter (which would choke on an unparseable string). `venue`, `description`, and `source` each render only when present, guarded by `{% if %}`. Field names mirror the schema written by `scripts/search_events.py` (see [components/event-search.md](components/event-search.md)).
+
+### Client-side city search
+
+`_includes/search-bar.html` renders a `<form class="city-search">` containing an `<input id="city-search">` and a `<datalist id="city-options">` whose `<option>` elements are built from `site.data.cities` at build time. `assets/js/search.js` is linked from `_layouts/default.html` with `relative_url` and `defer`; on each `input` event it reads the query, matches it case-insensitively against each `.city-section`'s `data-city-name` and `data-city-id` attributes, toggles the section's `hidden` attribute accordingly, and reveals the `.no-results` element when no section matches. No backend or build tooling is involved beyond the static datalist generation; styling lives in `_sass/_search.scss`.
 
 ### `_sass/` partials and `assets/css/main.scss`
 
@@ -60,6 +64,7 @@ The custom design system. `assets/css/main.scss` carries the empty front-matter 
 - **`_base.scss`** — element resets and typography (serif headlines colored leaf-green, sans body).
 - **`_layout.scss`** — `.container`, the `.site-header` hero, `.city-section`, and `.site-footer`.
 - **`_event-card.scss`** — the Booking.com-style `.event-card` (rounded corners, soft shadow, date/venue/description, source pill).
+- **`_search.scss`** — the `.city-search` form styling and the `.sr-only` screen-reader utility.
 
 Tune colors or fonts in `_variables.scss` and everything downstream follows.
 
