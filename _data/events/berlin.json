@@ -25,6 +25,20 @@
     "last_seen": "2026-06-16"
   },
   {
+    "title": "BLISS AI Speaker Series 2026",
+    "date": "2026-06-17",
+    "venue": "C130, Institut für Chemie, Technische Universität Berlin, Str. des 17. Juni 115, 10623 Berlin",
+    "url": "https://www.meetup.com/bliss-speaker-series/",
+    "source": "meetup.com",
+    "description": "BLISS e.V. is the AI organization in Berlin connecting machine learning enthusiasts. This summer 2026 speaker series features excellent researchers from institutions including cohere, ETH Zürich, University of Oxford, HuggingFace, and Stanford University. The event includes a 45-minute research talk followed by networking with free drinks and pizza. The June 17 event features Thomas Wimmer from ETH Zürich discussing 'Beyond Patches: Learning Dense Visual Features'.",
+    "title_local": "BLISS AI Speaker Series 2026",
+    "description_local": "BLISS e.V. ist die KI-Organisation in Berlin, die Gleichgesinnte verbindet, die großes Interesse und Leidenschaft für das Gebiet des maschinellen Lernens teilen. Im Sommer 2026 veranstalten wir wieder eine spannende Speaker-Reihe vor Ort in Berlin mit exzellenten Forschern.",
+    "city": "berlin",
+    "id": "e7c501df036c1e2f",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
+  },
+  {
     "title": "AI Agents Summit 2026 (AIS26)",
     "date": "2026-06-18",
     "venue": "Berlin (part of Berlin Blockchain Week)",
@@ -181,6 +195,20 @@
     "last_seen": "2026-06-16"
   },
   {
+    "title": "Language AI Meetup Berlin - July 2026",
+    "date": "2026-07-06",
+    "venue": "Berlin (venue TBA)",
+    "url": "https://www.meetup.com/language-ai-meetup/",
+    "source": "meetup.com",
+    "description": "Language AI Meetup is a platform to discuss all things related to artificial intelligence and language with regular community events in Berlin. The community is dedicated to exploring and engaging in enlightening conversations about the intersection of language and AI, connecting practitioners, researchers and language aficionados.",
+    "title_local": "Language AI Meetup Berlin - Juli 2026",
+    "description_local": "Plattform zur Diskussion aller Themen rund um künstliche Intelligenz und Sprache mit regelmäßigen Community-Events in Berlin.",
+    "city": "berlin",
+    "id": "c129dbc5d3220f9b",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
+  },
+  {
     "title": "Global AI Berlin",
     "date": "2026-07-08",
     "venue": "Berlin, Germany",
@@ -333,6 +361,34 @@
     "description": "Evening event (6 PM - 10 PM) gathering 150 business, innovation, product, and tech leaders from across Berlin. Features a 45-minute panel discussion (6:30-7:15 PM) with six speakers including AI leaders from Babbel, Rhapsody, and Charité. Includes complimentary drinks, snacks, and access to a networking app. Hosted by Startup Network Europe.",
     "city": "berlin",
     "id": "31b369b641078702",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
+  },
+  {
+    "title": "NVIDIA GTC Berlin 2026",
+    "date": "2026-10-20",
+    "venue": "Tempodrom (Keynote) & STATION Berlin",
+    "url": "https://www.nvidia.com/en-eu/gtc/",
+    "source": "nvidia.com",
+    "description": "The NVIDIA GTC AI conference comes to Berlin, bringing together developers, researchers, and industry leaders to explore AI infrastructure. Sessions span the five-layer AI stack from hardware components to industries being transformed by physical AI. Features CEO Jensen Huang's keynote at the iconic Tempodrom, followed by dynamic sessions, hands-on labs, and networking at STATION-Berlin. Registration opens mid-June 2026.",
+    "title_local": "NVIDIA GTC Berlin 2026",
+    "description_local": "Die NVIDIA GTC KI-Konferenz kommt nach Berlin und bringt Entwickler, Forscher und Branchenführer zusammen, um KI-Infrastruktur zu erkunden.",
+    "city": "berlin",
+    "id": "94a293b56b691c4f",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16"
+  },
+  {
+    "title": "Language AI Meetup Berlin - November 2026",
+    "date": "2026-11-09",
+    "venue": "Berlin (venue TBA)",
+    "url": "https://www.meetup.com/language-ai-meetup/",
+    "source": "meetup.com",
+    "description": "Language AI Meetup is a platform to discuss all things related to artificial intelligence and language with regular community events in Berlin. The community is dedicated to exploring and engaging in enlightening conversations about the intersection of language and AI, connecting practitioners, researchers and language aficionados.",
+    "title_local": "Language AI Meetup Berlin - November 2026",
+    "description_local": "Plattform zur Diskussion aller Themen rund um künstliche Intelligenz und Sprache mit regelmäßigen Community-Events in Berlin.",
+    "city": "berlin",
+    "id": "732b10be3aa7c217",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
