@@ -3,7 +3,7 @@ layout: default
 ---
 {% for city in site.data.cities %}
   {% unless city.enabled == false %}
-  <section class="city-section" data-city-section data-city-id="{{ city.id }}" data-city-name="{{ city.name }}">
+  <section class="city-section" data-city-section data-city-id="{{ city.id }}" data-city-name="{{ city.name }}" data-city-locale="{{ city.locale }}">
     <h2>{{ city.name }}, {{ city.country }}</h2>
     {% assign events = site.data.events[city.id] | sort: 'date' %}
     {% if events and events.size > 0 %}

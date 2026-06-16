@@ -215,6 +215,15 @@ class TestMerge(unittest.TestCase):
         self.assertEqual(records[1]["title"], "Alpha Event")
         self.assertEqual(records[2]["title"], "Zebra Event")
 
+    def test_local_fields_preserved(self):
+        e = self._event()
+        e["title_local"] = "서울 AI 밋업"
+        e["description_local"] = "훌륭한 행사"
+        se.merge(self._city(), [e])
+        rec = self._load()[0]
+        self.assertEqual(rec["title_local"], "서울 AI 밋업")
+        self.assertEqual(rec["description_local"], "훌륭한 행사")
+
 
 class TestSearchCity(unittest.TestCase):
     def setUp(self):
@@ -259,6 +268,12 @@ class TestSearchCity(unittest.TestCase):
         prompt = se.client.messages.create.call_args.kwargs["messages"][0]["content"]
         self.assertIn("Existing Gathering", prompt)
         self.assertIn("ADDITIONAL", prompt)
+
+    def test_prompt_includes_local_fields_when_language_set(self):
+        se.search_city({"name": "Seoul", "country": "South Korea", "language": "Korean"})
+        prompt = se.client.messages.create.call_args.kwargs["messages"][0]["content"]
+        self.assertIn("title_local", prompt)
+        self.assertIn("description_local", prompt)
 
 
 if __name__ == "__main__":

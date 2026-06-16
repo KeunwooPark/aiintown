@@ -1,12 +1,23 @@
 {% assign e = include.event %}
+{% assign loc = include.city.locale %}
 <article class="event-card" data-city="{{ include.city.id }}" data-title="{{ e.title | downcase }}">
   {% if e.date_status == "unknown" or e.date == nil or e.date == "" %}
     <time data-i18n="date_tbd">Date TBD</time>
   {% else %}
     <time datetime="{{ e.date }}">{{ e.date | date: "%b %-d, %Y" }}</time>
   {% endif %}
-  <h3>{% if e.url %}<a href="{{ e.url }}" rel="noopener" target="_blank">{{ e.title }}</a>{% else %}{{ e.title }}{% endif %}</h3>
+  <h3>
+    {% if e.url %}<a href="{{ e.url }}" rel="noopener" target="_blank">{% endif %}
+      <span class="t-en">{{ e.title }}</span>
+      {% if e.title_local %}<span class="t-local" data-locale="{{ loc }}" hidden>{{ e.title_local }}</span>{% endif %}
+    {% if e.url %}</a>{% endif %}
+  </h3>
   {% if e.venue %}<p class="venue">{{ e.venue }}</p>{% endif %}
-  {% if e.description %}<p class="desc">{{ e.description }}</p>{% endif %}
+  {% if e.description %}
+  <p class="desc">
+    <span class="d-en">{{ e.description }}</span>
+    {% if e.description_local %}<span class="d-local" data-locale="{{ loc }}" hidden>{{ e.description_local }}</span>{% endif %}
+  </p>
+  {% endif %}
   {% if e.source %}<span class="source">{{ e.source }}</span>{% endif %}
 </article>
