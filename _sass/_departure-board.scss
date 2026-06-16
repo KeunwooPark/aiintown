@@ -1,0 +1,29 @@
+.departure-board {
+  font-family: $font-mono;
+  border: $border;
+  background: $color-ink;
+  color: $color-bg;
+  margin: 2.5rem 0;
+}
+.board-head, .board-row {
+  display: grid;
+  grid-template-columns: 2fr 1.4fr 1fr auto;
+  gap: 1rem;
+  padding: .8rem 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+}
+.board-head {
+  color: $color-accent;
+  border-bottom: 2px solid $color-bg;
+  font-weight: 700;
+}
+.board-row {
+  color: $color-bg;
+  text-decoration: none;
+  border-bottom: 1px solid rgba($color-bg, .25);
+}
+.board-row:last-child { border-bottom: 0; }
+.board-row .when { color: $color-accent; }
+.board-row .gate { color: $color-accent; }
+.board-row:hover { background: rgba($color-accent, .18); }
