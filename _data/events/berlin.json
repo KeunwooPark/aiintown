@@ -7,7 +7,7 @@
     "source": "Luma",
     "description": "Community space powered by Journee (The Human AI Company) where scientists, ML engineers, founders, creators, and AI enthusiasts build the future of AI. Currently curating 2026 events calendar for meetups, workshops, and hackathons. Supported by Cloudflare and offers Google Cloud credits to attendees.",
     "city": "berlin",
-    "id": "7e60850143bd6a60",
+    "id": "6e74364e6be4ce33",
     "date_status": "unknown",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
@@ -20,7 +20,7 @@
     "source": "AI Tinkerers Berlin",
     "description": "In-person meetup for engineers, founders, researchers, and product builders working on AI agents, multimodal and voice interfaces, RAG and knowledge systems, AI coding tools, and production AI infrastructure. Features live demos from local builders, technical Q&A, and networking. Demos show real systems or code, not sales decks.",
     "city": "berlin",
-    "id": "d707bb6ed90b9c79",
+    "id": "4867edb863b0a225",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-16"
   },
@@ -34,7 +34,7 @@
     "title_local": "BLISS AI Speaker Series 2026",
     "description_local": "BLISS e.V. ist die KI-Organisation in Berlin, die Gleichgesinnte verbindet, die großes Interesse und Leidenschaft für das Gebiet des maschinellen Lernens teilen. Im Sommer 2026 veranstalten wir wieder eine spannende Speaker-Reihe vor Ort in Berlin mit exzellenten Forschern.",
     "city": "berlin",
-    "id": "e7c501df036c1e2f",
+    "id": "3f5021a85ab2cd80",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -46,7 +46,7 @@
     "source": "AI Berlin",
     "description": "Flagship gathering for the global agentic ecosystem. Under the theme 'From Chatbots to Autonomous Economies', explores how agents coordinate with each other and with humans, how they create and capture value and revenue, and how much autonomy we can safely give them across digital networks.",
     "city": "berlin",
-    "id": "2bc4b020843b95e0",
+    "id": "f125f4cdbc3f6daf",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-16"
   },
@@ -58,7 +58,7 @@
     "source": "Create With",
     "description": "Half-day in-person workshop (12:00-6:00 PM) focused on building self-improving AI agents using reinforcement learning. Includes sessions on specializing open-source LLMs, serverless RL, tool use, MCP integration, and evaluation workflows.",
     "city": "berlin",
-    "id": "b0955460952a39a0",
+    "id": "22c4be5ddc567872",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-16"
   },
@@ -70,7 +70,7 @@
     "source": "Eventbrite",
     "description": "48-hour hackathon (June 20-21) for robotics engineers, software developers, designers, and entrepreneurs. Focuses on merging Robotics with Agentic AI to engineer functional, real-world solutions. Features hands-on innovation with agentic coding and robotics hardware, expert mentorship from industry leaders in robotics and AI.",
     "city": "berlin",
-    "id": "6a08c3aad8277e47",
+    "id": "d51eb336b41eb8a9",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
   },
@@ -82,7 +82,7 @@
     "source": "Luma",
     "description": "Full weekend AI hackathon with hacking, learning, and networking. Limited to 90 participants. Includes opening & matchmaking, competition, finalist pitches, and award ceremony. First come, first serve entry.",
     "city": "berlin",
-    "id": "72a427b796358813",
+    "id": "7d4d5145ac13cf39",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -94,19 +94,7 @@
     "source": "CONNECTED Conference",
     "description": "One-day in-person event focused on concrete AI use cases and integration of AI into existing IT landscapes, especially Microsoft and SAP environments. Features impulse formats, sessions, and moderated discussions. Designed for CEOs, CIOs, CTOs, CDOs, and IT decision-makers.",
     "city": "berlin",
-    "id": "d2dd0b6355190911",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "CONNECTED Berlin 2026",
-    "date": "2026-06-26",
-    "venue": "Rooftop Location in Berlin",
-    "url": "https://connectedconference.de/",
-    "source": "CONNECTED Conference",
-    "description": "One-day conference focused on concrete AI use cases and integration in Microsoft and SAP environments. Features expert forums on AI architecture, governance, economic viability, and maturity. Targets decision-makers and IT leaders implementing AI in enterprises.",
-    "city": "berlin",
-    "id": "9a58f18da206633b",
+    "id": "687d144e67fe7d2c",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -118,32 +106,8 @@
     "source": "Eventbrite / GITEX",
     "description": "Two-day event (June 30 - July 1) bringing together Europe's AI pioneers, enterprise leaders, frontier startups, investors and policymakers. Features AI Everything Europe showcasing cutting-edge AI use cases, North Star Europe for startups & scaleups, and multiple conference tracks. Expected 30,000+ tech & business leaders, 2,000+ enterprises & startups, 600+ investors.",
     "city": "berlin",
-    "id": "3544cd94a404d216",
+    "id": "8ebb7e72d43a410c",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "International Conference on AI Robotics Software for Human-Robot Interaction (ICARSHRI)",
-    "date": "2026-06-30",
-    "venue": "Berlin, Germany",
-    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "International conference on AI robotics and human-robot interaction. Virtual and in-person attendance options available.",
-    "city": "berlin",
-    "id": "de52a9274b08b45e",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "International Conference on AI-driven Data Science and Machine Learning Applications (ICADSL)",
-    "date": "2026-06-30",
-    "venue": "Berlin, Germany",
-    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "Virtual and in-person academic conference focused on AI-driven data science and machine learning applications.",
-    "city": "berlin",
-    "id": "1a42db6b7a136eb6",
-    "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
   {
@@ -154,7 +118,7 @@
     "source": "IQPC",
     "description": "Two-day conference (July 1-2) bringing together HR leaders to discuss latest advances and best practices in using Agentic AI in human resources.",
     "city": "berlin",
-    "id": "c024252582f5deff",
+    "id": "bd88f83041f60b27",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -166,32 +130,8 @@
     "source": "International Conference Alerts",
     "description": "International conference on AI-driven data science and machine learning applications. Virtual and in-person attendance options available.",
     "city": "berlin",
-    "id": "e463a29104da922a",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "International Conference on AI-driven Data Science for Autonomous Systems (ICIADAS)",
-    "date": "2026-07-03",
-    "venue": "Berlin, Germany",
-    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "Virtual and in-person academic conference on AI-driven data science for autonomous systems.",
-    "city": "berlin",
-    "id": "5e86d65e385e8c5f",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "Language AI Meetup Berlin",
-    "date": "2026-07-06",
-    "venue": "Berlin",
-    "url": "https://www.meetup.com/language-ai-meetup/",
-    "source": "Meetup - Language AI Meetup",
-    "description": "Platform to discuss all things related to artificial intelligence and language. Connects practitioners, researchers and language aficionados. Provides networking opportunities, insightful discussions, and updates on latest advancements in Language AI. Led and sponsored by Supertext.",
-    "city": "berlin",
-    "id": "b40a360143b31f52",
-    "first_seen": "2026-06-16",
+    "id": "216d5e94062d17a7",
+    "first_seen": "2026-06-15",
     "last_seen": "2026-06-16"
   },
   {
@@ -204,7 +144,7 @@
     "title_local": "Language AI Meetup Berlin - Juli 2026",
     "description_local": "Plattform zur Diskussion aller Themen rund um künstliche Intelligenz und Sprache mit regelmäßigen Community-Events in Berlin.",
     "city": "berlin",
-    "id": "c129dbc5d3220f9b",
+    "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -216,19 +156,7 @@
     "source": "Global AI Community",
     "description": "In-person AI community event, part of the global Global AI Community network. Time: 17:00-20:00 CET.",
     "city": "berlin",
-    "id": "ef792194160a0431",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "HR Leaders Summit 2026 - WeAreDevelopers World Congress",
-    "date": "2026-07-08",
-    "venue": "Berlin, Germany",
-    "url": "https://www.createwith.com/cities/berlin",
-    "source": "WeAreDevelopers",
-    "description": "Three-day conference (July 8-10) bringing HR leaders together with developers for talks on AI, recruiting, and employer branding. Part of WeAreDevelopers World Congress.",
-    "city": "berlin",
-    "id": "af4f18c0f3cd2b55",
+    "id": "c86ddf054ed364a8",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -240,31 +168,7 @@
     "source": "WeAreDevelopers",
     "description": "Three-day conference (July 8-10) for developers, AI innovators, and tech leaders. Covers AI, LLMs, Cloud, DevOps, Software Architecture. Features 500+ hours of keynotes, workshops, masterclasses, and tech expo. Expected 15,000+ participants from 100+ countries.",
     "city": "berlin",
-    "id": "c0bb425ceedad9f7",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
-  },
-  {
-    "title": "International Conference on AI and Computational Biology (ICAICB)",
-    "date": "2026-07-31",
-    "venue": "Berlin, Germany",
-    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "International AI conference with both virtual and in-person attendance options focusing on AI and computational biology.",
-    "city": "berlin",
-    "id": "f3f4c3053b7e0160",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
-  },
-  {
-    "title": "International Conference on Transportation and Logistics with Artificial Intelligence (ICTLAI)",
-    "date": "2026-08-04",
-    "venue": "Berlin, Germany",
-    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "International conference focusing on AI applications in transportation and logistics. Offers both virtual and in-person attendance.",
-    "city": "berlin",
-    "id": "a4e48a69fc05b314",
+    "id": "9a30376234d658a6",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
   },
@@ -276,7 +180,7 @@
     "source": "Agentic AI Alliance",
     "description": "Engineering-first conference for AI engineers, developers, and executives building and deploying advanced agentic AI systems. Focuses on multi-agent architectures and production deployment, beyond single-model chatbots toward autonomous, multi-agent workflows.",
     "city": "berlin",
-    "id": "76b45266d6b2152e",
+    "id": "f65b0355b54ecf4b",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
   },
@@ -288,7 +192,7 @@
     "source": "BIG BANG Festival",
     "description": "Two-day festival (September 16-17) featuring 350+ speakers across six stages from business, tech, health and politics. Expected 11,000+ guests. Includes keynotes, panels, masterclasses, networking, and street food. All participants receive an official AI certificate. Aimed at C-level, entrepreneurs, decision-makers and startups.",
     "city": "berlin",
-    "id": "79d2d71d54f70b95",
+    "id": "a1e89f63d8ce233d",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -300,7 +204,7 @@
     "source": "10times",
     "description": "Premier event for top-level networking among AI and machine learning decision-makers. Over 500 participants from Germany, Austria, and Switzerland. 2.5-day program with success stories, cutting-edge technologies, practical use cases from fraud detection to predictive analytics. Topics include Applied AI, ML, Business Analytics, Deep Learning, NLP.",
     "city": "berlin",
-    "id": "f525bf5578e315d5",
+    "id": "3001a2879c713804",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -312,7 +216,7 @@
     "source": "Messen.de",
     "description": "Two-day conference (September 22-23) - Europe's leading conference on AI and data applications in business. Features experts from industry, politics and research discussing AI regulations, business model development, and legal frameworks.",
     "city": "berlin",
-    "id": "53607eb9c6dcd0a8",
+    "id": "1613545dc4c58fb3",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -324,32 +228,8 @@
     "source": "Innovatex Conferences",
     "description": "Three-day conference (October 12-14, 2026) bringing together global experts, researchers, and industry leaders. Theme: 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation'. Features nearly thirty focused scientific sessions, keynote lectures, interactive presentations, and poster sessions.",
     "city": "berlin",
-    "id": "5dea872e80123055",
+    "id": "15932057c4239dba",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
-  },
-  {
-    "title": "Artificial Intelligence, Machine Learning & Data Science Conference",
-    "date": "2026-10-12",
-    "venue": "Berlin, Germany",
-    "url": "https://www.createwith.com/cities/berlin",
-    "source": "Create With",
-    "description": "Three-day conference (Oct 12-14) bringing together researchers, industry leaders and developers to explore latest advances in AI, ML, data analytics, and responsible automation.",
-    "city": "berlin",
-    "id": "0a521e68b12a5a7c",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "International Conference on Artificial Intelligence, Machine Learning & Data Science (AIML)",
-    "date": "2026-10-12",
-    "venue": "Berlin, Germany",
-    "url": "https://innovatexconference.com/artificialintelligence/",
-    "source": "Innovatex Conferences",
-    "description": "Three-day conference (October 12-14) with theme 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation'. Features 30 scientific sessions, keynote lectures, interactive presentations, and poster sessions.",
-    "city": "berlin",
-    "id": "8a0ccd9b770466da",
-    "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
   {
@@ -360,7 +240,7 @@
     "source": "Eventbrite",
     "description": "Evening event (6 PM - 10 PM) gathering 150 business, innovation, product, and tech leaders from across Berlin. Features a 45-minute panel discussion (6:30-7:15 PM) with six speakers including AI leaders from Babbel, Rhapsody, and Charité. Includes complimentary drinks, snacks, and access to a networking app. Hosted by Startup Network Europe.",
     "city": "berlin",
-    "id": "31b369b641078702",
+    "id": "d7949f08ac7e51e0",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -374,21 +254,7 @@
     "title_local": "NVIDIA GTC Berlin 2026",
     "description_local": "Die NVIDIA GTC KI-Konferenz kommt nach Berlin und bringt Entwickler, Forscher und Branchenführer zusammen, um KI-Infrastruktur zu erkunden.",
     "city": "berlin",
-    "id": "94a293b56b691c4f",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "Language AI Meetup Berlin - November 2026",
-    "date": "2026-11-09",
-    "venue": "Berlin (venue TBA)",
-    "url": "https://www.meetup.com/language-ai-meetup/",
-    "source": "meetup.com",
-    "description": "Language AI Meetup is a platform to discuss all things related to artificial intelligence and language with regular community events in Berlin. The community is dedicated to exploring and engaging in enlightening conversations about the intersection of language and AI, connecting practitioners, researchers and language aficionados.",
-    "title_local": "Language AI Meetup Berlin - November 2026",
-    "description_local": "Plattform zur Diskussion aller Themen rund um künstliche Intelligenz und Sprache mit regelmäßigen Community-Events in Berlin.",
-    "city": "berlin",
-    "id": "732b10be3aa7c217",
+    "id": "360af534a8e89351",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   },
@@ -400,7 +266,7 @@
     "source": "MLconference.ai",
     "description": "Five-day event (Nov 16-20, 2026) focusing on Generative AI, LLMs, MLOps, ML Strategy and machine learning technologies. Features workshops, keynotes, bootcamps, and networking opportunities. Expo days: Nov 18-19, 2026. Available in-person or online.",
     "city": "berlin",
-    "id": "9ce451565f568456",
+    "id": "9a05b37a144a341e",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-16"
   },
@@ -412,7 +278,7 @@
     "source": "KI-X Berlin / Quadriga Media",
     "description": "Two-day convention (November 18-19) showing how companies from SMEs to enterprises are implementing AI in HR practice. Covers AI-supported recruiting, talent management, employee development, predictive analytics, and automated workflows.",
     "city": "berlin",
-    "id": "443d7be9a5bce779",
+    "id": "d5be695f108fc9f4",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
   }
