@@ -66,7 +66,7 @@ Holds all UI chrome strings for each supported locale (`en`, `ko`, `de`). Each k
 
 ### `_includes/header.html` and `_includes/footer.html`
 
-`header.html` is the flat two-ink hero banner — `site.title`, a tagline (with `data-i18n="tagline"` for runtime localization), a `<label class="lang-switch">` containing a `<select id="lang-switcher">` built from `site.data.i18n`, and the search bar via `{% include search-bar.html %}`. `footer.html` is the attribution strip showing `site.description`. Both override `minima`'s equivalents.
+`header.html` is the flat two-ink hero banner — `site.title`, a tagline (with `data-i18n="tagline"` for runtime localization), a `<label class="lang-switch">` containing a `<select id="lang-switcher">` built from `site.data.i18n`, and the search bar via `{% include search-bar.html %}`. The search-bar include is **guarded** by `{% unless page.layout == 'city' %}` so it renders on the homepage (`layout: home`) but is omitted on per-city detail pages (`cities/<id>.html`, which declare `layout: city`) — there the bar would only filter the one already-shown section, so it is just clutter. The title, tagline, and language switcher always render. `footer.html` is the attribution strip showing `site.description`. Both override `minima`'s equivalents.
 
 ### `_includes/event-card.html`
 
@@ -82,7 +82,7 @@ Renders one event passed in as `include.event` (aliased to `e`), plus `include.c
 
 2. **City filtering** — on each `input` event it reads the query, matches it case-insensitively against each `[data-city-section]` element's `data-city-name` and `data-city-id` attributes, toggles that element's `hidden` attribute accordingly, and reveals the `.no-results` element when nothing matches. The script targets the `[data-city-section]` attribute (not a class), so it works unchanged whether the matched elements are the homepage's `.board-row` anchors or a per-city page's single `.city-section` — no JS change was needed for the departure-board redesign.
 
-No backend or build tooling is involved beyond the static datalist generation; the search header still renders on per-city pages (where it filters only the single section), which is harmless. Styling lives in `_sass/_search.scss`.
+No backend or build tooling is involved beyond the static datalist generation. The search form is only emitted on the homepage; `_includes/header.html` omits it on per-city pages (`layout: city`) via `{% unless page.layout == 'city' %}`. When the form is absent, `search.js` no-ops cleanly — its city-filtering branch bails out on `var input = document.getElementById('city-search'); if (!input) return;`, while the language-switching logic above that guard still runs. Styling lives in `_sass/_search.scss`.
 
 ### `_sass/` partials and `assets/css/main.scss`
 
