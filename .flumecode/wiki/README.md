@@ -1,4 +1,4 @@
-<!-- wiki-synced-to: f306c6299cba2b9c55b0350d3e5de0f019d1f8ee -->
+<!-- wiki-synced-to: 8ffa5ed7b4595b5bc2ca8a98f9b8b9aeb9d4d6db -->
 
 # aiintown wiki
 
