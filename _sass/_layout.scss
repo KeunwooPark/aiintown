@@ -60,3 +60,31 @@
 }
 
 .site-footer { margin-top:4rem; padding:2rem 0; color:$color-muted; border-top:$border; }
+
+// Language switcher — sits above the city search bar in the hero, inherits the two-ink lithograph style.
+.lang-switch { display:inline-block; margin-top:1.25rem; }
+
+// Hard ink border, square corners, cream surface — mirrors the city-search input treatment.
+#lang-switcher {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding: .6rem 2.2rem .6rem 1.1rem;
+  border: $border;
+  border-radius: 0;
+  box-shadow: $shadow;
+  // Set background-color separately so the SVG arrow background-image doesn't clobber the cream fill.
+  background-color: $color-surface;
+  color: $color-ink;
+  font-family: $font-sans;
+  font-size: 1rem;
+  cursor: pointer;
+  // Vermilion chevron — matches the data-URI SVG accent approach used for the circle and square markers above.
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23e1452b'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right .8rem center;
+  background-size: .8rem;
+}
+
+// Vermilion focus ring — consistent with .city-search input:focus.
+#lang-switcher:focus { outline: 3px solid $color-accent; }
