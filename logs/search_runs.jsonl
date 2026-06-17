@@ -1,0 +1,1 @@
+{"run_date": "2026-06-17", "cities": [{"city": "seoul", "fetched": 6, "new": 2, "duplicates": 0, "skipped_past": 4}, {"city": "berlin", "fetched": 8, "new": 2, "duplicates": 0, "skipped_past": 6}], "totals": {"fetched": 14, "new": 4, "duplicates": 0, "skipped_past": 10}}

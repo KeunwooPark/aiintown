@@ -12,6 +12,20 @@
     "last_seen": "2026-06-16"
   },
   {
+    "title": "AI EXPO KOREA 2026",
+    "date": "2026-06-17",
+    "venue": "Seoul",
+    "url": "http://www.aiexpo.co.kr/home/e1.php?s=41",
+    "source": "AI EXPO KOREA",
+    "description": "Korea's leading B2B AI exhibition featuring AI TECH 2026 conference, Global AI Summit, X+AI Conference, seminars, business networking, and AI Excellence Summit Awards. Comprehensive showcase of Korea's AI ecosystem.",
+    "title_local": "국제인공지능대전 2026",
+    "description_local": "한국 최대 B2B AI 전시회. AI TECH 2026 컨퍼런스, 글로벌 AI 서밋, X+AI 컨퍼런스, 세미나, 비즈니스 네트워킹, AI 우수상 시상식 등 포함. 한국 AI 생태계의 종합적인 전시",
+    "city": "seoul",
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "id": "b73744912f829cc4"
+  },
+  {
     "title": "AAAI 2026 Summer Symposium Series",
     "date": "2026-06-22",
     "venue": "Dongguk University, Seoul",
@@ -22,6 +36,20 @@
     "id": "5efdcf147423dd5e",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-16"
+  },
+  {
+    "title": "Global AI Seoul",
+    "date": "2026-06-25",
+    "venue": "서울특별시, South Korea",
+    "url": "https://globalai.community/events/",
+    "source": "Global AI Community",
+    "description": "Global AI community meetup in Seoul, part of the worldwide Global AI Community network bringing together AI pioneers and practitioners for in-person networking and knowledge sharing.",
+    "title_local": "글로벌 AI 서울",
+    "description_local": "전 세계 글로벌 AI 커뮤니티 네트워크의 일환으로 서울에서 개최되는 AI 실무자 및 선구자들을 위한 대면 밋업 및 지식 공유 행사",
+    "city": "seoul",
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "id": "3e3f118ea1587043"
   },
   {
     "title": "Festival of Learning 2026 (AIED 2026, ACM Learning at Scale)",

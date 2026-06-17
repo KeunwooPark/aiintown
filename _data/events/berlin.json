@@ -51,6 +51,20 @@
     "last_seen": "2026-06-16"
   },
   {
+    "title": "DeSci.Berlin 2026",
+    "date": "2026-06-18",
+    "venue": "Kreuzberg, Berlin",
+    "url": "https://luma.com/desciberlin2026",
+    "source": "luma.com",
+    "description": "The 5th edition of DeSci.Berlin, taking place in the heart of Kreuzberg during Berlin Blockchain Week. This event is for scientists, AI engineers, web3 builders, biotech founders, institutions and believers in a more open, accelerated research economy. The event focuses on scientific singularity and agentic science.",
+    "title_local": "DeSci.Berlin 2026",
+    "description_local": "Die 5. Ausgabe von DeSci.Berlin findet im Herzen von Kreuzberg während der Berlin Blockchain Week statt, am 18. und 19. Juni 2026. Wissenschaft wird programmierbar, modular und zunehmend autonom. Dieses Event ist für Wissenschaftler, KI-Ingenieure, Web3-Builder, Biotech-Gründer und Befürworter einer offeneren, beschleunigten Forschungsökonomie.",
+    "city": "berlin",
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "id": "f09121590adc6b0e"
+  },
+  {
     "title": "The AI Agent Workshop: BERLIN",
     "date": "2026-06-18",
     "venue": "The Social Hub, Alexanderstraße 40, Berlin",
@@ -219,6 +233,20 @@
     "id": "1613545dc4c58fb3",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
+  },
+  {
+    "title": "AI, Data & Quantum Summit (AIDAQ 2026)",
+    "date": "2026-09-22",
+    "venue": "bcc Berlin Congress Center",
+    "url": "https://aidaq.berlin/",
+    "source": "aidaq.berlin",
+    "description": "AI, Data and Quantum Summit will take place on 22 and 23 September 2026 live at bcc Berlin. As major European event dedicated to the latest trends in data, AI and quantum computing, the summit offers a unique opportunity to explore best practices. Focus on AI regulation and governance, trustworthy and secure systems, European and national quantum strategies, and the implications for defence, critical infrastructure and resilient technology ecosystems.",
+    "title_local": "AI, Data & Quantum Summit (AIDAQ 2026)",
+    "description_local": "Der AI, Data and Quantum Summit findet am 22. und 23. September 2026 live im bcc Berlin statt. Als bedeutende europäische Veranstaltung zu den neuesten Trends in Daten, KI und Quantencomputing bietet der Gipfel eine einzigartige Gelegenheit, Best Practices zu erkunden.",
+    "city": "berlin",
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "id": "19a57c55d4cf0abb"
   },
   {
     "title": "AI, Machine Learning & Data Science Conference",
