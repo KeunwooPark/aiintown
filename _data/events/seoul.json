@@ -48,7 +48,7 @@
     "description_local": "전 세계 글로벌 AI 커뮤니티 네트워크의 일환으로 서울에서 개최되는 AI 실무자 및 선구자들을 위한 대면 밋업 및 지식 공유 행사",
     "city": "seoul",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
+    "last_seen": "2026-06-18",
     "id": "3e3f118ea1587043"
   },
   {
@@ -98,6 +98,20 @@
     "id": "98dd8b906bab4381",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-16"
+  },
+  {
+    "title": "2026 Skill-Up Festa (Work Expert Festa)",
+    "date": "2026-07-02",
+    "venue": "COEX Magok, Seoul",
+    "url": "https://skillupfesta.com/70",
+    "source": "Skill-Up Festa",
+    "description": "Three-day event focused on AI-driven work transformation, automation, smart work, and organizational culture. Features conferences, workshops, and exhibitions on AI agents, digital transformation, and future of work.",
+    "title_local": "2026 일잘러 페스타",
+    "description_local": "AI 에이전트, 업무 자동화, 스마트워크, 조직문화 등 업무 혁신을 다루는 3일간의 대규모 행사입니다. 컨퍼런스, 워크숍, 전시를 통해 AI 시대의 일하는 방식을 제안합니다.",
+    "city": "seoul",
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "id": "11a074b50876cc17"
   },
   {
     "title": "ICML 2026 - International Conference on Machine Learning",
@@ -182,5 +196,33 @@
     "id": "31273fa4795e36ac",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
+  },
+  {
+    "title": "AI Festa 2026",
+    "date": "2026-10-06",
+    "venue": "COEX Hall C, Seoul",
+    "url": "https://www.aifesta.kr/",
+    "source": "AI Festa Official",
+    "description": "Korea's largest AI festival and exhibition with 350+ companies and 30,000+ visitors. Focus on AI realization in real industries and society, featuring core AI technologies, data solutions, robotics, healthcare, and more.",
+    "title_local": "인공지능 페스타 2026",
+    "description_local": "국내 최대 규모의 AI 페스티벌로 350여 기업과 3만 명 이상이 참관하는 글로벌 비즈니스 플랫폼입니다. AI가 실제 산업과 사회에서 구현되고 작동하는 모습을 확인하는 자리입니다.",
+    "city": "seoul",
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "id": "e27613476fc821c2"
+  },
+  {
+    "title": "2026 Seocho AI Festa",
+    "date": "2026-10-17",
+    "venue": "Seocho Culture & Arts Park, Seoul",
+    "url": "https://v.daum.net/v/20260610074337829",
+    "source": "Seocho District Government",
+    "description": "Second annual Seocho AI Festa featuring 50+ AI experience booths, physical AI (robotics) zone, citizen participation contests, and future technology experience programs. Community-focused AI festival.",
+    "title_local": "2026 서초 AI 페스타",
+    "description_local": "제2회 서초 AI 페스타로 50개 이상의 AI 체험부스, 피지컬 AI(로봇)존, 주민 참여 공모전, 미래기술 체험 프로그램 등이 펼쳐지는 주민 참여형 AI 축제입니다.",
+    "city": "seoul",
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "id": "150af676f831b606"
   }
 ]

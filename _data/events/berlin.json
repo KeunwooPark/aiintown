@@ -165,14 +165,30 @@
   {
     "title": "Global AI Berlin",
     "date": "2026-07-08",
-    "venue": "Berlin, Germany",
+    "venue": "CODE University of Applied Sciences, Donaustr. 44, 12043 Berlin",
     "url": "https://globalai.community/events/",
     "source": "Global AI Community",
-    "description": "In-person AI community event, part of the global Global AI Community network. Time: 17:00-20:00 CET.",
+    "description": "In-person community event by Global AI Berlin. Part of worldwide Global AI Community network with discussions, workshops, and networking for AI enthusiasts, professionals, and beginners interested in artificial intelligence and machine learning.",
+    "title_local": "Global AI Berlin",
+    "description_local": "Persönliches Community-Event von Global AI Berlin. Teil des weltweiten Global AI Community-Netzwerks mit Diskussionen, Workshops und Networking für KI-Enthusiasten und Fachleute.",
     "city": "berlin",
-    "id": "c86ddf054ed364a8",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-06-18",
+    "id": "c86ddf054ed364a8"
+  },
+  {
+    "title": "Nebius.Build Berlin",
+    "date": "2026-07-08",
+    "venue": "CODE University of Applied Sciences, Donaustr. 44, 12043 Berlin",
+    "url": "https://nebius.com/events/nebius-build-berlin",
+    "source": "Nebius / Global AI Berlin",
+    "description": "Small in-person gathering for engineers building production AI systems. Focus on deploying models, scaling workloads, and running AI in production. Sessions led by engineers from Nebius, NVIDIA, Anyscale, Tavily with deep technical discussion and hands-on workshop.",
+    "title_local": "Nebius.Build Berlin",
+    "description_local": "Kleines persönliches Treffen für Ingenieure, die Produktions-KI-Systeme entwickeln. Fokus auf Modellbereitstellung, Skalierung von Workloads und KI-Betrieb in der Produktion.",
+    "city": "berlin",
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "id": "0c90f9be626a556c"
   },
   {
     "title": "WeAreDevelopers World Congress 2026",
@@ -225,14 +241,16 @@
   {
     "title": "AI & Data Summit 2026",
     "date": "2026-09-22",
-    "venue": "Berlin",
+    "venue": "bcc Berlin",
     "url": "https://www.messen.de/de/22665/berlin/ai-data-summit/info",
-    "source": "Messen.de",
-    "description": "Two-day conference (September 22-23) - Europe's leading conference on AI and data applications in business. Features experts from industry, politics and research discussing AI regulations, business model development, and legal frameworks.",
+    "source": "Bitkom",
+    "description": "Leading European B2B conference on AI and data analytics with around 2,200 participants, 220+ speakers, and 140 sessions. Focuses on practical examples of AI/data in business beyond pilot projects. Runs parallel to Quantum Summit. Aimed at top decision makers from industry, tech and research.",
+    "title_local": "AI & Data Summit 2026",
+    "description_local": "Führende europäische B2B-Konferenz zu KI und Datenanalyse mit ca. 2.200 Teilnehmenden, über 220 Speakern und 140 Sessions. Fokus auf praktischen Beispielen, wie Unternehmen tatsächlich von KI und Daten profitieren können.",
     "city": "berlin",
-    "id": "1613545dc4c58fb3",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-06-18",
+    "id": "1613545dc4c58fb3"
   },
   {
     "title": "AI, Data & Quantum Summit (AIDAQ 2026)",
@@ -258,7 +276,7 @@
     "city": "berlin",
     "id": "15932057c4239dba",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-06-18"
   },
   {
     "title": "The Berlin AI Conference 2026",
@@ -309,5 +327,50 @@
     "id": "d5be695f108fc9f4",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
+  },
+  {
+    "title": "AI in Action Berlin",
+    "date": null,
+    "venue": "Berlin",
+    "url": "https://www.meetup.com/AI-in-Action-Berlin/events/",
+    "source": "Meetup",
+    "description": "Regular meetup with 3 technical talks per event (6:45pm-8:15pm) followed by networking. Topics include production-ready AI systems, computer vision, deep learning, and practical AI implementation. Includes refreshments and pizza.",
+    "title_local": "AI in Action Berlin",
+    "description_local": "Regelmäßiges Meetup mit 3 technischen Vorträgen pro Event, gefolgt von Networking. Themen umfassen produktionsreife KI-Systeme, Computer Vision und praktische KI-Implementierung.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "id": "e7d2b6de6f7b8f4d"
+  },
+  {
+    "title": "AI in Manufacturing Meetup Group",
+    "date": null,
+    "venue": "Berlin",
+    "url": "https://www.meetup.com/berlin-ai-meetup-group/",
+    "source": "Meetup",
+    "description": "Community for exchanging ideas and demoing technologies around industrial automation, inspection systems, and AI-powered quality management. Hosted by Enao Vision, a Berlin-based startup empowering manufacturing professionals.",
+    "title_local": "AI in Manufacturing Meetup Group",
+    "description_local": "Community zum Austausch von Ideen und Demo von Technologien rund um industrielle Automatisierung, Inspektionssysteme und KI-gestützte Qualitätsmanagement. Gehostet von Enao Vision.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "id": "786e4230a7cdc8a4"
+  },
+  {
+    "title": "Berlin AI Meetup (meetupai Berlin)",
+    "date": null,
+    "venue": "Revaler Str. 31, Berlin",
+    "url": "https://www.meetup.com/meetupai-berlin/",
+    "source": "Meetup",
+    "description": "Regular community meetup bringing speakers from various industries to discuss code implementations of AI and economical, social and ethical aspects. Open environment for knowledge exchange, networking and community building.",
+    "title_local": "Berlin AI Meetup (meetupai Berlin)",
+    "description_local": "Regelmäßiges Community-Meetup mit Speakern aus verschiedenen Branchen zu Code-Implementierungen von KI sowie wirtschaftlichen, sozialen und ethischen Aspekten. Offenes Umfeld für Wissensaustausch und Vernetzung.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "id": "2ac2b4827290e015"
   }
 ]

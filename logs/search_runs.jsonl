@@ -1,1 +1,2 @@
 {"run_date": "2026-06-17", "cities": [{"city": "seoul", "fetched": 6, "new": 2, "duplicates": 0, "skipped_past": 4}, {"city": "berlin", "fetched": 8, "new": 2, "duplicates": 0, "skipped_past": 6}], "totals": {"fetched": 14, "new": 4, "duplicates": 0, "skipped_past": 10}}
+{"run_date": "2026-06-18", "cities": [{"city": "seoul", "fetched": 5, "new": 3, "duplicates": 1, "skipped_past": 1}, {"city": "berlin", "fetched": 14, "new": 4, "duplicates": 3, "skipped_past": 7}], "totals": {"fetched": 19, "new": 7, "duplicates": 4, "skipped_past": 8}}
