@@ -26,6 +26,20 @@
     "id": "b73744912f829cc4"
   },
   {
+    "title": "2026 꿈도 환승이 되나요 컨퍼런스 — 일하는 방식, AI로 환승하다",
+    "date": "2026-06-20",
+    "venue": "서울 AI 허브 (Seoul AI Hub)",
+    "url": "https://dream-2026-conference.vercel.app/",
+    "source": "Dream Conference 2026",
+    "description": "Agentic AI conference featuring 6 real-world case studies from startup CEOs, artists, and developers. Focuses on transforming work methods with AI rather than just learning AI tools. Hybrid event with both in-person and online streaming.",
+    "title_local": "2026 꿈도 환승이 되나요 컨퍼런스 — 일하는 방식, AI로 환승하다",
+    "description_local": "AI를 배우는 자리가 아니라, AI와 함께 일하는 방식을 보는 자리. 6명의 실전 사례. 2026.06.20 서울 AI 허브. 에이전틱 AI 컨퍼런스. 스타트업 대표·예술가·개발자 6명의 실전 사례를 하루에.",
+    "city": "seoul",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "id": "85d2d3c9b83db9e7"
+  },
+  {
     "title": "AAAI 2026 Summer Symposium Series",
     "date": "2026-06-22",
     "venue": "Dongguk University, Seoul",
@@ -86,6 +100,20 @@
     "id": "36474aedad29718d",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
+  },
+  {
+    "title": "FAR.AI Open Social in Seoul",
+    "date": "2026-06-30",
+    "venue": "TBD (location provided to registrants)",
+    "url": "https://luma.com/2z0dmzlp",
+    "source": "Luma",
+    "description": "An informal evening of networking and conversation for participants of the FAR.AI Seoul Alignment Workshop. Open to anyone interested in AI alignment and related fields. Light refreshments and one complimentary drink per guest provided.",
+    "title_local": "FAR.AI 서울 오픈 소셜",
+    "description_local": "FAR.AI 서울 정렬 워크숍 참가자들을 위한 비공식 네트워킹 및 대화의 저녁. AI 정렬 및 관련 분야에 관심 있는 모든 사람에게 열려 있습니다.",
+    "city": "seoul",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "id": "1ee3df89d9e99b4b"
   },
   {
     "title": "International Conference on Cybersecurity and Artificial Intelligence (ICCAI)",
@@ -210,6 +238,20 @@
     "first_seen": "2026-06-18",
     "last_seen": "2026-06-18",
     "id": "e27613476fc821c2"
+  },
+  {
+    "title": "Smart Tech Korea 2026 (STK 2026) - AI & Big Data Show",
+    "date": "2026-10-13",
+    "venue": "COEX, Seoul",
+    "url": "https://smarttechkorea.com/aibigdatashow",
+    "source": "Smart Tech Korea",
+    "description": "The 15th Smart Tech Korea exhibition featuring AI & Big Data Show, Robot Tech Show, AI+ Smart Factory Show, and more. Includes conferences and seminars on manufacturing AI transformation, SCM AI Forum 2026, and AI semiconductor technology.",
+    "title_local": "제15회 스마트테크 코리아 (STK 2026) - 인공지능 & 빅데이터쇼",
+    "description_local": "인공지능 & 빅데이터쇼, 로봇테크쇼, AI+ 스마트팩토리쇼 등을 포함한 제15회 스마트테크 코리아 전시회. 제조AX 컨퍼런스, SCM AI Forum 2026, AI 반도체 전자실장기술 세미나 등 컨퍼런스 및 세미나 포함.",
+    "city": "seoul",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "id": "a0bbd4e8cb16e307"
   },
   {
     "title": "2026 Seocho AI Festa",

@@ -65,18 +65,6 @@
     "id": "f09121590adc6b0e"
   },
   {
-    "title": "The AI Agent Workshop: BERLIN",
-    "date": "2026-06-18",
-    "venue": "The Social Hub, Alexanderstraße 40, Berlin",
-    "url": "https://www.createwith.com/cities/berlin",
-    "source": "Create With",
-    "description": "Half-day in-person workshop (12:00-6:00 PM) focused on building self-improving AI agents using reinforcement learning. Includes sessions on specializing open-source LLMs, serverless RL, tool use, MCP integration, and evaluation workflows.",
-    "city": "berlin",
-    "id": "22c4be5ddc567872",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
-  },
-  {
     "title": "Berlin Robotics x AI Hackathon",
     "date": "2026-06-20",
     "venue": "Lohmühlenstr. 65, 12435 Berlin (CIC Innovation Campus, Treptow-Köpenick district)",
@@ -146,7 +134,21 @@
     "city": "berlin",
     "id": "216d5e94062d17a7",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-06-19"
+  },
+  {
+    "title": "AI Software Course - Le Wagon Berlin",
+    "date": "2026-07-06",
+    "venue": "Online (Berlin-based)",
+    "url": "https://www.createwith.com/cities/berlin",
+    "source": "createwith.com",
+    "description": "9-week online AI Software bootcamp starting July 6, 2026. 400 hours of immersive learning blending web development with AI integration, teaching both frontend and backend skills while adding AI capabilities to applications. Designed for aspiring software developers.",
+    "title_local": "KI-Software-Kurs - Le Wagon Berlin",
+    "description_local": "9-wöchiges Online-KI-Software-Bootcamp ab 6. Juli 2026. 400 Stunden intensives Lernen, das Webentwicklung mit KI-Integration verbindet und sowohl Frontend- als auch Backend-Fähigkeiten vermittelt, während KI-Funktionen zu Anwendungen hinzugefügt werden. Entwickelt für angehende Softwareentwickler.",
+    "city": "berlin",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-19",
+    "id": "22c4be5ddc567872"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -271,12 +273,14 @@
     "date": "2026-10-12",
     "venue": "Berlin, Germany",
     "url": "https://innovatexconference.com/artificialintelligence/",
-    "source": "Innovatex Conferences",
-    "description": "Three-day conference (October 12-14, 2026) bringing together global experts, researchers, and industry leaders. Theme: 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation'. Features nearly thirty focused scientific sessions, keynote lectures, interactive presentations, and poster sessions.",
+    "source": "createwith.com / innovatexconference.com",
+    "description": "Three-day event (Oct 12–14, 2026) bringing together researchers, industry leaders and developers to explore the latest advances in AI, ML, data analytics, and responsible automation. Theme: 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation.' Nearly thirty focused scientific sessions covering core AI topics including robotics and autonomous systems, climate science applications, MLOps and scalable deployment, trustworthy AI, high-performance computing and energy-efficient AI.",
+    "title_local": "KI, Machine Learning & Data Science Konferenz",
+    "description_local": "Dreitägige Veranstaltung (12.–14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Kern-KI-Themen einschließlich Robotik und autonome Systeme, Klimawissenschaftsanwendungen, MLOps und skalierbare Bereitstellung, vertrauenswürdige KI, Hochleistungsrechnen und energieeffiziente KI.",
     "city": "berlin",
-    "id": "15932057c4239dba",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-18"
+    "last_seen": "2026-06-19",
+    "id": "15932057c4239dba"
   },
   {
     "title": "The Berlin AI Conference 2026",
@@ -329,6 +333,21 @@
     "last_seen": "2026-06-16"
   },
   {
+    "title": "AI Engineering 2026 Meetup",
+    "date": null,
+    "venue": "Berlin (offline, in-person)",
+    "url": "https://luma.com/cekm51d3",
+    "source": "luma.com",
+    "description": "Offline, in-person event for working professionals looking to network in the software and AI industry. Features a panel discussion, Q&A session, followed by casual networking. For those who want to interact with industry professionals about the current state of AI.",
+    "title_local": "AI Engineering 2026 Meetup",
+    "description_local": "Offline-Veranstaltung vor Ort für Berufstätige, die sich in der Software- und KI-Branche vernetzen möchten. Beinhaltet eine Podiumsdiskussion, eine Frage-und-Antwort-Runde und anschließendes ungezwungenes Networking. Für diejenigen, die mit Branchenexperten über den aktuellen Stand der KI interagieren möchten.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "id": "b4b84d03856ce987"
+  },
+  {
     "title": "AI in Action Berlin",
     "date": null,
     "venue": "Berlin",
@@ -372,5 +391,35 @@
     "first_seen": "2026-06-18",
     "last_seen": "2026-06-18",
     "id": "2ac2b4827290e015"
+  },
+  {
+    "title": "Berlin x AI Meetup",
+    "date": null,
+    "venue": "Berlin (venue TBD)",
+    "url": "https://luma.com/3axe85ws",
+    "source": "luma.com",
+    "description": "Evening event with food and drinks alongside AI experts passionate about building and sharing knowledge. Features 3 lightning talks from top Berlin-based builders, cold drinks, warm people, and real knowledge transfer. Community and networking time with founders, product minds, and AI explorers. Topics include revolutionizing media analysis with LLMs, turning ideas into shipped AI tools, and bringing AI products to market.",
+    "title_local": "Berlin x KI Meetup",
+    "description_local": "Abendveranstaltung mit Essen und Getränken zusammen mit KI-Experten, die leidenschaftlich daran interessiert sind, zu bauen und Wissen zu teilen. Beinhaltet 3 Lightning-Talks von Top-Berliner Entwicklern, kalte Getränke, warme Menschen und echten Wissenstransfer. Community- und Networking-Zeit mit Gründern, Produktexperten und KI-Entdeckern. Themen umfassen die Revolutionierung der Medienanalyse mit LLMs, das Verwandeln von Ideen in ausgelieferte KI-Tools und das Bringen von KI-Produkten auf den Markt.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "id": "85c8aa34e118ae0f"
+  },
+  {
+    "title": "Berlin: Tech Talks & Business Brains",
+    "date": null,
+    "venue": "Berlin (venue TBD)",
+    "url": "https://luma.com/g77pez7o",
+    "source": "luma.com",
+    "description": "Informal, inspiring evening in Berlin for those into design, no-code or AI, building solo or in small teams. Casual meetup with designers, creatives and founders working on side projects, apps and digital products. Focus on tool swaps, new collaborations and connecting with other makers in the city. Space to share what you're working on, ask questions and connect.",
+    "title_local": "Berlin: Tech Talks & Business Brains",
+    "description_local": "Informeller, inspirierender Abend in Berlin für diejenigen, die sich für Design, No-Code oder KI interessieren und solo oder in kleinen Teams arbeiten. Ungezwungenes Treffen mit Designern, Kreativen und Gründern, die an Nebenprojekten, Apps und digitalen Produkten arbeiten. Fokus auf Tool-Austausch, neue Kooperationen und Vernetzung mit anderen Machern in der Stadt. Raum zum Teilen dessen, woran man arbeitet, Fragen zu stellen und sich zu vernetzen.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "id": "f8fae9f3cfd39a48"
   }
 ]
