@@ -65,6 +65,20 @@
     "id": "f09121590adc6b0e"
   },
   {
+    "title": "Accelerate Tomorrow AI Summit 2026",
+    "date": "2026-06-20",
+    "venue": "Berlin, Germany",
+    "url": "https://www.visitberlin.de/en/event/accelerate-tomorrow-ai-summit-2026",
+    "source": "visitBerlin.de",
+    "description": "Germany's leading AI event for business leaders, gathering 2,000+ senior executives, 200+ top AI speakers, and 100+ AI startups. Built for decision-makers who own strategy and budgets, designed around practical applications. Features executive keynotes, closed-room masterclasses, and direct access to corporate-ready solutions for enterprise AI transformation.",
+    "title_local": "Accelerate Tomorrow AI Summit 2026",
+    "description_local": "Deutschlands führende KI-Veranstaltung für Führungskräfte, die 2.000+ Top-Führungskräfte, 200+ führende KI-Redner und 100+ KI-Startups zusammenbringt. Entwickelt für Entscheidungsträger mit Budget- und Strategieverantwortung, konzentriert auf praktische Anwendungen. Mit Executive Keynotes, geschlossenen Masterclasses und direktem Zugang zu unternehmensreifen Lösungen für KI-Transformation.",
+    "city": "berlin",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
+    "id": "be3044c2f6266add"
+  },
+  {
     "title": "Berlin Robotics x AI Hackathon",
     "date": "2026-06-20",
     "venue": "Lohmühlenstr. 65, 12435 Berlin (CIC Innovation Campus, Treptow-Köpenick district)",
@@ -125,16 +139,18 @@
     "last_seen": "2026-06-16"
   },
   {
-    "title": "International Conference on AI-driven Data Science and Machine Learning Applications (ICADSL)",
+    "title": "International Conference on AI-driven Data Science for Autonomous Systems (ICIADAS)",
     "date": "2026-07-03",
     "venue": "Berlin, Germany",
     "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
     "source": "International Conference Alerts",
-    "description": "International conference on AI-driven data science and machine learning applications. Virtual and in-person attendance options available.",
+    "description": "Academic conference focusing on AI-driven data science applications for autonomous systems. Virtual and in-person conference mode available.",
+    "title_local": "Internationale Konferenz über KI-gesteuerte Data Science für autonome Systeme (ICIADAS)",
+    "description_local": "Akademische Konferenz mit Schwerpunkt auf KI-gesteuerten Data-Science-Anwendungen für autonome Systeme. Virtueller und persönlicher Konferenzmodus verfügbar.",
     "city": "berlin",
-    "id": "216d5e94062d17a7",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-19"
+    "last_seen": "2026-06-20",
+    "id": "216d5e94062d17a7"
   },
   {
     "title": "AI Software Course - Le Wagon Berlin",
