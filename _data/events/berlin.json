@@ -36,7 +36,7 @@
     "city": "berlin",
     "id": "3f5021a85ab2cd80",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-06-21"
   },
   {
     "title": "AI Agents Summit 2026 (AIS26)",
@@ -75,7 +75,7 @@
     "description_local": "Deutschlands führende KI-Veranstaltung für Führungskräfte, die 2.000+ Top-Führungskräfte, 200+ führende KI-Redner und 100+ KI-Startups zusammenbringt. Entwickelt für Entscheidungsträger mit Budget- und Strategieverantwortung, konzentriert auf praktische Anwendungen. Mit Executive Keynotes, geschlossenen Masterclasses und direktem Zugang zu unternehmensreifen Lösungen für KI-Transformation.",
     "city": "berlin",
     "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
+    "last_seen": "2026-06-21",
     "id": "be3044c2f6266add"
   },
   {
@@ -101,6 +101,20 @@
     "id": "7d4d5145ac13cf39",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
+  },
+  {
+    "title": "Berlin AI Meetup (Betahaus)",
+    "date": "2026-06-24",
+    "venue": "Betahaus Moritzplatz, Berlin",
+    "url": "https://www.betahaus.com/event/berlin-ai-meetup",
+    "source": "Betahaus Events",
+    "description": "Evening of hands-on AI, engaging discussions, and networking with industry experts at Betahaus Moritzplatz. Features keynote by Derek Footer from XTR.Capital on getting startups ready for first funding round, plus demos from One Ware (Physical AI), Civic (permission layer for AI agents), and Silicon Psyche Labs. Drinks and snacks provided.",
+    "title_local": "Berlin KI-Meetup (Betahaus)",
+    "description_local": "Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten im Betahaus Moritzplatz. Mit Keynote von Derek Footer von XTR.Capital über die Vorbereitung von Startups auf die erste Finanzierungsrunde, sowie Demos von One Ware (Physical AI), Civic (Berechtigungsschicht für KI-Agenten) und Silicon Psyche Labs. Getränke und Snacks werden bereitgestellt.",
+    "city": "berlin",
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-21",
+    "id": "e3b46ef72cefd6d1"
   },
   {
     "title": "CONNECTED Berlin",
@@ -149,7 +163,7 @@
     "description_local": "Akademische Konferenz mit Schwerpunkt auf KI-gesteuerten Data-Science-Anwendungen für autonome Systeme. Virtueller und persönlicher Konferenzmodus verfügbar.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-20",
+    "last_seen": "2026-06-21",
     "id": "216d5e94062d17a7"
   },
   {
