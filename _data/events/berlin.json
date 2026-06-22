@@ -25,20 +25,6 @@
     "last_seen": "2026-06-16"
   },
   {
-    "title": "BLISS AI Speaker Series 2026",
-    "date": "2026-06-17",
-    "venue": "C130, Institut für Chemie, Technische Universität Berlin, Str. des 17. Juni 115, 10623 Berlin",
-    "url": "https://www.meetup.com/bliss-speaker-series/",
-    "source": "meetup.com",
-    "description": "BLISS e.V. is the AI organization in Berlin connecting machine learning enthusiasts. This summer 2026 speaker series features excellent researchers from institutions including cohere, ETH Zürich, University of Oxford, HuggingFace, and Stanford University. The event includes a 45-minute research talk followed by networking with free drinks and pizza. The June 17 event features Thomas Wimmer from ETH Zürich discussing 'Beyond Patches: Learning Dense Visual Features'.",
-    "title_local": "BLISS AI Speaker Series 2026",
-    "description_local": "BLISS e.V. ist die KI-Organisation in Berlin, die Gleichgesinnte verbindet, die großes Interesse und Leidenschaft für das Gebiet des maschinellen Lernens teilen. Im Sommer 2026 veranstalten wir wieder eine spannende Speaker-Reihe vor Ort in Berlin mit exzellenten Forschern.",
-    "city": "berlin",
-    "id": "3f5021a85ab2cd80",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-06-21"
-  },
-  {
     "title": "AI Agents Summit 2026 (AIS26)",
     "date": "2026-06-18",
     "venue": "Berlin (part of Berlin Blockchain Week)",
@@ -91,16 +77,18 @@
     "last_seen": "2026-06-15"
   },
   {
-    "title": "{Tech: Europe} Berlin AI Hackathon",
-    "date": "2026-06-21",
+    "title": "Silicon Allee Deep Tech Night",
+    "date": "2026-06-23",
     "venue": "Berlin",
-    "url": "https://luma.com/berlin-ai-hack",
-    "source": "Luma",
-    "description": "Full weekend AI hackathon with hacking, learning, and networking. Limited to 90 participants. Includes opening & matchmaking, competition, finalist pitches, and award ceremony. First come, first serve entry.",
+    "url": "https://www.siliconallee.com/events",
+    "source": "Silicon Allee",
+    "description": "Our flagship showcase for Germany's most exciting new deep tech startups. It brings together scientists, founders, and investors to explore what's next in AI, quantum, photonics, and beyond. Each edition features emerging startups and the research powering them.",
+    "title_local": "Silicon Allee Deep Tech Night",
+    "description_local": "Unser Flaggschiff-Showcase für die aufregendsten neuen Deep-Tech-Startups Deutschlands. Es bringt Wissenschaftler, Gründer und Investoren zusammen, um zu erkunden, was als Nächstes in KI, Quantentechnologie, Photonik und darüber hinaus kommt. Jede Ausgabe präsentiert aufstrebende Startups und die Forschung, die sie antreibt.",
     "city": "berlin",
-    "id": "7d4d5145ac13cf39",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "id": "7a901bd5b4edd97a"
   },
   {
     "title": "Berlin AI Meetup (Betahaus)",
@@ -129,6 +117,20 @@
     "last_seen": "2026-06-16"
   },
   {
+    "title": "Berlin AI Hackathon 2026",
+    "date": "2026-06-28",
+    "venue": "Berlin",
+    "url": "https://luma.com/berlin-ai-hack",
+    "source": "{Tech: Europe}",
+    "description": "Join us in Berlin for a full weekend of hacking, learning, and networking at our first 2026 edition of our AI Hackathon - where the brightest minds in tech come together to innovate and have a great time. Limited to 90 participants. Saturday-Sunday event with doors opening at 10:00, opening & matchmaking at 10:30, with lunch and dinner provided.",
+    "title_local": "Berlin KI Hackathon 2026",
+    "description_local": "Nehmen Sie an unserem ersten AI Hackathon 2026 in Berlin teil – ein ganzes Wochenende voller Hacking, Lernen und Networking, bei dem die besten Köpfe der Tech-Branche zusammenkommen, um zu innovieren und Spaß zu haben. Begrenzt auf 90 Teilnehmer. Samstag-Sonntag-Event mit Türöffnung um 10:00, Opening & Matchmaking um 10:30, mit Mittag- und Abendessen.",
+    "city": "berlin",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-22",
+    "id": "7d4d5145ac13cf39"
+  },
+  {
     "title": "GITEX AI EUROPE 2026",
     "date": "2026-06-30",
     "venue": "Messe Berlin Exhibition Center (South Entrance)",
@@ -151,6 +153,20 @@
     "id": "bd88f83041f60b27",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16"
+  },
+  {
+    "title": "BLISS AI Speaker Series 2026",
+    "date": "2026-07-01",
+    "venue": "C130, Institut für Chemie, Technische Universität Berlin, Str. des 17. Juni 115, 10623 Berlin",
+    "url": "https://www.meetup.com/bliss-speaker-series/",
+    "source": "Meetup - BLISS e.V.",
+    "description": "This summer 2026, BLISS e.V. will host an exciting speaker series on site in Berlin, featuring excellent researchers from cohere, ETH Zürich, University of Oxford, HuggingFace, and Stanford University. The event includes a talk by Thomas Wimmer (ETH Zürich) discussing 'Beyond Patches: Learning Dense Visual Features', followed by networking with fellow AI enthusiasts with free drinks and pizza. This event is open to everyone interested in state-of-the-art AI research, especially students, PhD candidates, academic researchers, and industry professionals.",
+    "title_local": "BLISS KI-Vortragsreihe 2026",
+    "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
+    "city": "berlin",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-22",
+    "id": "3f5021a85ab2cd80"
   },
   {
     "title": "International Conference on AI-driven Data Science for Autonomous Systems (ICIADAS)",

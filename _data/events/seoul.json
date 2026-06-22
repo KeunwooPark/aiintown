@@ -94,6 +94,20 @@
     "id": "eca9e12b23f90990"
   },
   {
+    "title": "Push to Prod SEOUL",
+    "date": "2026-06-25",
+    "venue": "Seoul (exact location available upon registration)",
+    "url": "https://luma.com/elhey8nv",
+    "source": "Luma",
+    "description": "An official NextRise 2026 side event co-hosted by Anthropic, Replit, Korea Investment Partners (KIP), and Korea Investment Accelerator (KIAC). Showcases ambitious AI, deep tech, robotics, mobility, bio/healthcare startups. Engineers and experts from Anthropic and Replit will attend in person. A 2-hour demo event demonstrating how Korean startups solve real problems with AI across various verticals.",
+    "title_local": "Push to Prod SEOUL [Anthropic X Replit X Korea Investment Partners & Accelerator]",
+    "description_local": "이번 서울 에디션은 Anthropic, Replit, 한국투자파트너스(KIP), 한국투자액셀러레이터(KIAC)와 함께 한국에서 가장 야심찬 AI, 딥테크, 로보틱스, 모빌리티, 바이오/헬스케어, 소부장, 방산 등 스타트업 팀들을 한자리에 모십니다. 각자의 vertical에서 AI로 진짜 문제를 어떻게 풀어내는지를, 글로벌 무대 위에서 직접 증명하는 자리입니다. 당일에는 Anthropic과 Replit 본사 엔지니어와 전문가들이 직접 현장에 함께합니다.",
+    "city": "seoul",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "id": "ad8bb33a8d3fb1d1"
+  },
+  {
     "title": "Festival of Learning 2026 (AIED 2026, ACM Learning at Scale)",
     "date": "2026-06-27",
     "venue": "COEX Conference Center, Seoul",
@@ -294,5 +308,20 @@
     "first_seen": "2026-06-18",
     "last_seen": "2026-06-18",
     "id": "150af676f831b606"
+  },
+  {
+    "title": "Web3 AI Seoul: The Future of Work",
+    "date": null,
+    "venue": "Seoul (exact location available upon registration)",
+    "url": "https://luma.com/s2euirlf",
+    "source": "Luma",
+    "description": "A groundbreaking event exploring the intersection of Web3 and AI, focused on the future of work. Brings together leading academic institutions, professionals, and thought leaders. Features a Challenge Day where participants engage in interactive challenges, gain hands-on experience, and compete for prizes. Co-organized by AI Network and Blockmedia.",
+    "title_local": "Web3 AI Seoul: The Future of Work",
+    "description_local": "Web3와 AI의 교차점을 탐구하는 획기적인 행사입니다. 주요 학술 기관, 전문가 및 사상가들이 모여 Web3와 AI의 최신 발전을 논의합니다. 이 행사는 '업무의 미래'를 탐구하고 이러한 기술이 산업을 어떻게 변화시킬지 이해하는 것을 목표로 합니다.",
+    "city": "seoul",
+    "date_status": "unknown",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "id": "d47ab89af6aace26"
   }
 ]
