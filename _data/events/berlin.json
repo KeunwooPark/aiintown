@@ -169,20 +169,6 @@
     "id": "3f5021a85ab2cd80"
   },
   {
-    "title": "International Conference on AI-driven Data Science for Autonomous Systems (ICIADAS)",
-    "date": "2026-07-03",
-    "venue": "Berlin, Germany",
-    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "Academic conference focusing on AI-driven data science applications for autonomous systems. Virtual and in-person conference mode available.",
-    "title_local": "Internationale Konferenz über KI-gesteuerte Data Science für autonome Systeme (ICIADAS)",
-    "description_local": "Akademische Konferenz mit Schwerpunkt auf KI-gesteuerten Data-Science-Anwendungen für autonome Systeme. Virtueller und persönlicher Konferenzmodus verfügbar.",
-    "city": "berlin",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-21",
-    "id": "216d5e94062d17a7"
-  },
-  {
     "title": "AI Software Course - Le Wagon Berlin",
     "date": "2026-07-06",
     "venue": "Online (Berlin-based)",
@@ -221,7 +207,7 @@
     "description_local": "Persönliches Community-Event von Global AI Berlin. Teil des weltweiten Global AI Community-Netzwerks mit Diskussionen, Workshops und Networking für KI-Enthusiasten und Fachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-23",
     "id": "c86ddf054ed364a8"
   },
   {
@@ -251,6 +237,20 @@
     "last_seen": "2026-06-15"
   },
   {
+    "title": "International Conference on AI-driven Data Science for Smart Manufacturing",
+    "date": "2026-09-01",
+    "venue": "Berlin, Germany",
+    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
+    "source": "internationalconferencealerts.com",
+    "description": "Academic conference exploring AI-driven data science applications in smart manufacturing. Virtual and in-person attendance options available.",
+    "title_local": "Internationale Konferenz über KI-gesteuerte Data Science für Smart Manufacturing",
+    "description_local": "Akademische Konferenz, die KI-gesteuerte Data-Science-Anwendungen in der intelligenten Fertigung untersucht. Virtuelle und persönliche Teilnahmeoptionen verfügbar.",
+    "city": "berlin",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-23",
+    "id": "216d5e94062d17a7"
+  },
+  {
     "title": "Agentic AI Summit Berlin 2026",
     "date": "2026-09-15",
     "venue": "Berlin, Germany",
@@ -263,16 +263,18 @@
     "last_seen": "2026-06-15"
   },
   {
-    "title": "BIG BANG KI Festival",
+    "title": "BIG BANG KI Festival 2026",
     "date": "2026-09-16",
-    "venue": "STATION Berlin",
+    "venue": "Alte Münze, Berlin",
     "url": "https://bigbangfestival.de/",
-    "source": "BIG BANG Festival",
-    "description": "Two-day festival (September 16-17) featuring 350+ speakers across six stages from business, tech, health and politics. Expected 11,000+ guests. Includes keynotes, panels, masterclasses, networking, and street food. All participants receive an official AI certificate. Aimed at C-level, entrepreneurs, decision-makers and startups.",
+    "source": "bigbangfestival.de",
+    "description": "Major AI festival with six stages, 350+ speakers from business, tech, health, and politics sharing knowledge on current AI trends. Features extensive stage program, street food, networking opportunities, and live entertainment. All participants receive an official AI certificate. New in 2026: Data and Analytics Stage and SME Stage focused on topics for small and medium-sized enterprises.",
+    "title_local": "BIG BANG KI Festival 2026",
+    "description_local": "Großes KI-Festival mit sechs Bühnen, über 350 Speakern aus Wirtschaft, Tech, Gesundheit und Politik, die ihr Wissen über aktuelle KI-Trends teilen. Mit umfangreichem Bühnenprogramm, Street Food, Networking-Möglichkeiten und Live-Entertainment. Alle Teilnehmenden erhalten ein offizielles KI-Zertifikat. Neu 2026: Data and Analytics Stage und SME Stage für kleine und mittelständische Unternehmen.",
     "city": "berlin",
-    "id": "a1e89f63d8ce233d",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-06-23",
+    "id": "a1e89f63d8ce233d"
   },
   {
     "title": "Enterprise AI Summit",
@@ -289,15 +291,15 @@
   {
     "title": "AI & Data Summit 2026",
     "date": "2026-09-22",
-    "venue": "bcc Berlin",
+    "venue": "bcc Berlin Congress Center",
     "url": "https://www.messen.de/de/22665/berlin/ai-data-summit/info",
-    "source": "Bitkom",
-    "description": "Leading European B2B conference on AI and data analytics with around 2,200 participants, 220+ speakers, and 140 sessions. Focuses on practical examples of AI/data in business beyond pilot projects. Runs parallel to Quantum Summit. Aimed at top decision makers from industry, tech and research.",
+    "source": "messen.de",
+    "description": "One of Europe's leading B2B conferences on AI and data analytics in business, with around 2,200 participants, 220+ speakers, and 140 sessions. Aimed at top decision makers from industry, tech, research, and policy. Focuses on practical examples of how companies can benefit from AI and data beyond pilot projects. Takes place parallel to the Quantum Summit.",
     "title_local": "AI & Data Summit 2026",
-    "description_local": "Führende europäische B2B-Konferenz zu KI und Datenanalyse mit ca. 2.200 Teilnehmenden, über 220 Speakern und 140 Sessions. Fokus auf praktischen Beispielen, wie Unternehmen tatsächlich von KI und Daten profitieren können.",
+    "description_local": "Eine der führenden europäischen B2B-Konferenzen zu KI und Data Analytics in der Wirtschaft, mit rund 2.200 Teilnehmern, über 220 Speakern und 140 Sessions. Richtet sich an Top-Entscheidungsträger aus Industrie, Tech, Forschung und Politik. Fokus auf praktischen Beispielen, wie Unternehmen tatsächlich von KI und Daten profitieren können – jenseits der ersten Pilotprojekte.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-23",
     "id": "1613545dc4c58fb3"
   },
   {
@@ -315,6 +317,20 @@
     "id": "19a57c55d4cf0abb"
   },
   {
+    "title": "Enterprise AI Summit Berlin",
+    "date": "2026-09-27",
+    "venue": "Berlin",
+    "url": "https://www.gruender.de/kuenstliche-intelligenz/ki-events/",
+    "source": "gruender.de",
+    "description": "Summit for professionals implementing artificial intelligence and machine learning in enterprises. Focuses on real use cases, technological developments, and proven methods from areas like Applied AI, Analytics, and MLOps. Provides a platform for professional exchange about scalable AI solutions and current projects from business practice.",
+    "title_local": "Enterprise AI Summit Berlin",
+    "description_local": "Summit für Fachleute, die Künstliche Intelligenz und Machine Learning praxisnah in Unternehmen einsetzen. Im Mittelpunkt stehen reale Use Cases, technologische Entwicklungen und erprobte Methoden aus Bereichen wie Applied AI, Analytics und MLOps. Bietet eine Plattform für den fachlichen Austausch über skalierbare KI-Lösungen und aktuelle Projekte aus der Unternehmenspraxis.",
+    "city": "berlin",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "id": "af7769f167286697"
+  },
+  {
     "title": "AI, Machine Learning & Data Science Conference",
     "date": "2026-10-12",
     "venue": "Berlin, Germany",
@@ -325,7 +341,7 @@
     "description_local": "Dreitägige Veranstaltung (12.–14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Kern-KI-Themen einschließlich Robotik und autonome Systeme, Klimawissenschaftsanwendungen, MLOps und skalierbare Bereitstellung, vertrauenswürdige KI, Hochleistungsrechnen und energieeffiziente KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-19",
+    "last_seen": "2026-06-23",
     "id": "15932057c4239dba"
   },
   {
@@ -359,12 +375,14 @@
     "date": "2026-11-16",
     "venue": "Maritim ProArte Hotel Berlin",
     "url": "https://mlconference.ai/berlin/",
-    "source": "MLconference.ai",
-    "description": "Five-day event (Nov 16-20, 2026) focusing on Generative AI, LLMs, MLOps, ML Strategy and machine learning technologies. Features workshops, keynotes, bootcamps, and networking opportunities. Expo days: Nov 18-19, 2026. Available in-person or online.",
+    "source": "mlconference.ai",
+    "description": "Five-day event (Nov 16-20, 2026) for Generative AI and machine learning engineering, with expo on Nov 18-19. Features technical sessions, full-day workshops, and 2-day bootcamps led by industry experts. Topics include Model Context Protocol (MCP), agentic AI, and production-ready AI systems.",
+    "title_local": "MLcon Berlin 2026",
+    "description_local": "Fünftägiges Event (16.-20. November 2026) für Generative KI und Machine Learning Engineering, mit Expo am 18.-19. November. Mit technischen Sessions, ganztägigen Workshops und 2-Tages-Bootcamps von Branchenexperten. Themen umfassen Model Context Protocol (MCP), agentische KI und produktionsreife KI-Systeme.",
     "city": "berlin",
-    "id": "9a05b37a144a341e",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-06-23",
+    "id": "9a05b37a144a341e"
   },
   {
     "title": "KI-X HR Convention",
@@ -392,6 +410,21 @@
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
     "id": "b4b84d03856ce987"
+  },
+  {
+    "title": "AI Reliability and Observability Meetup",
+    "date": null,
+    "venue": "TBA",
+    "url": "https://www.meetup.com/de-de/berlin-ai-applications/",
+    "source": "meetup.com",
+    "description": "Meetup focusing on practical challenges in building reliable LLM applications. Sessions cover hallucination detection, Agent quality, domain-specific benchmarking, and AI observability. Attendees typically include AI engineers, ML researchers, and technical leaders working on LLM applications in regulated industries like healthcare, finance, and legal tech.",
+    "title_local": "AI Reliability and Observability Meetup",
+    "description_local": "Meetup mit Fokus auf praktischen Herausforderungen beim Aufbau zuverlässiger LLM-Anwendungen. Sessions behandeln Halluzinations-Erkennung, Agentenqualität, domänenspezifisches Benchmarking und KI-Observability. Teilnehmer sind typischerweise KI-Ingenieure, ML-Forscher und technische Führungskräfte, die an LLM-Anwendungen in regulierten Branchen wie Gesundheitswesen, Finanzen und Rechtstechnik arbeiten.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "id": "2c18dfaffb99a80f"
   },
   {
     "title": "AI in Action Berlin",
@@ -424,6 +457,51 @@
     "id": "786e4230a7cdc8a4"
   },
   {
+    "title": "Berlin AI Developers Group Meetup",
+    "date": null,
+    "venue": "TBA",
+    "url": "https://www.meetup.com/berlin-ai-tech-talk/",
+    "source": "meetup.com",
+    "description": "Meetup to learn and practice AI, Generative AI, LLMs, Agentic AI, Machine Learning, Deep Learning, MLOps, ML and Data engineering. Features tech talks, workshops, and code labs with tech leads from innovative companies and successful startups sharing practical experiences.",
+    "title_local": "Berlin AI Developers Group Meetup",
+    "description_local": "Meetup zum Lernen und Üben von KI, Generativer KI, LLMs, Agentischer KI, Machine Learning, Deep Learning, MLOps, ML und Data Engineering. Mit Tech-Talks, Workshops und Code-Labs, bei denen Tech-Leads aus innovativen Unternehmen und erfolgreichen Startups ihre praktischen Erfahrungen teilen.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "id": "0d7e0875ef229f2e"
+  },
+  {
+    "title": "Berlin AI Machine Learning and Computer Vision Meetup",
+    "date": null,
+    "venue": "Online (monthly)",
+    "url": "https://www.meetup.com/berlin-ai-machine-learning-and-computer-vision-meetup/",
+    "source": "meetup.com",
+    "description": "Monthly meetup featuring diverse speakers working at the cutting edge of AI, machine learning, and computer vision. Topics include Model Context Protocol (MCP), agentic systems, computer vision applications, and medical imaging. Sponsored by Voxel51, maintainers of the FiftyOne computer vision toolset.",
+    "title_local": "Berlin AI Machine Learning und Computer Vision Meetup",
+    "description_local": "Monatliches Meetup mit verschiedenen Speakern, die an der Spitze von KI, Machine Learning und Computer Vision arbeiten. Themen umfassen Model Context Protocol (MCP), agentische Systeme, Computer-Vision-Anwendungen und medizinische Bildgebung. Gesponsert von Voxel51, den Maintainern des FiftyOne Computer-Vision-Toolsets.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "id": "afee80afb04875d4"
+  },
+  {
+    "title": "Berlin AI Meetup (Luma)",
+    "date": null,
+    "venue": "TBA",
+    "url": "https://luma.com/fijehfqv",
+    "source": "luma.com",
+    "description": "Recurring AI meetup in Berlin featuring speakers on building specialized LLM-based enterprise applications and agentic AI. Free event with registration required, includes drinks and snacks, time for networking and learning from others working in the AI field.",
+    "title_local": "Berlin AI Meetup (Luma)",
+    "description_local": "Wiederkehrendes KI-Meetup in Berlin mit Speakern zu spezialisierten LLM-basierten Unternehmensanwendungen und agentischer KI. Kostenlose Veranstaltung mit erforderlicher Registrierung, inklusive Getränken und Snacks, Zeit für Networking und Lernen von anderen, die im KI-Bereich arbeiten.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "id": "d2e4230b350e644f"
+  },
+  {
     "title": "Berlin AI Meetup (meetupai Berlin)",
     "date": null,
     "venue": "Revaler Str. 31, Berlin",
@@ -437,6 +515,21 @@
     "first_seen": "2026-06-18",
     "last_seen": "2026-06-18",
     "id": "2ac2b4827290e015"
+  },
+  {
+    "title": "Berlin DataTalksClub Meetup",
+    "date": null,
+    "venue": "TBA",
+    "url": "https://www.meetup.com/berlin-datatalks-club/",
+    "source": "meetup.com",
+    "description": "Meetup for experienced and aspiring data professionals. Features workshops on building financial research agents, agentic AI in data engineering, and practical applications of AI in data workflows. Includes talks from industry practitioners on real-world AI implementation.",
+    "title_local": "Berlin DataTalksClub Meetup",
+    "description_local": "Meetup für erfahrene und angehende Datenexperten. Mit Workshops zum Aufbau von Finanzforschungs-Agenten, agentischer KI im Data Engineering und praktischen Anwendungen von KI in Daten-Workflows. Beinhaltet Vorträge von Branchenpraktikern über reale KI-Implementierungen.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "id": "b450cd094f29dad9"
   },
   {
     "title": "Berlin x AI Meetup",
@@ -467,5 +560,35 @@
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
     "id": "f8fae9f3cfd39a48"
+  },
+  {
+    "title": "Robotik und KI Hackathon",
+    "date": null,
+    "venue": "Berlin",
+    "url": "https://www.berlin.de/industriestadt/masterplan-industriestadt-berlin/termine/",
+    "source": "berlin.de",
+    "description": "Hackathon in the fields of robotics and artificial intelligence. Developers, robotics engineers, and other actors work together on practical solutions and prototypes in the context of agentic AI.",
+    "title_local": "Robotik und KI Hackathon",
+    "description_local": "Hackathon im Bereich Robotik und Künstliche Intelligenz. Entwickler:innen, Robotik-Ingenieur:innen sowie weitere Akteur:innen arbeiten gemeinsam an praxisnahen Lösungen und Prototypen im Kontext agentischer KI.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "id": "decde93fcc3a35b0"
+  },
+  {
+    "title": "The Berlin AI Community Meetup",
+    "date": null,
+    "venue": "TBA",
+    "url": "https://www.meetup.com/berlin-genai/",
+    "source": "meetup.com",
+    "description": "Community meetup to chat, learn, and hack through LLMs covering text, image, audio, video, or multi-modal projects with Open Source or API-based approaches. Focuses on what can be built with LLMs rather than just the underlying ML/data science. Independent of any tech company.",
+    "title_local": "The Berlin AI Community Meetup",
+    "description_local": "Community-Meetup zum Chatten, Lernen und Hacken mit LLMs, das Text-, Bild-, Audio-, Video- oder multimodale Projekte mit Open-Source- oder API-basierten Ansätzen abdeckt. Fokussiert auf das, was mit LLMs gebaut werden kann, nicht nur auf die zugrunde liegende ML/Data Science. Unabhängig von Tech-Unternehmen.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "id": "9895b7d7199d8413"
   }
 ]
