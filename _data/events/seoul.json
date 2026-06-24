@@ -40,20 +40,6 @@
     "id": "85d2d3c9b83db9e7"
   },
   {
-    "title": "Seoul AI Festival 2026",
-    "date": "2026-06-21",
-    "venue": "Seoul",
-    "url": "https://seoulaifesta.kr/",
-    "source": "Seoul AI Festival",
-    "description": "Community AI festival featuring AI art competitions, robot family competitions, and experiential programs for families and students.",
-    "title_local": "서울 AI 페스티벌 2026",
-    "description_local": "제2회 AI 서울 백일장·사생대회 시상식, 제2회 청소년 AI 아트공모전 시상식, 제2회 AI 로봇 가족 경진대회 시상식 등 다양한 프로그램",
-    "city": "seoul",
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "id": "1eca324acfa1f656"
-  },
-  {
     "title": "AAAI 2026 Summer Symposium Series",
     "date": "2026-06-22",
     "venue": "Dongguk University, Seoul",
@@ -184,18 +170,18 @@
     "id": "11a074b50876cc17"
   },
   {
-    "title": "Cortiq Summit 2026: Agentic AI",
+    "title": "Trillion Frontier Night x ICML 2026",
     "date": "2026-07-03",
     "venue": "Seoul (venue TBA)",
-    "url": "https://luma.com/7iiqamt2",
-    "source": "Luma - Road to ICML 2026 Seoul",
-    "description": "Agentic AI summit as part of the Road to ICML community events series",
-    "title_local": "Cortiq Summit 2026: Agentic AI",
-    "description_local": "ICML 주간 열리는 에이전틱 AI 서밋",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeodJUcjq29RaHJm9rJACN7IYZcSJEiPYPzt09pJmEX_B7ICw/viewform",
+    "source": "Luma - Road to ICML 2026",
+    "description": "Evening networking event during ICML week, starting 6:00pm. Part of the Road to ICML community events bringing together global researchers and Korea's AI builders.",
+    "title_local": "Trillion Frontier Night x ICML 2026",
+    "description_local": "ICML 주간 저녁 네트워킹 이벤트로, 글로벌 연구자와 한국 AI 빌더들이 만나는 자리입니다.",
     "city": "seoul",
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "id": "39c016237eb36d26"
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "id": "4bfc65ddfcf3b7c1"
   },
   {
     "title": "D4D | Deploy for Defense Hackathon APAC — SEOUL",
@@ -238,6 +224,20 @@
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
     "id": "fd982cbfc83cf80a"
+  },
+  {
+    "title": "Ralphthon @ICML by Team Attention",
+    "date": "2026-07-05",
+    "venue": "Seoul (venue TBA)",
+    "url": "https://luma.com/7iiqamt2",
+    "source": "Luma - Road to ICML 2026",
+    "description": "Hackathon event during ICML week organized by Team Attention. Time and exact RSVP link to be announced.",
+    "title_local": "Ralphthon @ICML by Team Attention",
+    "description_local": "Team Attention이 주최하는 ICML 주간 해커톤 이벤트입니다.",
+    "city": "seoul",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-24",
+    "id": "39c016237eb36d26"
   },
   {
     "title": "SMW AI Networking Mixer before ICML",
@@ -490,6 +490,20 @@
     "first_seen": "2026-06-18",
     "last_seen": "2026-06-18",
     "id": "e27613476fc821c2"
+  },
+  {
+    "title": "Seoul AI Festival 2026",
+    "date": "2026-10-06",
+    "venue": "Seoul (venue TBA - check official site)",
+    "url": "https://seoulaifesta.kr/",
+    "source": "Seoul AI Festival official site",
+    "description": "Citizen-focused AI festival featuring AI technology experiences, competitions, exhibitions, and public programs. Includes AI Seoul Essay Contest, Youth AI Art Competition, and AI Robot Family Contest award ceremonies.",
+    "title_local": "서울 AI 페스티벌 2026",
+    "description_local": "시민의 일상 속 인공지능 기술을 보고, 느끼고, 즐기며 AI가 만들어갈 도시의 미래를 함께 경험하는 축제. 제2회 AI 서울 백일장·사생대회, 제2회 청소년 AI 아트공모전, 제2회 AI 로봇 가족 경진대회 시상식 등이 포함됩니다.",
+    "city": "seoul",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-24",
+    "id": "1eca324acfa1f656"
   },
   {
     "title": "Smart Tech Korea 2026 (STK 2026) - AI & Big Data Show",
