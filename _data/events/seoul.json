@@ -170,6 +170,20 @@
     "id": "11a074b50876cc17"
   },
   {
+    "title": "Cortiq Summit 2026: Agentic AI",
+    "date": "2026-07-03",
+    "venue": "Seoul (specific venue TBA)",
+    "url": "https://luma.com/c3e67mf0",
+    "source": "Luma, Cortiq website",
+    "description": "An invitation-only forum during ICML 2026 Seoul week for senior researchers, builders, and partners. Features talks, live agent demonstrations, awards, and curated one-to-one introductions focusing on Agentic AI.",
+    "title_local": "Cortiq Summit 2026: Agentic AI",
+    "description_local": "ICML 2026 서울 주간 중 개최되는 초청 전용 포럼. 고급 연구자, 빌더 및 파트너를 위한 강연, 라이브 에이전트 데모, 시상 및 일대일 소개가 포함됨.",
+    "city": "seoul",
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "id": "d7294137684f5a80"
+  },
+  {
     "title": "Trillion Frontier Night x ICML 2026",
     "date": "2026-07-03",
     "venue": "Seoul (venue TBA)",
