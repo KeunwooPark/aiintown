@@ -153,7 +153,7 @@
     "city": "seoul",
     "id": "98dd8b906bab4381",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-06-26"
   },
   {
     "title": "2026 Skill-Up Festa (Work Expert Festa)",
@@ -306,6 +306,20 @@
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
     "id": "a645138907bd2ded"
+  },
+  {
+    "title": "Seoul Alignment Workshop 2026",
+    "date": "2026-07-06",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.far.ai/events/event-list/seoul-alignment-workshop-2026",
+    "source": "FAR.AI",
+    "description": "Workshop bringing together global leaders in academia and industry to deepen collective understanding of the potential risks from Artificial General Intelligence (AGI) and collaboratively explore effective strategies for mitigating these risks. Core topics include model evaluations, interpretability, robustness, scalable oversight, and AI governance.",
+    "title_local": "서울 얼라인먼트 워크숍 2026",
+    "description_local": "인공 일반 지능(AGI)의 잠재적 위험에 대한 집단적 이해를 심화하고 이러한 위험을 완화하기 위한 효과적인 전략을 협력적으로 탐구하기 위해 학계와 업계의 글로벌 리더들이 모이는 워크숍입니다.",
+    "city": "seoul",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "id": "41eb32390c57f75b"
   },
   {
     "title": "TAIC'26: Thinking about AI's Capability",
@@ -466,6 +480,20 @@
     "id": "b24cd1805dbee57d",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
+  },
+  {
+    "title": "KHF 2026 - K-Hospital+Health Tech Fair",
+    "date": "2026-08-19",
+    "venue": "COEX Hall C, D, Seoul",
+    "url": "https://galviq.com/events/ai/seoul",
+    "source": "COEX",
+    "description": "Korea's largest digital healthcare exhibition showcasing medical devices, hospital equipment, health-tech, medical AI and robotics. B2B platform for healthcare providers, medical device manufacturers, health-tech startups and technology partners.",
+    "title_local": "KHF 2026 - 병원·의료 IT 및 헬스케어 박람회",
+    "description_local": "의료기기, 병원 장비, 헬스케어 기술, 의료 AI 및 로봇을 선보이는 한국 최대 디지털 헬스케어 전시회. 의료 제공자, 의료 기기 제조업체, 헬스테크 스타트업 및 기술 파트너를 위한 B2B 플랫폼.",
+    "city": "seoul",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "id": "dfe29fcfd5873ac4"
   },
   {
     "title": "International Conference on Machine Learning and Cybernetics (ICMLC)",

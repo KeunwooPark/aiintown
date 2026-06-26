@@ -169,6 +169,20 @@
     "id": "3f5021a85ab2cd80"
   },
   {
+    "title": "AI Hackday Berlin",
+    "date": "2026-07-05",
+    "venue": "Factory Berlin Mitte",
+    "url": "https://www.eventbrite.com/e/ai-hackday-berlin-tickets-1981839809219",
+    "source": "Eventbrite",
+    "description": "A day of vibecoding together on tools that we can all (re)use. Use claude code, lovable, ActivePieces or your favourite tool.",
+    "title_local": "AI Hackday Berlin",
+    "description_local": "Ein Tag des gemeinsamen Vibe-Codings an Tools, die wir alle (wieder)verwenden können. Nutze Claude Code, Lovable, ActivePieces oder dein Lieblings-Tool.",
+    "city": "berlin",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "id": "d80466973b4bf08f"
+  },
+  {
     "title": "AI Software Course - Le Wagon Berlin",
     "date": "2026-07-06",
     "venue": "Online (Berlin-based)",
@@ -194,7 +208,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-06-26"
   },
   {
     "title": "Global AI Berlin",
@@ -341,7 +355,7 @@
     "description_local": "Dreitägige Veranstaltung (12.–14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Kern-KI-Themen einschließlich Robotik und autonome Systeme, Klimawissenschaftsanwendungen, MLOps und skalierbare Bereitstellung, vertrauenswürdige KI, Hochleistungsrechnen und energieeffiziente KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-24",
+    "last_seen": "2026-06-26",
     "id": "15932057c4239dba"
   },
   {
