@@ -169,6 +169,20 @@
     "id": "3f5021a85ab2cd80"
   },
   {
+    "title": "INDUSTRY.forward SUMMIT",
+    "date": "2026-07-01",
+    "venue": "Berlin",
+    "url": "https://www.eventbrite.de/d/germany--berlin--85682499/ki/",
+    "source": "eventbrite.de",
+    "description": "Two-day summit focused on AI-driven automation and resilient enterprise technology stacks for industrial applications.",
+    "title_local": "INDUSTRY.forward SUMMIT",
+    "description_local": "Zweitägiger Gipfel zu KI-getriebener Automatisierung und resilienten Unternehmenstechnologie-Stacks.",
+    "city": "berlin",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "id": "99e8a97b50fc5579"
+  },
+  {
     "title": "AI Hackday Berlin",
     "date": "2026-07-05",
     "venue": "Factory Berlin Mitte",
@@ -193,7 +207,7 @@
     "description_local": "9-wöchiges Online-KI-Software-Bootcamp ab 6. Juli 2026. 400 Stunden intensives Lernen, das Webentwicklung mit KI-Integration verbindet und sowohl Frontend- als auch Backend-Fähigkeiten vermittelt, während KI-Funktionen zu Anwendungen hinzugefügt werden. Entwickelt für angehende Softwareentwickler.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-25",
+    "last_seen": "2026-06-27",
     "id": "22c4be5ddc567872"
   },
   {
@@ -221,7 +235,7 @@
     "description_local": "Persönliches Community-Event von Global AI Berlin. Teil des weltweiten Global AI Community-Netzwerks mit Diskussionen, Workshops und Networking für KI-Enthusiasten und Fachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-23",
+    "last_seen": "2026-06-27",
     "id": "c86ddf054ed364a8"
   },
   {
@@ -251,6 +265,20 @@
     "last_seen": "2026-06-15"
   },
   {
+    "title": "Next-Gen Engineering: Innovation in Autonomous Mobility, Digital Manufacturing & Electronics (NG-EAME)",
+    "date": "2026-08-30",
+    "venue": "Berlin, Germany",
+    "url": "https://conferencealerts.co.in/berlin/artificial-intelligence",
+    "source": "conferencealerts.co.in",
+    "description": "International conference on AI-driven autonomous mobility, digital manufacturing, and electronics with CPD accreditation.",
+    "title_local": "Next-Gen Engineering: Innovation in autonomer Mobilität, digitaler Fertigung & Elektronik (NG-EAME)",
+    "description_local": "Internationale Konferenz über KI-gesteuerte autonome Mobilität, digitale Fertigung und Elektronik mit CPD-Akkreditierung.",
+    "city": "berlin",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "id": "b19a445a8aa872b3"
+  },
+  {
     "title": "International Conference on AI-driven Data Science for Smart Manufacturing",
     "date": "2026-09-01",
     "venue": "Berlin, Germany",
@@ -261,8 +289,22 @@
     "description_local": "Akademische Konferenz, die KI-gesteuerte Data-Science-Anwendungen in der intelligenten Fertigung untersucht. Virtuelle und persönliche Teilnahmeoptionen verfügbar.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-23",
+    "last_seen": "2026-06-27",
     "id": "216d5e94062d17a7"
+  },
+  {
+    "title": "IFA 2026",
+    "date": "2026-09-04",
+    "venue": "Berlin",
+    "url": "https://kibuzzer.com/events.html",
+    "source": "kibuzzer.com",
+    "description": "Major consumer electronics and technology trade show where AI plays a central role in smart devices, software and new applications.",
+    "title_local": "IFA 2026",
+    "description_local": "KI spielt eine zentrale Rolle bei Smart Devices, Software und neuen Anwendungen.",
+    "city": "berlin",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "id": "35e66e82f76f77e6"
   },
   {
     "title": "Agentic AI Summit Berlin 2026",
@@ -315,6 +357,20 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-23",
     "id": "1613545dc4c58fb3"
+  },
+  {
+    "title": "AI & Data Summit 2026 (Bitkom)",
+    "date": "2026-09-22",
+    "venue": "bcc Berlin",
+    "url": "https://www.data-unplugged.de/en/blog/slug-ai-trade-fairs-and-data-events-in-germany-an-overview",
+    "source": "data-unplugged.de",
+    "description": "One of Europe's leading B2B conferences on AI and data analytics with 2,200 participants, 220+ speakers and 140 sessions. Parallel to Quantum Summit. Focus on practical enterprise AI applications.",
+    "title_local": "AI & Data Summit 2026 (Bitkom)",
+    "description_local": "Eine der führenden europäischen B2B-Konferenzen zu KI und Datenanalyse im Business mit ca. 2.200 Teilnehmenden, über 220 Speakern und 140 Sessions. Parallel zum Quantum Summit.",
+    "city": "berlin",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "id": "067cabfaea40e7c7"
   },
   {
     "title": "AI, Data & Quantum Summit (AIDAQ 2026)",

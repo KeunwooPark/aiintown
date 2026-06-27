@@ -521,16 +521,16 @@
   },
   {
     "title": "AI Festa 2026",
+    "title_local": "AI 페스타 2026",
     "date": "2026-10-06",
-    "venue": "COEX Hall C, Seoul",
+    "venue": "COEX Hall C and Surrounding Area, Seoul",
     "url": "https://www.aifesta.kr/",
-    "source": "AI Festa Official",
-    "description": "Korea's largest AI festival and exhibition with 350+ companies and 30,000+ visitors. Focus on AI realization in real industries and society, featuring core AI technologies, data solutions, robotics, healthcare, and more.",
-    "title_local": "인공지능 페스타 2026",
-    "description_local": "국내 최대 규모의 AI 페스티벌로 350여 기업과 3만 명 이상이 참관하는 글로벌 비즈니스 플랫폼입니다. AI가 실제 산업과 사회에서 구현되고 작동하는 모습을 확인하는 자리입니다.",
+    "source": "aifesta.kr official website",
+    "description": "Korea's largest AI festival and official national AI week event, running for 3 days (Oct 6-8). Features exhibitions, business matching, awards, and showcases how AI is actually operating and creating results in real industries and society. Focuses on AI realization in everyday life, industry, and cities.",
+    "description_local": "국가 공식 인공지능주간의 대표 행사로 3일간 개최(10월 6-8일). 전시·비즈매칭·시상까지 한 자리에서 진행. AI가 실제 산업과 사회에서 어떻게 작동하고 어떤 성과와 변화를 만들어내고 있는지를 현장에서 확인하는 자리. 우리의 일상과 산업, 도시에서 공기처럼 자연스럽게 스며들어 실제로 구현되고 작동하는 AI를 만나는 국내 최대 인공지능 페스티벌.",
     "city": "seoul",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-27",
     "id": "e27613476fc821c2"
   },
   {
