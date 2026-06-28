@@ -144,18 +144,6 @@
     "id": "1ee3df89d9e99b4b"
   },
   {
-    "title": "International Conference on Cybersecurity and Artificial Intelligence (ICCAI)",
-    "date": "2026-06-30",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/south-korea/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "International conference focusing on cybersecurity and artificial intelligence. Offers both virtual and in-person attendance options.",
-    "city": "seoul",
-    "id": "98dd8b906bab4381",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-26"
-  },
-  {
     "title": "2026 Skill-Up Festa (Work Expert Festa)",
     "date": "2026-07-02",
     "venue": "COEX Magok, Seoul",
@@ -166,7 +154,7 @@
     "description_local": "AI 에이전트, 업무 자동화, 스마트워크, 조직문화 등 업무 혁신을 다루는 3일간의 대규모 행사입니다. 컨퍼런스, 워크숍, 전시를 통해 AI 시대의 일하는 방식을 제안합니다.",
     "city": "seoul",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-28",
     "id": "11a074b50876cc17"
   },
   {
@@ -458,6 +446,20 @@
     "last_seen": "2026-06-15"
   },
   {
+    "title": "International Conference on Legal and Regulatory Frameworks in Artificial Intelligence (ICLRFAI)",
+    "date": "2026-08-04",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/south-korea/artificial-intelligence",
+    "source": "International Conference Alerts",
+    "description": "International conference focused on legal and regulatory frameworks in artificial intelligence. Virtual and in-person participation available.",
+    "title_local": "인공지능의 법률 및 규제 프레임워크 국제 컨퍼런스",
+    "description_local": "인공지능의 법률 및 규제 프레임워크에 중점을 둔 국제 컨퍼런스. 가상 및 대면 참가 가능.",
+    "city": "seoul",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-28",
+    "id": "98dd8b906bab4381"
+  },
+  {
     "title": "AI Summit Seoul & Expo 2026",
     "date": "2026-08-19",
     "venue": "COEX Grand Ballroom & Exhibition Hall B, Gangnam-gu, Seoul",
@@ -530,7 +532,7 @@
     "description_local": "국가 공식 인공지능주간의 대표 행사로 3일간 개최(10월 6-8일). 전시·비즈매칭·시상까지 한 자리에서 진행. AI가 실제 산업과 사회에서 어떻게 작동하고 어떤 성과와 변화를 만들어내고 있는지를 현장에서 확인하는 자리. 우리의 일상과 산업, 도시에서 공기처럼 자연스럽게 스며들어 실제로 구현되고 작동하는 AI를 만나는 국내 최대 인공지능 페스티벌.",
     "city": "seoul",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-28",
     "id": "e27613476fc821c2"
   },
   {
@@ -572,7 +574,7 @@
     "description_local": "제2회 서초 AI 페스타로 50개 이상의 AI 체험부스, 피지컬 AI(로봇)존, 주민 참여 공모전, 미래기술 체험 프로그램 등이 펼쳐지는 주민 참여형 AI 축제입니다.",
     "city": "seoul",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-28",
     "id": "150af676f831b606"
   },
   {
