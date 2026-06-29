@@ -13,6 +13,21 @@
     "last_seen": "2026-06-16"
   },
   {
+    "title": "Mindstone Berlin Practical AI Meetup",
+    "date": "2026",
+    "venue": "Techspace Eiswerk, Köpenicker Str. 40B, 10179 Berlin",
+    "url": "https://community.mindstone.com/events/mindstone-berlin-march-ai-meetup-2026",
+    "source": "mindstone.com",
+    "description": "Monthly practical AI meetup billed as the biggest in Berlin. Features cutting-edge practical AI applications and projects. Includes talks on 'What I Learned Building With LLMs', 'How To Be More Productive Using AI', and discussions on AI's impact on work, life and society.",
+    "title_local": "Mindstone Berlin Praktisches AI Meetup",
+    "description_local": "Monatliches praktisches AI-Meetup, das als das größte in Berlin angepriesen wird. Mit modernsten praktischen KI-Anwendungen und Projekten. Beinhaltet Vorträge zu 'Was ich beim Bauen mit LLMs gelernt habe', 'Wie man mit KI produktiver wird' und Diskussionen über die Auswirkungen von KI auf Arbeit, Leben und Gesellschaft.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
+    "id": "dfd46d13f0bc680f"
+  },
+  {
     "title": "AI Tinkerers Berlin - June 17, 2026",
     "date": "2026-06-17",
     "venue": "TBA",
@@ -22,7 +37,7 @@
     "city": "berlin",
     "id": "4867edb863b0a225",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-25"
+    "last_seen": "2026-06-29"
   },
   {
     "title": "AI Agents Summit 2026 (AIS26)",
@@ -303,7 +318,7 @@
     "description_local": "Internationale Konferenz zu KI und Computational Biology mit virtuellen und Vor-Ort-Teilnahmemöglichkeiten. Teil einer akademischen Konferenzreihe zu KI-Themen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "id": "216d5e94062d17a7"
   },
   {
@@ -375,18 +390,6 @@
     "id": "a1e89f63d8ce233d"
   },
   {
-    "title": "Enterprise AI Summit",
-    "date": "2026-09-16",
-    "venue": "Maritim proArte Hotel, Friedrichstraße 151, Berlin",
-    "url": "https://10times.com/enterprise-ai-and-machine-learning-show",
-    "source": "10times",
-    "description": "Premier event for top-level networking among AI and machine learning decision-makers. Over 500 participants from Germany, Austria, and Switzerland. 2.5-day program with success stories, cutting-edge technologies, practical use cases from fraud detection to predictive analytics. Topics include Applied AI, ML, Business Analytics, Deep Learning, NLP.",
-    "city": "berlin",
-    "id": "3001a2879c713804",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
-  },
-  {
     "title": "AI & Data Summit 2026",
     "date": "2026-09-22",
     "venue": "bcc Berlin Congress Center",
@@ -413,6 +416,20 @@
     "first_seen": "2026-06-27",
     "last_seen": "2026-06-27",
     "id": "067cabfaea40e7c7"
+  },
+  {
+    "title": "AI & Data Summit 2026 (Bitkom)",
+    "date": "2026-09-22",
+    "venue": "bcc Berlin Congress Center",
+    "url": "https://berlin-tagungshotel.com/deu/veranstaltungen/berlin/ai-data-summit",
+    "source": "data-unplugged.de, berlin-tagungshotel.com",
+    "description": "Leading European B2B conference organized by Bitkom, with around 2,200 expected participants, over 220 speakers and 140 sessions. Focuses on practical examples of AI and data in business beyond pilot projects. Runs parallel to Quantum Summit. Features new Data and Analytics Stage and SME Stage curated with Maschinenraum Berlin.",
+    "title_local": "AI & Data Summit 2026 (Bitkom)",
+    "description_local": "Führende europäische B2B-Konferenz organisiert von Bitkom, mit rund 2.200 erwarteten Teilnehmern, über 220 Speakern und 140 Sessions. Fokussiert auf praktische Beispiele von KI und Daten im Geschäft jenseits von Pilotprojekten. Läuft parallel zum Quantum Summit. Mit neuer Data and Analytics Stage und SME Stage, kuratiert mit Maschinenraum Berlin.",
+    "city": "berlin",
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
+    "id": "23bf1090f8ed7478"
   },
   {
     "title": "AI, Data & Quantum Summit (AIDAQ 2026)",
@@ -443,6 +460,20 @@
     "id": "af7769f167286697"
   },
   {
+    "title": "Enterprise AI Summit Berlin",
+    "date": "2026-09-28",
+    "venue": "Maritim proArte Hotel Berlin, Friedrichstraße 151, 10117 Berlin",
+    "url": "https://10times.com/enterprise-ai-and-machine-learning-show",
+    "source": "10times.com",
+    "description": "Premier 2.5-day summit for decision-makers in AI and machine learning, gathering 500+ participants from Germany, Austria, and Switzerland. Features concrete use cases, success stories, cutting-edge technologies, and in-depth analyses. Topics include Applied AI & Machine Learning, Business Analytics, ML/Deep Learning platforms, NLP, fraud detection, predictive analytics, and EU AI compliance.",
+    "title_local": "Enterprise AI Summit Berlin",
+    "description_local": "Führender 2,5-tägiger Gipfel für Entscheidungsträger in KI und maschinellem Lernen, der über 500 Teilnehmer aus Deutschland, Österreich und der Schweiz zusammenbringt. Mit konkreten Anwendungsfällen, Erfolgsgeschichten, modernsten Technologien und eingehenden Analysen. Themen umfassen Applied AI & Machine Learning, Business Analytics, ML/Deep-Learning-Plattformen, NLP, Betrugserkennung, prädiktive Analytik und EU-KI-Compliance.",
+    "city": "berlin",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-29",
+    "id": "3001a2879c713804"
+  },
+  {
     "title": "AI, Machine Learning & Data Science Conference",
     "date": "2026-10-12",
     "venue": "Berlin, Germany",
@@ -453,7 +484,7 @@
     "description_local": "Dreitägige Veranstaltung (12.–14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Kern-KI-Themen einschließlich Robotik und autonome Systeme, Klimawissenschaftsanwendungen, MLOps und skalierbare Bereitstellung, vertrauenswürdige KI, Hochleistungsrechnen und energieeffiziente KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "id": "15932057c4239dba"
   },
   {
@@ -685,7 +716,7 @@
     "city": "berlin",
     "date_status": "unknown",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
+    "last_seen": "2026-06-29",
     "id": "decde93fcc3a35b0"
   },
   {
