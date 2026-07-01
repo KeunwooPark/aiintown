@@ -198,6 +198,20 @@
     "id": "3f5021a85ab2cd80"
   },
   {
+    "title": "Generative AI Summit Berlin 2026",
+    "date": "2026-07-01",
+    "venue": "Berlin",
+    "url": "https://world.aiacceleratorinstitute.com/location/berlin/",
+    "source": "aiacceleratorinstitute.com",
+    "description": "Berlin's #1 assembly for engineers and developers building industry-ready LLMs and generative AI. Connects, debugs, and deploys alongside builder community. Focused AI builder gathering for engineers, researchers, and builders shipping real systems. Solves key challenges in infrastructure, fine-tuning, multimodal AI, LLM observability and security.",
+    "title_local": "Generative AI Summit Berlin 2026",
+    "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die branchenfertige LLMs und generative KI aufbauen. Fokussiertes Builder-Treffen für Ingenieure, Forscher und Builder, die echte Systeme ausliefern.",
+    "city": "berlin",
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "id": "51113d0f9d43e4b6"
+  },
+  {
     "title": "INDUSTRY.forward SUMMIT",
     "date": "2026-07-01",
     "venue": "Berlin",
@@ -226,6 +240,20 @@
     "id": "1f350ba6aefcfe3b"
   },
   {
+    "title": "Open Lab Abend: KI in Liebe und Leben",
+    "date": "2026-07-02",
+    "venue": "Futurium Berlin",
+    "url": "https://www.museumsportal-berlin.de/de/veranstaltungen/open-lab-abend-wie-viel-ki-in-liebe-und-leben/",
+    "source": "museumsportal-berlin.de",
+    "description": "Open Lab evening with conversation with immersive, adaptive AI that challenges boundaries and tests social skills. Explores how much control over relationships people would trade for convenience. Questions whether AI should fight rent increases or write love letters. Cooperation between Futurium and SRH Berlin University of Applied Sciences.",
+    "title_local": "Open Lab Abend: Wie viel KI in Liebe und Leben?",
+    "description_local": "Open Lab Abend mit Gespräch mit einer immersiven, adaptiven KI. Sie fordert Grenzen heraus und stellt soziale Fähigkeiten auf die Probe. Wie viel Kontrolle über Beziehungen würdet ihr für Bequemlichkeit eintauschen? Kooperation des Futuriums mit der SRH Berlin University.",
+    "city": "berlin",
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "id": "0226fb9fbc26f91c"
+  },
+  {
     "title": "AI Hackday Berlin",
     "date": "2026-07-05",
     "venue": "Factory Berlin Mitte",
@@ -238,20 +266,6 @@
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
     "id": "d80466973b4bf08f"
-  },
-  {
-    "title": "AI Software Course - Le Wagon Berlin",
-    "date": "2026-07-06",
-    "venue": "Online (Berlin-based)",
-    "url": "https://www.createwith.com/cities/berlin",
-    "source": "createwith.com",
-    "description": "9-week online AI Software bootcamp starting July 6, 2026. 400 hours of immersive learning blending web development with AI integration, teaching both frontend and backend skills while adding AI capabilities to applications. Designed for aspiring software developers.",
-    "title_local": "KI-Software-Kurs - Le Wagon Berlin",
-    "description_local": "9-wöchiges Online-KI-Software-Bootcamp ab 6. Juli 2026. 400 Stunden intensives Lernen, das Webentwicklung mit KI-Integration verbindet und sowohl Frontend- als auch Backend-Fähigkeiten vermittelt, während KI-Funktionen zu Anwendungen hinzugefügt werden. Entwickelt für angehende Softwareentwickler.",
-    "city": "berlin",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-27",
-    "id": "22c4be5ddc567872"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -376,6 +390,20 @@
     "id": "40b36f30494c75e2"
   },
   {
+    "title": "Berlin AI Day x buildersklub",
+    "date": "2026-09-15",
+    "venue": "Festsaal Kreuzberg",
+    "url": "https://luma.com/kco33yis",
+    "source": "luma.com",
+    "description": "Full-day event bringing together leaders, operators, and builders driving AI transformation inside companies like AWS, Enpal, FINN, Flatpay, Personio, n8n. Theme: Building AI-first organizations. Three specialized tracks: Leadership & Transformation, Revenue & Operations, and Engineering & Product. No hype, no sales pitches - real use cases and actual results.",
+    "title_local": "Berlin AI Day x buildersklub",
+    "description_local": "Ganztägiges Event, das Führungskräfte, Betreiber und Builder zusammenbringt, die KI-Transformation in Unternehmen vorantreiben. Thema: Aufbau KI-first Organisationen. Drei Tracks: Leadership & Transformation, Revenue & Operations, Engineering & Product.",
+    "city": "berlin",
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "id": "dcce272e05adf6e3"
+  },
+  {
     "title": "BIG BANG KI Festival 2026",
     "date": "2026-09-16",
     "venue": "Alte Münze, Berlin",
@@ -486,6 +514,20 @@
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-29",
     "id": "15932057c4239dba"
+  },
+  {
+    "title": "Artificial Intelligence, Machine Learning & Data Science Conference Berlin",
+    "date": "2026-10-12",
+    "venue": "Berlin",
+    "url": "https://www.createwith.com/cities/berlin",
+    "source": "createwith.com",
+    "description": "Three-day conference (October 12-14, 2026) bringing together researchers, industry leaders and developers. Theme: 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation.' Nearly 30 focused scientific sessions covering robotics, autonomous systems, climate science applications, MLOps, trustworthy AI, high-performance computing, energy-efficient AI, and multimodal understanding.",
+    "title_local": "Konferenz für Künstliche Intelligenz, Machine Learning und Data Science Berlin",
+    "description_local": "Dreitägige Konferenz, die Forscher, Branchenführer und Entwickler zusammenbringt. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast 30 wissenschaftliche Sessions.",
+    "city": "berlin",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-07-01",
+    "id": "22c4be5ddc567872"
   },
   {
     "title": "The Berlin AI Conference 2026",
