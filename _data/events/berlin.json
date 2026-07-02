@@ -120,32 +120,6 @@
     "id": "e3b46ef72cefd6d1"
   },
   {
-    "title": "CONNECTED Berlin",
-    "date": "2026-06-26",
-    "venue": "Berlin",
-    "url": "https://connectedconference.de/",
-    "source": "CONNECTED Conference",
-    "description": "One-day in-person event focused on concrete AI use cases and integration of AI into existing IT landscapes, especially Microsoft and SAP environments. Features impulse formats, sessions, and moderated discussions. Designed for CEOs, CIOs, CTOs, CDOs, and IT decision-makers.",
-    "city": "berlin",
-    "id": "687d144e67fe7d2c",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
-  },
-  {
-    "title": "Berlin AI Hackathon 2026",
-    "date": "2026-06-28",
-    "venue": "Berlin",
-    "url": "https://luma.com/berlin-ai-hack",
-    "source": "{Tech: Europe}",
-    "description": "Join us in Berlin for a full weekend of hacking, learning, and networking at our first 2026 edition of our AI Hackathon - where the brightest minds in tech come together to innovate and have a great time. Limited to 90 participants. Saturday-Sunday event with doors opening at 10:00, opening & matchmaking at 10:30, with lunch and dinner provided.",
-    "title_local": "Berlin KI Hackathon 2026",
-    "description_local": "Nehmen Sie an unserem ersten AI Hackathon 2026 in Berlin teil – ein ganzes Wochenende voller Hacking, Lernen und Networking, bei dem die besten Köpfe der Tech-Branche zusammenkommen, um zu innovieren und Spaß zu haben. Begrenzt auf 90 Teilnehmer. Samstag-Sonntag-Event mit Türöffnung um 10:00, Opening & Matchmaking um 10:30, mit Mittag- und Abendessen.",
-    "city": "berlin",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-06-22",
-    "id": "7d4d5145ac13cf39"
-  },
-  {
     "title": "25. Tagung Interne Kommunikation",
     "date": "2026-06-30",
     "venue": "Berlin, Germany",
@@ -240,6 +214,20 @@
     "id": "1f350ba6aefcfe3b"
   },
   {
+    "title": "CONNECTED Conference 2026 Berlin",
+    "date": "2026-07-02",
+    "venue": "Berlin",
+    "url": "https://connectedconference.de/",
+    "source": "CONNECTED Conference",
+    "description": "CONNECTED Conference Berlin is a curated event for decision-makers (CEOs, CIOs, CTOs, CDOs) focusing on practical AI implementation in enterprise environments. The conference explores how AI integrates with Microsoft and SAP landscapes, featuring real-world use cases from companies like Nordex. The event emphasizes networking in a relaxed atmosphere with rooftop sundowners, expert-led labs, and moderated exchange formats focused on integration, better decisions, and actionable results.",
+    "title_local": "CONNECTED Conference 2026 Berlin",
+    "description_local": "Die CONNECTED Conference Berlin ist eine kuratierte Veranstaltung für Entscheider (CEOs, CIOs, CTOs, CDOs) mit Fokus auf praktischer KI-Implementierung in Unternehmensumgebungen. Die Konferenz untersucht, wie KI in Microsoft- und SAP-Landschaften integriert wird, mit realen Anwendungsfällen von Unternehmen wie Nordex. Die Veranstaltung legt Wert auf Networking in entspannter Atmosphäre mit Rooftop-Sundowner, expertengeleiteten Labs und moderierten Austauschformaten mit Fokus auf Integration, besseren Entscheidungen und umsetzbaren Ergebnissen.",
+    "city": "berlin",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-07-02",
+    "id": "687d144e67fe7d2c"
+  },
+  {
     "title": "Open Lab Abend: KI in Liebe und Leben",
     "date": "2026-07-02",
     "venue": "Futurium Berlin",
@@ -292,7 +280,7 @@
     "description_local": "Persönliches Community-Event von Global AI Berlin. Teil des weltweiten Global AI Community-Netzwerks mit Diskussionen, Workshops und Networking für KI-Enthusiasten und Fachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-07-02",
     "id": "c86ddf054ed364a8"
   },
   {
@@ -322,6 +310,20 @@
     "last_seen": "2026-06-15"
   },
   {
+    "title": "{Tech: Europe} Berlin AI Hackathon",
+    "date": "2026-07-12",
+    "venue": "Berlin",
+    "url": "https://luma.com/berlin-ai-hack",
+    "source": "Luma - {Tech: Europe}",
+    "description": "Join us in Berlin for a full weekend of hacking, learning, and networking at the first 2026 edition of the AI Hackathon - where the brightest minds in tech come together to innovate. Limited to 90 participants. The event runs over two days with door opening at 10:00, matchmaking, lunch, dinner, and a competition with finalist pitches and award ceremony.",
+    "title_local": "{Tech: Europe} Berlin AI Hackathon",
+    "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
+    "city": "berlin",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-07-02",
+    "id": "7d4d5145ac13cf39"
+  },
+  {
     "title": "International Conference on AI and Computational Biology (ICAICB)",
     "date": "2026-07-31",
     "venue": "Berlin, Germany",
@@ -334,6 +336,20 @@
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-29",
     "id": "216d5e94062d17a7"
+  },
+  {
+    "title": "AI Builders Monthly Berlin",
+    "date": "2026-08-26",
+    "venue": "Berlin",
+    "url": "https://luma.com/berlin-aug-26",
+    "source": "Luma - AI Builders",
+    "description": "AI Builders Monthly Berlin is a hands-on meetup for AI practitioners. The August 2026 session features live demos including LingoMed (AI-powered medical German learning for healthcare workers) and Super Red (analyzing Reddit posts with LLMs). The event includes pizza, networking opportunities with 50+ pioneers in the Gen AI space, and is part of a larger community of 3000+ in Europe. Sessions are streamed live and recorded.",
+    "title_local": "AI Builders Monthly Berlin",
+    "description_local": "AI Builders Monthly Berlin ist ein praktisches Meetup für KI-Praktiker. Die Augustausgabe 2026 bietet Live-Demos wie LingoMed (KI-gestütztes medizinisches Deutsch-Lernen für Gesundheitspersonal) und Super Red (Analyse von Reddit-Posts mit LLMs). Die Veranstaltung umfasst Pizza, Networking-Möglichkeiten mit über 50 Pionieren im Gen-AI-Bereich und ist Teil einer größeren Community von über 3.000 in Europa. Die Sessions werden live gestreamt und aufgezeichnet.",
+    "city": "berlin",
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "id": "75f871879fb580de"
   },
   {
     "title": "Next-Gen Engineering: Innovation in Autonomous Mobility, Digital Manufacturing & Electronics (NG-EAME)",
@@ -556,6 +572,20 @@
     "last_seen": "2026-06-16"
   },
   {
+    "title": "AI in Production: Building Recommenders and AI-Powered Discovery",
+    "date": "2026-11-12",
+    "venue": "Sonnenburger Str. 73, 10437 Berlin",
+    "url": "https://luma.com/gw32om5d",
+    "source": "Luma",
+    "description": "An evening of practical insights into how modern AI powers large-scale recommendation and discovery systems in production. The event explores extreme item cold-start in dynamic marketplaces, content-aware transformer-based recommender systems, and AI-powered discovery agents. Speakers include experts from GetYourGuide and Albatross AI. The event features pizza, drinks, and spontaneous lightning talks from attendees working on AI products.",
+    "title_local": "AI in der Produktion: Aufbau von Empfehlungssystemen und KI-gestützter Entdeckung",
+    "description_local": "Ein Abend mit praktischen Einblicken, wie moderne KI großangelegte Empfehlungs- und Entdeckungssysteme in der Produktion antreibt. Die Veranstaltung untersucht extremen Item-Cold-Start in dynamischen Marktplätzen, inhaltsbasierte transformer-basierte Empfehlungssysteme und KI-gestützte Discovery-Agenten. Speaker sind Experten von GetYourGuide und Albatross AI. Die Veranstaltung bietet Pizza, Getränke und spontane Lightning Talks von Teilnehmern, die an KI-Produkten arbeiten.",
+    "city": "berlin",
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "id": "6c9e24de15597d06"
+  },
+  {
     "title": "MLcon Berlin 2026",
     "date": "2026-11-16",
     "venue": "Maritim ProArte Hotel Berlin",
@@ -775,5 +805,20 @@
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
     "id": "9895b7d7199d8413"
+  },
+  {
+    "title": "{Tech: Berlin} X LLM Studios: AI Builders' Fireside Chat",
+    "date": null,
+    "venue": "Berlin",
+    "url": "https://luma.com/23h3gjaa",
+    "source": "Luma - {Tech: Berlin}",
+    "description": "An exclusive Fireside Chat hosted by {Tech: Berlin} and LLM Studios, bringing together active builders and innovators in Berlin's tech scene. The event features Marc Klingen, Co-Founder of Langfuse (a leading open-source platform for LLM observability), sharing insights on founding Langfuse in Berlin, navigating Y Combinator, scaling AI solutions for enterprise adoption, and key trends in AI and open-source strategies. The event is geared toward active builders.",
+    "title_local": "{Tech: Berlin} X LLM Studios: AI Builders' Fireside Chat",
+    "description_local": "Ein exklusiver Fireside Chat, veranstaltet von {Tech: Berlin} und LLM Studios, der aktive Builder und Innovatoren der Berliner Tech-Szene zusammenbringt. Die Veranstaltung präsentiert Marc Klingen, Co-Founder von Langfuse (eine führende Open-Source-Plattform für LLM-Observability), der Einblicke in die Gründung von Langfuse in Berlin, die Navigation durch Y Combinator, die Skalierung von KI-Lösungen für Unternehmensadoption und wichtige Trends in KI und Open-Source-Strategien teilt. Die Veranstaltung richtet sich an aktive Builder.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "id": "df9833e57f749195"
   }
 ]
