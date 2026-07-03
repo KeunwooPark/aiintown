@@ -28,18 +28,6 @@
     "id": "dfd46d13f0bc680f"
   },
   {
-    "title": "AI Tinkerers Berlin - June 17, 2026",
-    "date": "2026-06-17",
-    "venue": "TBA",
-    "url": "https://berlin.aitinkerers.org/",
-    "source": "AI Tinkerers Berlin",
-    "description": "In-person meetup for engineers, founders, researchers, and product builders working on AI agents, multimodal and voice interfaces, RAG and knowledge systems, AI coding tools, and production AI infrastructure. Features live demos from local builders, technical Q&A, and networking. Demos show real systems or code, not sales decks.",
-    "city": "berlin",
-    "id": "4867edb863b0a225",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-29"
-  },
-  {
     "title": "AI Agents Summit 2026 (AIS26)",
     "date": "2026-06-18",
     "venue": "Berlin (part of Berlin Blockchain Week)",
@@ -168,22 +156,8 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-22",
+    "last_seen": "2026-07-03",
     "id": "3f5021a85ab2cd80"
-  },
-  {
-    "title": "Generative AI Summit Berlin 2026",
-    "date": "2026-07-01",
-    "venue": "Berlin",
-    "url": "https://world.aiacceleratorinstitute.com/location/berlin/",
-    "source": "aiacceleratorinstitute.com",
-    "description": "Berlin's #1 assembly for engineers and developers building industry-ready LLMs and generative AI. Connects, debugs, and deploys alongside builder community. Focused AI builder gathering for engineers, researchers, and builders shipping real systems. Solves key challenges in infrastructure, fine-tuning, multimodal AI, LLM observability and security.",
-    "title_local": "Generative AI Summit Berlin 2026",
-    "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die branchenfertige LLMs und generative KI aufbauen. Fokussiertes Builder-Treffen für Ingenieure, Forscher und Builder, die echte Systeme ausliefern.",
-    "city": "berlin",
-    "first_seen": "2026-07-01",
-    "last_seen": "2026-07-01",
-    "id": "51113d0f9d43e4b6"
   },
   {
     "title": "INDUSTRY.forward SUMMIT",
@@ -210,7 +184,7 @@
     "description_local": "Online-Sprechtag zu Digitalisierung, KI und IT-Sicherheit mit Expertenimpulsen und individueller Beratung.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-07-03",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -226,20 +200,6 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-07-02",
     "id": "687d144e67fe7d2c"
-  },
-  {
-    "title": "Open Lab Abend: KI in Liebe und Leben",
-    "date": "2026-07-02",
-    "venue": "Futurium Berlin",
-    "url": "https://www.museumsportal-berlin.de/de/veranstaltungen/open-lab-abend-wie-viel-ki-in-liebe-und-leben/",
-    "source": "museumsportal-berlin.de",
-    "description": "Open Lab evening with conversation with immersive, adaptive AI that challenges boundaries and tests social skills. Explores how much control over relationships people would trade for convenience. Questions whether AI should fight rent increases or write love letters. Cooperation between Futurium and SRH Berlin University of Applied Sciences.",
-    "title_local": "Open Lab Abend: Wie viel KI in Liebe und Leben?",
-    "description_local": "Open Lab Abend mit Gespräch mit einer immersiven, adaptiven KI. Sie fordert Grenzen heraus und stellt soziale Fähigkeiten auf die Probe. Wie viel Kontrolle über Beziehungen würdet ihr für Bequemlichkeit eintauschen? Kooperation des Futuriums mit der SRH Berlin University.",
-    "city": "berlin",
-    "first_seen": "2026-07-01",
-    "last_seen": "2026-07-01",
-    "id": "0226fb9fbc26f91c"
   },
   {
     "title": "AI Hackday Berlin",
@@ -268,6 +228,20 @@
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-26"
+  },
+  {
+    "title": "Berlin Machine Learning Study Group - Aiven Workshop",
+    "date": "2026-07-08",
+    "venue": "Berlin",
+    "url": "https://www.meetup.com/berlin-machine-learning-study-group/",
+    "source": "meetup.com",
+    "description": "Hands-on lab with Aiven and Google Cloud on building data infrastructure for AI applications in production and running OpenSearch for AI/GenAI workloads. Two workshops: Foundations (build your own data pipeline with Aiven services) and Advanced (real-time retail streaming pipeline). Includes check-in, food, networking, tech talks, and hands-on workshop. Bring your laptop.",
+    "title_local": "Berlin Machine Learning Study Group - Aiven Workshop",
+    "description_local": "Hands-on-Labor mit Aiven und Google Cloud zum Aufbau von Dateninfrastruktur für KI-Anwendungen in der Produktion. Zwei Workshops: Grundlagen (eigene Datenpipeline erstellen) und Fortgeschritten (Echtzeit-Einzelhandels-Streaming-Pipeline).",
+    "city": "berlin",
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "id": "f0bde7fdc88f1819"
   },
   {
     "title": "Global AI Berlin",
@@ -310,6 +284,20 @@
     "last_seen": "2026-06-15"
   },
   {
+    "title": "Open Lab Abend: KI in Liebe und Leben",
+    "date": "2026-07-09",
+    "venue": "Futurium, Berlin",
+    "url": "https://www.museumsportal-berlin.de/de/veranstaltungen/open-lab-abend-wie-viel-ki-in-liebe-und-leben/",
+    "source": "museumsportal-berlin.de",
+    "description": "Interactive Open Lab evening at the Futurium where participants have conversations with an immersive, adaptive AI that challenges boundaries and tests social skills. Discussion topics: Would you let an AI fight your rent increase? Write your love letters? How much control over your relationships would you trade for convenience? Collaboration between Futurium and SRH Berlin University.",
+    "title_local": "Open Lab Abend: KI in Liebe und Leben",
+    "description_local": "Interaktiver Open Lab Abend im Futurium mit Gesprächen mit einer immersiven, adaptiven KI. Die Veranstaltung stellt Fragen wie: Würdet ihr eine KI gegen eure Mieterhöhung kämpfen lassen? Würdet ihr sie eure Liebesbriefe schreiben lassen? Kooperation des Futuriums mit der SRH Berlin University.",
+    "city": "berlin",
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-03",
+    "id": "0226fb9fbc26f91c"
+  },
+  {
     "title": "{Tech: Europe} Berlin AI Hackathon",
     "date": "2026-07-12",
     "venue": "Berlin",
@@ -322,6 +310,34 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-07-02",
     "id": "7d4d5145ac13cf39"
+  },
+  {
+    "title": "Generative AI Summit Berlin 2026",
+    "date": "2026-07-15",
+    "venue": "Berlin",
+    "url": "https://world.aiacceleratorinstitute.com/location/berlin/",
+    "source": "aiacceleratorinstitute.com",
+    "description": "Berlin's #1 assembly for engineers & developers building industry-ready LLMs & generative AI. Focused AI builder gathering with hundreds of pioneering engineers, developers & executives facilitating the latest tech revolution. Focus on infrastructure, fine-tuning, multimodal AI, LLM observability & security, computer vision, and deploying/scaling AI systems.",
+    "title_local": "Generative AI Summit Berlin 2026",
+    "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die industriereife LLMs und generative KI aufbauen. Fokussierte KI-Builder-Veranstaltung mit Hunderten von Pionier-Ingenieuren, Entwicklern und Führungskräften.",
+    "city": "berlin",
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-03",
+    "id": "51113d0f9d43e4b6"
+  },
+  {
+    "title": "AI Tinkerers Berlin Meetup",
+    "date": "2026-07-17",
+    "venue": "Berlin (venue varies)",
+    "url": "https://berlin.aitinkerers.org/",
+    "source": "berlin.aitinkerers.org",
+    "description": "Monthly hands-on AI builder meetup, part of 243-city global network with 114,000+ members. Three-hour meetups with live demos from local builders showing working prototypes, architecture lessons, failures, and practical demos rather than sales talks. Focus on real projects: technical Q&A and networking. Demos expected to show real systems or code, not sales decks.",
+    "title_local": "AI Tinkerers Berlin Meetup",
+    "description_local": "Monatliches praktisches KI-Builder-Meetup, Teil eines globalen Netzwerks mit 243 Städten und 114.000+ Mitgliedern. Drei-Stunden-Meetups mit Live-Demos von lokalen Buildern, die funktionierende Prototypen, Architektur-Lektionen und praktische Demos zeigen.",
+    "city": "berlin",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-07-03",
+    "id": "4867edb863b0a225"
   },
   {
     "title": "International Conference on AI and Computational Biology (ICAICB)",

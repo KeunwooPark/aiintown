@@ -140,7 +140,7 @@
     "description_local": "FAR.AI 서울 정렬 워크숍 참가자들을 위한 비공식 네트워킹 및 대화의 저녁. AI 정렬 및 관련 분야에 관심 있는 모든 사람에게 열려 있습니다.",
     "city": "seoul",
     "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
+    "last_seen": "2026-07-03",
     "id": "1ee3df89d9e99b4b"
   },
   {
@@ -498,6 +498,20 @@
     "id": "dfe29fcfd5873ac4"
   },
   {
+    "title": "DAH 2026",
+    "date": "2026-08-21",
+    "venue": "Sky 31, 300 Olympic-ro, Songpa-gu, Seoul",
+    "url": "https://onoffmix.com/event/342734",
+    "source": "onoffmix",
+    "description": "LIG DNA event focused on agentic AI, AI hackathon, and cybersecurity",
+    "title_local": "DAH 2026",
+    "description_local": "LIG DNA 주최 에이전틱 AI, AI 해커톤, 사이버보안 관련 행사",
+    "city": "seoul",
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "id": "000e9c0553ed87a7"
+  },
+  {
     "title": "Try Everything 2026",
     "date": "2026-09-09",
     "venue": "Dongdaemun Design Plaza (DDP)",
@@ -546,7 +560,7 @@
     "description_local": "국가 공식 인공지능주간의 대표 행사로 3일간 개최(10월 6-8일). 전시·비즈매칭·시상까지 한 자리에서 진행. AI가 실제 산업과 사회에서 어떻게 작동하고 어떤 성과와 변화를 만들어내고 있는지를 현장에서 확인하는 자리. 우리의 일상과 산업, 도시에서 공기처럼 자연스럽게 스며들어 실제로 구현되고 작동하는 AI를 만나는 국내 최대 인공지능 페스티벌.",
     "city": "seoul",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-07-03",
     "id": "e27613476fc821c2"
   },
   {
