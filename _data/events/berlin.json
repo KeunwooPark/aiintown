@@ -64,7 +64,7 @@
     "description_local": "Deutschlands führende KI-Veranstaltung für Führungskräfte, die 2.000+ Top-Führungskräfte, 200+ führende KI-Redner und 100+ KI-Startups zusammenbringt. Entwickelt für Entscheidungsträger mit Budget- und Strategieverantwortung, konzentriert auf praktische Anwendungen. Mit Executive Keynotes, geschlossenen Masterclasses und direktem Zugang zu unternehmensreifen Lösungen für KI-Transformation.",
     "city": "berlin",
     "first_seen": "2026-06-20",
-    "last_seen": "2026-06-21",
+    "last_seen": "2026-07-04",
     "id": "be3044c2f6266add"
   },
   {
@@ -104,7 +104,7 @@
     "description_local": "Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten im Betahaus Moritzplatz. Mit Keynote von Derek Footer von XTR.Capital über die Vorbereitung von Startups auf die erste Finanzierungsrunde, sowie Demos von One Ware (Physical AI), Civic (Berechtigungsschicht für KI-Agenten) und Silicon Psyche Labs. Getränke und Snacks werden bereitgestellt.",
     "city": "berlin",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-06-21",
+    "last_seen": "2026-07-04",
     "id": "e3b46ef72cefd6d1"
   },
   {
@@ -240,7 +240,7 @@
     "description_local": "Hands-on-Labor mit Aiven und Google Cloud zum Aufbau von Dateninfrastruktur für KI-Anwendungen in der Produktion. Zwei Workshops: Grundlagen (eigene Datenpipeline erstellen) und Fortgeschritten (Echtzeit-Einzelhandels-Streaming-Pipeline).",
     "city": "berlin",
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "id": "f0bde7fdc88f1819"
   },
   {
@@ -350,8 +350,23 @@
     "description_local": "Internationale Konferenz zu KI und Computational Biology mit virtuellen und Vor-Ort-Teilnahmemöglichkeiten. Teil einer akademischen Konferenzreihe zu KI-Themen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-29",
+    "last_seen": "2026-07-04",
     "id": "216d5e94062d17a7"
+  },
+  {
+    "title": "Berlin AWS User Group - Fireside Chat with Dr. Werner Vogels",
+    "date": "2026-07-XX",
+    "venue": "NLND (Neuland) Berlin",
+    "url": "https://www.meetup.com/aws-berlin/",
+    "source": "Meetup - AWS Berlin",
+    "description": "Exclusive fireside chat with Dr. Werner Vogels, CTO of Amazon, in conjunction with WeAreDevelopers World Congress. Dr. Vogels will meet with the community and answer questions. Limited seats, registration pending confirmation.",
+    "title_local": "Berlin AWS User Group - Kamingespräch mit Dr. Werner Vogels",
+    "description_local": "Exklusives Kamingespräch mit Dr. Werner Vogels, CTO von Amazon, in Verbindung mit dem WeAreDevelopers World Congress. Dr. Vogels trifft die Community und beantwortet Fragen. Begrenzte Plätze.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "id": "469dda992ade01aa"
   },
   {
     "title": "AI Builders Monthly Berlin",
@@ -516,7 +531,7 @@
     "description_local": "Summit für Fachleute, die Künstliche Intelligenz und Machine Learning praxisnah in Unternehmen einsetzen. Im Mittelpunkt stehen reale Use Cases, technologische Entwicklungen und erprobte Methoden aus Bereichen wie Applied AI, Analytics und MLOps. Bietet eine Plattform für den fachlichen Austausch über skalierbare KI-Lösungen und aktuelle Projekte aus der Unternehmenspraxis.",
     "city": "berlin",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
+    "last_seen": "2026-07-04",
     "id": "af7769f167286697"
   },
   {
@@ -544,7 +559,7 @@
     "description_local": "Dreitägige Veranstaltung (12.–14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Kern-KI-Themen einschließlich Robotik und autonome Systeme, Klimawissenschaftsanwendungen, MLOps und skalierbare Bereitstellung, vertrauenswürdige KI, Hochleistungsrechnen und energieeffiziente KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-29",
+    "last_seen": "2026-07-04",
     "id": "15932057c4239dba"
   },
   {
@@ -558,7 +573,7 @@
     "description_local": "Dreitägige Konferenz, die Forscher, Branchenführer und Entwickler zusammenbringt. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast 30 wissenschaftliche Sessions.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-01",
+    "last_seen": "2026-07-04",
     "id": "22c4be5ddc567872"
   },
   {
@@ -688,6 +703,21 @@
     "id": "786e4230a7cdc8a4"
   },
   {
+    "title": "AI@Southcross - Episode #1RC",
+    "date": null,
+    "venue": "Berlin",
+    "url": "https://www.eventbrite.de/d/germany--berlin/k%EF%BF%BD%EF%BF%BDnstliche-intelligenz/",
+    "source": "Eventbrite",
+    "description": "AI meetup event at Southcross venue in Berlin.",
+    "title_local": "AI@Southcross - Episode #1RC",
+    "description_local": "KI-Meetup-Event im Southcross-Venue in Berlin.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "id": "035924b44db84461"
+  },
+  {
     "title": "Berlin AI Developers Group Meetup",
     "date": null,
     "venue": "TBA",
@@ -763,6 +793,21 @@
     "id": "b450cd094f29dad9"
   },
   {
+    "title": "Berlin Tech Mixer and Social (Tech / AI / Data / IT)",
+    "date": null,
+    "venue": "Belushi's Berlin (Alexanderplatz)",
+    "url": "https://www.eventbrite.com/cc/mai-ist-fur-ai-4204593",
+    "source": "Eventbrite",
+    "description": "Regular networking mixer for tech, AI, data, and IT professionals in Berlin. Multiple dates available (May 8, May 30, and recurring).",
+    "title_local": "Berlin Tech Mixer and Social (Tech / AI / Data / IT)",
+    "description_local": "Regelmäßiger Networking-Mixer für Tech-, KI-, Daten- und IT-Fachleute in Berlin. Mehrere Termine verfügbar.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "id": "299be1d81f11c9ff"
+  },
+  {
     "title": "Berlin x AI Meetup",
     "date": null,
     "venue": "Berlin (venue TBD)",
@@ -804,7 +849,7 @@
     "city": "berlin",
     "date_status": "unknown",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-29",
+    "last_seen": "2026-07-04",
     "id": "decde93fcc3a35b0"
   },
   {
