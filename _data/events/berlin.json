@@ -104,7 +104,7 @@
     "description_local": "Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten im Betahaus Moritzplatz. Mit Keynote von Derek Footer von XTR.Capital über die Vorbereitung von Startups auf die erste Finanzierungsrunde, sowie Demos von One Ware (Physical AI), Civic (Berechtigungsschicht für KI-Agenten) und Silicon Psyche Labs. Getränke und Snacks werden bereitgestellt.",
     "city": "berlin",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-07-04",
+    "last_seen": "2026-07-05",
     "id": "e3b46ef72cefd6d1"
   },
   {
@@ -216,6 +216,20 @@
     "id": "d80466973b4bf08f"
   },
   {
+    "title": "dida conference 2026",
+    "date": "2026-07-05",
+    "venue": "frizzforum, Berlin Kreuzberg",
+    "url": "https://dida.do/conference",
+    "source": "dida",
+    "description": "Day of applied and technical machine learning talks, hands-on workshops, networking, and food. Programme includes breakfast, main stage talks, focused workshops, coffee breaks, poster session and evening networking. Special track on AI for Science & Engineering with topics like scientific ML, simulation, PDEs, physics-informed AI.",
+    "title_local": "dida conference 2026",
+    "description_local": "Tag mit angewandten und technischen Machine-Learning-Vorträgen, praktischen Workshops, Networking und gutem Essen. Programm umfasst Frühstück, Hauptbühnenvorträge, fokussierte Workshops, Kaffeepausen, Postersession und Abend-Networking. Spezial-Track zu KI für Wissenschaft & Technik.",
+    "city": "berlin",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "id": "4d4716c9097c2985"
+  },
+  {
     "title": "Language AI Meetup Berlin - July 2026",
     "date": "2026-07-06",
     "venue": "Berlin (venue TBA)",
@@ -228,6 +242,20 @@
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-26"
+  },
+  {
+    "title": "Language AI Meetup Berlin - July 2026",
+    "date": "2026-07-06",
+    "venue": "Berlin",
+    "url": "https://www.meetup.com/language-ai-meetup/events/",
+    "source": "Meetup",
+    "description": "Monday, 6 July 2026. Community dedicated to exploring conversations about the intersection of language and AI. Connects practitioners, researchers and language aficionados. Led and sponsored by Supertext.",
+    "title_local": "Language AI Meetup Berlin - Juli 2026",
+    "description_local": "Montag, 6. Juli 2026. Community, die sich auf Gespräche über die Schnittstelle von Sprache und KI konzentriert. Verbindet Praktiker, Forscher und Sprachbegeisterte. Geleitet und gesponsert von Supertext.",
+    "city": "berlin",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "id": "ee5ecbd2fdc7b60e"
   },
   {
     "title": "Berlin Machine Learning Study Group - Aiven Workshop",
@@ -256,6 +284,20 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-07-02",
     "id": "c86ddf054ed364a8"
+  },
+  {
+    "title": "HR Leaders Summit 2026 (part of WeAreDevelopers World Congress)",
+    "date": "2026-07-08",
+    "venue": "Berlin",
+    "url": "https://www.createwith.com/event/berlin-hr-leaders-summit-2026-july-2026",
+    "source": "Create With",
+    "description": "Europe's leading HR & tech crossover event (8–10 July 2026) bringing HR leaders together with developers for talks on AI, recruiting, and employer branding. 1,000+ HR Professionals, 100+ Speakers, 60+ Sessions. Part of WeAreDevelopers World Congress.",
+    "title_local": "HR Leaders Summit 2026 (Teil des WeAreDevelopers World Congress)",
+    "description_local": "Europas führende HR- und Tech-Crossover-Veranstaltung (8.–10. Juli 2026), die HR-Führungskräfte mit Entwicklern zusammenbringt für Vorträge über KI, Recruiting und Employer Branding.",
+    "city": "berlin",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "id": "c254a6eaccb9af46"
   },
   {
     "title": "Nebius.Build Berlin",
@@ -312,6 +354,34 @@
     "id": "7d4d5145ac13cf39"
   },
   {
+    "title": "Berlin AI Developers Group - AI Agents Workshop with Google",
+    "date": "2026-07-15",
+    "venue": "Berlin",
+    "url": "https://www.meetup.com/berlin-ai-tech-talk/",
+    "source": "Meetup",
+    "description": "Engineering-first day in Berlin to build autonomous AI Agents from scratch, master 'Vibe Coding' workflow with Google experts, and dive into hands-on labs. Topics include Agentic Orchestration, Reasoning and planning with Gemini, Rapid Development with Agent Development Kit (ADK), Pipeline Automation with Gemini CLI.",
+    "title_local": "Berlin AI Developers Group - AI Agents Workshop mit Google",
+    "description_local": "Engineering-orientierter Tag in Berlin zum Aufbau autonomer KI-Agenten von Grund auf, Beherrschung des 'Vibe Coding'-Workflows mit Google-Experten und praktischen Labs. Themen: Agentische Orchestrierung, Reasoning und Planung mit Gemini, schnelle Entwicklung mit Agent Development Kit (ADK).",
+    "city": "berlin",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-07-05",
+    "id": "0d7e0875ef229f2e"
+  },
+  {
+    "title": "Berliner Robotiknetzwerktreffen – Summer Edition",
+    "date": "2026-07-15",
+    "venue": "SRH & NLND, Berlin",
+    "url": "https://www.eventbrite.de/d/germany--berlin/k%EF%BF%BD%EF%BF%BDnstliche-intelligenz/",
+    "source": "Eventbrite",
+    "description": "Summer edition of Berlin Robotics Network meeting. Event focused on robotics and AI in Berlin, bringing together the robotics community.",
+    "title_local": "Berliner Robotiknetzwerktreffen – Summer Edition",
+    "description_local": "Sommerausgabe des Berliner Robotiknetzwerktreffens. Veranstaltung mit Fokus auf Robotik und KI in Berlin, die die Robotik-Community zusammenbringt.",
+    "city": "berlin",
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-05",
+    "id": "035924b44db84461"
+  },
+  {
     "title": "Generative AI Summit Berlin 2026",
     "date": "2026-07-15",
     "venue": "Berlin",
@@ -338,6 +408,20 @@
     "first_seen": "2026-06-15",
     "last_seen": "2026-07-03",
     "id": "4867edb863b0a225"
+  },
+  {
+    "title": "Global AI Berlin",
+    "date": "2026-07-22",
+    "venue": "Berlin",
+    "url": "https://globalai.community/chapters/berlin/",
+    "source": "Global AI Community",
+    "description": "In-person meetup on Wednesday, 22 July 2026, 18:30–20:30. Community event for anyone interested in artificial intelligence, machine learning, and data science.",
+    "title_local": "Global AI Berlin",
+    "description_local": "Persönliches Treffen am Mittwoch, 22. Juli 2026, 18:30–20:30 Uhr. Community-Event für alle, die sich für künstliche Intelligenz, maschinelles Lernen und Data Science interessieren.",
+    "city": "berlin",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "id": "c173ee1f9567ce8d"
   },
   {
     "title": "International Conference on AI and Computational Biology (ICAICB)",
@@ -367,6 +451,20 @@
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
     "id": "469dda992ade01aa"
+  },
+  {
+    "title": "Health-IT Talk: KI-gestütztes Wissensmanagement in der Praxis",
+    "date": "2026-08-15",
+    "venue": "TMF e.V., Berlin",
+    "url": "https://www.eventbrite.de/d/germany--berlin/ki/",
+    "source": "Eventbrite",
+    "description": "Health-IT Talk focused on AI-supported knowledge management in practice. Event organized by TMF e.V. (Technology, Methods, and Infrastructure for Networked Medical Research).",
+    "title_local": "Health-IT Talk: KI-gestütztes Wissensmanagement in der Praxis",
+    "description_local": "Health-IT Talk mit Fokus auf KI-gestütztes Wissensmanagement in der Praxis. Veranstaltung organisiert von TMF e.V. (Technologie, Methoden und Infrastruktur für die vernetzte medizinische Forschung).",
+    "city": "berlin",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "id": "cdd30d1150018cbb"
   },
   {
     "title": "AI Builders Monthly Berlin",
@@ -461,8 +559,22 @@
     "description_local": "Großes KI-Festival mit sechs Bühnen, über 350 Speakern aus Wirtschaft, Tech, Gesundheit und Politik, die ihr Wissen über aktuelle KI-Trends teilen. Mit umfangreichem Bühnenprogramm, Street Food, Networking-Möglichkeiten und Live-Entertainment. Alle Teilnehmenden erhalten ein offizielles KI-Zertifikat. Neu 2026: Data and Analytics Stage und SME Stage für kleine und mittelständische Unternehmen.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-23",
+    "last_seen": "2026-07-05",
     "id": "a1e89f63d8ce233d"
+  },
+  {
+    "title": "AI In Production: Berlin AI Meetup at GetYourGuide",
+    "date": "2026-09-20",
+    "venue": "GetYourGuide office, Prenzlauer Berg, Berlin",
+    "url": "https://luma.com/ber-ai",
+    "source": "Luma",
+    "description": "Learn how companies use AI in Production. Relevant to ML and AI practitioners. Features talks on AI applications at GetYourGuide including partner widget automation and ML platform evolution for LLMs. Includes pizza, drinks, and networking with people building with AI in Berlin.",
+    "title_local": "AI in der Produktion: Berlin AI Meetup bei GetYourGuide",
+    "description_local": "Erfahren Sie, wie Unternehmen KI in der Produktion einsetzen. Relevant für ML- und KI-Praktiker. Mit Vorträgen über KI-Anwendungen bei GetYourGuide, einschließlich Partner-Widget-Automatisierung und ML-Plattform-Evolution für LLMs. Mit Pizza, Getränken und Networking.",
+    "city": "berlin",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "id": "cb6b3a33ef1413dd"
   },
   {
     "title": "AI & Data Summit 2026",
@@ -559,7 +671,7 @@
     "description_local": "Dreitägige Veranstaltung (12.–14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Kern-KI-Themen einschließlich Robotik und autonome Systeme, Klimawissenschaftsanwendungen, MLOps und skalierbare Bereitstellung, vertrauenswürdige KI, Hochleistungsrechnen und energieeffiziente KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-04",
+    "last_seen": "2026-07-05",
     "id": "15932057c4239dba"
   },
   {
@@ -619,28 +731,30 @@
   {
     "title": "MLcon Berlin 2026",
     "date": "2026-11-16",
-    "venue": "Maritim ProArte Hotel Berlin",
+    "venue": "Maritim ProArte Hotel Berlin, Friedrichstraße",
     "url": "https://mlconference.ai/berlin/",
-    "source": "mlconference.ai",
-    "description": "Five-day event (Nov 16-20, 2026) for Generative AI and machine learning engineering, with expo on Nov 18-19. Features technical sessions, full-day workshops, and 2-day bootcamps led by industry experts. Topics include Model Context Protocol (MCP), agentic AI, and production-ready AI systems.",
+    "source": "MLcon",
+    "description": "November 16-20, 2026 (previously listed as Nov 23-27). The event for Generative AI & Machine Learning Engineering. Features expert-led workshops, keynotes, and networking with leading ML professionals. Topics include Generative AI & Agents, MLOps & LLMOps, ML & Deep Learning, AI Strategy & Governance.",
     "title_local": "MLcon Berlin 2026",
-    "description_local": "Fünftägiges Event (16.-20. November 2026) für Generative KI und Machine Learning Engineering, mit Expo am 18.-19. November. Mit technischen Sessions, ganztägigen Workshops und 2-Tages-Bootcamps von Branchenexperten. Themen umfassen Model Context Protocol (MCP), agentische KI und produktionsreife KI-Systeme.",
+    "description_local": "16.-20. November 2026. Die Veranstaltung für Generative AI & Machine Learning Engineering. Mit expertengeleiteten Workshops, Keynotes und Networking mit führenden ML-Profis. Themen: Generative AI & Agents, MLOps & LLMOps, ML & Deep Learning, KI-Strategie & Governance.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-23",
+    "last_seen": "2026-07-05",
     "id": "9a05b37a144a341e"
   },
   {
-    "title": "KI-X HR Convention",
+    "title": "KI-X HR Convention 2026",
     "date": "2026-11-18",
     "venue": "Berlin",
     "url": "https://hr.ki-x.berlin/",
-    "source": "KI-X Berlin / Quadriga Media",
-    "description": "Two-day convention (November 18-19) showing how companies from SMEs to enterprises are implementing AI in HR practice. Covers AI-supported recruiting, talent management, employee development, predictive analytics, and automated workflows.",
+    "source": "KI-X",
+    "description": "November 18 & 19, 2026. Conference focused on AI in HR from mid-sized companies to corporations. Topics include AI-supported applicant and talent management, employee development, predictive analytics, and automated workflows. Practical, secure, scalable AI implementations for HR.",
+    "title_local": "KI-X HR Convention 2026",
+    "description_local": "18. & 19. November 2026. Konferenz mit Fokus auf KI im Personalwesen vom Mittelstand bis zum Konzern. Von KI-gestütztem Bewerber- und Talentmanagement über Mitarbeiterentwicklung bis hin zu Predictive Analytics und automatisierten Workflows. Praxisnah. Sicher. Skalierbar.",
     "city": "berlin",
-    "id": "d5be695f108fc9f4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-07-05",
+    "id": "d5be695f108fc9f4"
   },
   {
     "title": "AI Engineering 2026 Meetup",
@@ -701,36 +815,6 @@
     "first_seen": "2026-06-18",
     "last_seen": "2026-06-18",
     "id": "786e4230a7cdc8a4"
-  },
-  {
-    "title": "AI@Southcross - Episode #1RC",
-    "date": null,
-    "venue": "Berlin",
-    "url": "https://www.eventbrite.de/d/germany--berlin/k%EF%BF%BD%EF%BF%BDnstliche-intelligenz/",
-    "source": "Eventbrite",
-    "description": "AI meetup event at Southcross venue in Berlin.",
-    "title_local": "AI@Southcross - Episode #1RC",
-    "description_local": "KI-Meetup-Event im Southcross-Venue in Berlin.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-07-04",
-    "last_seen": "2026-07-04",
-    "id": "035924b44db84461"
-  },
-  {
-    "title": "Berlin AI Developers Group Meetup",
-    "date": null,
-    "venue": "TBA",
-    "url": "https://www.meetup.com/berlin-ai-tech-talk/",
-    "source": "meetup.com",
-    "description": "Meetup to learn and practice AI, Generative AI, LLMs, Agentic AI, Machine Learning, Deep Learning, MLOps, ML and Data engineering. Features tech talks, workshops, and code labs with tech leads from innovative companies and successful startups sharing practical experiences.",
-    "title_local": "Berlin AI Developers Group Meetup",
-    "description_local": "Meetup zum Lernen und Üben von KI, Generativer KI, LLMs, Agentischer KI, Machine Learning, Deep Learning, MLOps, ML und Data Engineering. Mit Tech-Talks, Workshops und Code-Labs, bei denen Tech-Leads aus innovativen Unternehmen und erfolgreichen Startups ihre praktischen Erfahrungen teilen.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "id": "0d7e0875ef229f2e"
   },
   {
     "title": "Berlin AI Machine Learning and Computer Vision Meetup",
