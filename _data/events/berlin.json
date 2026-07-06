@@ -230,6 +230,20 @@
     "id": "4d4716c9097c2985"
   },
   {
+    "title": "Berlin: Tech Talks & Business Brains",
+    "date": "2026-07-06",
+    "venue": "Berlin (location disclosed after registration)",
+    "url": "https://luma.com/g77pez7o",
+    "source": "luma.com",
+    "description": "Cross-functional meetup for developers, founders, marketers, and designers. Focus on product building, AI implementation, and business strategy. Discussions cover automation, monetization tactics, no-code tools, GenAI, and vibe coding. Informal networking with drinks in summer setting.",
+    "title_local": "Berlin: Tech Talks & Business Brains",
+    "description_local": "Cross-funktionales Meetup für Entwickler, Gründer, Marketer und Designer. Fokus auf Produktentwicklung, KI-Implementierung und Business-Strategie. Diskussionen über Automatisierung, Monetarisierungstaktiken, No-Code-Tools, GenAI und Vibe Coding.",
+    "city": "berlin",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-07-06",
+    "id": "f8fae9f3cfd39a48"
+  },
+  {
     "title": "Language AI Meetup Berlin - July 2026",
     "date": "2026-07-06",
     "venue": "Berlin (venue TBA)",
@@ -434,7 +448,7 @@
     "description_local": "Internationale Konferenz zu KI und Computational Biology mit virtuellen und Vor-Ort-Teilnahmemöglichkeiten. Teil einer akademischen Konferenzreihe zu KI-Themen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-04",
+    "last_seen": "2026-07-06",
     "id": "216d5e94062d17a7"
   },
   {
@@ -591,17 +605,17 @@
     "id": "1613545dc4c58fb3"
   },
   {
-    "title": "AI & Data Summit 2026 (Bitkom)",
+    "title": "AI & Data Summit 2026",
     "date": "2026-09-22",
     "venue": "bcc Berlin",
     "url": "https://www.data-unplugged.de/en/blog/slug-ai-trade-fairs-and-data-events-in-germany-an-overview",
-    "source": "data-unplugged.de",
-    "description": "One of Europe's leading B2B conferences on AI and data analytics with 2,200 participants, 220+ speakers and 140 sessions. Parallel to Quantum Summit. Focus on practical enterprise AI applications.",
-    "title_local": "AI & Data Summit 2026 (Bitkom)",
-    "description_local": "Eine der führenden europäischen B2B-Konferenzen zu KI und Datenanalyse im Business mit ca. 2.200 Teilnehmenden, über 220 Speakern und 140 Sessions. Parallel zum Quantum Summit.",
+    "source": "data-unplugged.de, omt.de",
+    "description": "Bitkom's leading European B2B conference on AI and data analytics in business with around 2,200 participants, 220+ speakers and 140 sessions. Focus on practical examples of AI and data beyond pilot projects. Takes place parallel to Quantum Summit. Features a dedicated Data and Analytics Stage and SME Stage.",
+    "title_local": "AI & Data Summit 2026",
+    "description_local": "Bitkom's führende europäische B2B-Konferenz zu KI und Datenanalyse im Geschäftsleben mit ca. 2.200 Teilnehmenden, 220+ Speakern und 140 Sessions. Fokus auf praktische Beispiele, wie Unternehmen tatsächlich von KI und Daten profitieren können - über Pilotprojekte hinaus.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-07-06",
     "id": "067cabfaea40e7c7"
   },
   {
@@ -685,7 +699,7 @@
     "description_local": "Dreitägige Konferenz, die Forscher, Branchenführer und Entwickler zusammenbringt. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast 30 wissenschaftliche Sessions.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-04",
+    "last_seen": "2026-07-06",
     "id": "22c4be5ddc567872"
   },
   {
@@ -905,21 +919,6 @@
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
     "id": "85c8aa34e118ae0f"
-  },
-  {
-    "title": "Berlin: Tech Talks & Business Brains",
-    "date": null,
-    "venue": "Berlin (venue TBD)",
-    "url": "https://luma.com/g77pez7o",
-    "source": "luma.com",
-    "description": "Informal, inspiring evening in Berlin for those into design, no-code or AI, building solo or in small teams. Casual meetup with designers, creatives and founders working on side projects, apps and digital products. Focus on tool swaps, new collaborations and connecting with other makers in the city. Space to share what you're working on, ask questions and connect.",
-    "title_local": "Berlin: Tech Talks & Business Brains",
-    "description_local": "Informeller, inspirierender Abend in Berlin für diejenigen, die sich für Design, No-Code oder KI interessieren und solo oder in kleinen Teams arbeiten. Ungezwungenes Treffen mit Designern, Kreativen und Gründern, die an Nebenprojekten, Apps und digitalen Produkten arbeiten. Fokus auf Tool-Austausch, neue Kooperationen und Vernetzung mit anderen Machern in der Stadt. Raum zum Teilen dessen, woran man arbeitet, Fragen zu stellen und sich zu vernetzen.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "id": "f8fae9f3cfd39a48"
   },
   {
     "title": "Robotik und KI Hackathon",
