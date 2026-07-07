@@ -64,7 +64,7 @@
     "description_local": "Deutschlands führende KI-Veranstaltung für Führungskräfte, die 2.000+ Top-Führungskräfte, 200+ führende KI-Redner und 100+ KI-Startups zusammenbringt. Entwickelt für Entscheidungsträger mit Budget- und Strategieverantwortung, konzentriert auf praktische Anwendungen. Mit Executive Keynotes, geschlossenen Masterclasses und direktem Zugang zu unternehmensreifen Lösungen für KI-Transformation.",
     "city": "berlin",
     "first_seen": "2026-06-20",
-    "last_seen": "2026-07-04",
+    "last_seen": "2026-07-07",
     "id": "be3044c2f6266add"
   },
   {
@@ -156,7 +156,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-07",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -577,6 +577,20 @@
     "id": "a1e89f63d8ce233d"
   },
   {
+    "title": "The European AI Conference 2026",
+    "date": "2026-09-17",
+    "venue": "Dublin, Ireland (note: not Berlin but part of European circuit)",
+    "url": "https://luma.com/EuropeanAI",
+    "source": "luma.com",
+    "description": "Highly curated event gathering 340 pre-approved leaders of Europe's AI Ecosystem for discussion, learning and networking. Organized by Startup Network Europe. Tables curated by technical stack and company size. For AI builders, tech leaders, strategic leaders at enterprise/mid-market companies.",
+    "title_local": "Die Europäische KI-Konferenz 2026",
+    "description_local": "Hochkuratierte Veranstaltung, die 340 vorab genehmigte Führungskräfte des europäischen KI-Ökosystems für Diskussion, Lernen und Networking zusammenbringt. Organisiert von Startup Network Europe.",
+    "city": "berlin",
+    "first_seen": "2026-07-07",
+    "last_seen": "2026-07-07",
+    "id": "451fde0434e76966"
+  },
+  {
     "title": "AI In Production: Berlin AI Meetup at GetYourGuide",
     "date": "2026-09-20",
     "venue": "GetYourGuide office, Prenzlauer Berg, Berlin",
@@ -712,7 +726,7 @@
     "city": "berlin",
     "id": "d7949f08ac7e51e0",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-07-07"
   },
   {
     "title": "NVIDIA GTC Berlin 2026",
