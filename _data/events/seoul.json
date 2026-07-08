@@ -470,8 +470,22 @@
     "description_local": "전사체학 및 바이오인포매틱스 연구에서의 AI 응용에 초점을 맞춘 국제 컨퍼런스. 하이브리드 형식 (가상 및 대면).",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "id": "98dd8b906bab4381"
+  },
+  {
+    "title": "AI Summit Seoul & EXPO 2026",
+    "date": "2026-08-19",
+    "venue": "COEX Grand Ballroom & Hall B, Seoul",
+    "url": "https://www.aisummit.co.kr/",
+    "source": "AI Summit Seoul Official Website",
+    "description": "9th annual global AI conference bringing together AI leaders, innovators, enterprises, startups, and policymakers. Focus on Agentic AI, Enterprise AI, Physical AI, and industry-specific AI applications. Conference runs Aug 19-20, Expo runs Aug 19-21.",
+    "title_local": "AI Summit Seoul & EXPO 2026",
+    "description_local": "AI Summit Seoul & EXPO는 2018년 이래로 매년 서울에서 개최되는 세계적인 AI 컨퍼런스입니다. AI와 산업의 융합에 초점을 두고 다양한 글로벌 기업과 기관, 학계 전문가 등 대규모의 전문가들이 한자리에 모입니다. 올해 9주년을 맞이하는 행사에서는 올해 화두인 AI Agent, Agentic AI부터, 피지컬 AI 및 각 산업별 AI 융합 등 최신 트렌드와 전략을 가장 먼저 선보입니다.",
+    "city": "seoul",
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "id": "c8c6b0caef9d3d0d"
   },
   {
     "title": "AI Summit Seoul & Expo 2026",
@@ -574,7 +588,7 @@
     "description_local": "국가 공식 인공지능주간의 대표 행사로 3일간 개최(10월 6-8일). 전시·비즈매칭·시상까지 한 자리에서 진행. AI가 실제 산업과 사회에서 어떻게 작동하고 어떤 성과와 변화를 만들어내고 있는지를 현장에서 확인하는 자리. 우리의 일상과 산업, 도시에서 공기처럼 자연스럽게 스며들어 실제로 구현되고 작동하는 AI를 만나는 국내 최대 인공지능 페스티벌.",
     "city": "seoul",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-08",
     "id": "e27613476fc821c2"
   },
   {
@@ -630,7 +644,7 @@
     "description_local": "머신러닝 및 관련 분야 연구자들이 새로운 아이디어, 진행 상황 및 성과를 공유할 수 있는 주요 국제 포럼. 머신러닝 이론 및 실무에 관한 고품질의 독창적인 연구 논문 발표.",
     "city": "seoul",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-01",
+    "last_seen": "2026-07-08",
     "id": "98f6cb8894011367"
   },
   {
