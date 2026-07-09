@@ -64,7 +64,7 @@
     "description_local": "Deutschlands führende KI-Veranstaltung für Führungskräfte, die 2.000+ Top-Führungskräfte, 200+ führende KI-Redner und 100+ KI-Startups zusammenbringt. Entwickelt für Entscheidungsträger mit Budget- und Strategieverantwortung, konzentriert auf praktische Anwendungen. Mit Executive Keynotes, geschlossenen Masterclasses und direktem Zugang zu unternehmensreifen Lösungen für KI-Transformation.",
     "city": "berlin",
     "first_seen": "2026-06-20",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-09",
     "id": "be3044c2f6266add"
   },
   {
@@ -104,7 +104,7 @@
     "description_local": "Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten im Betahaus Moritzplatz. Mit Keynote von Derek Footer von XTR.Capital über die Vorbereitung von Startups auf die erste Finanzierungsrunde, sowie Demos von One Ware (Physical AI), Civic (Berechtigungsschicht für KI-Agenten) und Silicon Psyche Labs. Getränke und Snacks werden bereitgestellt.",
     "city": "berlin",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-07-05",
+    "last_seen": "2026-07-09",
     "id": "e3b46ef72cefd6d1"
   },
   {
@@ -230,20 +230,6 @@
     "id": "4d4716c9097c2985"
   },
   {
-    "title": "Berlin: Tech Talks & Business Brains",
-    "date": "2026-07-06",
-    "venue": "Berlin (location disclosed after registration)",
-    "url": "https://luma.com/g77pez7o",
-    "source": "luma.com",
-    "description": "Cross-functional meetup for developers, founders, marketers, and designers. Focus on product building, AI implementation, and business strategy. Discussions cover automation, monetization tactics, no-code tools, GenAI, and vibe coding. Informal networking with drinks in summer setting.",
-    "title_local": "Berlin: Tech Talks & Business Brains",
-    "description_local": "Cross-funktionales Meetup für Entwickler, Gründer, Marketer und Designer. Fokus auf Produktentwicklung, KI-Implementierung und Business-Strategie. Diskussionen über Automatisierung, Monetarisierungstaktiken, No-Code-Tools, GenAI und Vibe Coding.",
-    "city": "berlin",
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-07-06",
-    "id": "f8fae9f3cfd39a48"
-  },
-  {
     "title": "Language AI Meetup Berlin - July 2026",
     "date": "2026-07-06",
     "venue": "Berlin (venue TBA)",
@@ -354,6 +340,20 @@
     "id": "0226fb9fbc26f91c"
   },
   {
+    "title": "Global AI Berlin",
+    "date": "2026-07-11",
+    "venue": "Berlin, Germany",
+    "url": "https://globalai.community/chapters/berlin/",
+    "source": "globalai.community",
+    "description": "In-person Global AI community event focused on artificial intelligence, machine learning, and data science. Features discussions, workshops, and networking for AI practitioners and enthusiasts.",
+    "title_local": "Global AI Berlin",
+    "description_local": "Persönliches Global AI Community-Event mit Fokus auf künstliche Intelligenz, maschinelles Lernen und Data Science. Mit Diskussionen, Workshops und Networking für KI-Praktiker und Enthusiasten.",
+    "city": "berlin",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-09",
+    "id": "c173ee1f9567ce8d"
+  },
+  {
     "title": "{Tech: Europe} Berlin AI Hackathon",
     "date": "2026-07-12",
     "venue": "Berlin",
@@ -424,18 +424,18 @@
     "id": "4867edb863b0a225"
   },
   {
-    "title": "Global AI Berlin",
-    "date": "2026-07-22",
-    "venue": "Berlin",
-    "url": "https://globalai.community/chapters/berlin/",
-    "source": "Global AI Community",
-    "description": "In-person meetup on Wednesday, 22 July 2026, 18:30–20:30. Community event for anyone interested in artificial intelligence, machine learning, and data science.",
-    "title_local": "Global AI Berlin",
-    "description_local": "Persönliches Treffen am Mittwoch, 22. Juli 2026, 18:30–20:30 Uhr. Community-Event für alle, die sich für künstliche Intelligenz, maschinelles Lernen und Data Science interessieren.",
+    "title": "Berlin: Tech Talks & Business Brains",
+    "date": "2026-07-25",
+    "venue": "Berlin (location revealed upon registration)",
+    "url": "https://luma.com/g77pez7o",
+    "source": "luma.com",
+    "description": "Cross-functional Friday meetup bringing together developers, founders, marketers, and designers. Focus on product building, AI implementation, and business strategy. Topics include automation, monetization tactics, no-code tools, GenAI, and Vibe Coding. Summer networking event with drinks.",
+    "title_local": "Berlin: Tech Talks & Business Brains",
+    "description_local": "Cross-funktionales Freitags-Meetup für Entwickler, Gründer, Marketer und Designer. Fokus auf Produktentwicklung, KI-Implementierung und Business-Strategie. Themen: Automatisierung, Monetarisierungstaktiken, No-Code-Tools, GenAI und Vibe Coding. Sommer-Networking-Event mit Getränken.",
     "city": "berlin",
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "id": "c173ee1f9567ce8d"
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-07-09",
+    "id": "f8fae9f3cfd39a48"
   },
   {
     "title": "International Conference on AI and Computational Biology (ICAICB)",
@@ -448,7 +448,7 @@
     "description_local": "Internationale Konferenz zu KI und Computational Biology mit virtuellen und Vor-Ort-Teilnahmemöglichkeiten. Teil einer akademischen Konferenzreihe zu KI-Themen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "id": "216d5e94062d17a7"
   },
   {
@@ -573,7 +573,7 @@
     "description_local": "Großes KI-Festival mit sechs Bühnen, über 350 Speakern aus Wirtschaft, Tech, Gesundheit und Politik, die ihr Wissen über aktuelle KI-Trends teilen. Mit umfangreichem Bühnenprogramm, Street Food, Networking-Möglichkeiten und Live-Entertainment. Alle Teilnehmenden erhalten ein offizielles KI-Zertifikat. Neu 2026: Data and Analytics Stage und SME Stage für kleine und mittelständische Unternehmen.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-05",
+    "last_seen": "2026-07-09",
     "id": "a1e89f63d8ce233d"
   },
   {
@@ -699,7 +699,7 @@
     "description_local": "Dreitägige Veranstaltung (12.–14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Kern-KI-Themen einschließlich Robotik und autonome Systeme, Klimawissenschaftsanwendungen, MLOps und skalierbare Bereitstellung, vertrauenswürdige KI, Hochleistungsrechnen und energieeffiziente KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-05",
+    "last_seen": "2026-07-09",
     "id": "15932057c4239dba"
   },
   {
@@ -713,7 +713,7 @@
     "description_local": "Dreitägige Konferenz, die Forscher, Branchenführer und Entwickler zusammenbringt. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast 30 wissenschaftliche Sessions.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "id": "22c4be5ddc567872"
   },
   {

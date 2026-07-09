@@ -446,18 +446,32 @@
     "last_seen": "2026-06-15"
   },
   {
-    "title": "International Conference on Cryptocurrency, Artificial Intelligence and Machine Learning (ICCAIML)",
-    "date": "2026-07-19",
+    "title": "International Conference on Next-Generation AI Technologies (ICNGAIT)",
+    "date": "2026-07-17",
     "venue": "Seoul, South Korea",
     "url": "https://www.allconferencealert.com/seoul/artificial-intelligence/july",
-    "source": "All Conference Alert",
-    "description": "International conference on cryptocurrency, artificial intelligence and machine learning.",
-    "title_local": "암호화폐, 인공지능 및 머신러닝에 관한 국제 콘퍼런스",
-    "description_local": "암호화폐, 인공지능 및 머신러닝 기술에 관한 국제 학술 콘퍼런스",
+    "source": "allconferencealert.com",
+    "description": "International academic conference focused on next-generation AI technologies. Part of the series of AI conferences held in Seoul in July 2026.",
+    "title_local": "차세대 AI 기술 국제 컨퍼런스",
+    "description_local": "차세대 AI 기술에 중점을 둔 국제 학술 컨퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-09",
     "id": "910359b7c61d8aee"
+  },
+  {
+    "title": "Seoul Tech Mixer and Social (Tech / AI / Data / IT)",
+    "date": "2026-07-18",
+    "venue": "Restaurant of the Week, Seoul (소공동)",
+    "url": "https://www.eventbrite.com/d/south-korea--seoul/july/",
+    "source": "eventbrite.com",
+    "description": "Tech and AI networking social event for professionals in tech, AI, data, and IT sectors. Regular monthly meetup series.",
+    "title_local": "서울 테크 믹서 및 소셜 (Tech / AI / Data / IT)",
+    "description_local": "기술, AI, 데이터 및 IT 분야 전문가를 위한 테크 및 AI 네트워킹 소셜 이벤트입니다.",
+    "city": "seoul",
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "id": "93310eddcd1014ab"
   },
   {
     "title": "International Conference on AI in Transcriptomics and Bioinformatics (ICAITB)",
@@ -470,7 +484,7 @@
     "description_local": "전사체학 및 바이오인포매틱스 연구에서의 AI 응용에 초점을 맞춘 국제 컨퍼런스. 하이브리드 형식 (가상 및 대면).",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "id": "98dd8b906bab4381"
   },
   {
@@ -522,7 +536,7 @@
     "description_local": "의료기기, 병원 장비, 헬스케어 기술, 의료 AI 및 로봇을 선보이는 한국 최대 디지털 헬스케어 전시회. 의료 제공자, 의료 기기 제조업체, 헬스테크 스타트업 및 기술 파트너를 위한 B2B 플랫폼.",
     "city": "seoul",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-04",
+    "last_seen": "2026-07-09",
     "id": "dfe29fcfd5873ac4"
   },
   {
