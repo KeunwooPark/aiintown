@@ -94,20 +94,6 @@
     "id": "7a901bd5b4edd97a"
   },
   {
-    "title": "Berlin AI Meetup (Betahaus)",
-    "date": "2026-06-24",
-    "venue": "Betahaus Moritzplatz, Berlin",
-    "url": "https://www.betahaus.com/event/berlin-ai-meetup",
-    "source": "Betahaus Events",
-    "description": "Evening of hands-on AI, engaging discussions, and networking with industry experts at Betahaus Moritzplatz. Features keynote by Derek Footer from XTR.Capital on getting startups ready for first funding round, plus demos from One Ware (Physical AI), Civic (permission layer for AI agents), and Silicon Psyche Labs. Drinks and snacks provided.",
-    "title_local": "Berlin KI-Meetup (Betahaus)",
-    "description_local": "Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten im Betahaus Moritzplatz. Mit Keynote von Derek Footer von XTR.Capital über die Vorbereitung von Startups auf die erste Finanzierungsrunde, sowie Demos von One Ware (Physical AI), Civic (Berechtigungsschicht für KI-Agenten) und Silicon Psyche Labs. Getränke und Snacks werden bereitgestellt.",
-    "city": "berlin",
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-07-09",
-    "id": "e3b46ef72cefd6d1"
-  },
-  {
     "title": "25. Tagung Interne Kommunikation",
     "date": "2026-06-30",
     "venue": "Berlin, Germany",
@@ -156,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-10",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -368,6 +354,34 @@
     "id": "7d4d5145ac13cf39"
   },
   {
+    "title": "Deep Tech Nexus Berlin Meetup",
+    "date": "2026-07-13",
+    "venue": "Berlin (venue via Merantix AI Campus)",
+    "url": "https://www.merantix-aicampus.com/event/ai-x-bio",
+    "source": "Merantix AI Campus",
+    "description": "Deep Tech Nexus strips away the formalities for genuine conversations between people tackling technology's hardest problems. The meetup spans the full spectrum of deep tech innovation: Artificial Intelligence and machine learning applications, Quantum computing, Biotechnology and life sciences, Smart manufacturing and industrial automation, Energy systems and sustainability tech, and Robotics and autonomous systems. Half-formed ideas and experimental approaches are welcomed. Whether you're spinning out research from Berlin's universities, building hardware in a lab, deploying AI agents, or investing in frontier technologies, you'll find your people here.",
+    "title_local": "Deep Tech Nexus Berlin Meetup",
+    "description_local": "Deep Tech Nexus verzichtet auf Formalitäten für echte Gespräche zwischen Menschen, die einige der schwierigsten technologischen Probleme angehen. Das Meetup umfasst das gesamte Spektrum der Deep-Tech-Innovation: Künstliche Intelligenz und maschinelle Lernanwendungen, Quantencomputing, Biotechnologie und Biowissenschaften, intelligente Fertigung und industrielle Automatisierung, Energiesysteme und Nachhaltigkeitstechnik sowie Robotik und autonome Systeme. Halbfertige Ideen und experimentelle Ansätze sind willkommen. Egal, ob Sie Forschung aus Berliner Universitäten ausgründen, Hardware im Labor bauen, KI-Agenten einsetzen oder in Frontier-Technologien investieren - hier finden Sie Gleichgesinnte.",
+    "city": "berlin",
+    "first_seen": "2026-07-10",
+    "last_seen": "2026-07-10",
+    "id": "b6403cb9c5cec360"
+  },
+  {
+    "title": "Global AI Berlin: Connected Intelligence - Graph-based reasoning, AI agents & Java's evolving role",
+    "date": "2026-07-14",
+    "venue": "CODE University of Applied Sciences, Delta Campus, Donaustr. 44, 12043 Berlin",
+    "url": "https://www.meetup.com/global-ai-berlin/",
+    "source": "Meetup - Global AI Berlin",
+    "description": "Under the theme 'Connected Intelligence', this meetup explores graph-based reasoning, constraint satisfaction, agentic code review, AI-powered development workflows, and Java's evolving role in AI systems. The evening includes talks by Andreas Kollegger (Director of GenAI, Neo4j), Charles Francoise (Staff Software Engineer, CircleCI), and Ana Maria Mihalceanu (Java Champion Alumni & Developer Advocate, Oracle). Also features a panel on 'Agentic AI in the Wild'. No vendor pitches - just practical lessons from systems running in production. Schedule: 17:00 doors open, 17:30 welcome, talks and panel, food & networking.",
+    "title_local": "Global AI Berlin: Connected Intelligence - Graph-basiertes Reasoning, KI-Agenten & Javas sich entwickelnde Rolle",
+    "description_local": "Unter dem Motto 'Connected Intelligence' untersucht dieses Meetup graph-basiertes Reasoning, Constraint Satisfaction, agentische Code-Reviews, KI-gestützte Entwicklungsworkflows und Javas sich entwickelnde Rolle in KI-Systemen. Der Abend umfasst Vorträge von Andreas Kollegger (Director of GenAI, Neo4j), Charles Francoise (Staff Software Engineer, CircleCI) und Ana Maria Mihalceanu (Java Champion Alumni & Developer Advocate, Oracle). Außerdem gibt es ein Panel zu 'Agentic AI in the Wild'. Keine Verkaufspräsentationen - nur praktische Lektionen aus Systemen, die in Produktion laufen. Zeitplan: 17:00 Einlass, 17:30 Begrüßung, Vorträge und Panel, Essen & Networking.",
+    "city": "berlin",
+    "first_seen": "2026-07-10",
+    "last_seen": "2026-07-10",
+    "id": "4e17ef04ab5077b4"
+  },
+  {
     "title": "Berlin AI Developers Group - AI Agents Workshop with Google",
     "date": "2026-07-15",
     "venue": "Berlin",
@@ -380,6 +394,20 @@
     "first_seen": "2026-06-23",
     "last_seen": "2026-07-05",
     "id": "0d7e0875ef229f2e"
+  },
+  {
+    "title": "Berlin AI Meetup at betahaus Moritzplatz",
+    "date": "2026-07-15",
+    "venue": "betahaus, Moritzplatz, Berlin",
+    "url": "https://www.betahaus.com/event/berlin-ai-meetup",
+    "source": "betahaus",
+    "description": "Join the Berlin AI Meetup at betahaus location at Moritzplatz for an evening of hands-on AI, engaging discussions, and networking with industry experts. Derek Footer from XTR.Capital will give a keynote about 'How to get your startup ready for the first round'. Demos will include One Ware (Physical AI for autonomous drones and quality control) and Civic (the permission layer for AI agents). Whether you're a believer or a critic, your perspective matters.",
+    "title_local": "Berlin KI-Meetup im betahaus Moritzplatz",
+    "description_local": "Besuchen Sie das Berlin KI-Meetup im betahaus am Moritzplatz für einen Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten. Derek Footer von XTR.Capital wird eine Keynote darüber halten, 'Wie Sie Ihr Startup auf die erste Finanzierungsrunde vorbereiten'. Demos umfassen One Ware (Physical AI für autonome Drohnen und Qualitätskontrolle) und Civic (die Berechtigungsebene für KI-Agenten). Egal, ob Sie ein Befürworter oder Kritiker sind, Ihre Perspektive ist wichtig.",
+    "city": "berlin",
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-10",
+    "id": "e3b46ef72cefd6d1"
   },
   {
     "title": "Berliner Robotiknetzwerktreffen – Summer Edition",
@@ -422,6 +450,20 @@
     "first_seen": "2026-06-15",
     "last_seen": "2026-07-03",
     "id": "4867edb863b0a225"
+  },
+  {
+    "title": "Berlin AI Meetup (SAP & Stealth Startup)",
+    "date": "2026-07-22",
+    "venue": "Berlin (venue TBA)",
+    "url": "https://luma.com/e/evt-xN4g1hHof3lFOBx",
+    "source": "Luma",
+    "description": "The AI Meetup in Berlin is a chance to exchange insights, share real-world use cases, and learn from others working in the field. Speakers include Salma Sohrabi-Jahromi (Senior AI Scientist at SAP) on 'Building Specialized LLM-based Enterprise Applications' and Arman Nassirtoussi (Founder & CEO at Stealth Startup) on 'Let's talk about Agentic AI'. The event is free but registration is mandatory, with limited seats and invites sent to a limited number of interested guests. Includes drinks and snacks.",
+    "title_local": "Berlin KI-Meetup (SAP & Stealth Startup)",
+    "description_local": "Das KI-Meetup in Berlin ist eine Gelegenheit, Erkenntnisse auszutauschen, reale Anwendungsfälle zu teilen und von anderen zu lernen, die auf diesem Gebiet arbeiten. Sprecher sind Salma Sohrabi-Jahromi (Senior AI Scientist bei SAP) über 'Building Specialized LLM-based Enterprise Applications' und Arman Nassirtoussi (Gründer & CEO bei Stealth Startup) über 'Let's talk about Agentic AI'. Die Veranstaltung ist kostenlos, aber eine Registrierung ist erforderlich, mit begrenzten Plätzen. Getränke und Snacks sind inklusive.",
+    "city": "berlin",
+    "first_seen": "2026-07-10",
+    "last_seen": "2026-07-10",
+    "id": "17b6c7bd9030c94c"
   },
   {
     "title": "Berlin: Tech Talks & Business Brains",

@@ -434,6 +434,34 @@
     "id": "23b0acf3e518ebed"
   },
   {
+    "title": "Global Data Space Forum",
+    "date": "2026-07-10",
+    "venue": "Korea Press Center 20F International Conference Hall, Seoul",
+    "url": "https://onoffmix.com/event/344872",
+    "source": "onoffmix.com",
+    "description": "A forum on AI, data, Gaia-X, data spaces, and international data research collaboration.",
+    "title_local": "글로벌 데이터 스페이스 포럼",
+    "description_local": "AI, 데이터, Gaia-X, 데이터스페이스, 국제데이터연구협력기구에 관한 포럼입니다.",
+    "city": "seoul",
+    "first_seen": "2026-07-10",
+    "last_seen": "2026-07-10",
+    "id": "fb81e9ae8c8f24ba"
+  },
+  {
+    "title": "2026 Seoul AI Administrative Innovation Forum",
+    "date": "2026-07-14",
+    "venue": "Korea Chamber of Commerce and Industry International Conference Hall, Seoul",
+    "url": "https://news.seoul.go.kr",
+    "source": "gyeongnam.thesegye.com",
+    "description": "The 2nd Seoul AI Administrative Innovation Forum organized by Seoul AI Foundation, featuring global cities and experts including Tokyo, Dubai, Singapore, and MIT. The forum focuses on sharing global AI innovation cases and discussing cooperation plans for public AI administrative innovation.",
+    "title_local": "2026 제2회 서울 AI 행정혁신포럼",
+    "description_local": "서울AI재단 주최로 '서울에서 만나는 AI 혁신의 미래, AI CITY SEOUL'을 주제로 국내외 도시 관계자와 AI 연구기관 전문가가 한자리에 모여 시민이 체감하는 AI 행정혁신 사례를 공유하고 글로벌 공공 AI 협력 방안을 논의하는 포럼입니다.",
+    "city": "seoul",
+    "first_seen": "2026-07-10",
+    "last_seen": "2026-07-10",
+    "id": "94f260f599d823a7"
+  },
+  {
     "title": "International Conference on Artificial Intelligence and Design (AID)",
     "date": "2026-07-17",
     "venue": "Seoul, Republic of Korea",
@@ -593,16 +621,16 @@
   },
   {
     "title": "AI Festa 2026",
-    "title_local": "AI 페스타 2026",
     "date": "2026-10-06",
     "venue": "COEX Hall C and Surrounding Area, Seoul",
     "url": "https://www.aifesta.kr/",
-    "source": "aifesta.kr official website",
-    "description": "Korea's largest AI festival and official national AI week event, running for 3 days (Oct 6-8). Features exhibitions, business matching, awards, and showcases how AI is actually operating and creating results in real industries and society. Focuses on AI realization in everyday life, industry, and cities.",
-    "description_local": "국가 공식 인공지능주간의 대표 행사로 3일간 개최(10월 6-8일). 전시·비즈매칭·시상까지 한 자리에서 진행. AI가 실제 산업과 사회에서 어떻게 작동하고 어떤 성과와 변화를 만들어내고 있는지를 현장에서 확인하는 자리. 우리의 일상과 산업, 도시에서 공기처럼 자연스럽게 스며들어 실제로 구현되고 작동하는 AI를 만나는 국내 최대 인공지능 페스티벌.",
+    "source": "aifesta.kr",
+    "description": "Korea's largest AI festival and official event of the National AI Week designated by the Ministry of Science and ICT. A comprehensive platform featuring exhibitions, conferences, business matching, and awards, connecting policy, industry, and technology. The event showcases how AI is being realized and operating in actual industries and society. Running from October 6-8, 2026.",
+    "title_local": "인공지능 페스타 2026 (AI FESTA 26)",
+    "description_local": "과학기술정보통신부가 지정한 국가 공식 '인공지능주간(AI Week)'의 대표 행사로, 대한민국 AI 산업 생태계를 이끄는 글로벌 비즈니스 플랫폼입니다. 전시, 컨퍼런스, 비즈니스 매칭, 어워즈를 아우르는 국내 최대 규모 AI 통합 플랫폼으로, 정책·산업·기술을 연결합니다. 2026년 10월 6-8일 개최됩니다.",
     "city": "seoul",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-10",
     "id": "e27613476fc821c2"
   },
   {
