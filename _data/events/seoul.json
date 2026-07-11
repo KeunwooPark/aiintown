@@ -484,7 +484,7 @@
     "description_local": "차세대 AI 기술에 중점을 둔 국제 학술 컨퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-09",
+    "last_seen": "2026-07-11",
     "id": "910359b7c61d8aee"
   },
   {
@@ -512,7 +512,7 @@
     "description_local": "전사체학 및 바이오인포매틱스 연구에서의 AI 응용에 초점을 맞춘 국제 컨퍼런스. 하이브리드 형식 (가상 및 대면).",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-09",
+    "last_seen": "2026-07-11",
     "id": "98dd8b906bab4381"
   },
   {
@@ -596,16 +596,18 @@
     "id": "20a061d1129d5b42"
   },
   {
-    "title": "International Conference on Machine Learning and Cybernetics (ICMLC)",
+    "title": "International Conference on Computing and Information Technology (ICCIT)",
     "date": "2026-09-16",
     "venue": "Seoul, South Korea",
     "url": "https://conferenceindex.org/conferences/machine-learning/republic-of-korea",
     "source": "Conference Index",
-    "description": "International conference covering machine learning and cybersecurity topics.",
+    "description": "International conference on computing and information technology with machine learning focus.",
+    "title_local": "컴퓨팅 및 정보 기술 국제회의",
+    "description_local": "기계학습에 초점을 둔 컴퓨팅 및 정보 기술 국제 회의",
     "city": "seoul",
-    "id": "07dcb56d833f6ee7",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15"
+    "last_seen": "2026-07-11",
+    "id": "07dcb56d833f6ee7"
   },
   {
     "title": "The 6th Korea Artificial Intelligence Conference",

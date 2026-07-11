@@ -490,7 +490,7 @@
     "description_local": "Internationale Konferenz zu KI und Computational Biology mit virtuellen und Vor-Ort-Teilnahmemöglichkeiten. Teil einer akademischen Konferenzreihe zu KI-Themen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-09",
+    "last_seen": "2026-07-11",
     "id": "216d5e94062d17a7"
   },
   {
@@ -759,6 +759,20 @@
     "id": "22c4be5ddc567872"
   },
   {
+    "title": "Future Technologies Conference (FTC)",
+    "date": "2026-10-15",
+    "venue": "Berlin, Germany",
+    "url": "https://conferenceindex.org/conferences/artificial-intelligence/germany",
+    "source": "Conference Index",
+    "description": "Conference focused on future technologies including artificial intelligence, machine learning, and emerging tech innovations.",
+    "title_local": "Konferenz für Zukunftstechnologien (FTC)",
+    "description_local": "Konferenz mit Schwerpunkt auf Zukunftstechnologien einschließlich künstlicher Intelligenz, maschinellem Lernen und aufkommenden Tech-Innovationen.",
+    "city": "berlin",
+    "first_seen": "2026-07-11",
+    "last_seen": "2026-07-11",
+    "id": "4f3312e04d02f54a"
+  },
+  {
     "title": "The Berlin AI Conference 2026",
     "date": "2026-10-15",
     "venue": "SPACE SHACK Coworking",
@@ -975,6 +989,21 @@
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
     "id": "85c8aa34e118ae0f"
+  },
+  {
+    "title": "KI ausprobieren - Hands-on Workshop",
+    "date": null,
+    "venue": "Berlin (venue TBD)",
+    "url": "https://www.meetup.com/lp/career-and-business/biotech-meetups-berlin/",
+    "source": "Meetup Berlin",
+    "description": "Evening hands-on AI workshop for trying out AI without needing prior computer science studies. Little theory, lots of practice: trying tools, asking questions, working on own use cases with experienced developers. Includes impulse talk (20-30 min), hands-on workshop in small groups, and networking. Participants should bring laptop and ideally have Claude account set up.",
+    "title_local": "KI ausprobieren - Hands-on Workshop",
+    "description_local": "Abendlicher Hands-on KI-Workshop zum Ausprobieren von KI ohne vorherige Informatik-Studien. Wenig Theorie, viel Praxis: Tools ausprobieren, Fragen stellen, an eigenen Use Cases mit erfahrenen Entwicklern arbeiten. Beinhaltet Impulsvortrag (20-30 Min.), Hands-on Workshop in kleinen Gruppen und Networking. Teilnehmer sollten Laptop mitbringen und idealerweise Claude-Account eingerichtet haben.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-07-11",
+    "last_seen": "2026-07-11",
+    "id": "5fb7079ac0621f3d"
   },
   {
     "title": "Robotik und KI Hackathon",
