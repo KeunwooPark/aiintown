@@ -490,7 +490,7 @@
     "description_local": "Internationale Konferenz zu KI und Computational Biology mit virtuellen und Vor-Ort-Teilnahmemöglichkeiten. Teil einer akademischen Konferenzreihe zu KI-Themen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-12",
     "id": "216d5e94062d17a7"
   },
   {
@@ -615,7 +615,7 @@
     "description_local": "Großes KI-Festival mit sechs Bühnen, über 350 Speakern aus Wirtschaft, Tech, Gesundheit und Politik, die ihr Wissen über aktuelle KI-Trends teilen. Mit umfangreichem Bühnenprogramm, Street Food, Networking-Möglichkeiten und Live-Entertainment. Alle Teilnehmenden erhalten ein offizielles KI-Zertifikat. Neu 2026: Data and Analytics Stage und SME Stage für kleine und mittelständische Unternehmen.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-09",
+    "last_seen": "2026-07-12",
     "id": "a1e89f63d8ce233d"
   },
   {
@@ -657,7 +657,7 @@
     "description_local": "Eine der führenden europäischen B2B-Konferenzen zu KI und Data Analytics in der Wirtschaft, mit rund 2.200 Teilnehmern, über 220 Speakern und 140 Sessions. Richtet sich an Top-Entscheidungsträger aus Industrie, Tech, Forschung und Politik. Fokus auf praktischen Beispielen, wie Unternehmen tatsächlich von KI und Daten profitieren können – jenseits der ersten Pilotprojekte.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-23",
+    "last_seen": "2026-07-12",
     "id": "1613545dc4c58fb3"
   },
   {
@@ -769,7 +769,7 @@
     "description_local": "Konferenz mit Schwerpunkt auf Zukunftstechnologien einschließlich künstlicher Intelligenz, maschinellem Lernen und aufkommenden Tech-Innovationen.",
     "city": "berlin",
     "first_seen": "2026-07-11",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-12",
     "id": "4f3312e04d02f54a"
   },
   {
@@ -827,6 +827,20 @@
     "id": "9a05b37a144a341e"
   },
   {
+    "title": "KI-X HR Convention",
+    "date": "2026-11-18",
+    "venue": "Colosseum Filmtheater Berlin",
+    "url": "https://www.marketing-boerse.de/termin/details/ki-x-berlin",
+    "source": "Marketing Börse / Quadriga Media",
+    "description": "Two-day conference for HR professionals on AI in human resources. Topics include AI-powered applicant and talent management, AI in employee development, onboarding, predictive analytics. Over 50 speakers, 400+ participants. Germany's largest AI event for HR.",
+    "title_local": "KI-X HR Convention",
+    "description_local": "Zweitägige Konferenz für HR-Professionals über KI im Personalwesen. Themen umfassen KI-gestütztes Bewerber- und Talentmanagement, KI in der Mitarbeiterentwicklung, Onboarding, Predictive Analytics. Über 50 Speaker, 400+ Teilnehmende. Deutschlands größtes KI-Event für HR.",
+    "city": "berlin",
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "id": "6f7d11f8cf93fa4e"
+  },
+  {
     "title": "KI-X HR Convention 2026",
     "date": "2026-11-18",
     "venue": "Berlin",
@@ -839,6 +853,20 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-07-05",
     "id": "d5be695f108fc9f4"
+  },
+  {
+    "title": "TFEST26 | The Supply Chain Transformation Event for Senior Leaders",
+    "date": "2026-12-01",
+    "venue": "Colosseum Kino & Eventlocation, Berlin",
+    "url": "https://allevents.in/berlin/artificial-intelligence",
+    "source": "AllEvents",
+    "description": "Supply chain transformation event for senior leaders, with focus on AI and digital transformation in logistics and supply chain management. 08:00 start time.",
+    "title_local": "TFEST26 | Die Supply Chain Transformation Veranstaltung für Führungskräfte",
+    "description_local": "Supply-Chain-Transformationsveranstaltung für Führungskräfte mit Schwerpunkt auf KI und digitaler Transformation in Logistik und Supply-Chain-Management. Beginn 08:00.",
+    "city": "berlin",
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "id": "cafd4681a9cdc973"
   },
   {
     "title": "AI Engineering 2026 Meetup",
