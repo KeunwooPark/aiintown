@@ -227,7 +227,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-26"
+    "last_seen": "2026-07-13"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -350,7 +350,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-13",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -466,6 +466,20 @@
     "id": "17b6c7bd9030c94c"
   },
   {
+    "title": "International Conference on Machine Learning and Cybernetics (ICMLC)",
+    "date": "2026-07-22",
+    "venue": "Berlin",
+    "url": "https://conferenceindex.org/conferences/machine-learning/germany",
+    "source": "Conference Index",
+    "description": "International conference on machine learning and cybersecurity topics in Berlin.",
+    "title_local": "Internationale Konferenz zu Machine Learning und Cybersecurity (ICMLC)",
+    "description_local": "Internationale Konferenz zu Machine Learning und Cybersecurity-Themen in Berlin.",
+    "city": "berlin",
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "id": "45a59441ea9b4b47"
+  },
+  {
     "title": "Berlin: Tech Talks & Business Brains",
     "date": "2026-07-25",
     "venue": "Berlin (location revealed upon registration)",
@@ -490,7 +504,7 @@
     "description_local": "Internationale Konferenz zu KI und Computational Biology mit virtuellen und Vor-Ort-Teilnahmemöglichkeiten. Teil einer akademischen Konferenzreihe zu KI-Themen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-12",
+    "last_seen": "2026-07-13",
     "id": "216d5e94062d17a7"
   },
   {
@@ -535,6 +549,20 @@
     "first_seen": "2026-07-02",
     "last_seen": "2026-07-02",
     "id": "75f871879fb580de"
+  },
+  {
+    "title": "Merantix AI Campus Event",
+    "date": "2026-08-27",
+    "venue": "Merantix AI Campus, Berlin",
+    "url": "https://www.merantix-aicampus.com/events",
+    "source": "Merantix AI Campus",
+    "description": "AI event at Merantix AI Campus covering the full spectrum of AI topics including industry applications, policy, venture investments, and technological progress.",
+    "title_local": "Merantix AI Campus Veranstaltung",
+    "description_local": "KI-Veranstaltung auf dem Merantix AI Campus zum gesamten Spektrum der KI-Themen einschließlich Industrieanwendungen, Politik, Venture-Investitionen und technologischem Fortschritt.",
+    "city": "berlin",
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "id": "ba2e2e2af3a88d72"
   },
   {
     "title": "Next-Gen Engineering: Innovation in Autonomous Mobility, Digital Manufacturing & Electronics (NG-EAME)",
@@ -601,7 +629,7 @@
     "description_local": "Ganztägiges Event, das Führungskräfte, Betreiber und Builder zusammenbringt, die KI-Transformation in Unternehmen vorantreiben. Thema: Aufbau KI-first Organisationen. Drei Tracks: Leadership & Transformation, Revenue & Operations, Engineering & Product.",
     "city": "berlin",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-01",
+    "last_seen": "2026-07-13",
     "id": "dcce272e05adf6e3"
   },
   {
@@ -727,7 +755,7 @@
     "description_local": "Führender 2,5-tägiger Gipfel für Entscheidungsträger in KI und maschinellem Lernen, der über 500 Teilnehmer aus Deutschland, Österreich und der Schweiz zusammenbringt. Mit konkreten Anwendungsfällen, Erfolgsgeschichten, modernsten Technologien und eingehenden Analysen. Themen umfassen Applied AI & Machine Learning, Business Analytics, ML/Deep-Learning-Plattformen, NLP, Betrugserkennung, prädiktive Analytik und EU-KI-Compliance.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-29",
+    "last_seen": "2026-07-13",
     "id": "3001a2879c713804"
   },
   {
@@ -759,6 +787,20 @@
     "id": "22c4be5ddc567872"
   },
   {
+    "title": "International Conference on Artificial Intelligence, Machine Learning & Data Science (AIML)",
+    "date": "2026-10-12",
+    "venue": "Berlin",
+    "url": "https://conferenceindex.org/event/international-conference-on-artificial-intelligence-machine-learning-data-science-aiml-2026-october-berlin-de",
+    "source": "Innovatex Conferences",
+    "description": "Three-day conference (Oct 12-14, 2026) guided by the theme 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation.' Nearly thirty scientific sessions covering AI, ML, deep learning, automation, and data-driven technologies.",
+    "title_local": "Internationale Konferenz zu Künstlicher Intelligenz, Machine Learning und Data Science (AIML)",
+    "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) unter dem Motto 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig wissenschaftliche Sessions zu KI, ML, Deep Learning, Automatisierung und datengetriebenen Technologien.",
+    "city": "berlin",
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "id": "eb5a7368a399d5e4"
+  },
+  {
     "title": "Future Technologies Conference (FTC)",
     "date": "2026-10-15",
     "venue": "Berlin, Germany",
@@ -769,7 +811,7 @@
     "description_local": "Konferenz mit Schwerpunkt auf Zukunftstechnologien einschließlich künstlicher Intelligenz, maschinellem Lernen und aufkommenden Tech-Innovationen.",
     "city": "berlin",
     "first_seen": "2026-07-11",
-    "last_seen": "2026-07-12",
+    "last_seen": "2026-07-13",
     "id": "4f3312e04d02f54a"
   },
   {
@@ -823,7 +865,7 @@
     "description_local": "16.-20. November 2026. Die Veranstaltung für Generative AI & Machine Learning Engineering. Mit expertengeleiteten Workshops, Keynotes und Networking mit führenden ML-Profis. Themen: Generative AI & Agents, MLOps & LLMOps, ML & Deep Learning, KI-Strategie & Governance.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-05",
+    "last_seen": "2026-07-13",
     "id": "9a05b37a144a341e"
   },
   {
