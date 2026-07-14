@@ -81,6 +81,47 @@ Search is scoped to upcoming events only — the script discards anything dated 
 
 ### Rendering events on the site
 
-Displaying events on the Jekyll site is intentionally out of scope for now. The workflow is data-only; the JSON files are committed to the repository so a future template can consume them.
+The committed JSON is consumed two ways:
+
+- **Per-city pages** (`/cities/<id>/`) render the events as cards, sorted by date.
+- **The home page** is an "Ask about AI events" interface (see below) that answers natural-language questions from the same data.
+
+## Ask about AI events (question interface)
+
+The home page lets visitors ask questions in plain language ("Any AI meetups in Seoul this summer?") and get an answer grounded in the committed events data. There is **no database and no embeddings** — the whole dataset is small enough to hand to Claude in one call ("context stuffing"), which is simpler and more accurate than RAG at this scale.
+
+Because GitHub Pages is static and can't safely hold an API key, the Claude call runs in a small **Cloudflare Worker** (`worker/`). The browser POSTs the question to the Worker; the Worker loads the events JSON from GitHub, calls the Anthropic API, and returns a grounded answer plus the events it cited.
+
+### Deploying the Worker
+
+Prerequisites: a [Cloudflare account](https://dash.cloudflare.com/) and [Wrangler](https://developers.cloudflare.com/workers/wrangler/) (`npm install -g wrangler`, then `wrangler login`).
+
+```
+cd worker
+npm install
+wrangler secret put ANTHROPIC_API_KEY   # paste your Anthropic API key when prompted
+wrangler deploy
+```
+
+`wrangler deploy` prints the Worker URL (e.g. `https://aiintown-ask.<subdomain>.workers.dev`). Then wire the site to it:
+
+1. In `_config.yml`, set `ask_endpoint` to that URL **plus `/api/ask`**, e.g.
+   `ask_endpoint: "https://aiintown-ask.<subdomain>.workers.dev/api/ask"`
+2. Commit and push so GitHub Pages rebuilds. Until `ask_endpoint` is set, the ask box shows a "not configured yet" message.
+
+### Worker configuration (`worker/wrangler.toml`)
+
+| Setting | Purpose |
+|---------|---------|
+| `ANTHROPIC_API_KEY` | **Secret** (set via `wrangler secret put`, never committed). Each question is one billed Claude call. |
+| `ALLOWED_ORIGIN` | Site origin allowed to call the Worker via CORS. Defaults to `https://keunwoopark.github.io`. |
+| `CITIES` | Comma-separated city ids to load (e.g. `berlin,seoul`). Add a city here after its JSON exists. |
+| `EVENTS_BASE_URL` | Raw GitHub base URL for the events JSON. The Worker always fetches live data (edge-cached ~1h), so the daily pipeline stays untouched — no Worker redeploy needed when events change. |
+| `MODEL` | Claude model id (default `claude-sonnet-5`). |
+| `[[unsafe.bindings]]` RATE_LIMITER | Per-IP rate limit (default 20 requests / 60s). Remove the block to disable. |
+
+### Cost
+
+Each question is a single Anthropic API call that includes the full events dataset (~35k tokens) as input. On `claude-sonnet-5` that is inexpensive per call, but it is a public endpoint — keep the rate limiter enabled and monitor usage.
 
 This project was made by [FlumeCode](https://www.flumecode.work).

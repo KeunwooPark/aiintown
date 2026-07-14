@@ -12,6 +12,6 @@
         {% for pair in site.data.i18n %}<option value="{{ pair[0] }}">{{ pair[1].name }}</option>{% endfor %}
       </select>
     </label>
-    {% unless page.layout == 'city' %}{% include search-bar.html %}{% endunless %}
+    {% if page.layout == 'home' %}{% include search-bar.html %}{% endif %}
   </div>
 </header>
