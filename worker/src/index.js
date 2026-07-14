@@ -211,6 +211,9 @@ async function askClaude(apiKey, model, { question, lang, events }) {
       "Content-Type": "application/json",
       "x-api-key": apiKey,
       "anthropic-version": ANTHROPIC_VERSION,
+      // Cloudflare Workers send no default User-Agent; the edge in front of
+      // api.anthropic.com 403s ("Request not allowed") requests without one.
+      "User-Agent": "aiintown-ask/1.0 (+https://keunwoopark.github.io/aiintown)",
     },
     body: JSON.stringify(payload),
   });
