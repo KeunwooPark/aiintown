@@ -1,5 +1,4 @@
 // "Ask about AI events" interface — two-ink lithograph styling.
-.ask { max-width: 720px; }
 .ask h2 { margin-bottom: .25rem; }
 .ask-sub { color: $color-muted; margin: 0 0 1.25rem; }
 
@@ -15,7 +14,7 @@
 .ask-form input {
   flex: 1;
   width: 100%;
-  padding: .85rem 1.1rem;
+  padding: .9rem 1.4rem;
   border: $border;
   border-radius: 0;
   box-shadow: $shadow;
