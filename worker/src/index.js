@@ -108,7 +108,10 @@ export default {
     } catch (err) {
       console.error("askClaude failed:", err && err.message ? err.message : err);
       return json(
-        { error: "The assistant is unavailable right now. Please try again." },
+        {
+          error: "The assistant is unavailable right now. Please try again.",
+          debug: String((err && err.message) || err),
+        },
         502,
         cors
       );
