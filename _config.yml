@@ -3,3 +3,7 @@ description: A site served with GitHub Pages.
 theme: minima
 url: "https://keunwoopark.github.io"
 baseurl: "/aiintown"
+
+# Cloudflare Worker endpoint for the "Ask about AI events" feature.
+# Set this to your deployed Worker URL, e.g. https://aiintown-ask.<subdomain>.workers.dev/api/ask
+ask_endpoint: ""

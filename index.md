@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: ask
 title: AI in Town
 ---
-<!-- Body intentionally empty: home.html renders events from site.data -->
+<!-- Body intentionally empty: ask.html renders the question interface -->

@@ -1,0 +1,20 @@
+name = "aiintown-ask"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+
+# Public site origin allowed to call this Worker (CORS). Override per environment.
+[vars]
+ALLOWED_ORIGIN = "https://keunwoopark.github.io"
+CITIES = "berlin,seoul"
+EVENTS_BASE_URL = "https://raw.githubusercontent.com/KeunwooPark/aiintown/main/_data/events"
+MODEL = "claude-sonnet-5"
+
+# Per-IP rate limit: 20 requests / 60s. Remove this block to disable.
+[[unsafe.bindings]]
+name = "RATE_LIMITER"
+type = "ratelimit"
+namespace_id = "1001"
+simple = { limit = 20, period = 60 }
+
+# ANTHROPIC_API_KEY is a secret — do NOT put it here.
+# Set it with:  wrangler secret put ANTHROPIC_API_KEY
