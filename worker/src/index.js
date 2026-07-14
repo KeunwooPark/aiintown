@@ -18,7 +18,13 @@
  *   CITIES             (var)   — comma-separated city ids to load
  *   EVENTS_BASE_URL    (var)   — raw base URL for the events JSON files
  *   MODEL              (var)   — Claude model id
+ *   COPYEVAL_API_KEY   (secret, optional) — org-scoped copyeval key (cev_…);
+ *                                           when set (with COPYEVAL_BASE_URL),
+ *                                           each ask is logged to copyeval
+ *   COPYEVAL_BASE_URL  (var, optional)     — copyeval record store base URL
  */
+
+import { CopyevalClient } from "@copyeval/sdk";
 
 const DEFAULTS = {
   ALLOWED_ORIGIN: "https://keunwoopark.github.io",
@@ -31,6 +37,9 @@ const DEFAULTS = {
   // which the Anthropic edge 403s ("Request not allowed") for Worker traffic.
   AI_GATEWAY_ACCOUNT_ID: "",
   AI_GATEWAY_NAME: "",
+  // copyeval logging. When COPYEVAL_API_KEY (secret) and COPYEVAL_BASE_URL are
+  // both set, each ask — the user query and the answer — is logged to copyeval.
+  COPYEVAL_BASE_URL: "",
 };
 
 const ANTHROPIC_URL = "https://api.anthropic.com/v1/messages";
@@ -104,12 +113,25 @@ export default {
 
     // Ask Claude.
     try {
+      const startedAt = Date.now();
       const answer = await askClaude(env.ANTHROPIC_API_KEY, cfg.MODEL, anthropicEndpoint(cfg), {
         question,
         lang,
         events,
       });
-      return json({ answer, events: citedEvents(answer, events) }, 200, cors);
+      const cited = citedEvents(answer, events);
+
+      // Log the user query and the RAG result to copyeval (best-effort; never
+      // block the response or fail the request on a logging error).
+      logToCopyeval(cfg, ctx, {
+        input: { question, lang },
+        output: { answer, events: cited },
+        model: cfg.MODEL,
+        latencyMs: Date.now() - startedAt,
+        metadata: { feature: "ask", eventCount: events.length, citedCount: cited.length },
+      });
+
+      return json({ answer, events: cited }, 200, cors);
     } catch (err) {
       console.error("askClaude failed:", err && err.message ? err.message : err);
       return json(
@@ -173,6 +195,27 @@ async function loadEvents(cfg, ctx) {
 
   if (all.length === 0) throw new Error("No events loaded");
   return all;
+}
+
+/**
+ * Fire-and-forget log of one ask (query + answer) to copyeval. No-ops unless
+ * both COPYEVAL_API_KEY and COPYEVAL_BASE_URL are configured. Logging failures
+ * are caught and never surface to the caller, so telemetry can't break the ask.
+ */
+function logToCopyeval(cfg, ctx, entry) {
+  if (!cfg.COPYEVAL_API_KEY || !cfg.COPYEVAL_BASE_URL) return;
+
+  const copyeval = new CopyevalClient({
+    apiKey: cfg.COPYEVAL_API_KEY,
+    baseUrl: cfg.COPYEVAL_BASE_URL,
+  });
+
+  const p = copyeval
+    .log(entry)
+    .catch((err) =>
+      console.error("copyeval log failed:", err && err.message ? err.message : err)
+    );
+  if (ctx) ctx.waitUntil(p);
 }
 
 function systemPrompt(lang) {

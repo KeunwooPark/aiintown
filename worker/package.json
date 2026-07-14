@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "wrangler": "^3.0.0"
+  },
+  "dependencies": {
+    "@copyeval/sdk": "^0.1.0"
   }
 }
