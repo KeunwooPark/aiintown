@@ -8,6 +8,11 @@ ALLOWED_ORIGIN = "https://keunwoopark.github.io"
 CITIES = "berlin,seoul"
 EVENTS_BASE_URL = "https://raw.githubusercontent.com/KeunwooPark/aiintown/main/_data/events"
 MODEL = "claude-sonnet-5"
+# Route the Messages API call through Cloudflare AI Gateway — a direct
+# Worker -> api.anthropic.com call is 403'd ("Request not allowed") by the
+# Anthropic Cloudflare edge. Account ID is not a secret.
+AI_GATEWAY_ACCOUNT_ID = "d51c23705cfa537f2cb11319bce5c040"
+AI_GATEWAY_NAME = "aiintown"
 
 # Per-IP rate limit: 20 requests / 60s. Remove this block to disable.
 [[unsafe.bindings]]

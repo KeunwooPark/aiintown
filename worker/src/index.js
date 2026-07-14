@@ -26,6 +26,11 @@ const DEFAULTS = {
   EVENTS_BASE_URL:
     "https://raw.githubusercontent.com/KeunwooPark/aiintown/main/_data/events",
   MODEL: "claude-sonnet-5",
+  // Cloudflare AI Gateway routing. When both are set, the Messages API call
+  // goes through the gateway instead of hitting api.anthropic.com directly —
+  // which the Anthropic edge 403s ("Request not allowed") for Worker traffic.
+  AI_GATEWAY_ACCOUNT_ID: "",
+  AI_GATEWAY_NAME: "",
 };
 
 const ANTHROPIC_URL = "https://api.anthropic.com/v1/messages";
@@ -99,7 +104,7 @@ export default {
 
     // Ask Claude.
     try {
-      const answer = await askClaude(env.ANTHROPIC_API_KEY, cfg.MODEL, {
+      const answer = await askClaude(env.ANTHROPIC_API_KEY, cfg.MODEL, anthropicEndpoint(cfg), {
         question,
         lang,
         events,
@@ -108,10 +113,7 @@ export default {
     } catch (err) {
       console.error("askClaude failed:", err && err.message ? err.message : err);
       return json(
-        {
-          error: "The assistant is unavailable right now. Please try again.",
-          debug: String((err && err.message) || err),
-        },
+        { error: "The assistant is unavailable right now. Please try again." },
         502,
         cors
       );
@@ -189,7 +191,19 @@ function systemPrompt(lang) {
   ].join("\n");
 }
 
-async function askClaude(apiKey, model, { question, lang, events }) {
+/**
+ * Resolve the Messages API endpoint. Prefer Cloudflare AI Gateway when
+ * configured — a direct Worker -> api.anthropic.com call is rejected by the
+ * Anthropic Cloudflare edge with 403 "Request not allowed".
+ */
+function anthropicEndpoint(cfg) {
+  if (cfg.AI_GATEWAY_ACCOUNT_ID && cfg.AI_GATEWAY_NAME) {
+    return `https://gateway.ai.cloudflare.com/v1/${cfg.AI_GATEWAY_ACCOUNT_ID}/${cfg.AI_GATEWAY_NAME}/anthropic/v1/messages`;
+  }
+  return ANTHROPIC_URL;
+}
+
+async function askClaude(apiKey, model, endpoint, { question, lang, events }) {
   const userContent = [
     "Here are the events, as a JSON array:",
     "<events>",
@@ -208,7 +222,7 @@ async function askClaude(apiKey, model, { question, lang, events }) {
     messages: [{ role: "user", content: userContent }],
   };
 
-  const resp = await fetch(ANTHROPIC_URL, {
+  const resp = await fetch(endpoint, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
