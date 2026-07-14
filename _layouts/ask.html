@@ -7,9 +7,9 @@ layout: default
 
   <form class="ask-form" data-ask-form>
     <label for="ask-input" class="sr-only" data-i18n="ask_heading">Ask about AI events</label>
-    <textarea id="ask-input" data-ask-input rows="2"
+    <input id="ask-input" type="search" data-ask-input autocomplete="off"
       placeholder="e.g. Any AI meetups in Seoul this summer?"
-      data-i18n-placeholder="ask_placeholder"></textarea>
+      data-i18n-placeholder="ask_placeholder">
     <button type="submit" data-ask-submit data-i18n="ask_button">Ask</button>
   </form>
 

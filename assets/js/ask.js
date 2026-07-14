@@ -128,18 +128,11 @@
       });
   }
 
+  // A single-line input submits on Enter natively, so no keydown handler needed.
   form.addEventListener('submit', function (evt) {
     evt.preventDefault();
     var q = (input.value || '').trim();
     if (!q) return;
     ask(q);
-  });
-
-  // Submit on Enter (Shift+Enter for newline).
-  input.addEventListener('keydown', function (evt) {
-    if (evt.key === 'Enter' && !evt.shiftKey) {
-      evt.preventDefault();
-      form.dispatchEvent(new Event('submit', { cancelable: true }));
-    }
   });
 })();

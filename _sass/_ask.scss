@@ -12,7 +12,7 @@
   .ask-form { flex-direction: row; align-items: stretch; }
 }
 
-.ask-form textarea {
+.ask-form input {
   flex: 1;
   width: 100%;
   padding: .85rem 1.1rem;
@@ -24,9 +24,10 @@
   line-height: 1.4;
   background: $color-surface;
   color: $color-ink;
-  resize: vertical;
+  -webkit-appearance: none;
+  appearance: none;
 }
-.ask-form textarea:focus { outline: 3px solid $color-accent; }
+.ask-form input:focus { outline: 3px solid $color-accent; }
 
 .ask-form button {
   padding: .85rem 1.6rem;

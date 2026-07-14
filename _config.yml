@@ -6,4 +6,4 @@ baseurl: "/aiintown"
 
 # Cloudflare Worker endpoint for the "Ask about AI events" feature.
 # Set this to your deployed Worker URL, e.g. https://aiintown-ask.<subdomain>.workers.dev/api/ask
-ask_endpoint: ""
+ask_endpoint: "https://aiintown-ask.keunwoopark-524.workers.dev/api/ask"
