@@ -438,6 +438,20 @@
     "id": "51113d0f9d43e4b6"
   },
   {
+    "title": "AI Builders Night @ Ojin AIxHaus",
+    "date": "2026-07-17",
+    "venue": "Ojin AIxHaus, Chausseestraße 36, 10115 Berlin",
+    "url": "https://luma.com/pn05sdyw",
+    "source": "luma.com",
+    "description": "Evening meetup (doors 5:30 PM) for hands-on builders and AI enthusiasts. Talk at 6:15 PM: 'Designing Real-World Multi-Agent AI Systems' by Asad Ullah Khalid (Mercedes-Benz.io). Covers building AI apps that talk to databases, call APIs, and use MCPs. Real-world insights on multi-agent systems.",
+    "title_local": "AI Builders Night @ Ojin AIxHaus",
+    "description_local": "Abend-Meetup für praktische Builder und KI-Enthusiasten. Vortrag um 18:15 Uhr: 'Gestaltung realer Multi-Agenten-KI-Systeme' von Asad Ullah Khalid (Mercedes-Benz.io).",
+    "city": "berlin",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "id": "d24d39bb6eed3e5b"
+  },
+  {
     "title": "AI Tinkerers Berlin Meetup",
     "date": "2026-07-17",
     "venue": "Berlin (venue varies)",
@@ -480,6 +494,20 @@
     "id": "45a59441ea9b4b47"
   },
   {
+    "title": "AI Vibe Sprint Berlin - The Product Folks x Emergent",
+    "date": "2026-07-23",
+    "venue": "Berlin (Location shared upon approval)",
+    "url": "https://luma.com/f2n5p1p4",
+    "source": "luma.com",
+    "description": "No-slides, hands-on building session for product managers, designers, developers, and AI enthusiasts. Participants bring ideas and build AI applications using tools like Emergent, Cursor, Bolt, or Replit. Community-driven event with mentors, live demos, and collaborative building.",
+    "title_local": "AI Vibe Sprint Berlin",
+    "description_local": "Hands-on Building-Session für Produktmanager, Designer, Entwickler und KI-Enthusiasten. Teilnehmer bringen Ideen mit und bauen KI-Anwendungen mit Tools wie Emergent, Cursor, Bolt oder Replit.",
+    "city": "berlin",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "id": "e37be0eadf614c9b"
+  },
+  {
     "title": "Berlin: Tech Talks & Business Brains",
     "date": "2026-07-25",
     "venue": "Berlin (location revealed upon registration)",
@@ -494,6 +522,20 @@
     "id": "f8fae9f3cfd39a48"
   },
   {
+    "title": "Merantix AI Campus Events (July 30, August 27, September 10)",
+    "date": "2026-07-30",
+    "venue": "Merantix AI Campus, Berlin",
+    "url": "https://www.merantix-aicampus.com/events",
+    "source": "merantix-aicampus.com",
+    "description": "Series of AI events at Merantix AI Campus covering industry applications, policy & impact, venture & investments, and research & technological progress. Events on July 30, August 27, and September 10, 2026.",
+    "title_local": "Merantix AI Campus Veranstaltungen",
+    "description_local": "Reihe von KI-Veranstaltungen am Merantix AI Campus zu Industrieanwendungen, Politik & Auswirkungen, Venture & Investitionen sowie Forschung & technologischem Fortschritt.",
+    "city": "berlin",
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-14",
+    "id": "ba2e2e2af3a88d72"
+  },
+  {
     "title": "International Conference on AI and Computational Biology (ICAICB)",
     "date": "2026-07-31",
     "venue": "Berlin, Germany",
@@ -504,7 +546,7 @@
     "description_local": "Internationale Konferenz zu KI und Computational Biology mit virtuellen und Vor-Ort-Teilnahmemöglichkeiten. Teil einer akademischen Konferenzreihe zu KI-Themen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-13",
+    "last_seen": "2026-07-14",
     "id": "216d5e94062d17a7"
   },
   {
@@ -551,31 +593,17 @@
     "id": "75f871879fb580de"
   },
   {
-    "title": "Merantix AI Campus Event",
-    "date": "2026-08-27",
-    "venue": "Merantix AI Campus, Berlin",
-    "url": "https://www.merantix-aicampus.com/events",
-    "source": "Merantix AI Campus",
-    "description": "AI event at Merantix AI Campus covering the full spectrum of AI topics including industry applications, policy, venture investments, and technological progress.",
-    "title_local": "Merantix AI Campus Veranstaltung",
-    "description_local": "KI-Veranstaltung auf dem Merantix AI Campus zum gesamten Spektrum der KI-Themen einschließlich Industrieanwendungen, Politik, Venture-Investitionen und technologischem Fortschritt.",
-    "city": "berlin",
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "id": "ba2e2e2af3a88d72"
-  },
-  {
     "title": "Next-Gen Engineering: Innovation in Autonomous Mobility, Digital Manufacturing & Electronics (NG-EAME)",
     "date": "2026-08-30",
     "venue": "Berlin, Germany",
     "url": "https://conferencealerts.co.in/berlin/artificial-intelligence",
     "source": "conferencealerts.co.in",
-    "description": "International conference on AI-driven autonomous mobility, digital manufacturing, and electronics with CPD accreditation.",
-    "title_local": "Next-Gen Engineering: Innovation in autonomer Mobilität, digitaler Fertigung & Elektronik (NG-EAME)",
-    "description_local": "Internationale Konferenz über KI-gesteuerte autonome Mobilität, digitale Fertigung und Elektronik mit CPD-Akkreditierung.",
+    "description": "Two-day accredited CPD event (August 30-31, 2026) focusing on innovation in autonomous mobility, digital manufacturing, and electronics with AI applications.",
+    "title_local": "Next-Gen Engineering: Innovation in autonomer Mobilität, digitaler Fertigung und Elektronik",
+    "description_local": "Zweitägige akkreditierte CPD-Veranstaltung zu Innovation in autonomer Mobilität, digitaler Fertigung und Elektronik mit KI-Anwendungen.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-07-14",
     "id": "b19a445a8aa872b3"
   },
   {
@@ -645,6 +673,20 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-07-12",
     "id": "a1e89f63d8ce233d"
+  },
+  {
+    "title": "Venture Intelligence Day Berlin 2026",
+    "date": "2026-09-16",
+    "venue": "Rheinsberger Str. 76/77, 10115 Berlin",
+    "url": "https://luma.com/0ztgn9hs",
+    "source": "luma.com",
+    "description": "Half-day event (3:00-8:00 PM) by Vestberry for CFOs, COOs, partners, platform, and data professionals from VC funds. Focuses on portfolio data, reporting, and decision-making in practice. Includes talks on 'Human Judgment + Data' and 'The Agentic Pitchroom' workshop, followed by networking dinner.",
+    "title_local": "Venture Intelligence Day Berlin 2026",
+    "description_local": "Halbtages-Event für CFOs, COOs und Datenexperten von VC-Fonds. Fokus auf Portfolio-Daten, Reporting und Entscheidungsfindung mit Workshop zu 'The Agentic Pitchroom'.",
+    "city": "berlin",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "id": "a1682faf1abce67e"
   },
   {
     "title": "The European AI Conference 2026",
@@ -717,6 +759,20 @@
     "id": "23bf1090f8ed7478"
   },
   {
+    "title": "AI & Data Summit 2026 (Bitkom)",
+    "date": "2026-09-22",
+    "venue": "bcc Berlin Congress Center",
+    "url": "https://aidaq.berlin/ai-and-data-summit",
+    "source": "aidaq.berlin",
+    "description": "Europe's leading conference on the application of artificial intelligence and data in business, taking place September 22-23, 2026. Organized by Bitkom.",
+    "title_local": "AI & Data Summit 2026",
+    "description_local": "Europas führende Konferenz zur Anwendung von Künstlicher Intelligenz und Daten im Geschäftsleben, 22.-23. September 2026.",
+    "city": "berlin",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "id": "e6d91fb992fa1f82"
+  },
+  {
     "title": "AI, Data & Quantum Summit (AIDAQ 2026)",
     "date": "2026-09-22",
     "venue": "bcc Berlin Congress Center",
@@ -755,7 +811,7 @@
     "description_local": "Führender 2,5-tägiger Gipfel für Entscheidungsträger in KI und maschinellem Lernen, der über 500 Teilnehmer aus Deutschland, Österreich und der Schweiz zusammenbringt. Mit konkreten Anwendungsfällen, Erfolgsgeschichten, modernsten Technologien und eingehenden Analysen. Themen umfassen Applied AI & Machine Learning, Business Analytics, ML/Deep-Learning-Plattformen, NLP, Betrugserkennung, prädiktive Analytik und EU-KI-Compliance.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-13",
+    "last_seen": "2026-07-14",
     "id": "3001a2879c713804"
   },
   {
@@ -769,7 +825,7 @@
     "description_local": "Dreitägige Veranstaltung (12.–14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Kern-KI-Themen einschließlich Robotik und autonome Systeme, Klimawissenschaftsanwendungen, MLOps und skalierbare Bereitstellung, vertrauenswürdige KI, Hochleistungsrechnen und energieeffiziente KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-09",
+    "last_seen": "2026-07-14",
     "id": "15932057c4239dba"
   },
   {
@@ -824,7 +880,7 @@
     "city": "berlin",
     "id": "d7949f08ac7e51e0",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-07"
+    "last_seen": "2026-07-14"
   },
   {
     "title": "NVIDIA GTC Berlin 2026",
@@ -865,7 +921,7 @@
     "description_local": "16.-20. November 2026. Die Veranstaltung für Generative AI & Machine Learning Engineering. Mit expertengeleiteten Workshops, Keynotes und Networking mit führenden ML-Profis. Themen: Generative AI & Agents, MLOps & LLMOps, ML & Deep Learning, KI-Strategie & Governance.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-13",
+    "last_seen": "2026-07-14",
     "id": "9a05b37a144a341e"
   },
   {
