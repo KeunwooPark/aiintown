@@ -106,6 +106,7 @@ export default {
       });
       return json({ answer, events: citedEvents(answer, events) }, 200, cors);
     } catch (err) {
+      console.error("askClaude failed:", err && err.message ? err.message : err);
       return json(
         { error: "The assistant is unavailable right now. Please try again." },
         502,
@@ -215,7 +216,8 @@ async function askClaude(apiKey, model, { question, lang, events }) {
   });
 
   if (!resp.ok) {
-    throw new Error(`Anthropic API error: ${resp.status}`);
+    const detail = await resp.text().catch(() => "");
+    throw new Error(`Anthropic API error: ${resp.status} ${detail}`);
   }
 
   const data = await resp.json();
