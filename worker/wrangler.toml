@@ -15,9 +15,10 @@ AI_GATEWAY_ACCOUNT_ID = "d51c23705cfa537f2cb11319bce5c040"
 AI_GATEWAY_NAME = "aiintown"
 
 # copyeval logging. Set COPYEVAL_BASE_URL to the copyeval API host (NOT the
-# console/dashboard host); the SDK appends /api/records. The ask query and answer
+# console/dashboard host); the SDK appends /records. The ask query and answer
 # are logged there when the COPYEVAL_API_KEY secret is also set. Leave the URL
-# empty to disable logging entirely.
+# empty to disable logging entirely. (The SDK v0.2 also defaults to this host,
+# but we set it explicitly so the empty-string kill switch above still works.)
 COPYEVAL_BASE_URL = "https://api.copyeval.com"
 
 # Per-IP rate limit: 20 requests / 60s. Remove this block to disable.
