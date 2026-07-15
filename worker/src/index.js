@@ -114,20 +114,29 @@ export default {
     // Ask Claude.
     try {
       const startedAt = Date.now();
-      const answer = await askClaude(env.ANTHROPIC_API_KEY, cfg.MODEL, anthropicEndpoint(cfg), {
-        question,
-        lang,
-        events,
-      });
+      const { text: answer, usage } = await askClaude(
+        env.ANTHROPIC_API_KEY,
+        cfg.MODEL,
+        anthropicEndpoint(cfg),
+        { question, lang, events }
+      );
       const cited = citedEvents(answer, events);
 
       // Log the user query and the RAG result to copyeval (best-effort; never
-      // block the response or fail the request on a logging error).
+      // block the response or fail the request on a logging error). Token counts
+      // come from the Anthropic response's usage block; cost is left unset (the
+      // API returns no price, so it can't be derived without hardcoding rates).
       logToCopyeval(cfg, ctx, {
         input: { question, lang },
         output: { answer, events: cited },
         model: cfg.MODEL,
         latencyMs: Date.now() - startedAt,
+        inputTokens: usage?.input_tokens,
+        outputTokens: usage?.output_tokens,
+        totalTokens:
+          usage && usage.input_tokens != null && usage.output_tokens != null
+            ? usage.input_tokens + usage.output_tokens
+            : undefined,
         metadata: { feature: "ask", eventCount: events.length, citedCount: cited.length },
       });
 
@@ -290,14 +299,17 @@ async function askClaude(apiKey, model, endpoint, { question, lang, events }) {
 
   const data = await resp.json();
   if (data.stop_reason === "refusal") {
-    return "I can't answer that one. Try asking about upcoming AI events instead.";
+    return {
+      text: "I can't answer that one. Try asking about upcoming AI events instead.",
+      usage: data.usage,
+    };
   }
   const text = (data.content || [])
     .filter((b) => b.type === "text")
     .map((b) => b.text)
     .join("")
     .trim();
-  return text || "I couldn't find an answer for that.";
+  return { text: text || "I couldn't find an answer for that.", usage: data.usage };
 }
 
 /**
