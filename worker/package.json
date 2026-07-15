@@ -12,6 +12,6 @@
     "wrangler": "^3.0.0"
   },
   "dependencies": {
-    "@copyeval/sdk": "^0.1.0"
+    "@copyeval/sdk": "^0.2.0"
   }
 }
