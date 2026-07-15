@@ -14,10 +14,11 @@ MODEL = "claude-sonnet-5"
 AI_GATEWAY_ACCOUNT_ID = "d51c23705cfa537f2cb11319bce5c040"
 AI_GATEWAY_NAME = "aiintown"
 
-# copyeval logging. Set COPYEVAL_BASE_URL to your record store; the ask query and
-# answer are logged there when the COPYEVAL_API_KEY secret is also set. Leave the
-# URL empty to disable logging entirely.
-COPYEVAL_BASE_URL = ""
+# copyeval logging. Set COPYEVAL_BASE_URL to the copyeval API host (NOT the
+# console/dashboard host); the SDK appends /api/records. The ask query and answer
+# are logged there when the COPYEVAL_API_KEY secret is also set. Leave the URL
+# empty to disable logging entirely.
+COPYEVAL_BASE_URL = "https://api.copyeval.com"
 
 # Per-IP rate limit: 20 requests / 60s. Remove this block to disable.
 [[unsafe.bindings]]

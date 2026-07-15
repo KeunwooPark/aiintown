@@ -208,6 +208,11 @@ function logToCopyeval(cfg, ctx, entry) {
   const copyeval = new CopyevalClient({
     apiKey: cfg.COPYEVAL_API_KEY,
     baseUrl: cfg.COPYEVAL_BASE_URL,
+    // The SDK calls the fetch it's given as a method (`this.fetch(...)`). Passing
+    // the bare global would bind `this` to the client instance, which the Workers
+    // runtime rejects with "Illegal invocation". Bind it to globalThis so the
+    // subrequest goes out cleanly.
+    fetch: globalThis.fetch.bind(globalThis),
   });
 
   const p = copyeval
