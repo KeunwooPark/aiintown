@@ -512,7 +512,7 @@
     "description_local": "AI의 법적 및 규제 측면에 초점을 맞춘 컨퍼런스입니다. AI 거버넌스, 윤리, 정책 프레임워크 및 규정 준수를 다룹니다.",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-15",
+    "last_seen": "2026-07-16",
     "id": "98dd8b906bab4381"
   },
   {
@@ -539,7 +539,7 @@
     "city": "seoul",
     "id": "07e3f49f1dc1a742",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-07-16"
   },
   {
     "title": "AI Summit Seoul 2026 (AIS 2026)",
@@ -598,15 +598,15 @@
   {
     "title": "International Conference on Computing and Information Technology (ICCIT)",
     "date": "2026-09-16",
-    "venue": "Seoul, South Korea",
+    "venue": "Seoul, Republic of Korea",
     "url": "https://conferenceindex.org/conferences/machine-learning/republic-of-korea",
     "source": "Conference Index",
-    "description": "International conference on computing and information technology with machine learning focus.",
-    "title_local": "컴퓨팅 및 정보 기술 국제회의",
-    "description_local": "기계학습에 초점을 둔 컴퓨팅 및 정보 기술 국제 회의",
+    "description": "International conference on computing and information technology including machine learning topics.",
+    "title_local": "International Conference on Computing and Information Technology (ICCIT)",
+    "description_local": "컴퓨팅 및 정보 기술에 관한 국제 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-16",
     "id": "07dcb56d833f6ee7"
   },
   {
@@ -632,7 +632,7 @@
     "description_local": "과학기술정보통신부가 지정한 국가 공식 '인공지능주간(AI Week)'의 대표 행사로, 대한민국 AI 산업 생태계를 이끄는 글로벌 비즈니스 플랫폼입니다. 전시, 컨퍼런스, 비즈니스 매칭, 어워즈를 아우르는 국내 최대 규모 AI 통합 플랫폼으로, 정책·산업·기술을 연결합니다. 2026년 10월 6-8일 개최됩니다.",
     "city": "seoul",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-07-10",
+    "last_seen": "2026-07-16",
     "id": "e27613476fc821c2"
   },
   {
