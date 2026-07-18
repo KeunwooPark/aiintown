@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-10",
+    "last_seen": "2026-07-18",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -158,20 +158,6 @@
     "first_seen": "2026-06-27",
     "last_seen": "2026-06-27",
     "id": "99e8a97b50fc5579"
-  },
-  {
-    "title": "Online-Sprechtag Digitalisierung, KI und IT-Sicherheit",
-    "date": "2026-07-01",
-    "venue": "Berlin, Germany (with in-person component)",
-    "url": "https://berlinboxx.de/hauptstadtkalender/",
-    "source": "berlinboxx.de",
-    "description": "Consultation day on digitalization, AI and IT security with expert impulses and individual consulting. Combines online and in-person elements.",
-    "title_local": "Online-Sprechtag zu Digitalisierung, KI und IT-Sicherheit",
-    "description_local": "Online-Sprechtag zu Digitalisierung, KI und IT-Sicherheit mit Expertenimpulsen und individueller Beratung.",
-    "city": "berlin",
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-07-15",
-    "id": "1f350ba6aefcfe3b"
   },
   {
     "title": "CONNECTED Conference 2026 Berlin",
@@ -350,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-13",
+    "last_seen": "2026-07-18",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -406,7 +392,7 @@
     "description_local": "Besuchen Sie das Berlin KI-Meetup im betahaus am Moritzplatz für einen Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten. Derek Footer von XTR.Capital wird eine Keynote darüber halten, 'Wie Sie Ihr Startup auf die erste Finanzierungsrunde vorbereiten'. Demos umfassen One Ware (Physical AI für autonome Drohnen und Qualitätskontrolle) und Civic (die Berechtigungsebene für KI-Agenten). Egal, ob Sie ein Befürworter oder Kritiker sind, Ihre Perspektive ist wichtig.",
     "city": "berlin",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-07-10",
+    "last_seen": "2026-07-18",
     "id": "e3b46ef72cefd6d1"
   },
   {
@@ -464,6 +450,20 @@
     "first_seen": "2026-06-15",
     "last_seen": "2026-07-03",
     "id": "4867edb863b0a225"
+  },
+  {
+    "title": "OpenAI Build Week Community Meetup - Berlin",
+    "date": "2026-07-18",
+    "venue": "Berlin, Germany",
+    "url": "https://luma.com/bbg5axh2",
+    "source": "Luma",
+    "description": "Hands-on OpenAI Build Week community event about Codex, OpenAI's coding agent. Features latest Codex updates, hands-on experience building with Codex, live demos, and practical workflows from other builders. Time: 11:00am-4:00pm.",
+    "title_local": "OpenAI Build Week Community-Treffen - Berlin",
+    "description_local": "Praktisches OpenAI Build Week Community-Event über Codex, OpenAIs Coding-Agent. Mit neuesten Codex-Updates, praktischer Erfahrung beim Erstellen mit Codex, Live-Demos und praktischen Workflows von anderen Entwicklern. Zeit: 11:00-16:00 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "id": "dbf9d6f9b41dbf1d"
   },
   {
     "title": "Berlin AI Meetup (SAP & Stealth Startup)",
@@ -536,20 +536,6 @@
     "id": "ba2e2e2af3a88d72"
   },
   {
-    "title": "International Conference on AI and Computational Biology (ICAICB)",
-    "date": "2026-07-31",
-    "venue": "Berlin, Germany",
-    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
-    "source": "internationalconferencealerts.com",
-    "description": "International conference on AI and Computational Biology with virtual and in-person attendance options. Part of academic conference series covering AI topics.",
-    "title_local": "Internationale Konferenz zu KI und Computational Biology (ICAICB)",
-    "description_local": "Internationale Konferenz zu KI und Computational Biology mit virtuellen und Vor-Ort-Teilnahmemöglichkeiten. Teil einer akademischen Konferenzreihe zu KI-Themen.",
-    "city": "berlin",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-07-14",
-    "id": "216d5e94062d17a7"
-  },
-  {
     "title": "Berlin AWS User Group - Fireside Chat with Dr. Werner Vogels",
     "date": "2026-07-XX",
     "venue": "NLND (Neuland) Berlin",
@@ -565,6 +551,20 @@
     "id": "469dda992ade01aa"
   },
   {
+    "title": "International Conference on Transportation and Logistics with Artificial Intelligence (ICTLAI)",
+    "date": "2026-08-04",
+    "venue": "Berlin, Germany",
+    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
+    "source": "International Conference Alerts",
+    "description": "International academic conference focused on transportation and logistics applications of artificial intelligence. Virtual and in-person attendance options available.",
+    "title_local": "Internationale Konferenz zu Transport und Logistik mit Künstlicher Intelligenz (ICTLAI)",
+    "description_local": "Internationale akademische Konferenz mit Schwerpunkt auf Transport- und Logistikanwendungen der Künstlichen Intelligenz. Virtuelle und persönliche Teilnahmeoptionen verfügbar.",
+    "city": "berlin",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-07-18",
+    "id": "216d5e94062d17a7"
+  },
+  {
     "title": "Health-IT Talk: KI-gestütztes Wissensmanagement in der Praxis",
     "date": "2026-08-15",
     "venue": "TMF e.V., Berlin",
@@ -577,6 +577,20 @@
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-05",
     "id": "cdd30d1150018cbb"
+  },
+  {
+    "title": "BLISS AI Speaker Series - Georgia Channing (HuggingFace): When Silicon Meets Carbon - Bringing Synthetic Biology to Life",
+    "date": "2026-08-18",
+    "venue": "Institut für Chemie, Technische Universität Berlin, Str. des 17. Juni 115, 10623 Berlin",
+    "url": "https://bliss.berlin/speaker-series",
+    "source": "BLISS e.V.",
+    "description": "45-minute talk by Georgia Channing (leader of AI for Science team at HuggingFace) exploring the intersection of AI and synthetic biology, examining how machine learning is transforming biological engineering. Part of summer 2026 speaker series.",
+    "title_local": "BLISS KI-Speaker-Serie - Georgia Channing (HuggingFace): Wenn Silizium auf Kohlenstoff trifft - Synthetische Biologie zum Leben erwecken",
+    "description_local": "45-minütiger Vortrag von Georgia Channing (Leiterin des KI für Wissenschaft-Teams bei HuggingFace) über die Schnittstelle von KI und synthetischer Biologie, wie maschinelles Lernen die biologische Entwicklung transformiert. Teil der Sommer-2026-Speaker-Serie.",
+    "city": "berlin",
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "id": "cf58c49bd5db14a1"
   },
   {
     "title": "AI Builders Monthly Berlin",
@@ -619,6 +633,20 @@
     "first_seen": "2026-06-27",
     "last_seen": "2026-06-27",
     "id": "35e66e82f76f77e6"
+  },
+  {
+    "title": "KI-Landpartie",
+    "date": "2026-09-10",
+    "venue": "Berlin",
+    "url": "https://berlinboxx.de/hauptstadtkalender/",
+    "source": "BERLINboxx",
+    "description": "Event offering insights into current developments and practical application fields of Artificial Intelligence. September 10, 2026. Focus on practical AI applications.",
+    "title_local": "KI-Landpartie",
+    "description_local": "Veranstaltung, die Einblicke in aktuelle Entwicklungen und praktische Anwendungsfelder Künstlicher Intelligenz bietet. 10. September 2026. Fokus auf praktische KI-Anwendungen.",
+    "city": "berlin",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-07-18",
+    "id": "1f350ba6aefcfe3b"
   },
   {
     "title": "Agentic AI Summit Berlin 2026",
@@ -671,7 +699,7 @@
     "description_local": "Großes KI-Festival mit sechs Bühnen, über 350 Speakern aus Wirtschaft, Tech, Gesundheit und Politik, die ihr Wissen über aktuelle KI-Trends teilen. Mit umfangreichem Bühnenprogramm, Street Food, Networking-Möglichkeiten und Live-Entertainment. Alle Teilnehmenden erhalten ein offizielles KI-Zertifikat. Neu 2026: Data and Analytics Stage und SME Stage für kleine und mittelständische Unternehmen.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-12",
+    "last_seen": "2026-07-18",
     "id": "a1e89f63d8ce233d"
   },
   {
@@ -831,15 +859,15 @@
   {
     "title": "Artificial Intelligence, Machine Learning & Data Science Conference Berlin",
     "date": "2026-10-12",
-    "venue": "Berlin",
+    "venue": "Berlin, Germany",
     "url": "https://www.createwith.com/cities/berlin",
-    "source": "createwith.com",
-    "description": "Three-day conference (October 12-14, 2026) bringing together researchers, industry leaders and developers. Theme: 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation.' Nearly 30 focused scientific sessions covering robotics, autonomous systems, climate science applications, MLOps, trustworthy AI, high-performance computing, energy-efficient AI, and multimodal understanding.",
-    "title_local": "Konferenz für Künstliche Intelligenz, Machine Learning und Data Science Berlin",
-    "description_local": "Dreitägige Konferenz, die Forscher, Branchenführer und Entwickler zusammenbringt. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast 30 wissenschaftliche Sessions.",
+    "source": "CreateWith",
+    "description": "Three-day event (Oct 12-14, 2026) bringing together researchers, industry leaders and developers to explore latest advances in AI, ML, data analytics, and responsible automation. Theme: 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation'. Nearly thirty focused scientific sessions covering robotics, climate science, MLOps, trustworthy AI, high-performance computing, and multimodal AI.",
+    "title_local": "Konferenz zu Künstlicher Intelligenz, maschinellem Lernen und Data Science Berlin",
+    "description_local": "Dreitägige Veranstaltung (12.-14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben'. Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, Klimawissenschaft, MLOps, vertrauenswürdiger KI, High-Performance-Computing und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-09",
+    "last_seen": "2026-07-18",
     "id": "22c4be5ddc567872"
   },
   {
