@@ -392,7 +392,7 @@
     "description_local": "Besuchen Sie das Berlin KI-Meetup im betahaus am Moritzplatz für einen Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten. Derek Footer von XTR.Capital wird eine Keynote darüber halten, 'Wie Sie Ihr Startup auf die erste Finanzierungsrunde vorbereiten'. Demos umfassen One Ware (Physical AI für autonome Drohnen und Qualitätskontrolle) und Civic (die Berechtigungsebene für KI-Agenten). Egal, ob Sie ein Befürworter oder Kritiker sind, Ihre Perspektive ist wichtig.",
     "city": "berlin",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-07-18",
+    "last_seen": "2026-07-19",
     "id": "e3b46ef72cefd6d1"
   },
   {
@@ -769,7 +769,7 @@
     "description_local": "Bitkom's führende europäische B2B-Konferenz zu KI und Datenanalyse im Geschäftsleben mit ca. 2.200 Teilnehmenden, 220+ Speakern und 140 Sessions. Fokus auf praktische Beispiele, wie Unternehmen tatsächlich von KI und Daten profitieren können - über Pilotprojekte hinaus.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-07-06",
+    "last_seen": "2026-07-19",
     "id": "067cabfaea40e7c7"
   },
   {
@@ -867,7 +867,7 @@
     "description_local": "Dreitägige Veranstaltung (12.-14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben'. Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, Klimawissenschaft, MLOps, vertrauenswürdiger KI, High-Performance-Computing und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-18",
+    "last_seen": "2026-07-19",
     "id": "22c4be5ddc567872"
   },
   {
@@ -979,6 +979,20 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-07-05",
     "id": "d5be695f108fc9f4"
+  },
+  {
+    "title": "{Tech: Berlin} X LLM Studios: AI Builders' Fireside Chat",
+    "date": "2026-11-18",
+    "venue": "Merantix AI Campus Berlin, Max-Ulrich-Straße 3",
+    "url": "https://luma.com/23h3gjaa",
+    "source": "Luma",
+    "description": "Evening fireside chat (18:30-22:00) featuring Marc Klingen, Co-Founder of Langfuse (leading open-source platform for LLM observability). Discussion covers founding a startup in Berlin, scaling AI solutions for enterprise adoption, and trends in AI and open-source strategies.",
+    "title_local": "{Tech: Berlin} X LLM Studios: AI Builders' Fireside Chat",
+    "description_local": "Abendliches Fireside Chat (18:30-22:00) mit Marc Klingen, Co-Founder von Langfuse (führende Open-Source-Plattform für LLM-Observability). Diskussion über Startup-Gründung in Berlin, Skalierung von KI-Lösungen für Unternehmens-Adoption und Trends in KI und Open-Source-Strategien.",
+    "city": "berlin",
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-19",
+    "id": "df9833e57f749195"
   },
   {
     "title": "TFEST26 | The Supply Chain Transformation Event for Senior Leaders",
@@ -1188,20 +1202,5 @@
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
     "id": "9895b7d7199d8413"
-  },
-  {
-    "title": "{Tech: Berlin} X LLM Studios: AI Builders' Fireside Chat",
-    "date": null,
-    "venue": "Berlin",
-    "url": "https://luma.com/23h3gjaa",
-    "source": "Luma - {Tech: Berlin}",
-    "description": "An exclusive Fireside Chat hosted by {Tech: Berlin} and LLM Studios, bringing together active builders and innovators in Berlin's tech scene. The event features Marc Klingen, Co-Founder of Langfuse (a leading open-source platform for LLM observability), sharing insights on founding Langfuse in Berlin, navigating Y Combinator, scaling AI solutions for enterprise adoption, and key trends in AI and open-source strategies. The event is geared toward active builders.",
-    "title_local": "{Tech: Berlin} X LLM Studios: AI Builders' Fireside Chat",
-    "description_local": "Ein exklusiver Fireside Chat, veranstaltet von {Tech: Berlin} und LLM Studios, der aktive Builder und Innovatoren der Berliner Tech-Szene zusammenbringt. Die Veranstaltung präsentiert Marc Klingen, Co-Founder von Langfuse (eine führende Open-Source-Plattform für LLM-Observability), der Einblicke in die Gründung von Langfuse in Berlin, die Navigation durch Y Combinator, die Skalierung von KI-Lösungen für Unternehmensadoption und wichtige Trends in KI und Open-Source-Strategien teilt. Die Veranstaltung richtet sich an aktive Builder.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
-    "id": "df9833e57f749195"
   }
 ]
