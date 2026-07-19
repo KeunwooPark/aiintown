@@ -25,6 +25,7 @@
  */
 
 import { CopyevalClient } from "@copyeval/sdk";
+import { stripMarkdown } from "./strip-markdown.js";
 
 const DEFAULTS = {
   ALLOWED_ORIGIN: "https://keunwoopark.github.io",
@@ -120,7 +121,11 @@ export default {
         anthropicEndpoint(cfg),
         { question, lang, events }
       );
-      const cited = citedEvents(answer, events);
+      // Strip markdown styling to plain text for the response. The raw markdown
+      // `answer` is still logged to copyeval (below) for evaluation fidelity;
+      // only the HTTP response carries the stripped text.
+      const clean = stripMarkdown(answer);
+      const cited = citedEvents(clean, events);
 
       // Log the user query and the RAG result to copyeval (best-effort; never
       // block the response or fail the request on a logging error). Token counts
@@ -140,7 +145,7 @@ export default {
         metadata: { feature: "ask", eventCount: events.length, citedCount: cited.length },
       });
 
-      return json({ answer, events: cited }, 200, cors);
+      return json({ answer: clean, events: cited }, 200, cors);
     } catch (err) {
       console.error("askClaude failed:", err && err.message ? err.message : err);
       return json(
@@ -316,7 +321,7 @@ async function askClaude(apiKey, model, endpoint, { question, lang, events }) {
  * Return the subset of events whose title appears in the model's answer, so the
  * frontend can render them as clickable cards next to the prose.
  */
-function citedEvents(answer, events) {
+export function citedEvents(answer, events) {
   const lower = answer.toLowerCase();
   const seen = new Set();
   const cited = [];

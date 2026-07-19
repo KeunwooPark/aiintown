@@ -6,12 +6,14 @@
   "description": "Cloudflare Worker that answers questions about AI in Town events using Claude.",
   "scripts": {
     "dev": "wrangler dev",
-    "deploy": "wrangler deploy"
+    "deploy": "wrangler deploy",
+    "test": "node --test src/strip-markdown.test.js"
   },
   "devDependencies": {
     "wrangler": "^3.0.0"
   },
   "dependencies": {
-    "@copyeval/sdk": "^0.2.0"
+    "@copyeval/sdk": "^0.2.0",
+    "marked": "^18.0.6"
   }
 }
