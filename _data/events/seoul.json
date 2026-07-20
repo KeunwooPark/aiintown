@@ -512,7 +512,7 @@
     "description_local": "AI의 법적 및 규제 측면에 초점을 맞춘 컨퍼런스입니다. AI 거버넌스, 윤리, 정책 프레임워크 및 규정 준수를 다룹니다.",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-19",
+    "last_seen": "2026-07-20",
     "id": "98dd8b906bab4381"
   },
   {
@@ -610,6 +610,20 @@
     "id": "07dcb56d833f6ee7"
   },
   {
+    "title": "AI for Science Conference 2026 (AI4Sci Korea)",
+    "date": "2026-09-27",
+    "venue": "Seoul Dragon City, Seoul",
+    "url": "https://ai4scikorea.org/",
+    "source": "ai4scikorea.org",
+    "description": "International AI for Science Conference exploring two transformative frontiers: autonomous AI agents that conduct research independently, and machine learning methods applied to domain sciences (biology, chemistry, materials science, mathematics). 5 days, up to 800 attendees, ~200 papers, 4 parallel tracks, hackathon & AI art exhibition.",
+    "title_local": "AI for Science 학회 2026 (AI4Sci Korea)",
+    "description_local": "국제 AI for Science 학회. 연구를 독립적으로 수행하는 자율 AI 에이전트와 생물학, 화학, 재료과학, 수학 등 도메인 과학에 적용되는 머신러닝 방법이라는 두 가지 혁신적 분야를 탐구. 5일간, 최대 800명 참석, 약 200편의 논문, 4개 병렬 트랙, 해커톤 및 AI 아트 전시.",
+    "city": "seoul",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "id": "79cde4c894afbe1b"
+  },
+  {
     "title": "The 6th Korea Artificial Intelligence Conference",
     "date": "2026-09-30",
     "venue": "Sono Calm Jeju (not Seoul - in Jeju)",
@@ -690,6 +704,20 @@
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-08",
     "id": "98f6cb8894011367"
+  },
+  {
+    "title": "AI EXPO KOREA 2027",
+    "date": "2027-04-09",
+    "venue": "COEX, Seoul",
+    "url": "https://aiexpo.co.kr/en/ai-expo-english/",
+    "source": "aiexpo.co.kr",
+    "description": "Korea's largest AI business platform. The 2026 edition featured 330 companies from 18 countries across 562 booths with 48,678 visitors. Showcases cutting-edge AI technologies, industry-specific innovation cases, and global business networking. (Note: 2027 edition, but listed for completeness as major annual event)",
+    "title_local": "AI EXPO KOREA 2027 국제인공지능대전",
+    "description_local": "한국 최대 AI 비즈니스 플랫폼. 2026년에는 18개국 330개 기업이 562개 부스에 참여하고 48,678명이 방문. 최첨단 AI 기술, 산업별 혁신 사례, 글로벌 비즈니스 네트워킹 제공. (참고: 2027년 에디션이지만 주요 연례 행사로 포함)",
+    "city": "seoul",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "id": "e86fd1bf673090e9"
   },
   {
     "title": "Web3 AI Seoul: The Future of Work",

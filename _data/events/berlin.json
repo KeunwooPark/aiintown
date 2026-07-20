@@ -536,6 +536,20 @@
     "id": "ba2e2e2af3a88d72"
   },
   {
+    "title": "International Conference on Artificial Intelligence and Applications (ICAIA)",
+    "date": "2026-07-31",
+    "venue": "Berlin, Germany",
+    "url": "https://www.allconferencealert.com/berlin/ai-conference.html",
+    "source": "allconferencealert.com",
+    "description": "Academic conference covering innovation, research developments, practical applications in artificial intelligence with expert sessions, keynote presentations, workshops, and networking opportunities.",
+    "title_local": "Internationale Konferenz über Künstliche Intelligenz und Anwendungen (ICAIA)",
+    "description_local": "Akademische Konferenz zu Innovation, Forschungsentwicklungen und praktischen Anwendungen der künstlichen Intelligenz mit Expertensitzungen, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten.",
+    "city": "berlin",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "id": "8ebb2860cfc9dd22"
+  },
+  {
     "title": "Berlin AWS User Group - Fireside Chat with Dr. Werner Vogels",
     "date": "2026-07-XX",
     "venue": "NLND (Neuland) Berlin",
@@ -561,7 +575,7 @@
     "description_local": "Internationale akademische Konferenz mit Schwerpunkt auf Transport- und Logistikanwendungen der Künstlichen Intelligenz. Virtuelle und persönliche Teilnahmeoptionen verfügbar.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-18",
+    "last_seen": "2026-07-20",
     "id": "216d5e94062d17a7"
   },
   {
@@ -949,7 +963,7 @@
     "description_local": "16.-20. November 2026. Die Veranstaltung für Generative AI & Machine Learning Engineering. Mit expertengeleiteten Workshops, Keynotes und Networking mit führenden ML-Profis. Themen: Generative AI & Agents, MLOps & LLMOps, ML & Deep Learning, KI-Strategie & Governance.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-07-20",
     "id": "9a05b37a144a341e"
   },
   {
