@@ -502,6 +502,20 @@
     "id": "93310eddcd1014ab"
   },
   {
+    "title": "Unite Seoul 2026",
+    "date": "2026-07-21",
+    "venue": "COEX (Grand Ballroom, Asem Ballroom, Auditorium), Seoul",
+    "url": "https://onoffmix.com/event/341859",
+    "source": "Onoffmix",
+    "description": "Korea's largest Unity developer conference. Unity expanding beyond gaming into manufacturing, automotive, semiconductor and other industries. Larger scale with expanded content and insights.",
+    "title_local": "Unite Seoul 2026",
+    "description_local": "국내 최대 Unity 개발자 컨퍼런스. Unity가 게임을 넘어 제조·자동차·반도체 등 산업 전반으로 더 커진 규모와 콘텐츠로 인사이트를 전합니다.",
+    "city": "seoul",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "id": "dec74fa03b86912b"
+  },
+  {
     "title": "International Conference on Legal and Regulatory Frameworks in Artificial Intelligence (ICLRFAI)",
     "date": "2026-08-04",
     "venue": "Seoul, South Korea",
@@ -512,7 +526,7 @@
     "description_local": "AI의 법적 및 규제 측면에 초점을 맞춘 컨퍼런스입니다. AI 거버넌스, 윤리, 정책 프레임워크 및 규정 준수를 다룹니다.",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-07-21",
     "id": "98dd8b906bab4381"
   },
   {
@@ -718,6 +732,36 @@
     "first_seen": "2026-07-20",
     "last_seen": "2026-07-20",
     "id": "e86fd1bf673090e9"
+  },
+  {
+    "title": "AI/ML DeepLearning Meetup in Seoul",
+    "date": null,
+    "venue": "Seoul",
+    "url": "https://www.meetup.com/data-scientist-meetup-in-seoul/",
+    "source": "Meetup",
+    "description": "Community meetup for anyone working or interested in AI/ML, Deep Learning, and data science. Welcomes ML engineers, Prompt Engineers, data analysts, and data engineers.",
+    "title_local": "서울 AI/ML 딥러닝 밋업",
+    "description_local": "데이터 사이언스 분야에서 근무하시거나 관심있는 모든 분들을 위한 밋업입니다. 머신러닝뿐 아니라 데이터 분석, 데이터 엔지니어링 등 데이터 사이언스와 관련된 모든 분야의 여러분, 환영해요!",
+    "city": "seoul",
+    "date_status": "unknown",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "id": "7d8d7c782d24c738"
+  },
+  {
+    "title": "CodeSeoul - Machine Learning Afternoons",
+    "date": null,
+    "venue": "Lunit, Gangnam, Seoul",
+    "url": "https://www.meetup.com/learn-teach-code-seoul/",
+    "source": "Meetup",
+    "description": "Regular weekly community meetup for coders. Machine Learning Afternoons held Saturdays at 4pm at Lunit in Gangnam. International community connecting coders of all levels to learn, teach, and build together. Free event.",
+    "title_local": "CodeSeoul - 머신러닝 오후 모임",
+    "description_local": "매주 토요일 오후 4시 강남 루닛에서 열리는 정기 커뮤니티 밋업. 모든 수준의 코더들이 함께 배우고 가르치고 만드는 국제 커뮤니티. 무료 행사.",
+    "city": "seoul",
+    "date_status": "unknown",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "id": "00cd53ecb2768c6e"
   },
   {
     "title": "Web3 AI Seoul: The Future of Work",

@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-18",
+    "last_seen": "2026-07-21",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -378,7 +378,7 @@
     "description_local": "Engineering-orientierter Tag in Berlin zum Aufbau autonomer KI-Agenten von Grund auf, Beherrschung des 'Vibe Coding'-Workflows mit Google-Experten und praktischen Labs. Themen: Agentische Orchestrierung, Reasoning und Planung mit Gemini, schnelle Entwicklung mit Agent Development Kit (ADK).",
     "city": "berlin",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-05",
+    "last_seen": "2026-07-21",
     "id": "0d7e0875ef229f2e"
   },
   {
@@ -448,7 +448,7 @@
     "description_local": "Monatliches praktisches KI-Builder-Meetup, Teil eines globalen Netzwerks mit 243 Städten und 114.000+ Mitgliedern. Drei-Stunden-Meetups mit Live-Demos von lokalen Buildern, die funktionierende Prototypen, Architektur-Lektionen und praktische Demos zeigen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-21",
     "id": "4867edb863b0a225"
   },
   {
@@ -508,6 +508,20 @@
     "id": "e37be0eadf614c9b"
   },
   {
+    "title": "Cursor Hackathon Berlin @Bliq",
+    "date": "2026-07-23",
+    "venue": "Bliq, Berlin",
+    "url": "https://luma.com/0jyksnjv",
+    "source": "luma.com",
+    "description": "July edition of Cursor Berlin community hackathon series. Structured build night for founders, engineers, product leaders, and AI builders actively using Cursor and AI-native workflows. Includes build session, demos, prizes, and networking for 60-70 curated guests.",
+    "title_local": "Cursor Hackathon Berlin @Bliq",
+    "description_local": "Juli-Ausgabe der Cursor Berlin Community Hackathon-Serie. Strukturierte Build-Nacht für Gründer, Ingenieure, Produktleiter und KI-Builder, die aktiv Cursor und KI-native Workflows nutzen. Umfasst Build-Session, Demos, Preise und Networking für 60-70 kuratierte Gäste.",
+    "city": "berlin",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "id": "b42a2b9cea4080b9"
+  },
+  {
     "title": "Berlin: Tech Talks & Business Brains",
     "date": "2026-07-25",
     "venue": "Berlin (location revealed upon registration)",
@@ -536,17 +550,17 @@
     "id": "ba2e2e2af3a88d72"
   },
   {
-    "title": "International Conference on Artificial Intelligence and Applications (ICAIA)",
+    "title": "International Conference on Artificial Intelligence and Machine Learning (ICAIML)",
     "date": "2026-07-31",
     "venue": "Berlin, Germany",
     "url": "https://www.allconferencealert.com/berlin/ai-conference.html",
     "source": "allconferencealert.com",
-    "description": "Academic conference covering innovation, research developments, practical applications in artificial intelligence with expert sessions, keynote presentations, workshops, and networking opportunities.",
-    "title_local": "Internationale Konferenz über Künstliche Intelligenz und Anwendungen (ICAIA)",
-    "description_local": "Akademische Konferenz zu Innovation, Forschungsentwicklungen und praktischen Anwendungen der künstlichen Intelligenz mit Expertensitzungen, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten.",
+    "description": "International academic conference on AI and machine learning covering innovation, research developments, practical applications, and future trends. Features expert sessions, keynote presentations, workshops, and networking with global participants.",
+    "title_local": "Internationale Konferenz über Künstliche Intelligenz und Maschinelles Lernen (ICAIML)",
+    "description_local": "Internationale akademische Konferenz über KI und maschinelles Lernen zu Innovation, Forschungsentwicklungen, praktischen Anwendungen und zukünftigen Trends. Bietet Expertensitzungen, Keynote-Präsentationen, Workshops und Networking mit globalen Teilnehmern.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-07-21",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -575,7 +589,7 @@
     "description_local": "Internationale akademische Konferenz mit Schwerpunkt auf Transport- und Logistikanwendungen der Künstlichen Intelligenz. Virtuelle und persönliche Teilnahmeoptionen verfügbar.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-07-21",
     "id": "216d5e94062d17a7"
   },
   {
@@ -661,6 +675,20 @@
     "first_seen": "2026-06-28",
     "last_seen": "2026-07-18",
     "id": "1f350ba6aefcfe3b"
+  },
+  {
+    "title": "TAM Leadership Festival 2026 - The Art of Balancing Code & Culture",
+    "date": "2026-09-11",
+    "venue": "Hagelberger Str., Berlin",
+    "url": "https://luma.com/4iynrnaf",
+    "source": "luma.com",
+    "description": "Leadership festival focused on AI transformation, balancing technology and humanity. For CEOs, executives, CHROs, and people leaders addressing KI decision-making, team transformation, and business model development. 200 participants with no presentations, real conversations.",
+    "title_local": "TAM Leadership Festival 2026 - The Art of Balancing Code & Culture",
+    "description_local": "Leadership Festival mit Fokus auf KI-Transformation, Balance zwischen Technologie und Menschlichkeit. Für CEOs, Executives, CHROs und People Leaders, die KI-Entscheidungen, Team-Transformation und Geschäftsmodellentwicklung adressieren. 200 Teilnehmer ohne Frontalvorträge, echte Konversationen.",
+    "city": "berlin",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "id": "5b165a1f3e5a80ac"
   },
   {
     "title": "Agentic AI Summit Berlin 2026",
@@ -867,7 +895,7 @@
     "description_local": "Dreitägige Veranstaltung (12.–14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Kern-KI-Themen einschließlich Robotik und autonome Systeme, Klimawissenschaftsanwendungen, MLOps und skalierbare Bereitstellung, vertrauenswürdige KI, Hochleistungsrechnen und energieeffiziente KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-07-21",
     "id": "15932057c4239dba"
   },
   {
@@ -1023,6 +1051,21 @@
     "id": "cafd4681a9cdc973"
   },
   {
+    "title": "AI Agents Berlin - Summit and Series (H2 2026)",
+    "date": null,
+    "venue": "Berlin, Germany",
+    "url": "https://luma.com/aiagentsberlin",
+    "source": "luma.com",
+    "description": "Berlin's leading event series exploring the convergence of agentic AI and blockchain. H2 2026 season pass includes AI Agents Summit and sub-events, member tickets to every AIB session through December, whitelist invites to industry calls and workshops.",
+    "title_local": "AI Agents Berlin - Summit und Serie (H2 2026)",
+    "description_local": "Berlins führende Veranstaltungsreihe zur Erkundung der Konvergenz von agentischer KI und Blockchain. H2 2026 Saison-Pass umfasst AI Agents Summit und Sub-Events, Mitglieder-Tickets für jede AIB-Session bis Dezember, Whitelist-Einladungen zu Branchen-Calls und Workshops.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "id": "6c1b442fc41ffe5f"
+  },
+  {
     "title": "AI Engineering 2026 Meetup",
     "date": null,
     "venue": "Berlin (offline, in-person)",
@@ -1171,6 +1214,21 @@
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
     "id": "85c8aa34e118ae0f"
+  },
+  {
+    "title": "Everyday AI Club",
+    "date": null,
+    "venue": "workish.berlin, Harzer Str. 39, 12059 Berlin",
+    "url": "https://luma.com/everyday-ai-club-1",
+    "source": "luma.com",
+    "description": "Community club for non-technical people using or wanting to use AI. Curated crowd on exclude-to-include principle. Features short talks, demos, and practical sharing of what's working with AI. Hosted at workish.berlin coworking space.",
+    "title_local": "Everyday AI Club",
+    "description_local": "Community-Club für nicht-technische Personen, die KI nutzen oder nutzen möchten. Kuratierte Crowd nach dem Ausschluss-zum-Einschluss-Prinzip. Bietet kurze Talks, Demos und praktisches Teilen dessen, was mit KI funktioniert. Veranstaltet im workish.berlin Coworking Space.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "id": "70d6d9a30117017a"
   },
   {
     "title": "KI ausprobieren - Hands-on Workshop",
