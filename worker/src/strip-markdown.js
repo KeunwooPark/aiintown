@@ -5,9 +5,7 @@
  * renders the answer safely as plain text via textContent, so literal markdown
  * punctuation (**bold**, # headings, - lists, [link](url)) shows up in the UI.
  * Stripping in the Worker gives a clean "plain text" API contract for every
- * consumer and leaves the frontend's XSS-safe render path untouched. The raw
- * markdown answer is still logged to copyeval for evaluation fidelity; only the
- * HTTP response carries the stripped text.
+ * consumer and leaves the frontend's XSS-safe render path untouched.
  *
  * Why a custom marked Renderer instead of marked.parse() -> strip-HTML: parsing
  * to HTML and then stripping tags would require an HTML entity round-trip

@@ -18,13 +18,8 @@
  *   CITIES             (var)   — comma-separated city ids to load
  *   EVENTS_BASE_URL    (var)   — raw base URL for the events JSON files
  *   MODEL              (var)   — Claude model id
- *   COPYEVAL_API_KEY   (secret, optional) — org-scoped copyeval key (cev_…);
- *                                           when set (with COPYEVAL_BASE_URL),
- *                                           each ask is logged to copyeval
- *   COPYEVAL_BASE_URL  (var, optional)     — copyeval record store base URL
  */
 
-import { CopyevalClient } from "@copyeval/sdk";
 import { stripMarkdown } from "./strip-markdown.js";
 
 const DEFAULTS = {
@@ -38,9 +33,6 @@ const DEFAULTS = {
   // which the Anthropic edge 403s ("Request not allowed") for Worker traffic.
   AI_GATEWAY_ACCOUNT_ID: "",
   AI_GATEWAY_NAME: "",
-  // copyeval logging. When COPYEVAL_API_KEY (secret) and COPYEVAL_BASE_URL are
-  // both set, each ask — the user query and the answer — is logged to copyeval.
-  COPYEVAL_BASE_URL: "",
 };
 
 const ANTHROPIC_URL = "https://api.anthropic.com/v1/messages";
@@ -114,36 +106,17 @@ export default {
 
     // Ask Claude.
     try {
-      const startedAt = Date.now();
-      const { text: answer, usage } = await askClaude(
+      const { text: answer } = await askClaude(
         env.ANTHROPIC_API_KEY,
         cfg.MODEL,
         anthropicEndpoint(cfg),
         { question, lang, events }
       );
-      // Strip markdown styling to plain text for the response. The raw markdown
-      // `answer` is still logged to copyeval (below) for evaluation fidelity;
-      // only the HTTP response carries the stripped text.
+      // Strip markdown styling to plain text for the response — the frontend
+      // renders answers as plain text, so literal markdown punctuation would
+      // otherwise show up in the UI.
       const clean = stripMarkdown(answer);
       const cited = citedEvents(clean, events);
-
-      // Log the user query and the RAG result to copyeval (best-effort; never
-      // block the response or fail the request on a logging error). Token counts
-      // come from the Anthropic response's usage block; cost is left unset (the
-      // API returns no price, so it can't be derived without hardcoding rates).
-      logToCopyeval(cfg, ctx, {
-        input: { question, lang },
-        output: { answer, events: cited },
-        model: cfg.MODEL,
-        latencyMs: Date.now() - startedAt,
-        inputTokens: usage?.input_tokens,
-        outputTokens: usage?.output_tokens,
-        totalTokens:
-          usage && usage.input_tokens != null && usage.output_tokens != null
-            ? usage.input_tokens + usage.output_tokens
-            : undefined,
-        metadata: { feature: "ask", eventCount: events.length, citedCount: cited.length },
-      });
 
       return json({ answer: clean, events: cited }, 200, cors);
     } catch (err) {
@@ -209,32 +182,6 @@ async function loadEvents(cfg, ctx) {
 
   if (all.length === 0) throw new Error("No events loaded");
   return all;
-}
-
-/**
- * Fire-and-forget log of one ask (query + answer) to copyeval. No-ops unless
- * both COPYEVAL_API_KEY and COPYEVAL_BASE_URL are configured. Logging failures
- * are caught and never surface to the caller, so telemetry can't break the ask.
- */
-function logToCopyeval(cfg, ctx, entry) {
-  if (!cfg.COPYEVAL_API_KEY || !cfg.COPYEVAL_BASE_URL) return;
-
-  const copyeval = new CopyevalClient({
-    apiKey: cfg.COPYEVAL_API_KEY,
-    baseUrl: cfg.COPYEVAL_BASE_URL,
-    // The SDK calls the fetch it's given as a method (`this.fetch(...)`). Passing
-    // the bare global would bind `this` to the client instance, which the Workers
-    // runtime rejects with "Illegal invocation". Bind it to globalThis so the
-    // subrequest goes out cleanly.
-    fetch: globalThis.fetch.bind(globalThis),
-  });
-
-  const p = copyeval
-    .log(entry)
-    .catch((err) =>
-      console.error("copyeval log failed:", err && err.message ? err.message : err)
-    );
-  if (ctx) ctx.waitUntil(p);
 }
 
 function systemPrompt(lang) {
