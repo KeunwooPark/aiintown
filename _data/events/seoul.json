@@ -526,7 +526,7 @@
     "description_local": "AI의 법적 및 규제 측면에 초점을 맞춘 컨퍼런스입니다. AI 거버넌스, 윤리, 정책 프레임워크 및 규정 준수를 다룹니다.",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-22",
     "id": "98dd8b906bab4381"
   },
   {
@@ -655,12 +655,12 @@
     "venue": "COEX Hall C and Surrounding Area, Seoul",
     "url": "https://www.aifesta.kr/",
     "source": "aifesta.kr",
-    "description": "Korea's largest AI festival and official event of the National AI Week designated by the Ministry of Science and ICT. A comprehensive platform featuring exhibitions, conferences, business matching, and awards, connecting policy, industry, and technology. The event showcases how AI is being realized and operating in actual industries and society. Running from October 6-8, 2026.",
-    "title_local": "인공지능 페스타 2026 (AI FESTA 26)",
-    "description_local": "과학기술정보통신부가 지정한 국가 공식 '인공지능주간(AI Week)'의 대표 행사로, 대한민국 AI 산업 생태계를 이끄는 글로벌 비즈니스 플랫폼입니다. 전시, 컨퍼런스, 비즈니스 매칭, 어워즈를 아우르는 국내 최대 규모 AI 통합 플랫폼으로, 정책·산업·기술을 연결합니다. 2026년 10월 6-8일 개최됩니다.",
+    "description": "Korea's largest AI festival running October 6-8, 2026. A comprehensive national AI business platform combining exhibitions, conferences, business matching, and awards. Features AI Town Hall Meeting, AI industry future technology forums, and B2B Tech Tours connecting policy, industry, and technology. Covers AI, robotics, cybersecurity, digital healthcare and various AI-related fields.",
+    "title_local": "인공지능 페스타 2026",
+    "description_local": "2026년 10월 6일(화)부터 10월 8일(목)까지 3일간 서울 코엑스 3층 C홀에서 개최됩니다. AI Festa는 전시, 컨퍼런스, 비즈니스 매칭, 어워즈를 아우르는 국가대표 AI 통합 플랫폼으로, 정책·산업·기술을 연결합니다. AI 타운홀 미팅, AI 산업 각 분야별 미래기술포럼, B2B Tech Tour 등 AI 정책과 산업을 직접 연결하는 핵심 프로그램이 운영됩니다. AI, 로보틱스, 사이버보안, 디지털 헬스케어 등 다양한 분야의 AI 관련 기업과 함께합니다.",
     "city": "seoul",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-07-16",
+    "last_seen": "2026-07-22",
     "id": "e27613476fc821c2"
   },
   {
