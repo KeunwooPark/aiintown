@@ -550,17 +550,17 @@
     "id": "ba2e2e2af3a88d72"
   },
   {
-    "title": "International Conference on Artificial Intelligence and Machine Learning (ICAIML)",
+    "title": "International Conference on Artificial Intelligence and Applications (ICAIA)",
     "date": "2026-07-31",
     "venue": "Berlin, Germany",
     "url": "https://www.allconferencealert.com/berlin/ai-conference.html",
     "source": "allconferencealert.com",
-    "description": "International academic conference on AI and machine learning covering innovation, research developments, practical applications, and future trends. Features expert sessions, keynote presentations, workshops, and networking with global participants.",
-    "title_local": "Internationale Konferenz über Künstliche Intelligenz und Maschinelles Lernen (ICAIML)",
-    "description_local": "Internationale akademische Konferenz über KI und maschinelles Lernen zu Innovation, Forschungsentwicklungen, praktischen Anwendungen und zukünftigen Trends. Bietet Expertensitzungen, Keynote-Präsentationen, Workshops und Networking mit globalen Teilnehmern.",
+    "description": "Academic conference on artificial intelligence covering innovation, research developments, practical applications, and future trends. Features expert sessions, keynote presentations, workshops, and networking opportunities with global participants.",
+    "title_local": "Internationale Konferenz über Künstliche Intelligenz und Anwendungen (ICAIA)",
+    "description_local": "Akademische Konferenz über künstliche Intelligenz mit Schwerpunkt auf Innovation, Forschungsentwicklungen, praktischen Anwendungen und Zukunftstrends.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-07-22",
+    "last_seen": "2026-07-23",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -577,20 +577,6 @@
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
     "id": "469dda992ade01aa"
-  },
-  {
-    "title": "International Conference on Transportation and Logistics with Artificial Intelligence (ICTLAI)",
-    "date": "2026-08-04",
-    "venue": "Berlin, Germany",
-    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "International academic conference focused on transportation and logistics applications of artificial intelligence. Virtual and in-person attendance options available.",
-    "title_local": "Internationale Konferenz zu Transport und Logistik mit Künstlicher Intelligenz (ICTLAI)",
-    "description_local": "Internationale akademische Konferenz mit Schwerpunkt auf Transport- und Logistikanwendungen der Künstlichen Intelligenz. Virtuelle und persönliche Teilnahmeoptionen verfügbar.",
-    "city": "berlin",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-07-22",
-    "id": "216d5e94062d17a7"
   },
   {
     "title": "Health-IT Talk: KI-gestütztes Wissensmanagement in der Praxis",
@@ -647,6 +633,20 @@
     "first_seen": "2026-06-27",
     "last_seen": "2026-07-14",
     "id": "b19a445a8aa872b3"
+  },
+  {
+    "title": "International Conference on AI-driven Data Science and Machine Learning Applications (ICADSL)",
+    "date": "2026-08-31",
+    "venue": "Berlin, Germany",
+    "url": "https://internationalconferencealerts.com/conferences/berlin/artificial-intelligence",
+    "source": "internationalconferencealerts.com",
+    "description": "Conference on AI-driven data science and machine learning applications. Covers current challenges and future scope in artificial intelligence with keynote and session speakers. Virtual and in-person attendance options.",
+    "title_local": "Internationale Konferenz über KI-gesteuerte Data Science und Machine Learning-Anwendungen (ICADSL)",
+    "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
+    "city": "berlin",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-07-23",
+    "id": "216d5e94062d17a7"
   },
   {
     "title": "IFA 2026",
@@ -909,7 +909,7 @@
     "description_local": "Dreitägige Veranstaltung (12.-14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben'. Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, Klimawissenschaft, MLOps, vertrauenswürdiger KI, High-Performance-Computing und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-19",
+    "last_seen": "2026-07-23",
     "id": "22c4be5ddc567872"
   },
   {
@@ -939,6 +939,20 @@
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-13",
     "id": "4f3312e04d02f54a"
+  },
+  {
+    "title": "Photonics Days Berlin Brandenburg",
+    "date": "2026-10-15",
+    "venue": "Berlin",
+    "url": "https://www.berlin.de/deeptech/en/events/",
+    "source": "berlin.de/deeptech",
+    "description": "Premier international platform for researchers, industry experts, and investors to explore the future of photonics sector. Features more than 100 speakers and 25 technical sessions. Highlights technological synergy with partner countries Korea and Taiwan. Relevant for AI hardware and optical computing.",
+    "title_local": "Photonics Days Berlin Brandenburg",
+    "description_local": "Führende internationale Plattform für Forscher, Industrieexperten und Investoren zur Erkundung der Zukunft des Photonics-Sektors mit über 100 Rednern und 25 technischen Sessions.",
+    "city": "berlin",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "id": "cb6443b487d22397"
   },
   {
     "title": "The Berlin AI Conference 2026",
