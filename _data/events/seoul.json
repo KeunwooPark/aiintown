@@ -526,7 +526,7 @@
     "description_local": "AI의 법적 및 규제 측면에 초점을 맞춘 컨퍼런스입니다. AI 거버넌스, 윤리, 정책 프레임워크 및 규정 준수를 다룹니다.",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-22",
+    "last_seen": "2026-07-25",
     "id": "98dd8b906bab4381"
   },
   {
@@ -594,6 +594,20 @@
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-03",
     "id": "000e9c0553ed87a7"
+  },
+  {
+    "title": "AI WORLD 2026",
+    "date": "2026-09-09",
+    "venue": "Lotte World Tower Lotte Cinema (5F), Seoul",
+    "url": "https://www.ai-world.kr/en/",
+    "source": "ai-world.kr",
+    "description": "Under the theme 'AI Shift – The New Economy,' bringing together leaders from global AI powerhouses including OpenAI, Microsoft, Google, Meta, and Mistral, as well as prominent AI startups to share latest trends and future visions.",
+    "title_local": "AI WORLD 2026",
+    "description_local": "'AI Shift – The New Economy'라는 주제로 OpenAI, Microsoft, Google, Meta, Mistral 등 글로벌 AI 선도 기업과 세계 각국의 유망 AI 스타트업 리더들이 한자리에 모여 AI 시장의 최신 트렌드와 미래 비전을 공유합니다.",
+    "city": "seoul",
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "id": "f195403c28dfa114"
   },
   {
     "title": "Try Everything 2026",
