@@ -516,6 +516,20 @@
     "id": "dec74fa03b86912b"
   },
   {
+    "title": "Seoul AI Policy Conference 2026 (SAIPC)",
+    "date": "2026-08-01",
+    "venue": "Seoul, South Korea",
+    "url": "https://onoffmix.com/event/343416",
+    "source": "Onoffmix",
+    "description": "Seoul AI Policy Conference addressing frontier issues in AI governance, including AI agents and regulatory frameworks. The conference examines the current state of AI governance and explores future directions.",
+    "title_local": "Seoul AI Policy Conference 2026",
+    "description_local": "AI 거버넌스의 현 모습을 진단하고 그 나아갈 방향을 모색하는 서울 인공지능 정책 컨퍼런스. AI 에이전트를 포함한 AI 거버넌스의 최전선 이슈 다룸.",
+    "city": "seoul",
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "id": "b959ffe7c54f58c1"
+  },
+  {
     "title": "International Conference on Legal and Regulatory Frameworks in Artificial Intelligence (ICLRFAI)",
     "date": "2026-08-04",
     "venue": "Seoul, South Korea",
@@ -526,7 +540,7 @@
     "description_local": "AI의 법적 및 규제 측면에 초점을 맞춘 컨퍼런스입니다. AI 거버넌스, 윤리, 정책 프레임워크 및 규정 준수를 다룹니다.",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-25",
+    "last_seen": "2026-07-26",
     "id": "98dd8b906bab4381"
   },
   {
@@ -690,6 +704,20 @@
     "first_seen": "2026-06-20",
     "last_seen": "2026-06-24",
     "id": "1eca324acfa1f656"
+  },
+  {
+    "title": "인공지능 페스타 2026 (AI Festa 2026)",
+    "date": "2026-10-06",
+    "venue": "COEX Hall C, D, Seoul",
+    "url": "https://www.coex.co.kr/exhibitions/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%8E%98%EC%8A%A4%ED%83%80-2026/",
+    "source": "COEX",
+    "description": "Official event of the Ministry of Science and ICT's AI Week. Korea's largest AI business platform bringing together AI core leaders to share real business application cases of AI technology. Features exhibitions, conferences, and networking opportunities.",
+    "title_local": "인공지능 페스타 2026",
+    "description_local": "과학기술정보통신부 인공지능주간 공식 행사. 인공지능 혁신 생태계의 최접점에 위치한 국내 최대 규모 '비즈니스 플랫폼'으로, 'AI 핵심 리더'들과 함께 AI 기술의 실제 비즈니스 적용 사례를 공유.",
+    "city": "seoul",
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "id": "59e4e7f5f7f20e2e"
   },
   {
     "title": "Smart Tech Korea 2026 (STK 2026) - AI & Big Data Show",
