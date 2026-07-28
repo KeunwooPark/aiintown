@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-26",
+    "last_seen": "2026-07-28",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -546,7 +546,7 @@
     "description_local": "Internationale wissenschaftliche Konferenz zu Forschungsentwicklungen, praktischen Anwendungen und zukünftigen Trends in Künstlicher Intelligenz und maschinellem Lernen. Mit Expertensitzungen, Hauptvorträgen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-07-27",
+    "last_seen": "2026-07-28",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -577,6 +577,20 @@
     "first_seen": "2026-06-19",
     "last_seen": "2026-07-26",
     "id": "f8fae9f3cfd39a48"
+  },
+  {
+    "title": "ClawCamp Berlin",
+    "date": "2026-08-01",
+    "venue": "Berlin, Germany",
+    "url": "https://luma.com/clawcampberlin",
+    "source": "Luma / AI Agents Berlin",
+    "description": "Part of ClawCamp Summer Camp, an international decentralized series focused on personal agents, AI workflows, and emerging agent technologies. Hands-on AI builder session bringing together people who want to build with AI - real workshops where participants install, configure, and ship, not just slides.",
+    "title_local": "ClawCamp Berlin",
+    "description_local": "Teil des ClawCamp Summer Camp, einer internationalen dezentralen Serie mit Fokus auf persönliche Agenten, KI-Workflows und aufstrebende Agententechnologien. Praktische KI-Builder-Session für Menschen, die tatsächlich mit KI bauen möchten.",
+    "city": "berlin",
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "id": "7652492edd459f82"
   },
   {
     "title": "Health-IT Talk: KI-gestütztes Wissensmanagement in der Praxis",
@@ -689,6 +703,20 @@
     "first_seen": "2026-06-28",
     "last_seen": "2026-07-18",
     "id": "1f350ba6aefcfe3b"
+  },
+  {
+    "title": "Signals Berlin 2026",
+    "date": "2026-09-10",
+    "venue": "Palais in der Kulturbrauerei, Schönhauser Allee 36, 10435 Berlin",
+    "url": "https://luma.com/9yy0nom2",
+    "source": "Luma",
+    "description": "A two-day, single-track community gathering at the intersection of Reliability Engineering, Observability, and AI/MLOps. Designed for practitioners redefining how production works in the age of AI, covering coding agents, probabilistic models, agent loops, evals, and non-deterministic outputs.",
+    "title_local": "Signals Berlin 2026",
+    "description_local": "Ein zweitägiges, eingleisiges Community-Treffen an der Schnittstelle von Reliability Engineering, Observability und AI/MLOps. Für Praktiker entwickelt, die neu definieren, wie Produktion im KI-Zeitalter funktioniert.",
+    "city": "berlin",
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "id": "93088e82c5b5f753"
   },
   {
     "title": "TAM Leadership Festival 2026 - The Art of Balancing Code & Culture",
@@ -923,7 +951,7 @@
     "description_local": "Dreitägige Veranstaltung (12.-14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben'. Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, Klimawissenschaft, MLOps, vertrauenswürdiger KI, High-Performance-Computing und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-27",
+    "last_seen": "2026-07-28",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1061,7 +1089,7 @@
     "description_local": "Supply-Chain-Transformationsveranstaltung für Führungskräfte mit Schwerpunkt auf KI und digitaler Transformation in Logistik und Supply-Chain-Management. Beginn 08:00.",
     "city": "berlin",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
+    "last_seen": "2026-07-28",
     "id": "cafd4681a9cdc973"
   },
   {
