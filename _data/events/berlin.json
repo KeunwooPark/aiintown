@@ -364,7 +364,7 @@
     "description_local": "Unter dem Motto 'Connected Intelligence' untersucht dieses Meetup graph-basiertes Reasoning, Constraint Satisfaction, agentische Code-Reviews, KI-gestützte Entwicklungsworkflows und Javas sich entwickelnde Rolle in KI-Systemen. Der Abend umfasst Vorträge von Andreas Kollegger (Director of GenAI, Neo4j), Charles Francoise (Staff Software Engineer, CircleCI) und Ana Maria Mihalceanu (Java Champion Alumni & Developer Advocate, Oracle). Außerdem gibt es ein Panel zu 'Agentic AI in the Wild'. Keine Verkaufspräsentationen - nur praktische Lektionen aus Systemen, die in Produktion laufen. Zeitplan: 17:00 Einlass, 17:30 Begrüßung, Vorträge und Panel, Essen & Networking.",
     "city": "berlin",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-07-10",
+    "last_seen": "2026-07-29",
     "id": "4e17ef04ab5077b4"
   },
   {
@@ -392,7 +392,7 @@
     "description_local": "Besuchen Sie das Berlin KI-Meetup im betahaus am Moritzplatz für einen Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten. Derek Footer von XTR.Capital wird eine Keynote darüber halten, 'Wie Sie Ihr Startup auf die erste Finanzierungsrunde vorbereiten'. Demos umfassen One Ware (Physical AI für autonome Drohnen und Qualitätskontrolle) und Civic (die Berechtigungsebene für KI-Agenten). Egal, ob Sie ein Befürworter oder Kritiker sind, Ihre Perspektive ist wichtig.",
     "city": "berlin",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-07-22",
+    "last_seen": "2026-07-29",
     "id": "e3b46ef72cefd6d1"
   },
   {
@@ -420,7 +420,7 @@
     "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die industriereife LLMs und generative KI aufbauen. Fokussierte KI-Builder-Veranstaltung mit Hunderten von Pionier-Ingenieuren, Entwicklern und Führungskräften.",
     "city": "berlin",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-29",
     "id": "51113d0f9d43e4b6"
   },
   {
@@ -546,7 +546,7 @@
     "description_local": "Internationale wissenschaftliche Konferenz zu Forschungsentwicklungen, praktischen Anwendungen und zukünftigen Trends in Künstlicher Intelligenz und maschinellem Lernen. Mit Expertensitzungen, Hauptvorträgen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-07-28",
+    "last_seen": "2026-07-29",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -659,7 +659,7 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-27",
+    "last_seen": "2026-07-29",
     "id": "216d5e94062d17a7"
   },
   {
@@ -951,7 +951,7 @@
     "description_local": "Dreitägige Veranstaltung (12.-14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben'. Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, Klimawissenschaft, MLOps, vertrauenswürdiger KI, High-Performance-Computing und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-28",
+    "last_seen": "2026-07-29",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1213,18 +1213,18 @@
     "id": "2ac2b4827290e015"
   },
   {
-    "title": "Berlin DataTalksClub Meetup",
+    "title": "Berlin DataTalksClub - Agentic AI Engineering",
     "date": null,
-    "venue": "TBA",
+    "venue": "Berlin, Germany",
     "url": "https://www.meetup.com/berlin-datatalks-club/",
-    "source": "meetup.com",
-    "description": "Meetup for experienced and aspiring data professionals. Features workshops on building financial research agents, agentic AI in data engineering, and practical applications of AI in data workflows. Includes talks from industry practitioners on real-world AI implementation.",
-    "title_local": "Berlin DataTalksClub Meetup",
-    "description_local": "Meetup für erfahrene und angehende Datenexperten. Mit Workshops zum Aufbau von Finanzforschungs-Agenten, agentischer KI im Data Engineering und praktischen Anwendungen von KI in Daten-Workflows. Beinhaltet Vorträge von Branchenpraktikern über reale KI-Implementierungen.",
+    "source": "https://www.meetup.com/berlin-datatalks-club/",
+    "description": "Meetup featuring insights from the Agentic AI Engineering course and core skills for 2026. Speaker Paul Iustin (author of LLM Engineer's Handbook, lead instructor of Agentic AI Engineering course). Topics include transitioning to AI engineering and building future-ready data careers.",
+    "title_local": "Berlin DataTalksClub - Agentic AI Engineering",
+    "description_local": "Treffen mit Einblicken aus dem Agentic AI Engineering Kurs und Kernkompetenzen für 2026. Sprecher Paul Iustin (Autor des LLM Engineer's Handbook, Hauptdozent des Agentic AI Engineering Kurses). Themen umfassen den Übergang zum KI-Engineering und den Aufbau zukunftsfähiger Datenkarrieren.",
     "city": "berlin",
     "date_status": "unknown",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
+    "last_seen": "2026-07-29",
     "id": "b450cd094f29dad9"
   },
   {
