@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-27"
+    "last_seen": "2026-07-30"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -448,7 +448,7 @@
     "description_local": "Monatliches praktisches KI-Builder-Meetup, Teil eines globalen Netzwerks mit 243 Städten und 114.000+ Mitgliedern. Drei-Stunden-Meetups mit Live-Demos von lokalen Buildern, die funktionierende Prototypen, Architektur-Lektionen und praktische Demos zeigen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-30",
     "id": "4867edb863b0a225"
   },
   {
@@ -663,20 +663,6 @@
     "id": "216d5e94062d17a7"
   },
   {
-    "title": "IFA 2026",
-    "date": "2026-09-04",
-    "venue": "Berlin",
-    "url": "https://kibuzzer.com/events.html",
-    "source": "kibuzzer.com",
-    "description": "Major consumer electronics and technology trade show where AI plays a central role in smart devices, software and new applications.",
-    "title_local": "IFA 2026",
-    "description_local": "KI spielt eine zentrale Rolle bei Smart Devices, Software und neuen Anwendungen.",
-    "city": "berlin",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "id": "35e66e82f76f77e6"
-  },
-  {
     "title": "BERLIN QUANTUM BBQ September 2026",
     "date": "2026-09-08",
     "venue": "Berlin, Germany",
@@ -687,7 +673,7 @@
     "description_local": "Offene Networking-Veranstaltung, die die Quantum-Community zusammenbringt, darunter Studierende, Gründer, Wissenschaftler sowie technisch und nicht-technisch Interessierte. Entwickelt, um den Austausch von Meinungen und Ideen im Quantenbereich zu fördern, richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
     "id": "cb6443b487d22397"
   },
   {
@@ -913,6 +899,48 @@
     "id": "af7769f167286697"
   },
   {
+    "title": "KI Festival 2026",
+    "date": "2026-09-27",
+    "venue": "Berlin",
+    "url": "https://kibuzzer.com/events.html",
+    "source": "KI Buzzer",
+    "description": "Festival creating a space where people of all ages can experience, try out and reflect on artificial intelligence. Brings together practice, research, art and education. Features over 50 exhibitors, 40+ speakers and 20 workshops covering innovative AI applications from research, startups to society and ethics. Complemented by art, interactive performances, music, sport and yoga sessions.",
+    "title_local": "KI Festival 2026",
+    "description_local": "Festival, das einen Raum schafft, in dem Menschen aller Altersgruppen Künstliche Intelligenz erleben, ausprobieren und reflektieren können. Bringt Praxis, Forschung, Kunst und Bildung zusammen mit über 50 Ausstellern, 40+ Speakern und 20 Workshops.",
+    "city": "berlin",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-07-30",
+    "id": "35e66e82f76f77e6"
+  },
+  {
+    "title": "AI Infrastructure Summit",
+    "date": "2026-09-28",
+    "venue": "Berlin",
+    "url": "https://conferenceindex.org/event/ai-infrastructure-summit-2026-september-berlin-de",
+    "source": "Conference Index",
+    "description": "Summit focused on optimal infrastructure for productive and scalable deployment of AI applications, covering multi-cloud architectures, storage architecture, observability, security, edge deployments, AgentOps and inference optimization with over 500 AI & IT infrastructure specialists.",
+    "title_local": "AI Infrastructure Summit",
+    "description_local": "Die optimale Infrastruktur für den produktiven und skalierbaren Einsatz von verschiedensten AI Anwendungen steht im Mittelpunkt des AI Infrastructure Summit – diskutieren Sie mit mehr als 500 AI & IT Infrastructure Spezialisten über die neuesten Entwicklungen, technologische Lösungen und praktische Use Cases.",
+    "city": "berlin",
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "id": "b83034415a1dc426"
+  },
+  {
+    "title": "Enterprise AI Summit",
+    "date": "2026-09-28",
+    "venue": "Berlin",
+    "url": "https://conferenceindex.org/event/enterprise-ai-summit-2026-september-berlin-de",
+    "source": "Conference Index",
+    "description": "Use case event bringing together 100+ data scientists, machine learning experts and AI specialists to discuss concrete applications of AI and machine learning, covering applied AI, ML platforms, deep learning, NLP, MLOps and more.",
+    "title_local": "Enterprise AI Summit",
+    "description_local": "Der Enterprise AI Summit thematisiert explizit konkrete Anwendungsfälle zum praktischen Einsatz von Artificial Intelligence und Machine Learning. Das Use Case Event bringt mehr als 100 Data Scientists, Machine Learning Experten und AI Spezialisten zusammen.",
+    "city": "berlin",
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "id": "a6f8f261d6c648f4"
+  },
+  {
     "title": "Enterprise AI Summit Berlin",
     "date": "2026-09-28",
     "venue": "Maritim proArte Hotel Berlin, Friedrichstraße 151, 10117 Berlin",
@@ -937,7 +965,7 @@
     "description_local": "Dreitägige Veranstaltung (12.–14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Kern-KI-Themen einschließlich Robotik und autonome Systeme, Klimawissenschaftsanwendungen, MLOps und skalierbare Bereitstellung, vertrauenswürdige KI, Hochleistungsrechnen und energieeffiziente KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
     "id": "15932057c4239dba"
   },
   {
@@ -969,17 +997,17 @@
     "id": "eb5a7368a399d5e4"
   },
   {
-    "title": "Future Technologies Conference (FTC)",
+    "title": "Future Technologies Conference (FTC) 2026",
     "date": "2026-10-15",
-    "venue": "Berlin, Germany",
+    "venue": "Berlin",
     "url": "https://conferenceindex.org/conferences/artificial-intelligence/germany",
     "source": "Conference Index",
-    "description": "Conference focused on future technologies including artificial intelligence, machine learning, and emerging tech innovations.",
-    "title_local": "Konferenz für Zukunftstechnologien (FTC)",
-    "description_local": "Konferenz mit Schwerpunkt auf Zukunftstechnologien einschließlich künstlicher Intelligenz, maschinellem Lernen und aufkommenden Tech-Innovationen.",
+    "description": "Leading international technology conference bringing together researchers, academics, and industry innovators to examine the technologies shaping the coming decade.",
+    "title_local": "Future Technologies Conference (FTC) 2026",
+    "description_local": "Führende internationale Technologiekonferenz, die Forscher, Akademiker und Brancheninnovatoren zusammenbringt, um die Technologien zu untersuchen, die das kommende Jahrzehnt prägen werden.",
     "city": "berlin",
     "first_seen": "2026-07-11",
-    "last_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
     "id": "4f3312e04d02f54a"
   },
   {
@@ -1033,7 +1061,7 @@
     "description_local": "16.-20. November 2026. Die Veranstaltung für Generative AI & Machine Learning Engineering. Mit expertengeleiteten Workshops, Keynotes und Networking mit führenden ML-Profis. Themen: Generative AI & Agents, MLOps & LLMOps, ML & Deep Learning, KI-Strategie & Governance.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
     "id": "9a05b37a144a341e"
   },
   {
