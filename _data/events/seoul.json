@@ -530,6 +530,20 @@
     "id": "b959ffe7c54f58c1"
   },
   {
+    "title": "Seoul AI Policy Conference 2026",
+    "date": "2026-08-02",
+    "venue": "Seoul (venue TBD)",
+    "url": "https://event-us.kr/saipcon/event/126973",
+    "source": "EventUs",
+    "description": "Conference discussing AI governance issues and future directions across education, finance, security, human rights and other sectors in the era of AI agents.",
+    "title_local": "Seoul AI Policy Conference 2026",
+    "description_local": "AI 에이전트 시대를 맞아 교육·금융·안보·인권 등 다양한 분야의 AI 거버넌스 이슈와 미래 방향을 논의하는 컨퍼런스.",
+    "city": "seoul",
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-02",
+    "id": "9a713e0f691c4c88"
+  },
+  {
     "title": "International Conference on Legal and Regulatory Frameworks in Artificial Intelligence (ICLRFAI)",
     "date": "2026-08-04",
     "venue": "Seoul, South Korea",
@@ -720,6 +734,20 @@
     "id": "59e4e7f5f7f20e2e"
   },
   {
+    "title": "International Conference on Advanced Research in Artificial Intelligence and Deep Learning (ICARAIDL)",
+    "date": "2026-10-07",
+    "venue": "Seoul",
+    "url": "https://www.allconferencealert.com/seoul/ai/october",
+    "source": "All Conference Alert",
+    "description": "Academic conference focusing on advanced research in artificial intelligence and deep learning, bringing together researchers, academics and industry professionals to share latest findings and innovations.",
+    "title_local": "인공지능 및 딥러닝 고급 연구 국제 컨퍼런스",
+    "description_local": "인공지능과 딥러닝의 고급 연구에 초점을 맞춘 학술 회의로, 연구자, 학계 및 산업 전문가들이 최신 연구 결과와 혁신을 공유.",
+    "city": "seoul",
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-02",
+    "id": "bcb0a36139231a15"
+  },
+  {
     "title": "Smart Tech Korea 2026 (STK 2026) - AI & Big Data Show",
     "date": "2026-10-13",
     "venue": "COEX, Seoul",
@@ -772,7 +800,7 @@
     "description_local": "혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 다루는 인공지능 및 머신러닝 주요 국제 컨퍼런스. 전문가 세션, 기조연설 및 네트워킹 기회.",
     "city": "seoul",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-08-01",
+    "last_seen": "2026-08-02",
     "id": "bab02a8c2371d732"
   },
   {
