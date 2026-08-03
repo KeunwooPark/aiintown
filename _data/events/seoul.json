@@ -554,7 +554,7 @@
     "description_local": "AI의 법적 및 규제 측면에 초점을 맞춘 컨퍼런스입니다. AI 거버넌스, 윤리, 정책 프레임워크 및 규정 준수를 다룹니다.",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-01",
+    "last_seen": "2026-08-03",
     "id": "98dd8b906bab4381"
   },
   {
@@ -650,6 +650,20 @@
     "first_seen": "2026-06-30",
     "last_seen": "2026-06-30",
     "id": "20a061d1129d5b42"
+  },
+  {
+    "title": "International Conference on Computer Science, Cybersecurity and Information Technology (ICCSCIT)",
+    "title_local": "국제 컴퓨터과학, 사이버보안 및 정보기술 컨퍼런스",
+    "date": "2026-09-16",
+    "venue": "Seoul, Republic of Korea",
+    "url": "https://conferenceindex.org/conferences/machine-learning/seoul-kr",
+    "source": "conferenceindex.org",
+    "description": "International conference covering computer science, cybersecurity and information technology with machine learning focus.",
+    "description_local": "머신러닝을 포함한 컴퓨터과학, 사이버보안 및 정보기술 국제 컨퍼런스.",
+    "city": "seoul",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "id": "94ccce9b8532c79a"
   },
   {
     "title": "International Conference on Computing and Information Technology (ICCIT)",
@@ -800,7 +814,7 @@
     "description_local": "혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 다루는 인공지능 및 머신러닝 주요 국제 컨퍼런스. 전문가 세션, 기조연설 및 네트워킹 기회.",
     "city": "seoul",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-08-02",
+    "last_seen": "2026-08-03",
     "id": "bab02a8c2371d732"
   },
   {

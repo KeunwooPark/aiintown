@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-18",
+    "last_seen": "2026-08-03",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-31"
+    "last_seen": "2026-08-03"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-31",
+    "last_seen": "2026-08-03",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -593,6 +593,20 @@
     "id": "7652492edd459f82"
   },
   {
+    "title": "🎫 Mobile.de & Miro: A Night with Christian Idiodi (SVPG Group)",
+    "date": "2026-08-13",
+    "venue": "TBD, Berlin",
+    "url": "https://luma.com/4n0irfhh",
+    "source": "luma.com",
+    "description": "Evening event with Christian Idiodi from SVPG discussing how generative AI is impacting product development. Covers how AI is changing product team roles, product discovery, and product delivery. Part of Productlab Europe's community events.",
+    "title_local": "🎫 Mobile.de & Miro: Ein Abend mit Christian Idiodi (SVPG Group)",
+    "description_local": "Abendveranstaltung mit Christian Idiodi von SVPG, der diskutiert, wie generative KI die Produktentwicklung beeinflusst. Behandelt, wie KI die Rollen im Produktteam, Product Discovery und Product Delivery verändert.",
+    "city": "berlin",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "id": "e341c1f91b5ab103"
+  },
+  {
     "title": "Health-IT Talk: KI-gestütztes Wissensmanagement in der Praxis",
     "date": "2026-08-15",
     "venue": "TMF e.V., Berlin",
@@ -621,6 +635,20 @@
     "id": "cf58c49bd5db14a1"
   },
   {
+    "title": "AI Tinkerers Berlin - August 22",
+    "date": "2026-08-22",
+    "venue": "Merantix AI Campus, Berlin",
+    "url": "https://berlin.aitinkerers.org/p/ai-tinkerers-berlin-august-22",
+    "source": "berlin.aitinkerers.org",
+    "description": "Meetup exclusively for practitioners with technical, machine learning, and entrepreneurial backgrounds actively building with foundation models and generative AI. Features real-time voice processing systems, end-to-end LLM product development, and live demos.",
+    "title_local": "AI Tinkerers Berlin - 22. August",
+    "description_local": "Meetup exklusiv für Praktiker mit technischem, maschinellem Lernen und unternehmerischem Hintergrund, die aktiv mit Foundation Models und generativer KI arbeiten. Präsentiert Echtzeit-Sprachverarbeitungssysteme, End-to-End-LLM-Produktentwicklung und Live-Demos.",
+    "city": "berlin",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "id": "9ddf8dfb166f9936"
+  },
+  {
     "title": "AI Builders Monthly Berlin",
     "date": "2026-08-26",
     "venue": "Berlin",
@@ -633,6 +661,20 @@
     "first_seen": "2026-07-02",
     "last_seen": "2026-07-02",
     "id": "75f871879fb580de"
+  },
+  {
+    "title": "Next Banking Summit 2026",
+    "date": "2026-08-26",
+    "venue": "Saarbrücker Str. 36A, 10405 Berlin",
+    "url": "https://luma.com/next-banking-summit-2026",
+    "source": "luma.com",
+    "description": "Summit exploring where AI, BaaS consolidation, and financial stack control are heading. Brings together 200+ executives, CTOs, CPOs, and founders building, regulating, and scaling in fintech. Features morning keynotes, afternoon masterclasses (30 people max), and campus festival.",
+    "title_local": "Next Banking Summit 2026",
+    "description_local": "Gipfeltreffen, das untersucht, wohin KI, BaaS-Konsolidierung und Kontrolle des Finanz-Stacks führen. Bringt 200+ Führungskräfte, CTOs, CPOs und Gründer zusammen, die im Fintech-Bereich bauen, regulieren und skalieren.",
+    "city": "berlin",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "id": "200b26fb6ac64e9d"
   },
   {
     "title": "Next-Gen Engineering: Innovation in Autonomous Mobility, Digital Manufacturing & Electronics (NG-EAME)",
@@ -673,7 +715,7 @@
     "description_local": "Offene Networking-Veranstaltung, die die Quantum-Community zusammenbringt, darunter Studierende, Gründer, Wissenschaftler sowie technisch und nicht-technisch Interessierte. Entwickelt, um den Austausch von Meinungen und Ideen im Quantenbereich zu fördern, richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-02",
+    "last_seen": "2026-08-03",
     "id": "cb6443b487d22397"
   },
   {
