@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-03"
+    "last_seen": "2026-08-04"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-03",
+    "last_seen": "2026-08-04",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -364,7 +364,7 @@
     "description_local": "Unter dem Motto 'Connected Intelligence' untersucht dieses Meetup graph-basiertes Reasoning, Constraint Satisfaction, agentische Code-Reviews, KI-gestützte Entwicklungsworkflows und Javas sich entwickelnde Rolle in KI-Systemen. Der Abend umfasst Vorträge von Andreas Kollegger (Director of GenAI, Neo4j), Charles Francoise (Staff Software Engineer, CircleCI) und Ana Maria Mihalceanu (Java Champion Alumni & Developer Advocate, Oracle). Außerdem gibt es ein Panel zu 'Agentic AI in the Wild'. Keine Verkaufspräsentationen - nur praktische Lektionen aus Systemen, die in Produktion laufen. Zeitplan: 17:00 Einlass, 17:30 Begrüßung, Vorträge und Panel, Essen & Networking.",
     "city": "berlin",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-07-29",
+    "last_seen": "2026-08-04",
     "id": "4e17ef04ab5077b4"
   },
   {
@@ -392,7 +392,7 @@
     "description_local": "Besuchen Sie das Berlin KI-Meetup im betahaus am Moritzplatz für einen Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten. Derek Footer von XTR.Capital wird eine Keynote darüber halten, 'Wie Sie Ihr Startup auf die erste Finanzierungsrunde vorbereiten'. Demos umfassen One Ware (Physical AI für autonome Drohnen und Qualitätskontrolle) und Civic (die Berechtigungsebene für KI-Agenten). Egal, ob Sie ein Befürworter oder Kritiker sind, Ihre Perspektive ist wichtig.",
     "city": "berlin",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-08-02",
+    "last_seen": "2026-08-04",
     "id": "e3b46ef72cefd6d1"
   },
   {
@@ -420,7 +420,7 @@
     "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die industriereife LLMs und generative KI aufbauen. Fokussierte KI-Builder-Veranstaltung mit Hunderten von Pionier-Ingenieuren, Entwicklern und Führungskräften.",
     "city": "berlin",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-29",
+    "last_seen": "2026-08-04",
     "id": "51113d0f9d43e4b6"
   },
   {
@@ -546,7 +546,7 @@
     "description_local": "Internationale wissenschaftliche Konferenz zu Forschungsentwicklungen, praktischen Anwendungen und zukünftigen Trends in Künstlicher Intelligenz und maschinellem Lernen. Mit Expertensitzungen, Hauptvorträgen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-08-02",
+    "last_seen": "2026-08-04",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -701,7 +701,7 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-02",
+    "last_seen": "2026-08-04",
     "id": "216d5e94062d17a7"
   },
   {
@@ -927,17 +927,17 @@
     "id": "e6d91fb992fa1f82"
   },
   {
-    "title": "AI Builders Berlin",
+    "title": "AI Builders Berlin (September)",
     "date": "2026-09-22",
     "venue": "Aethos",
     "url": "https://www.eventbrite.com/e/ai-builders-berlin-tickets-1994009244327",
-    "source": "Eventbrite",
-    "description": "A meetup for AI builders and practitioners to discuss and showcase LLM projects, agents, embeddings, RAG, MCPs, inference, structured output, finetuning, APIs, and reinforcement learning. Technical focus with food and networking.",
-    "title_local": "AI Builders Berlin",
-    "description_local": "Ein Meetup für KI-Entwickler und Praktiker, um LLM-Projekte, Agenten, Embeddings, RAG, MCPs, Inferenz, strukturierte Ausgabe, Finetuning, APIs und Reinforcement Learning zu diskutieren und zu präsentieren.",
+    "source": "eventbrite.com",
+    "description": "Monthly informal meetup for AI practitioners. Part of AI Builders Club nonprofit community of 3000+ pioneers in LLMs & applied AI development. Technical focus on LLM concepts: Agents, Embeddings, RAG, MCPs, Inference, Structured Output, Finetuning.",
+    "title_local": "AI Builders Berlin (September)",
+    "description_local": "Monatliches informelles Meetup für KI-Praktiker. Technischer Fokus auf LLM-Konzepte: Agents, Embeddings, RAG, MCPs, Inference, Structured Output, Finetuning.",
     "city": "berlin",
     "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
+    "last_seen": "2026-08-04",
     "id": "8155de3eb1e5979d"
   },
   {
@@ -1063,7 +1063,7 @@
     "description_local": "Dreitägige Veranstaltung (12.-14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben'. Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, Klimawissenschaft, MLOps, vertrauenswürdiger KI, High-Performance-Computing und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-29",
+    "last_seen": "2026-08-04",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1318,8 +1318,23 @@
     "city": "berlin",
     "date_status": "unknown",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-08-04",
     "id": "786e4230a7cdc8a4"
+  },
+  {
+    "title": "Berlin AI",
+    "date": null,
+    "venue": "TBA",
+    "url": "https://www.meetup.com/berlinai/",
+    "source": "meetup.com",
+    "description": "Community for people who build, apply, and actively use AI in real life. Brings together engineers, AI practitioners, founders, product leaders, operators, investors, and creative technologists. Features practical talks, real-world use cases, technical deep dives. Hosted by Kim Ngan Le Dang, Harshil Agrawa, Tejas Kumar and Bhargav Venkatesh Babu.",
+    "title_local": "Berlin AI",
+    "description_local": "Community für Menschen, die KI im echten Leben bauen, anwenden und aktiv nutzen. Vereint Ingenieure, KI-Praktiker, Gründer, Produktverantwortliche, Betreiber, Investoren und kreative Technologen.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04",
+    "id": "c927338a65708751"
   },
   {
     "title": "Berlin AI Machine Learning and Computer Vision Meetup",
@@ -1350,21 +1365,6 @@
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
     "id": "d2e4230b350e644f"
-  },
-  {
-    "title": "Berlin AI Meetup (meetupai Berlin)",
-    "date": null,
-    "venue": "Revaler Str. 31, Berlin",
-    "url": "https://www.meetup.com/meetupai-berlin/",
-    "source": "Meetup",
-    "description": "Regular community meetup bringing speakers from various industries to discuss code implementations of AI and economical, social and ethical aspects. Open environment for knowledge exchange, networking and community building.",
-    "title_local": "Berlin AI Meetup (meetupai Berlin)",
-    "description_local": "Regelmäßiges Community-Meetup mit Speakern aus verschiedenen Branchen zu Code-Implementierungen von KI sowie wirtschaftlichen, sozialen und ethischen Aspekten. Offenes Umfeld für Wissensaustausch und Vernetzung.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
-    "id": "2ac2b4827290e015"
   },
   {
     "title": "Berlin DataTalksClub - Agentic AI Engineering",
@@ -1485,5 +1485,20 @@
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
     "id": "9895b7d7199d8413"
+  },
+  {
+    "title": "meetup ai [Berlin]",
+    "date": null,
+    "venue": "Revaler Str. 31, Berlin",
+    "url": "https://www.meetup.com/meetupai-berlin/",
+    "source": "meetup.com",
+    "description": "Open conversation about Artificial Intelligence. Speakers from various industries with different experiences and backgrounds touching on code implementations of AI and economical, social and ethical aspects. Open environment for people to connect, find inspiration.",
+    "title_local": "meetup ai [Berlin]",
+    "description_local": "Offenes Gespräch über Künstliche Intelligenz. Redner aus verschiedenen Branchen mit unterschiedlichen Erfahrungen und Hintergründen, die Code-Implementierungen von KI und wirtschaftliche, soziale und ethische Aspekte ansprechen.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-08-04",
+    "id": "2ac2b4827290e015"
   }
 ]
