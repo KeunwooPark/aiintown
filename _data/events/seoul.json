@@ -804,17 +804,17 @@
     "id": "98f6cb8894011367"
   },
   {
-    "title": "International Conference on Artificial Intelligence and Machine Learning (ICAIML)",
-    "date": "2026-12-28",
-    "venue": "Seoul, South Korea",
+    "title": "International Conference on Machine Learning and Chat GPT (ICMLCG)",
+    "date": "2026-12-26",
+    "venue": "Seoul",
     "url": "https://www.allconferencealert.com/seoul/ai",
-    "source": "All Conference Alert",
-    "description": "Major international conference on artificial intelligence and machine learning covering innovation, research developments, practical applications, and future trends. Expert sessions, keynote presentations, and networking opportunities.",
-    "title_local": "인공지능 및 머신러닝 국제 컨퍼런스",
-    "description_local": "혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 다루는 인공지능 및 머신러닝 주요 국제 컨퍼런스. 전문가 세션, 기조연설 및 네트워킹 기회.",
+    "source": "https://www.allconferencealert.com/seoul/ai",
+    "description": "International Conference on Machine Learning and Chat GPT, scheduled for December 26, 2026 in Seoul. The conference covers AI themes including innovation, research developments, practical applications, and future trends with expert sessions, keynote presentations, workshops, and networking opportunities with global participants.",
+    "title_local": "국제 머신러닝 및 Chat GPT 컨퍼런스 (ICMLCG)",
+    "description_local": "2026년 12월 26일 서울에서 예정된 국제 머신러닝 및 Chat GPT 컨퍼런스입니다. 이 컨퍼런스는 혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 AI 주제를 다루며 전문가 세션, 기조 연설, 워크샵 및 글로벌 참가자와의 네트워킹 기회를 제공합니다.",
     "city": "seoul",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-08-04",
+    "last_seen": "2026-08-05",
     "id": "bab02a8c2371d732"
   },
   {
@@ -830,6 +830,21 @@
     "first_seen": "2026-07-20",
     "last_seen": "2026-07-20",
     "id": "e86fd1bf673090e9"
+  },
+  {
+    "title": "AI Tinkerers Seoul Meetup",
+    "date": null,
+    "venue": "Seoul",
+    "url": "https://seoul.aitinkerers.org/",
+    "source": "https://seoul.aitinkerers.org/",
+    "description": "AI Tinkerers Seoul hosts meetups, talks, and builder demos for the local AI community. Built for engineers, founders, researchers, product builders, and developers working on AI agents, multimodal and voice interfaces, RAG and knowledge systems, AI coding tools, workflow automation, evals, observability, and production AI infrastructure. The Seoul chapter is part of a 252-city global network with 120,000+ members. Each meetup runs about three hours with live demos from local builders, technical Q&A, and networking. Most chapters run monthly.",
+    "title_local": "AI Tinkerers Seoul 밋업",
+    "description_local": "AI Tinkerers Seoul은 지역 AI 커뮤니티를 위한 밋업, 토크, 빌더 데모를 개최합니다. AI 에이전트, 멀티모달 및 음성 인터페이스, RAG 및 지식 시스템, AI 코딩 도구, 워크플로우 자동화, 평가, 관찰성 및 프로덕션 AI 인프라에 종사하는 엔지니어, 창업자, 연구원, 제품 빌더 및 개발자를 위해 구축되었습니다. 서울 챕터는 120,000명 이상의 회원을 보유한 252개 도시 글로벌 네트워크의 일부입니다.",
+    "city": "seoul",
+    "date_status": "unknown",
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "id": "e05542a7457ed01f"
   },
   {
     "title": "AI/ML DeepLearning Meetup in Seoul",

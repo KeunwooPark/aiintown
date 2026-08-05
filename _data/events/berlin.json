@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-04"
+    "last_seen": "2026-08-05"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-04",
+    "last_seen": "2026-08-05",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -701,7 +701,7 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-04",
+    "last_seen": "2026-08-05",
     "id": "216d5e94062d17a7"
   },
   {
@@ -731,6 +731,20 @@
     "first_seen": "2026-06-28",
     "last_seen": "2026-07-18",
     "id": "1f350ba6aefcfe3b"
+  },
+  {
+    "title": "Merantix DevDay 2026",
+    "date": "2026-09-10",
+    "venue": "AI Campus Berlin",
+    "url": "https://www.merantix-aicampus.com/event/merantix-devday-2026",
+    "source": "Merantix AI Campus",
+    "description": "Every year, Merantix DevDay brings together the engineers, researchers, and applied scientists at the frontier of AI research and development, building and engineering the best products for production. It has become the event where the field takes stock of the latest advances, what works best, what scales, and what's next. Merantix DevDay brings talks, technical deep dives, and hands-on sessions covering the full stack: new architectures and training methods, evaluation and benchmarking, AI-native development workflows, and what it actually takes to deploy AI under real constraints.",
+    "title_local": "Merantix DevDay 2026",
+    "description_local": "Jedes Jahr bringt der Merantix DevDay die Ingenieure, Forscher und angewandten Wissenschaftler an der Front der KI-Forschung und -Entwicklung zusammen, die die besten Produkte für die Produktion bauen und entwickeln. Es ist zu der Veranstaltung geworden, bei der das Feld die neuesten Fortschritte, was am besten funktioniert, was skaliert und was als nächstes kommt, bilanziert. Merantix DevDay bietet Vorträge, technische Deep Dives und praktische Sessions, die den gesamten Stack abdecken: neue Architekturen und Trainingsmethoden, Evaluierung und Benchmarking, KI-native Entwicklungsworkflows und was es tatsächlich braucht, um KI unter realen Einschränkungen einzusetzen.",
+    "city": "berlin",
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "id": "efde08f699b9b4d3"
   },
   {
     "title": "Signals Berlin 2026",
