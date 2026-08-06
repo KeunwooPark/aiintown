@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-05"
+    "last_seen": "2026-08-06"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -607,6 +607,20 @@
     "id": "e341c1f91b5ab103"
   },
   {
+    "title": "Digital Minds Research Sprint 2026 - Berlin",
+    "date": "2026-08-14",
+    "venue": "Foresight Node, CIC Berlin",
+    "url": "https://luma.com/digital-minds-research-sprint-2026-berlin",
+    "source": "Luma, Apart Research",
+    "description": "AI research sprint and hackathon focused on digital minds, hosted by Apart Research. A Berlin hub for cozy collaboration within a global digital event with 500+ online participants. Features mentor presentations, lightning talks, and team-based research projects.",
+    "title_local": "Digital Minds Research Sprint 2026 - Berlin",
+    "description_local": "AI-Forschungssprint und Hackathon mit Fokus auf digitale Intelligenz, veranstaltet von Apart Research. Ein Berliner Hub für gemütliche Zusammenarbeit innerhalb einer globalen digitalen Veranstaltung mit mehr als 500 Online-Teilnehmern. Mit Mentorenpräsentationen, Lightning Talks und teambasierten Forschungsprojekten.",
+    "city": "berlin",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "id": "b8c77dc75bb8bca7"
+  },
+  {
     "title": "Health-IT Talk: KI-gestütztes Wissensmanagement in der Praxis",
     "date": "2026-08-15",
     "venue": "TMF e.V., Berlin",
@@ -647,6 +661,20 @@
     "first_seen": "2026-08-03",
     "last_seen": "2026-08-03",
     "id": "9ddf8dfb166f9936"
+  },
+  {
+    "title": "KI Festival Heilbronn (IPAI)",
+    "date": "2026-08-25",
+    "venue": "Zukunftspark Wohlgelegen, Heilbronn (outside Berlin)",
+    "url": "https://plattformki.de/events/",
+    "source": "PlattformKI",
+    "description": "Germany's largest public AI festival with talks, workshops, experience worlds, and practical examples around human-centered AI. Note: This event is in Heilbronn, not Berlin.",
+    "title_local": "KI Festival Heilbronn (IPAI)",
+    "description_local": "Deutschlands größtes öffentliches KI-Festival mit Vorträgen, Workshops, Erlebniswelten und Praxisbeispielen rund um menschenzentrierte KI. Hinweis: Diese Veranstaltung findet in Heilbronn statt, nicht in Berlin.",
+    "city": "berlin",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "id": "8b3c9c9cca44171d"
   },
   {
     "title": "AI Builders Monthly Berlin",
@@ -701,7 +729,7 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-05",
+    "last_seen": "2026-08-06",
     "id": "216d5e94062d17a7"
   },
   {
@@ -729,7 +757,7 @@
     "description_local": "Veranstaltung, die Einblicke in aktuelle Entwicklungen und praktische Anwendungsfelder Künstlicher Intelligenz bietet. 10. September 2026. Fokus auf praktische KI-Anwendungen.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-07-18",
+    "last_seen": "2026-08-06",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -951,7 +979,7 @@
     "description_local": "Monatliches informelles Meetup für KI-Praktiker. Technischer Fokus auf LLM-Konzepte: Agents, Embeddings, RAG, MCPs, Inference, Structured Output, Finetuning.",
     "city": "berlin",
     "first_seen": "2026-08-01",
-    "last_seen": "2026-08-04",
+    "last_seen": "2026-08-06",
     "id": "8155de3eb1e5979d"
   },
   {
@@ -993,7 +1021,7 @@
     "description_local": "Festival, das einen Raum schafft, in dem Menschen aller Altersgruppen Künstliche Intelligenz erleben, ausprobieren und reflektieren können. Bringt Praxis, Forschung, Kunst und Bildung zusammen mit über 50 Ausstellern, 40+ Speakern und 20 Workshops.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-07-30",
+    "last_seen": "2026-08-06",
     "id": "35e66e82f76f77e6"
   },
   {

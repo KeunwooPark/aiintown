@@ -676,7 +676,7 @@
     "description_local": "컴퓨팅 및 정보 기술에 관한 국제 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-16",
+    "last_seen": "2026-08-06",
     "id": "07dcb56d833f6ee7"
   },
   {
@@ -814,7 +814,7 @@
     "description_local": "2026년 12월 26일 서울에서 예정된 국제 머신러닝 및 Chat GPT 컨퍼런스입니다. 이 컨퍼런스는 혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 AI 주제를 다루며 전문가 세션, 기조 연설, 워크샵 및 글로벌 참가자와의 네트워킹 기회를 제공합니다.",
     "city": "seoul",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-08-05",
+    "last_seen": "2026-08-06",
     "id": "bab02a8c2371d732"
   },
   {
@@ -875,6 +875,21 @@
     "first_seen": "2026-07-21",
     "last_seen": "2026-07-21",
     "id": "00cd53ecb2768c6e"
+  },
+  {
+    "title": "Seoul AI Meetup",
+    "date": null,
+    "venue": "Seoul (various locations)",
+    "url": "https://www.meetup.com/seoul-ai-creators/",
+    "source": "Meetup.com",
+    "description": "Community meetup for AI professionals, developers, and tech-savvy users focused on advanced AI applications and innovations. Features in-depth discussions, hands-on demos, and collaborative sessions.",
+    "title_local": "서울 AI 밋업",
+    "description_local": "AI 전문가, 개발자 및 기술 사용자를 위한 커뮤니티 밋업으로 고급 AI 애플리케이션과 혁신에 초점을 맞춥니다.",
+    "city": "seoul",
+    "date_status": "unknown",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "id": "e3e94f152efeeabc"
   },
   {
     "title": "Seoul Tech Mixer and Social (Tech / AI / Data / IT)",
