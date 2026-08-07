@@ -420,7 +420,7 @@
     "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die industriereife LLMs und generative KI aufbauen. Fokussierte KI-Builder-Veranstaltung mit Hunderten von Pionier-Ingenieuren, Entwicklern und Führungskräften.",
     "city": "berlin",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-08-04",
+    "last_seen": "2026-08-07",
     "id": "51113d0f9d43e4b6"
   },
   {
@@ -478,20 +478,6 @@
     "first_seen": "2026-07-10",
     "last_seen": "2026-07-10",
     "id": "17b6c7bd9030c94c"
-  },
-  {
-    "title": "International Conference on Machine Learning and Cybernetics (ICMLC)",
-    "date": "2026-07-22",
-    "venue": "Berlin",
-    "url": "https://conferenceindex.org/conferences/machine-learning/germany",
-    "source": "Conference Index",
-    "description": "International conference on machine learning and cybersecurity topics in Berlin.",
-    "title_local": "Internationale Konferenz zu Machine Learning und Cybersecurity (ICMLC)",
-    "description_local": "Internationale Konferenz zu Machine Learning und Cybersecurity-Themen in Berlin.",
-    "city": "berlin",
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "id": "45a59441ea9b4b47"
   },
   {
     "title": "AI Vibe Sprint Berlin - The Product Folks x Emergent",
@@ -705,6 +691,20 @@
     "id": "200b26fb6ac64e9d"
   },
   {
+    "title": "Smart Connect Event 2026 - Agentic Dialogue",
+    "date": "2026-08-27",
+    "venue": "Estrel Berlin",
+    "url": "https://www.itiko.de/artikel/2265029/das-smart-connect-event-am-27-august-2026-in-berlin.html",
+    "source": "itiko.de",
+    "description": "Event exploring how agentic AI is changing the exchange between organizations, stakeholders and society, with focus on practical implications for communication, collaboration and decision-making. Speakers from associations, companies, media and research including partners from dpa-infocom, news aktuell, Newsload, DFKI, and others.",
+    "title_local": "Smart Connect Event 2026 - Agentic Dialogue",
+    "description_local": "Wie verändert agentische KI den Austausch zwischen Organisationen, Stakeholdern und Gesellschaft? Unter dem Titel 'Agentic Dialogue' treffen Menschen aus Verbänden, Unternehmen, Medien und Forschung aufeinander. Im Mittelpunkt steht dabei nicht die nächste große KI-These, sondern die Frage, was die aktuellen Entwicklungen für die Praxis bedeuten.",
+    "city": "berlin",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
+    "id": "3126671482d79941"
+  },
+  {
     "title": "Next-Gen Engineering: Innovation in Autonomous Mobility, Digital Manufacturing & Electronics (NG-EAME)",
     "date": "2026-08-30",
     "venue": "Berlin, Germany",
@@ -729,7 +729,7 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-06",
+    "last_seen": "2026-08-07",
     "id": "216d5e94062d17a7"
   },
   {
@@ -1097,16 +1097,30 @@
   {
     "title": "Artificial Intelligence, Machine Learning & Data Science Conference Berlin",
     "date": "2026-10-12",
-    "venue": "Berlin, Germany",
+    "venue": "Berlin",
     "url": "https://www.createwith.com/cities/berlin",
-    "source": "CreateWith",
-    "description": "Three-day event (Oct 12-14, 2026) bringing together researchers, industry leaders and developers to explore latest advances in AI, ML, data analytics, and responsible automation. Theme: 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation'. Nearly thirty focused scientific sessions covering robotics, climate science, MLOps, trustworthy AI, high-performance computing, and multimodal AI.",
-    "title_local": "Konferenz zu Künstlicher Intelligenz, maschinellem Lernen und Data Science Berlin",
-    "description_local": "Dreitägige Veranstaltung (12.-14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben'. Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, Klimawissenschaft, MLOps, vertrauenswürdiger KI, High-Performance-Computing und multimodaler KI.",
+    "source": "createwith.com",
+    "description": "Three-day conference (Oct 12-14, 2026) bringing together researchers, industry leaders and developers to explore latest advances in AI, ML, data analytics, and responsible automation. Theme: 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation' with nearly thirty focused scientific sessions covering robotics, autonomous systems, climate science applications, MLOps, trustworthy AI, and multimodal AI.",
+    "title_local": "Konferenz für Künstliche Intelligenz, maschinelles Lernen und Datenwissenschaft Berlin",
+    "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) mit Forschern, Branchenführern und Entwicklern zu den neuesten Fortschritten in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung mit fast dreißig wissenschaftlichen Sessions zu Robotik, autonomen Systemen, Klimawissenschaft, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-04",
+    "last_seen": "2026-08-07",
     "id": "22c4be5ddc567872"
+  },
+  {
+    "title": "International Conference on Artificial Intelligence, Machine Learning & Data Science (AIML)",
+    "date": "2026-10-12",
+    "venue": "Berlin, Germany",
+    "url": "https://conferenceindex.org/conferences/machine-learning/germany",
+    "source": "conferenceindex.org",
+    "description": "International conference covering artificial intelligence, machine learning and data science topics.",
+    "title_local": "Internationale Konferenz für Künstliche Intelligenz, Maschinelles Lernen und Datenwissenschaft",
+    "description_local": "Internationale Konferenz zu Themen der künstlichen Intelligenz, des maschinellen Lernens und der Datenwissenschaft.",
+    "city": "berlin",
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-08-07",
+    "id": "45a59441ea9b4b47"
   },
   {
     "title": "International Conference on Artificial Intelligence, Machine Learning & Data Science (AIML)",
@@ -1221,15 +1235,15 @@
   {
     "title": "MLcon Berlin 2026",
     "date": "2026-11-16",
-    "venue": "Maritim ProArte Hotel Berlin, Friedrichstraße",
+    "venue": "Maritim ProArte Hotel Berlin",
     "url": "https://mlconference.ai/berlin/",
-    "source": "MLcon",
-    "description": "November 16-20, 2026 (previously listed as Nov 23-27). The event for Generative AI & Machine Learning Engineering. Features expert-led workshops, keynotes, and networking with leading ML professionals. Topics include Generative AI & Agents, MLOps & LLMOps, ML & Deep Learning, AI Strategy & Governance.",
+    "source": "mlconference.ai",
+    "description": "Major machine learning and generative AI conference (Nov 16-20, 2026) for ML technologies and innovations. Features workshops, keynotes, and sessions from industry experts covering topics like Model Context Protocol (MCP), agent orchestration, security, and practical ML engineering. Expo dates: Nov 18-19, 2026.",
     "title_local": "MLcon Berlin 2026",
-    "description_local": "16.-20. November 2026. Die Veranstaltung für Generative AI & Machine Learning Engineering. Mit expertengeleiteten Workshops, Keynotes und Networking mit führenden ML-Profis. Themen: Generative AI & Agents, MLOps & LLMOps, ML & Deep Learning, KI-Strategie & Governance.",
+    "description_local": "Große Konferenz für maschinelles Lernen und generative KI (16.-20. November 2026) für ML-Technologien und Innovationen mit Workshops, Keynotes und Sessions von Branchenexperten zu Themen wie Model Context Protocol, Agent-Orchestrierung, Sicherheit und praktisches ML-Engineering. Messe: 18.-19. November 2026.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-01",
+    "last_seen": "2026-08-07",
     "id": "9a05b37a144a341e"
   },
   {
