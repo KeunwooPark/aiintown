@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-06"
+    "last_seen": "2026-08-08"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -621,6 +621,20 @@
     "id": "cdd30d1150018cbb"
   },
   {
+    "title": "AI Builders Berlin - RAG & Agents Edition",
+    "date": "2026-08-18",
+    "venue": "Berlin (venue TBD)",
+    "url": "https://www.eventbrite.com/d/germany--berlin/free--science-and-tech--events/",
+    "source": "eventbrite.com",
+    "description": "AI Builders Berlin meetup focusing on Retrieval-Augmented Generation (RAG) and AI Agents. Practical hands-on event for builders working with AI technologies.",
+    "title_local": "AI Builders Berlin - RAG & Agents Edition",
+    "description_local": "AI Builders Berlin Meetup mit Fokus auf Retrieval-Augmented Generation (RAG) und KI-Agenten. Praktische Hands-on-Veranstaltung für Entwickler, die mit KI-Technologien arbeiten.",
+    "city": "berlin",
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "id": "9544c54836a1c46f"
+  },
+  {
     "title": "BLISS AI Speaker Series - Georgia Channing (HuggingFace): When Silicon Meets Carbon - Bringing Synthetic Biology to Life",
     "date": "2026-08-18",
     "venue": "Institut für Chemie, Technische Universität Berlin, Str. des 17. Juni 115, 10623 Berlin",
@@ -729,22 +743,22 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-07",
+    "last_seen": "2026-08-08",
     "id": "216d5e94062d17a7"
   },
   {
-    "title": "BERLIN QUANTUM BBQ September 2026",
+    "title": "KI-Landpartie",
     "date": "2026-09-08",
-    "venue": "Berlin, Germany",
-    "url": "https://www.berlin.de/deeptech/en/events/",
-    "source": "berlin.de",
-    "description": "Open networking event bringing together the quantum community including students, founders, scientists, and technically and non-technically interested individuals. Designed to foster exchange of opinions and ideas in the quantum field, aimed at a broad audience wanting to learn about quantum and the quantum community in Berlin.",
-    "title_local": "BERLIN QUANTUM BBQ September 2026",
-    "description_local": "Offene Networking-Veranstaltung, die die Quantum-Community zusammenbringt, darunter Studierende, Gründer, Wissenschaftler sowie technisch und nicht-technisch Interessierte. Entwickelt, um den Austausch von Meinungen und Ideen im Quantenbereich zu fördern, richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
+    "venue": "Berlin (venue TBD)",
+    "url": "https://berlinboxx.de/hauptstadtkalender/?event=83&category=wirtschaft",
+    "source": "berlinboxx.de",
+    "description": "Event offering insights into current developments and practical application fields of artificial intelligence. Focus on practical AI applications and use cases.",
+    "title_local": "KI-Landpartie",
+    "description_local": "Die KI-Landpartie bietet Einblicke in aktuelle Entwicklungen und praktische Anwendungsfelder Künstlicher Intelligenz. Fokus auf praktische KI-Anwendungen und Use Cases.",
     "city": "berlin",
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-08-03",
-    "id": "cb6443b487d22397"
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "id": "c50a32de77fa87a4"
   },
   {
     "title": "KI-Landpartie",
@@ -808,12 +822,12 @@
     "venue": "Hagelberger Str., Berlin",
     "url": "https://luma.com/4iynrnaf",
     "source": "luma.com",
-    "description": "Leadership festival focused on AI transformation, balancing technology and humanity. For CEOs, executives, CHROs, and people leaders addressing KI decision-making, team transformation, and business model development. 200 participants with no presentations, real conversations.",
+    "description": "Festival for CEOs, Executives, CHROs and People Leaders who take responsibility and want to actively shape the future of their company. The Art of Balancing Code & Culture focuses on the art of keeping technology and humanity in balance. Code stands for AI, automation and digital networking. Culture stands for people, trust and leadership. 200 seats. No frontal presentation. No ready-made answers. Real conversation with 200 people who face the same questions.",
     "title_local": "TAM Leadership Festival 2026 - The Art of Balancing Code & Culture",
-    "description_local": "Leadership Festival mit Fokus auf KI-Transformation, Balance zwischen Technologie und Menschlichkeit. Für CEOs, Executives, CHROs und People Leaders, die KI-Entscheidungen, Team-Transformation und Geschäftsmodellentwicklung adressieren. 200 Teilnehmer ohne Frontalvorträge, echte Konversationen.",
+    "description_local": "Festival für CEOs, Executives, CHROs und People Leaders die Verantwortung tragen und die Zukunft ihres Unternehmens aktiv gestalten wollen. The Art of Balancing Code & Culture steht für die Kunst, Technologie und Menschlichkeit in Balance zu halten. Code steht für KI, Automatisierung und digitale Vernetzung. Culture steht für Menschen, Vertrauen und Leadership. 200 Plätze. Kein Frontalvortrag. Keine fertigen Antworten. Echte Konversation mit 200 Menschen die vor denselben Fragen stehen.",
     "city": "berlin",
     "first_seen": "2026-07-21",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-08-08",
     "id": "5b165a1f3e5a80ac"
   },
   {
@@ -1081,6 +1095,20 @@
     "id": "7157d5749c55289f"
   },
   {
+    "title": "BERLIN QUANTUM BBQ October 2026",
+    "date": "2026-10-06",
+    "venue": "Berlin (venue TBD)",
+    "url": "https://www.berlin.de/deeptech/en/events/",
+    "source": "berlin.de",
+    "description": "BarBQ is an open networking event designed to bring the community together and foster the exchange of opinions and ideas in the quantum field among students, founders, scientists, as well as technically and non-technically interested individuals. The event is aimed at a broad audience who wants to learn more about quantum and the quantum community in Berlin.",
+    "title_local": "BERLIN QUANTUM BBQ Oktober 2026",
+    "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
+    "city": "berlin",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-08-08",
+    "id": "cb6443b487d22397"
+  },
+  {
     "title": "AI, Machine Learning & Data Science Conference",
     "date": "2026-10-12",
     "venue": "Berlin, Germany",
@@ -1091,7 +1119,7 @@
     "description_local": "Dreitägige Veranstaltung (12.–14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Kern-KI-Themen einschließlich Robotik und autonome Systeme, Klimawissenschaftsanwendungen, MLOps und skalierbare Bereitstellung, vertrauenswürdige KI, Hochleistungsrechnen und energieeffiziente KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-07-30",
+    "last_seen": "2026-08-08",
     "id": "15932057c4239dba"
   },
   {
@@ -1153,15 +1181,15 @@
   {
     "title": "Future Technologies Conference (FTC) 2026",
     "date": "2026-10-15",
-    "venue": "Berlin, Germany",
+    "venue": "Berlin (venue TBD)",
     "url": "https://saiconference.com/FTC",
-    "source": "berlin.de",
-    "description": "Leading international technology conference bringing together researchers, academics, and industry innovators to examine the technologies shaping the coming decade.",
+    "source": "saiconference.com",
+    "description": "The Future Technologies Conference (FTC) stands as a leading international technology conference, bringing together researchers, academics, and industry innovators to examine the technologies shaping the coming decade. Two-day event covering AI, machine learning, and future technologies.",
     "title_local": "Future Technologies Conference (FTC) 2026",
-    "description_local": "Führende internationale Technologiekonferenz, die Forscher, Akademiker und Brancheninnovatoren zusammenbringt, um die Technologien zu untersuchen, die das kommende Jahrzehnt prägen werden.",
+    "description_local": "Die Future Technologies Conference (FTC) ist eine führende internationale Technologiekonferenz, die Forscher, Akademiker und Innovatoren aus der Industrie zusammenbringt, um die Technologien zu untersuchen, die das kommende Jahrzehnt prägen werden. Zweitägige Veranstaltung zu KI, Machine Learning und Zukunftstechnologien.",
     "city": "berlin",
     "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
+    "last_seen": "2026-08-08",
     "id": "9244ddc4fe338c96"
   },
   {
@@ -1238,12 +1266,12 @@
     "venue": "Maritim ProArte Hotel Berlin",
     "url": "https://mlconference.ai/berlin/",
     "source": "mlconference.ai",
-    "description": "Major machine learning and generative AI conference (Nov 16-20, 2026) for ML technologies and innovations. Features workshops, keynotes, and sessions from industry experts covering topics like Model Context Protocol (MCP), agent orchestration, security, and practical ML engineering. Expo dates: Nov 18-19, 2026.",
+    "description": "The Event for Machine Learning Technologies & Innovations. Conference runs November 16-20, 2026, with expo on November 18-19, 2026. Features hands-on workshops, keynotes, and sessions from industry experts on generative AI and machine learning engineering. Includes ML Fundamentals Bootcamp and Strategy Day on November 25, with Workshop Days on November 25 & 28. Available both in-person in Berlin and online.",
     "title_local": "MLcon Berlin 2026",
-    "description_local": "Große Konferenz für maschinelles Lernen und generative KI (16.-20. November 2026) für ML-Technologien und Innovationen mit Workshops, Keynotes und Sessions von Branchenexperten zu Themen wie Model Context Protocol, Agent-Orchestrierung, Sicherheit und praktisches ML-Engineering. Messe: 18.-19. November 2026.",
+    "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-07",
+    "last_seen": "2026-08-08",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1263,15 +1291,15 @@
   {
     "title": "KI-X HR Convention 2026",
     "date": "2026-11-18",
-    "venue": "Berlin",
+    "venue": "Berlin (venue TBD)",
     "url": "https://hr.ki-x.berlin/",
-    "source": "KI-X",
-    "description": "November 18 & 19, 2026. Conference focused on AI in HR from mid-sized companies to corporations. Topics include AI-supported applicant and talent management, employee development, predictive analytics, and automated workflows. Practical, secure, scalable AI implementations for HR.",
+    "source": "ki-x.berlin",
+    "description": "AI conference for HR professionals on November 18 & 19, 2026 in Berlin. Focus on how AI is transforming HR processes - from point support to real process work. Shows how companies from SMEs to corporations implement AI-powered applicant and talent management, employee development, predictive analytics, and automated workflows in practice. Features practical insights, case studies, and networking opportunities for HR teams.",
     "title_local": "KI-X HR Convention 2026",
-    "description_local": "18. & 19. November 2026. Konferenz mit Fokus auf KI im Personalwesen vom Mittelstand bis zum Konzern. Von KI-gestütztem Bewerber- und Talentmanagement über Mitarbeiterentwicklung bis hin zu Predictive Analytics und automatisierten Workflows. Praxisnah. Sicher. Skalierbar.",
+    "description_local": "KI-Konferenz für HR-Profis am 18. & 19. November 2026 in Berlin. Fokus darauf, wie KI HR-Prozesse transformiert - von punktueller Unterstützung hin zu echter Prozessarbeit. Zeigt, wie Unternehmen vom Mittelstand bis zum Konzern KI-gestütztes Bewerber- und Talentmanagement, Mitarbeiterentwicklung, Predictive Analytics und automatisierte Workflows in der Praxis gestalten. Bietet praktische Einblicke, Case Studies und Networking-Möglichkeiten für HR-Teams.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-05",
+    "last_seen": "2026-08-08",
     "id": "d5be695f108fc9f4"
   },
   {
