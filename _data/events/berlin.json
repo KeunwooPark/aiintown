@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-08"
+    "last_seen": "2026-08-10"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-05",
+    "last_seen": "2026-08-10",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -743,7 +743,7 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-08",
+    "last_seen": "2026-08-10",
     "id": "216d5e94062d17a7"
   },
   {
@@ -1011,6 +1011,20 @@
     "id": "19a57c55d4cf0abb"
   },
   {
+    "title": "Berlin Physical AI Workshop and Meetup",
+    "date": "2026-09-26",
+    "venue": "MotionLab.Berlin, Bouchéstraße 12/Halle 20, 12435 Berlin",
+    "url": "https://voxel51.com/events/berlin-physical-ai-workshop-and-meetup-september-26-2026",
+    "source": "Voxel51",
+    "description": "Meetup-style event with lightning talks from local speakers working across AI, machine learning, and computer vision, followed by a hands-on workshop on building physical AI applications with FiftyOne, from curating robotics and sensor datasets to evaluating vision models on real-world data. Co-presented by Nebius and Voxel51.",
+    "title_local": "Berlin Physical AI Workshop und Meetup",
+    "description_local": "Meetup-Event mit Lightning Talks von lokalen Speakern aus den Bereichen KI, maschinelles Lernen und Computer Vision, gefolgt von einem praktischen Workshop zum Aufbau von Physical-AI-Anwendungen mit FiftyOne, von der Kuratierung von Robotik- und Sensordatensätzen bis zur Evaluierung von Vision-Modellen auf realen Daten. Ko-präsentiert von Nebius und Voxel51.",
+    "city": "berlin",
+    "first_seen": "2026-08-10",
+    "last_seen": "2026-08-10",
+    "id": "2aa72d7c8f7f5822"
+  },
+  {
     "title": "Enterprise AI Summit Berlin",
     "date": "2026-09-27",
     "venue": "Berlin",
@@ -1035,7 +1049,7 @@
     "description_local": "Festival, das einen Raum schafft, in dem Menschen aller Altersgruppen Künstliche Intelligenz erleben, ausprobieren und reflektieren können. Bringt Praxis, Forschung, Kunst und Bildung zusammen mit über 50 Ausstellern, 40+ Speakern und 20 Workshops.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-08-06",
+    "last_seen": "2026-08-10",
     "id": "35e66e82f76f77e6"
   },
   {
@@ -1133,7 +1147,7 @@
     "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) mit Forschern, Branchenführern und Entwicklern zu den neuesten Fortschritten in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung mit fast dreißig wissenschaftlichen Sessions zu Robotik, autonomen Systemen, Klimawissenschaft, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-07",
+    "last_seen": "2026-08-10",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1271,7 +1285,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-09",
+    "last_seen": "2026-08-10",
     "id": "9a05b37a144a341e"
   },
   {
