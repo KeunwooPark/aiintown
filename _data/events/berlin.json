@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-11"
+    "last_seen": "2026-08-12"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-11",
+    "last_seen": "2026-08-12",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -392,7 +392,7 @@
     "description_local": "Besuchen Sie das Berlin KI-Meetup im betahaus am Moritzplatz für einen Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten. Derek Footer von XTR.Capital wird eine Keynote darüber halten, 'Wie Sie Ihr Startup auf die erste Finanzierungsrunde vorbereiten'. Demos umfassen One Ware (Physical AI für autonome Drohnen und Qualitätskontrolle) und Civic (die Berechtigungsebene für KI-Agenten). Egal, ob Sie ein Befürworter oder Kritiker sind, Ihre Perspektive ist wichtig.",
     "city": "berlin",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-08-11",
+    "last_seen": "2026-08-12",
     "id": "e3b46ef72cefd6d1"
   },
   {
@@ -420,7 +420,7 @@
     "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die industriereife LLMs und generative KI aufbauen. Fokussierte KI-Builder-Veranstaltung mit Hunderten von Pionier-Ingenieuren, Entwicklern und Führungskräften.",
     "city": "berlin",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-08-11",
+    "last_seen": "2026-08-12",
     "id": "51113d0f9d43e4b6"
   },
   {
@@ -729,7 +729,7 @@
     "description_local": "Zweitägige akkreditierte CPD-Veranstaltung zu Innovation in autonomer Mobilität, digitaler Fertigung und Elektronik mit KI-Anwendungen.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-07-31",
+    "last_seen": "2026-08-12",
     "id": "b19a445a8aa872b3"
   },
   {
@@ -759,6 +759,20 @@
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
     "id": "c50a32de77fa87a4"
+  },
+  {
+    "title": "KI-Tag 2026",
+    "date": "2026-09-09",
+    "venue": "Brandenburg/Potsdam area",
+    "url": "https://ki-tag2026.de/",
+    "source": "KI-Tag der Wirtschaft",
+    "description": "The AI Day for Business shows how companies can successfully implement AI. Features talks, workshops on privacy-compliant knowledge-based chatbots in companies.",
+    "title_local": "KI-Tag 2026",
+    "description_local": "Der KI-Tag der Wirtschaft am 9. September 2026 zeigt, wie Unternehmen KI erfolgreich einsetzen können.",
+    "city": "berlin",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-08-12",
+    "id": "0280bd0dea9379d9"
   },
   {
     "title": "KI-Landpartie",
@@ -1119,7 +1133,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-08",
+    "last_seen": "2026-08-12",
     "id": "cb6443b487d22397"
   },
   {
@@ -1285,7 +1299,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-11",
+    "last_seen": "2026-08-12",
     "id": "9a05b37a144a341e"
   },
   {
