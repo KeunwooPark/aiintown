@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-12"
+    "last_seen": "2026-08-13"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-12",
+    "last_seen": "2026-08-13",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -420,7 +420,7 @@
     "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die industriereife LLMs und generative KI aufbauen. Fokussierte KI-Builder-Veranstaltung mit Hunderten von Pionier-Ingenieuren, Entwicklern und Führungskräften.",
     "city": "berlin",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-08-12",
+    "last_seen": "2026-08-13",
     "id": "51113d0f9d43e4b6"
   },
   {
@@ -532,7 +532,7 @@
     "description_local": "Internationale wissenschaftliche Konferenz zu Forschungsentwicklungen, praktischen Anwendungen und zukünftigen Trends in Künstlicher Intelligenz und maschinellem Lernen. Mit Expertensitzungen, Hauptvorträgen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-08-04",
+    "last_seen": "2026-08-13",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -649,6 +649,34 @@
     "id": "cf58c49bd5db14a1"
   },
   {
+    "title": "Claude Code Meetup Berlin",
+    "date": "2026-08-19",
+    "venue": "Merantix AI Campus",
+    "url": "https://www.merantix-aicampus.com/event/claude-code-meetup-berlin",
+    "source": "Merantix AI Campus",
+    "description": "Community event for Claude Code enthusiasts to share favorite ways of using Claude Code, supported by Anthropic and hosted by Merantix AI Campus.",
+    "title_local": "Claude Code Meetup Berlin",
+    "description_local": "Community-Event für Claude Code-Enthusiasten, um bevorzugte Verwendungsweisen von Claude Code zu teilen, unterstützt von Anthropic und gehostet vom Merantix AI Campus.",
+    "city": "berlin",
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-08-13",
+    "id": "40d7a568e29ffba2"
+  },
+  {
+    "title": "AI Breakfast: AI in Energy",
+    "date": "2026-08-20",
+    "venue": "Merantix AI Campus",
+    "url": "https://www.merantix-aicampus.com/event/ai-breakfast-ai-in-energy",
+    "source": "Merantix AI Campus",
+    "description": "The largest AI networking event series in Berlin, this edition teams up with Cathay Innovation to explore applications and opportunities of AI in the energy sector.",
+    "title_local": "AI Breakfast: KI in der Energie",
+    "description_local": "Die größte KI-Networking-Event-Serie in Berlin, diese Ausgabe arbeitet mit Cathay Innovation zusammen, um Anwendungen und Möglichkeiten von KI im Energiesektor zu erkunden.",
+    "city": "berlin",
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-08-13",
+    "id": "c6e31558e2cf601c"
+  },
+  {
     "title": "AI Tinkerers Berlin - August 22",
     "date": "2026-08-22",
     "venue": "Merantix AI Campus, Berlin",
@@ -661,6 +689,20 @@
     "first_seen": "2026-08-03",
     "last_seen": "2026-08-03",
     "id": "9ddf8dfb166f9936"
+  },
+  {
+    "title": "AI Builders Day",
+    "date": "2026-08-25",
+    "venue": "Merantix AI Campus",
+    "url": "https://www.merantix-aicampus.com/event/ai-builders-day",
+    "source": "Merantix AI Campus",
+    "description": "A full day connecting Berlin's top founders, VCs, and engineers for building, mentorship, and demos. Hosted in collaboration with Fin by Intercom, Merantix, Earlybird and b2venture.",
+    "title_local": "AI Builders Day",
+    "description_local": "Ein ganzer Tag, der Berlins Top-Gründer, VCs und Ingenieure zum Bauen, Mentoring und für Demos verbindet. Veranstaltet in Zusammenarbeit mit Fin by Intercom, Merantix, Earlybird und b2venture.",
+    "city": "berlin",
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-08-13",
+    "id": "6cb12b9dc79e16e3"
   },
   {
     "title": "KI Festival Heilbronn (IPAI)",
@@ -743,7 +785,7 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-10",
+    "last_seen": "2026-08-13",
     "id": "216d5e94062d17a7"
   },
   {
@@ -1299,7 +1341,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-12",
+    "last_seen": "2026-08-13",
     "id": "9a05b37a144a341e"
   },
   {
