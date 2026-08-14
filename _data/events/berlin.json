@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-13"
+    "last_seen": "2026-08-14"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-13",
+    "last_seen": "2026-08-14",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -420,7 +420,7 @@
     "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die industriereife LLMs und generative KI aufbauen. Fokussierte KI-Builder-Veranstaltung mit Hunderten von Pionier-Ingenieuren, Entwicklern und Führungskräften.",
     "city": "berlin",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-08-13",
+    "last_seen": "2026-08-14",
     "id": "51113d0f9d43e4b6"
   },
   {
@@ -1272,7 +1272,7 @@
     "city": "berlin",
     "id": "d7949f08ac7e51e0",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-14"
+    "last_seen": "2026-08-14"
   },
   {
     "title": "NVIDIA GTC Berlin 2026",
@@ -1341,7 +1341,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-13",
+    "last_seen": "2026-08-14",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1349,13 +1349,13 @@
     "date": "2026-11-18",
     "venue": "Colosseum Filmtheater Berlin",
     "url": "https://www.marketing-boerse.de/termin/details/ki-x-berlin",
-    "source": "Marketing Börse / Quadriga Media",
-    "description": "Two-day conference for HR professionals on AI in human resources. Topics include AI-powered applicant and talent management, AI in employee development, onboarding, predictive analytics. Over 50 speakers, 400+ participants. Germany's largest AI event for HR.",
+    "source": "marketing-boerse.de",
+    "description": "Two-day AI conference (Nov 18-19, 2026) focused on AI in human resources and personnel work. Part of the KI-X Berlin series by Quadriga Media. Provides HR professionals with insights on opportunities, limits, and risks of artificial intelligence, connecting first movers throughout Germany.",
     "title_local": "KI-X HR Convention",
-    "description_local": "Zweitägige Konferenz für HR-Professionals über KI im Personalwesen. Themen umfassen KI-gestütztes Bewerber- und Talentmanagement, KI in der Mitarbeiterentwicklung, Onboarding, Predictive Analytics. Über 50 Speaker, 400+ Teilnehmende. Deutschlands größtes KI-Event für HR.",
+    "description_local": "Zweitägige KI-Konferenz (18.-19. Nov. 2026) mit Fokus auf KI in der Personalarbeit. Teil der KI-X Berlin-Serie von Quadriga Media. Bietet HR-Professionals Einblicke in Chancen, Grenzen und Risiken künstlicher Intelligenz und vernetzt First Mover deutschlandweit.",
     "city": "berlin",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
+    "last_seen": "2026-08-14",
     "id": "6f7d11f8cf93fa4e"
   },
   {
