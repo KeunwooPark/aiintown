@@ -718,7 +718,7 @@
     "description_local": "국제 AI for Science 학회. 연구를 독립적으로 수행하는 자율 AI 에이전트와 생물학, 화학, 재료과학, 수학 등 도메인 과학에 적용되는 머신러닝 방법이라는 두 가지 혁신적 분야를 탐구. 5일간, 최대 800명 참석, 약 200편의 논문, 4개 병렬 트랙, 해커톤 및 AI 아트 전시.",
     "city": "seoul",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-08-15",
     "id": "79cde4c894afbe1b"
   },
   {
@@ -760,6 +760,20 @@
     "first_seen": "2026-06-20",
     "last_seen": "2026-06-24",
     "id": "1eca324acfa1f656"
+  },
+  {
+    "title": "Smart Life Week 2026 (SLW 2026)",
+    "date": "2026-10-06",
+    "venue": "COEX A·B Hall, Seoul (강남구 코엑스)",
+    "url": "https://news.seoul.go.kr/gov/archives/580148",
+    "source": "Seoul Metropolitan Government",
+    "description": "Global ICT expo co-hosted by Seoul Metropolitan Government and World Smart Sustainable Cities Organization (WeGO). Features Physical AI, robots, AI administration, smart mobility. Keynote by Boston Dynamics founder Marc Raibert. Showcases future city experiences across 8 Seoul landmarks.",
+    "title_local": "스마트라이프위크 2026 (Smart Life Week)",
+    "description_local": "AI가 변화시키는 미래도시의 모습을 직접 경험할 수 있는 글로벌 종합 ICT 박람회. 피지컬AI와 로봇, AI행정, 스마트 모빌리티 등 시민 체험형 콘텐츠. 슬로건: AI와 만나는 순간, 도시는 깨어난다",
+    "city": "seoul",
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "id": "ddb84263b35c2994"
   },
   {
     "title": "인공지능 페스타 2026 (AI Festa 2026)",
@@ -842,7 +856,7 @@
     "description_local": "2026년 12월 26일 서울에서 예정된 국제 머신러닝 및 Chat GPT 컨퍼런스입니다. 이 컨퍼런스는 혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 AI 주제를 다루며 전문가 세션, 기조 연설, 워크샵 및 글로벌 참가자와의 네트워킹 기회를 제공합니다.",
     "city": "seoul",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-08-14",
+    "last_seen": "2026-08-15",
     "id": "bab02a8c2371d732"
   },
   {
