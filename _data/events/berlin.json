@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-14",
+    "last_seen": "2026-08-16",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -522,20 +522,6 @@
     "id": "ba2e2e2af3a88d72"
   },
   {
-    "title": "International Conference on Artificial Intelligence and Machine Learning (ICAIML)",
-    "date": "2026-07-31",
-    "venue": "Berlin, Germany",
-    "url": "https://www.allconferencealert.com/berlin/ai-conference.html",
-    "source": "allconferencealert.com",
-    "description": "International academic conference covering artificial intelligence and machine learning research developments, practical applications, and future trends. Features expert sessions, keynote presentations, workshops, and networking opportunities with global participants.",
-    "title_local": "Internationale Konferenz über Künstliche Intelligenz und Maschinelles Lernen (ICAIML)",
-    "description_local": "Internationale wissenschaftliche Konferenz zu Forschungsentwicklungen, praktischen Anwendungen und zukünftigen Trends in Künstlicher Intelligenz und maschinellem Lernen. Mit Expertensitzungen, Hauptvorträgen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern.",
-    "city": "berlin",
-    "first_seen": "2026-07-20",
-    "last_seen": "2026-08-15",
-    "id": "8ebb2860cfc9dd22"
-  },
-  {
     "title": "Berlin AWS User Group - Fireside Chat with Dr. Werner Vogels",
     "date": "2026-07-XX",
     "venue": "NLND (Neuland) Berlin",
@@ -633,6 +619,20 @@
     "first_seen": "2026-08-15",
     "last_seen": "2026-08-15",
     "id": "bd6117e178f6e24c"
+  },
+  {
+    "title": "International Conference on Robotics, AI and Computer Engineering (ICRACE)",
+    "date": "2026-08-16",
+    "venue": "Berlin",
+    "url": "https://www.allconferencealert.com/berlin/ai-conference.html",
+    "source": "allconferencealert.com",
+    "description": "International academic conference on Robotics, AI and Computer Engineering, offering expert sessions, keynote presentations, workshops, and networking opportunities with global participants. The event also offers invitation letters, publication opportunities, and easy registration options for international participants.",
+    "title_local": "Internationale Konferenz zu Robotik, KI und Computertechnik (ICRACE)",
+    "description_local": "Internationale akademische Konferenz zu Robotik, KI und Computertechnik mit Expertensitzungen, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern. Die Veranstaltung bietet auch Einladungsschreiben, Publikationsmöglichkeiten und einfache Registrierungsoptionen für internationale Teilnehmer.",
+    "city": "berlin",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-08-16",
+    "id": "8ebb2860cfc9dd22"
   },
   {
     "title": "AI Builders Berlin - RAG & Agents Edition",
@@ -799,7 +799,7 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-15",
+    "last_seen": "2026-08-16",
     "id": "216d5e94062d17a7"
   },
   {
@@ -1355,7 +1355,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-15",
+    "last_seen": "2026-08-16",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1369,7 +1369,7 @@
     "description_local": "Zweitägige KI-Konferenz (18.-19. Nov. 2026) mit Fokus auf KI in der Personalarbeit. Teil der KI-X Berlin-Serie von Quadriga Media. Bietet HR-Professionals Einblicke in Chancen, Grenzen und Risiken künstlicher Intelligenz und vernetzt First Mover deutschlandweit.",
     "city": "berlin",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-08-14",
+    "last_seen": "2026-08-16",
     "id": "6f7d11f8cf93fa4e"
   },
   {
