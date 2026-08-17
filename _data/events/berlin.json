@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-16",
+    "last_seen": "2026-08-17",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -941,6 +941,20 @@
     "id": "dcce272e05adf6e3"
   },
   {
+    "title": "Berlin Robotics × Agentic AI Hackathon",
+    "date": "2026-09-15",
+    "venue": "Berlin",
+    "url": "https://www.berlinhackathon.de/",
+    "source": "berlinhackathon.de",
+    "description": "Hackathon focused on agentic AI and robotics. Developers, robotics engineers and other actors work together on practical solutions and prototypes in the context of agentic AI. Goal is exchange between business, research and community as well as development of innovative applications.",
+    "title_local": "Berlin Robotics × Agentic AI Hackathon",
+    "description_local": "Entwickler:innen, Robotik-Ingenieur:innen sowie weitere Akteur:innen arbeiten gemeinsam an praxisnahen Lösungen und Prototypen im Kontext agentischer KI. Ziel ist der Austausch zwischen Wirtschaft, Forschung und Community sowie die Entwicklung innovativer Anwendungen.",
+    "city": "berlin",
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "id": "f153cb14eff3c6c9"
+  },
+  {
     "title": "BIG BANG KI Festival 2026",
     "date": "2026-09-16",
     "venue": "Alte Münze, Berlin",
@@ -1217,7 +1231,7 @@
     "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) mit Forschern, Branchenführern und Entwicklern zu den neuesten Fortschritten in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung mit fast dreißig wissenschaftlichen Sessions zu Robotik, autonomen Systemen, Klimawissenschaft, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-11",
+    "last_seen": "2026-08-17",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1313,7 +1327,7 @@
     "description_local": "Die NVIDIA GTC AI-Konferenz bringt Entwickler, Forscher und Branchenführer zusammen, um tief in die KI-Infrastruktur einzutauchen. Dreitägige Veranstaltung zu modernsten KI-Technologien und -Anwendungen.",
     "city": "berlin",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-07-31",
+    "last_seen": "2026-08-17",
     "id": "f0de881b7d97f1b7"
   },
   {
@@ -1355,7 +1369,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-16",
+    "last_seen": "2026-08-17",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1369,7 +1383,7 @@
     "description_local": "Zweitägige KI-Konferenz (18.-19. Nov. 2026) mit Fokus auf KI in der Personalarbeit. Teil der KI-X Berlin-Serie von Quadriga Media. Bietet HR-Professionals Einblicke in Chancen, Grenzen und Risiken künstlicher Intelligenz und vernetzt First Mover deutschlandweit.",
     "city": "berlin",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-08-16",
+    "last_seen": "2026-08-17",
     "id": "6f7d11f8cf93fa4e"
   },
   {
