@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-14"
+    "last_seen": "2026-08-18"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-17",
+    "last_seen": "2026-08-18",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -392,7 +392,7 @@
     "description_local": "Besuchen Sie das Berlin KI-Meetup im betahaus am Moritzplatz für einen Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten. Derek Footer von XTR.Capital wird eine Keynote darüber halten, 'Wie Sie Ihr Startup auf die erste Finanzierungsrunde vorbereiten'. Demos umfassen One Ware (Physical AI für autonome Drohnen und Qualitätskontrolle) und Civic (die Berechtigungsebene für KI-Agenten). Egal, ob Sie ein Befürworter oder Kritiker sind, Ihre Perspektive ist wichtig.",
     "city": "berlin",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-08-12",
+    "last_seen": "2026-08-18",
     "id": "e3b46ef72cefd6d1"
   },
   {
@@ -691,6 +691,20 @@
     "id": "c6e31558e2cf601c"
   },
   {
+    "title": "AI Vibe Sprint at AI Campus Berlin",
+    "date": "2026-08-20",
+    "venue": "AI Campus Berlin",
+    "url": "https://www.createwith.com/event/berlin-the-berlin-ai-conference-2026-oct-2026",
+    "source": "createwith.com",
+    "description": "Hands-on vibe coding session (5:00 PM - 9:00 PM) to build and ship an AI-powered product in one evening. In-person sprint designed to move from idea to working project alongside other product builders. Includes 20-minute showcase and workshop with live demos, followed by open building session. Hosted by Emergent.",
+    "title_local": "AI Vibe Sprint am AI Campus Berlin",
+    "description_local": "Praktische Vibe-Coding-Session (17:00 - 21:00 Uhr) zum Aufbau und Deployment eines KI-gestützten Produkts an einem Abend. In-Person-Sprint, um von der Idee zum funktionierenden Projekt zu gelangen. Beinhaltet 20-minütigen Showcase und Workshop mit Live-Demos, gefolgt von offener Building-Session.",
+    "city": "berlin",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "id": "05ab1b0605f2276b"
+  },
+  {
     "title": "AI Tinkerers Berlin - August 22",
     "date": "2026-08-22",
     "venue": "Merantix AI Campus, Berlin",
@@ -801,6 +815,20 @@
     "first_seen": "2026-06-15",
     "last_seen": "2026-08-16",
     "id": "216d5e94062d17a7"
+  },
+  {
+    "title": "IFA 2026 (AI focus)",
+    "date": "2026-09-04",
+    "venue": "Berlin (IFA venue)",
+    "url": "https://www.ifa-berlin.com/",
+    "source": "kibuzzer.com",
+    "description": "One of the world's largest home and consumer technology events where AI plays a central role in smart devices, software, and new applications. Major international trade fair with AI-focused exhibitors and sessions (Sept 4-8, 2026).",
+    "title_local": "IFA 2026 (KI-Fokus)",
+    "description_local": "Eine der weltweit größten Messen für Heim- und Unterhaltungselektronik, bei der KI eine zentrale Rolle bei Smart Devices, Software und neuen Anwendungen spielt. Große internationale Fachmesse mit KI-fokussierten Ausstellern und Sessions (4.-8. Sept. 2026).",
+    "city": "berlin",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "id": "4389b8d37c69b49e"
   },
   {
     "title": "KI-Landpartie",
@@ -1293,14 +1321,16 @@
   {
     "title": "The Berlin AI Conference 2026",
     "date": "2026-10-15",
-    "venue": "SPACE SHACK Coworking",
+    "venue": "SPACE SHACK Coworking, Berlin",
     "url": "https://www.eventbrite.ie/e/the-berlin-ai-conference-2026-tickets-1983880925252",
-    "source": "Eventbrite",
-    "description": "Evening event (6 PM - 10 PM) gathering 150 business, innovation, product, and tech leaders from across Berlin. Features a 45-minute panel discussion (6:30-7:15 PM) with six speakers including AI leaders from Babbel, Rhapsody, and Charité. Includes complimentary drinks, snacks, and access to a networking app. Hosted by Startup Network Europe.",
+    "source": "eventbrite.ie",
+    "description": "Evening event gathering 150 of Berlin's Business and Tech Leaders (6 PM - 10 PM). Hosted by Startup Network Europe. Features panel with 30 minutes of pre-prepared questions and 15 minutes of curated audience Q&A. Panel includes: Clemence W. Chee (VP Data & Analytics at Babbel), Alexander Woellwarth-Lauterburg (Chief AI Officer at Rhapsody), and Prof. Petra Ritter (Brain Simulation, Charité; Director TEF-Health). Includes complimentary drinks, snacks, and networking app.",
+    "title_local": "Die Berlin AI Conference 2026",
+    "description_local": "Abendveranstaltung mit 150 von Berlins Wirtschafts- und Technologieführern (18-22 Uhr). Veranstaltet von Startup Network Europe. Beinhaltet Panel mit 30 Minuten vorbereiteten Fragen und 15 Minuten kuratiertem Publikums-Q&A. Inklusive kostenloser Getränke, Snacks und Networking-App.",
     "city": "berlin",
-    "id": "d7949f08ac7e51e0",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-15"
+    "last_seen": "2026-08-18",
+    "id": "d7949f08ac7e51e0"
   },
   {
     "title": "NVIDIA GTC Berlin 2026",
@@ -1369,7 +1399,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-17",
+    "last_seen": "2026-08-18",
     "id": "9a05b37a144a341e"
   },
   {
