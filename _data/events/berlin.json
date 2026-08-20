@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-18"
+    "last_seen": "2026-08-20"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -631,7 +631,7 @@
     "description_local": "Internationale akademische Konferenz zu Robotik, KI und Computertechnik mit Expertensitzungen, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern. Die Veranstaltung bietet auch Einladungsschreiben, Publikationsmöglichkeiten und einfache Registrierungsoptionen für internationale Teilnehmer.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -939,6 +939,34 @@
     "id": "f65b0355b54ecf4b",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15"
+  },
+  {
+    "title": "Agentic AI Summit Berlin 2026 (September)",
+    "date": "2026-09-15",
+    "venue": "The Ritz Carlton, 3 Potsdamer Platz, Berlin",
+    "url": "https://world.aiacceleratorinstitute.com/location/agenticaiberlin/",
+    "source": "aiacceleratorinstitute.com",
+    "description": "Engineering summit for those shipping AI systems and seeking scale. 300+ builders and tech executives focused on industry-ready agentic AI, with afternoon hackathon featuring €4,500 in prizes for top three builds.",
+    "title_local": "Agentic AI Summit Berlin 2026 (September)",
+    "description_local": "Engineering-Gipfel für diejenigen, die KI-Systeme ausliefern und Skalierung anstreben. Über 300 Entwickler und Tech-Führungskräfte konzentrieren sich auf industrietaugliche Agentic AI, mit Nachmittags-Hackathon und 4.500 € Preisgeld für die besten drei Projekte.",
+    "city": "berlin",
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "id": "e4e24be233c170c5"
+  },
+  {
+    "title": "Berlin AI Day (September 2026)",
+    "date": "2026-09-15",
+    "venue": "Festsaal Kreuzberg, Am Flutgraben 2, Berlin",
+    "url": "https://www.visitberlin.de/en/event/berlin-ai-day",
+    "source": "visitberlin.de",
+    "description": "Event where forward-thinking companies share how they're using AI and automation to accelerate growth and scale faster. Features real stories on what worked, what failed, and actual results. No hype, no sales pitches, no filter - real stories and transparent sharing of processes, experiments, and lessons.",
+    "title_local": "Berlin AI Day (September 2026)",
+    "description_local": "Veranstaltung, bei der zukunftsorientierte Unternehmen teilen, wie sie KI und Automatisierung nutzen, um Wachstum zu beschleunigen und schneller zu skalieren. Mit echten Geschichten darüber, was funktioniert hat, was gescheitert ist und die tatsächlichen Ergebnisse. Kein Hype, keine Verkaufspräsentationen, kein Filter - echte Geschichten und transparentes Teilen von Prozessen, Experimenten und gewonnenen Erkenntnissen.",
+    "city": "berlin",
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "id": "fb0186b25a978013"
   },
   {
     "title": "Berlin AI Day x buildersklub",
@@ -1399,7 +1427,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "id": "9a05b37a144a341e"
   },
   {

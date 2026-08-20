@@ -544,20 +544,6 @@
     "id": "9a713e0f691c4c88"
   },
   {
-    "title": "International Conference on Legal and Regulatory Frameworks in Artificial Intelligence (ICLRFAI)",
-    "date": "2026-08-04",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/south-korea/artificial-intelligence",
-    "source": "International Conference Alerts",
-    "description": "Conference focusing on legal and regulatory aspects of AI. Covers AI governance, ethics, policy frameworks, and compliance. Virtual and in-person attendance options available.",
-    "title_local": "인공지능의 법적 및 규제 프레임워크 국제 컨퍼런스",
-    "description_local": "AI의 법적 및 규제 측면에 초점을 맞춘 컨퍼런스입니다. AI 거버넌스, 윤리, 정책 프레임워크 및 규정 준수를 다룹니다.",
-    "city": "seoul",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-08-08",
-    "id": "98dd8b906bab4381"
-  },
-  {
     "title": "AI Summit Seoul & EXPO 2026",
     "date": "2026-08-19",
     "venue": "COEX Grand Ballroom & Hall B, Seoul",
@@ -636,6 +622,20 @@
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
     "id": "c630cd72a55db28f"
+  },
+  {
+    "title": "International Conference on Explainable AI and Data Science (ICEAIDS)",
+    "date": "2026-09-01",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/south-korea/artificial-intelligence",
+    "source": "internationalconferencealerts.com",
+    "description": "Academic conference focused on explainable AI and data science. Features research presentations, keynote sessions, and networking opportunities for researchers and practitioners in XAI and data science fields.",
+    "title_local": "설명 가능한 AI 및 데이터 과학 국제 컨퍼런스 (ICEAIDS)",
+    "description_local": "설명 가능한 AI 및 데이터 과학에 초점을 맞춘 학술 컨퍼런스. XAI 및 데이터 과학 분야의 연구자 및 실무자를 위한 연구 발표, 기조 세션 및 네트워킹 기회 제공",
+    "city": "seoul",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-08-20",
+    "id": "98dd8b906bab4381"
   },
   {
     "title": "Search SEOul",
@@ -734,6 +734,20 @@
     "first_seen": "2026-07-20",
     "last_seen": "2026-08-15",
     "id": "79cde4c894afbe1b"
+  },
+  {
+    "title": "Korea Open Source AI Meetup",
+    "date": "2026-09-30",
+    "venue": "Seoul (location TBA)",
+    "url": "https://luma.com/wi3j4czt",
+    "source": "luma.com",
+    "description": "Community meetup as part of Korea Blockchain Week 2026, bringing together leading founders, investors, and builders to explore the future of open source AI. Features networking, collaboration discussions across robotics, AI model development, and data.",
+    "title_local": "한국 오픈소스 AI 밋업",
+    "description_local": "코리아 블록체인 위크 2026의 일환으로 열리는 커뮤니티 밋업. 주요 창업자, 투자자 및 빌더들이 모여 오픈소스 AI의 미래 탐구. 로보틱스, AI 모델 개발 및 데이터 분야의 네트워킹 및 협업 논의 포함",
+    "city": "seoul",
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "id": "8d1de578354f14e1"
   },
   {
     "title": "The 6th Korea Artificial Intelligence Conference",
@@ -846,6 +860,20 @@
     "id": "150af676f831b606"
   },
   {
+    "title": "산업AI EXPO",
+    "date": "2026-10-21",
+    "venue": "KINTEX (일산 킨텍스 제1전시장), Goyang",
+    "url": "https://industrialaiexpo.com",
+    "source": "aimatters.co.kr",
+    "description": "Industrial AI Expo focused on AI transformation (AX) across industries including manufacturing, logistics, and enterprise applications. Features exhibitions, conferences, and business matchmaking.",
+    "title_local": "산업AI EXPO",
+    "description_local": "제조, 물류 및 기업 응용을 포함한 산업 전반의 AI 전환(AX)에 초점을 맞춘 산업 AI 엑스포. 전시, 컨퍼런스 및 비즈니스 매칭 포함",
+    "city": "seoul",
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "id": "983148da87840f1e"
+  },
+  {
     "title": "AIoT Korea 2026",
     "date": "2026-11-03",
     "venue": "Seoul (venue TBA)",
@@ -884,7 +912,7 @@
     "description_local": "2026년 12월 26일 서울에서 예정된 국제 머신러닝 및 Chat GPT 컨퍼런스입니다. 이 컨퍼런스는 혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 AI 주제를 다루며 전문가 세션, 기조 연설, 워크샵 및 글로벌 참가자와의 네트워킹 기회를 제공합니다.",
     "city": "seoul",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "id": "bab02a8c2371d732"
   },
   {
@@ -945,6 +973,21 @@
     "first_seen": "2026-07-21",
     "last_seen": "2026-07-21",
     "id": "00cd53ecb2768c6e"
+  },
+  {
+    "title": "OpenAI Codex Community Meetup - Seoul",
+    "date": null,
+    "venue": "Seoul",
+    "url": "https://luma.com/ahcftses",
+    "source": "luma.com",
+    "description": "Community meetup for developers using OpenAI Codex and AI coding tools. Features sharing of real workflows, design approaches, failure experiences, and operational strategies from developers using Codex in production environments.",
+    "title_local": "OpenAI Codex 커뮤니티 밋업 - 서울",
+    "description_local": "OpenAI Codex 및 AI 코딩 도구를 사용하는 개발자를 위한 커뮤니티 밋업. 프로덕션 환경에서 Codex를 사용하는 개발자들의 실제 워크플로우, 설계 방식, 실패 경험 및 운영 전략 공유",
+    "city": "seoul",
+    "date_status": "unknown",
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "id": "388b40ee5d3e0209"
   },
   {
     "title": "Seoul AI Meetup",
