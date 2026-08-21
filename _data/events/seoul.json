@@ -634,7 +634,7 @@
     "description_local": "설명 가능한 AI 및 데이터 과학에 초점을 맞춘 학술 컨퍼런스. XAI 및 데이터 과학 분야의 연구자 및 실무자를 위한 연구 발표, 기조 세션 및 네트워킹 기회 제공",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
     "id": "98dd8b906bab4381"
   },
   {
@@ -680,6 +680,20 @@
     "id": "20a061d1129d5b42"
   },
   {
+    "title": "World Congress on Semiconductor Technologies, AI & Intelligent Electronics (WCSTAI)",
+    "date": "2026-09-09",
+    "venue": "Seoul",
+    "url": "https://conferenceindex.org/conferences/artificial-intelligence/republic-of-korea",
+    "source": "Conference Index",
+    "description": "International conference focusing on semiconductor technologies, artificial intelligence, and intelligent electronics innovations.",
+    "title_local": "반도체 기술, AI 및 지능형 전자기기 세계 회의",
+    "description_local": "반도체 기술, 인공지능, 지능형 전자기기 혁신에 초점을 맞춘 국제 컨퍼런스입니다.",
+    "city": "seoul",
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "id": "8f79cc37ca724a54"
+  },
+  {
     "title": "2026 제2회 서울 AI 행정혁신포럼",
     "date": "2026-09-15",
     "venue": "Seoul",
@@ -704,7 +718,7 @@
     "description_local": "머신러닝을 포함한 컴퓨터과학, 사이버보안 및 정보기술 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-08-03",
-    "last_seen": "2026-08-03",
+    "last_seen": "2026-08-21",
     "id": "94ccce9b8532c79a"
   },
   {
@@ -828,7 +842,7 @@
     "description_local": "인공지능과 딥러닝의 고급 연구에 초점을 맞춘 학술 회의로, 연구자, 학계 및 산업 전문가들이 최신 연구 결과와 혁신을 공유.",
     "city": "seoul",
     "first_seen": "2026-08-02",
-    "last_seen": "2026-08-02",
+    "last_seen": "2026-08-21",
     "id": "bcb0a36139231a15"
   },
   {
@@ -848,15 +862,15 @@
   {
     "title": "2026 Seocho AI Festa",
     "date": "2026-10-17",
-    "venue": "Seocho Culture & Arts Park, Seoul",
+    "venue": "Seocho Culture and Arts Park (서초문화예술공원)",
     "url": "https://v.daum.net/v/20260610074337829",
-    "source": "Seocho District Government",
-    "description": "Second annual Seocho AI Festa featuring 50+ AI experience booths, physical AI (robotics) zone, citizen participation contests, and future technology experience programs. Community-focused AI festival.",
+    "source": "Daum News",
+    "description": "The 2nd Seocho AI Festa is a future technology experience festival featuring AI and robots, with over 50 AI experience booths, Physical AI (Robot) Zone, public participation competitions, and future technology experience programs.",
     "title_local": "2026 서초 AI 페스타",
-    "description_local": "제2회 서초 AI 페스타로 50개 이상의 AI 체험부스, 피지컬 AI(로봇)존, 주민 참여 공모전, 미래기술 체험 프로그램 등이 펼쳐지는 주민 참여형 AI 축제입니다.",
+    "description_local": "AI와 로봇이 함께 어우러지는 미래기술 체험 축제로, 50개 이상의 AI 체험부스를 비롯해 피지컬 AI(로봇)존, 주민 참여 공모전, 미래기술 체험 프로그램 등 다채로운 콘텐츠가 펼쳐집니다.",
     "city": "seoul",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-08-21",
     "id": "150af676f831b606"
   },
   {
@@ -912,7 +926,7 @@
     "description_local": "2026년 12월 26일 서울에서 예정된 국제 머신러닝 및 Chat GPT 컨퍼런스입니다. 이 컨퍼런스는 혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 AI 주제를 다루며 전문가 세션, 기조 연설, 워크샵 및 글로벌 참가자와의 네트워킹 기회를 제공합니다.",
     "city": "seoul",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
     "id": "bab02a8c2371d732"
   },
   {

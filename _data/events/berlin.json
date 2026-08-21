@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -631,7 +631,7 @@
     "description_local": "Internationale akademische Konferenz zu Robotik, KI und Computertechnik mit Expertensitzungen, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern. Die Veranstaltung bietet auch Einladungsschreiben, Publikationsmöglichkeiten und einfache Registrierungsoptionen für internationale Teilnehmer.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -813,8 +813,22 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
     "id": "216d5e94062d17a7"
+  },
+  {
+    "title": "XR Creator Con 2026 (XRCC) - XR+AI Hackathon",
+    "date": "2026-09-01",
+    "venue": "Berlin (finale location TBD)",
+    "url": "https://www.xrcc.events/",
+    "source": "xrcc.events",
+    "description": "A global XR + AI hackathon with an in-person finale in Berlin. Build with a global community, learn from mentors, and showcase your project. The event combines XR (extended reality) and AI technologies in a collaborative hackathon format.",
+    "title_local": "XR Creator Con 2026 (XRCC) - XR+AI Hackathon",
+    "description_local": "Ein globaler XR + KI Hackathon mit einem persönlichen Finale in Berlin. Bauen Sie mit einer globalen Community, lernen Sie von Mentoren und präsentieren Sie Ihr Projekt. Die Veranstaltung kombiniert XR (Extended Reality) und KI-Technologien in einem kollaborativen Hackathon-Format.",
+    "city": "berlin",
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "id": "379e7a3f78a4d605"
   },
   {
     "title": "IFA 2026 (AI focus)",
@@ -1259,7 +1273,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-15",
+    "last_seen": "2026-08-21",
     "id": "cb6443b487d22397"
   },
   {
@@ -1427,7 +1441,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
     "id": "9a05b37a144a341e"
   },
   {
