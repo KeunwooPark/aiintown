@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-03",
+    "last_seen": "2026-08-22",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-21"
+    "last_seen": "2026-08-22"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-21",
+    "last_seen": "2026-08-22",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -701,7 +701,7 @@
     "description_local": "Praktische Vibe-Coding-Session (17:00 - 21:00 Uhr) zum Aufbau und Deployment eines KI-gestützten Produkts an einem Abend. In-Person-Sprint, um von der Idee zum funktionierenden Projekt zu gelangen. Beinhaltet 20-minütigen Showcase und Workshop mit Live-Demos, gefolgt von offener Building-Session.",
     "city": "berlin",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
+    "last_seen": "2026-08-22",
     "id": "05ab1b0605f2276b"
   },
   {
@@ -829,6 +829,20 @@
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
     "id": "379e7a3f78a4d605"
+  },
+  {
+    "title": "The Journey to AI @ Berlin - IBM Coding Watch Party",
+    "date": "2026-09-02",
+    "venue": "Berlin + Online Livestream",
+    "url": "https://www.meetup.com/ibmpoweraiberlin/",
+    "source": "Meetup.com",
+    "description": "In-person and hybrid event featuring talks on event-driven architecture, Java modernization, AI-infused Quarkus with LangChain4j, and LLM integration & AI-assisted workflows. Includes networking, dinner and drinks. Sept 2, 2026 from 13:00-18:15.",
+    "title_local": "Die Reise zur KI @ Berlin - IBM Coding Watch Party",
+    "description_local": "Präsenz- und Hybrid-Event mit Vorträgen zu ereignisgesteuerter Architektur, Java-Modernisierung, KI-infundiertem Quarkus mit LangChain4j und LLM-Integration & KI-gestützten Workflows. Mit Networking, Abendessen und Getränken. 2. September 2026, 13:00-18:15 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "id": "53dfaa2f1e8d2c34"
   },
   {
     "title": "IFA 2026 (AI focus)",
@@ -1273,7 +1287,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-21",
+    "last_seen": "2026-08-22",
     "id": "cb6443b487d22397"
   },
   {
@@ -1301,7 +1315,7 @@
     "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) mit Forschern, Branchenführern und Entwicklern zu den neuesten Fortschritten in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung mit fast dreißig wissenschaftlichen Sessions zu Robotik, autonomen Systemen, Klimawissenschaft, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-17",
+    "last_seen": "2026-08-22",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1441,7 +1455,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-21",
+    "last_seen": "2026-08-22",
     "id": "9a05b37a144a341e"
   },
   {
