@@ -634,7 +634,7 @@
     "description_local": "설명 가능한 AI 및 데이터 과학에 초점을 맞춘 학술 컨퍼런스. XAI 및 데이터 과학 분야의 연구자 및 실무자를 위한 연구 발표, 기조 세션 및 네트워킹 기회 제공",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-21",
+    "last_seen": "2026-08-23",
     "id": "98dd8b906bab4381"
   },
   {
@@ -664,6 +664,20 @@
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-25",
     "id": "f195403c28dfa114"
+  },
+  {
+    "title": "AI World 2026",
+    "date": "2026-09-09",
+    "venue": "Lotte World Tower Lotte Cinema (5F), Seoul",
+    "url": "https://event.fnnews.com/event/397",
+    "source": "event.fnnews.com",
+    "description": "AI conference hosted by Financial News and Ministry of Science and ICT with theme 'AI Shift – The New Economy', featuring global AI leaders from OpenAI, Microsoft, Google, Meta, Mistral and Korean government and industry representatives.",
+    "title_local": "AI World 2026",
+    "description_local": "파이낸셜뉴스와 과학기술정보통신부가 주최하는 AI 컨퍼런스로 'AI Shift – The New Economy'를 주제로, 오픈AI, 마이크로소프트, 구글, 메타, 미스트랄 등 글로벌 AI 기업과 한국 정부 및 산업계 주요 인사들이 참여합니다.",
+    "city": "seoul",
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "id": "3dfcd4a2d89c420b"
   },
   {
     "title": "Try Everything 2026",
@@ -718,7 +732,7 @@
     "description_local": "머신러닝을 포함한 컴퓨터과학, 사이버보안 및 정보기술 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-08-03",
-    "last_seen": "2026-08-21",
+    "last_seen": "2026-08-23",
     "id": "94ccce9b8532c79a"
   },
   {

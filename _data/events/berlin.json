@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-22"
+    "last_seen": "2026-08-23"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -364,7 +364,7 @@
     "description_local": "Unter dem Motto 'Connected Intelligence' untersucht dieses Meetup graph-basiertes Reasoning, Constraint Satisfaction, agentische Code-Reviews, KI-gestützte Entwicklungsworkflows und Javas sich entwickelnde Rolle in KI-Systemen. Der Abend umfasst Vorträge von Andreas Kollegger (Director of GenAI, Neo4j), Charles Francoise (Staff Software Engineer, CircleCI) und Ana Maria Mihalceanu (Java Champion Alumni & Developer Advocate, Oracle). Außerdem gibt es ein Panel zu 'Agentic AI in the Wild'. Keine Verkaufspräsentationen - nur praktische Lektionen aus Systemen, die in Produktion laufen. Zeitplan: 17:00 Einlass, 17:30 Begrüßung, Vorträge und Panel, Essen & Networking.",
     "city": "berlin",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-08-11",
+    "last_seen": "2026-08-23",
     "id": "4e17ef04ab5077b4"
   },
   {
@@ -378,7 +378,7 @@
     "description_local": "Engineering-orientierter Tag in Berlin zum Aufbau autonomer KI-Agenten von Grund auf, Beherrschung des 'Vibe Coding'-Workflows mit Google-Experten und praktischen Labs. Themen: Agentische Orchestrierung, Reasoning und Planung mit Gemini, schnelle Entwicklung mit Agent Development Kit (ADK).",
     "city": "berlin",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-08-23",
     "id": "0d7e0875ef229f2e"
   },
   {
@@ -1315,7 +1315,7 @@
     "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) mit Forschern, Branchenführern und Entwicklern zu den neuesten Fortschritten in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung mit fast dreißig wissenschaftlichen Sessions zu Robotik, autonomen Systemen, Klimawissenschaft, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1385,7 +1385,7 @@
     "description_local": "Abendveranstaltung mit 150 von Berlins Wirtschafts- und Technologieführern (18-22 Uhr). Veranstaltet von Startup Network Europe. Beinhaltet Panel mit 30 Minuten vorbereiteten Fragen und 15 Minuten kuratiertem Publikums-Q&A. Inklusive kostenloser Getränke, Snacks und Networking-App.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-18",
+    "last_seen": "2026-08-23",
     "id": "d7949f08ac7e51e0"
   },
   {
@@ -1455,7 +1455,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1469,7 +1469,7 @@
     "description_local": "Zweitägige KI-Konferenz (18.-19. Nov. 2026) mit Fokus auf KI in der Personalarbeit. Teil der KI-X Berlin-Serie von Quadriga Media. Bietet HR-Professionals Einblicke in Chancen, Grenzen und Risiken künstlicher Intelligenz und vernetzt First Mover deutschlandweit.",
     "city": "berlin",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-08-17",
+    "last_seen": "2026-08-23",
     "id": "6f7d11f8cf93fa4e"
   },
   {
@@ -1575,21 +1575,6 @@
     "id": "e7d2b6de6f7b8f4d"
   },
   {
-    "title": "AI in Manufacturing Meetup Group",
-    "date": null,
-    "venue": "Berlin",
-    "url": "https://www.meetup.com/berlin-ai-meetup-group/",
-    "source": "Meetup",
-    "description": "Community for exchanging ideas and demoing technologies around industrial automation, inspection systems, and AI-powered quality management. Hosted by Enao Vision, a Berlin-based startup empowering manufacturing professionals.",
-    "title_local": "AI in Manufacturing Meetup Group",
-    "description_local": "Community zum Austausch von Ideen und Demo von Technologien rund um industrielle Automatisierung, Inspektionssysteme und KI-gestützte Qualitätsmanagement. Gehostet von Enao Vision.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-06-18",
-    "last_seen": "2026-08-04",
-    "id": "786e4230a7cdc8a4"
-  },
-  {
     "title": "Berlin AI",
     "date": null,
     "venue": "TBA",
@@ -1601,7 +1586,7 @@
     "city": "berlin",
     "date_status": "unknown",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-08-04",
+    "last_seen": "2026-08-23",
     "id": "c927338a65708751"
   },
   {
@@ -1633,6 +1618,21 @@
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
     "id": "d2e4230b350e644f"
+  },
+  {
+    "title": "Berlin AI Meetup Group",
+    "date": null,
+    "venue": "Berlin",
+    "url": "https://www.meetup.com/berlin-ai-meetup-group/",
+    "source": "Meetup.com",
+    "description": "Community meetup for founders, engineers, innovators, and manufacturing professionals exploring AI in manufacturing. Focus on AI automation, machine vision, process and production optimization, and smart factories with startup-driven solutions. Regular gatherings at Kineo GmbH.",
+    "title_local": "Berlin AI Meetup Group",
+    "description_local": "Community-Meetup für Gründer, Ingenieure, Innovatoren und Fertigungsprofis, die KI in der Fertigung erkunden. Schwerpunkt auf KI-Automatisierung, Machine Vision, Prozessoptimierung und Smart Factories.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-08-23",
+    "id": "786e4230a7cdc8a4"
   },
   {
     "title": "Berlin DataTalksClub - Agentic AI Engineering",
@@ -1725,6 +1725,21 @@
     "id": "5fb7079ac0621f3d"
   },
   {
+    "title": "LLM Meetup: Practical Use Cases by Roosh Circle",
+    "date": null,
+    "venue": "Berlin (venue TBD)",
+    "url": "https://luma.com/sakz1lmv",
+    "source": "Luma",
+    "description": "Meetup for AI, machine learning, data science, and linguistics professionals. Speakers from Grammarly (evaluation of LLM output), Delivery Hero (data engineering workflow for LLMs), and Eviden (Cypher query building with open-source LLMs). Includes presentations, Q&A, and networking with drinks and snacks.",
+    "title_local": "LLM-Meetup: Praktische Anwendungsfälle",
+    "description_local": "Meetup für KI-, Machine-Learning-, Data-Science- und Linguistik-Profis. Vorträge zu LLM-Evaluierung, Daten-Engineering-Workflows und Cypher-Abfragen mit Open-Source-LLMs. Mit Präsentationen, Q&A und Networking.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "id": "f29c0bef56ccb0ef"
+  },
+  {
     "title": "Robotik und KI Hackathon",
     "date": null,
     "venue": "Berlin",
@@ -1755,18 +1770,18 @@
     "id": "9895b7d7199d8413"
   },
   {
-    "title": "meetup ai [Berlin]",
+    "title": "meetup.ai Berlin",
     "date": null,
     "venue": "Revaler Str. 31, Berlin",
     "url": "https://www.meetup.com/meetupai-berlin/",
-    "source": "meetup.com",
-    "description": "Open conversation about Artificial Intelligence. Speakers from various industries with different experiences and backgrounds touching on code implementations of AI and economical, social and ethical aspects. Open environment for people to connect, find inspiration.",
-    "title_local": "meetup ai [Berlin]",
-    "description_local": "Offenes Gespräch über Künstliche Intelligenz. Redner aus verschiedenen Branchen mit unterschiedlichen Erfahrungen und Hintergründen, die Code-Implementierungen von KI und wirtschaftliche, soziale und ethische Aspekte ansprechen.",
+    "source": "Meetup.com",
+    "description": "Community focused on creating open and transparent conversations about AI. Brings speakers from various industries with different backgrounds to discuss code implementations of AI and economical, social, and ethical aspects. Open environment for knowledge exchange and networking.",
+    "title_local": "meetup.ai Berlin",
+    "description_local": "Community mit Fokus auf offene und transparente Gespräche über KI. Bringt Redner aus verschiedenen Branchen zusammen, um Code-Implementierungen von KI sowie wirtschaftliche, soziale und ethische Aspekte zu diskutieren.",
     "city": "berlin",
     "date_status": "unknown",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-08-04",
+    "last_seen": "2026-08-23",
     "id": "2ac2b4827290e015"
   }
 ]
