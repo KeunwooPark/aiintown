@@ -624,20 +624,6 @@
     "id": "c630cd72a55db28f"
   },
   {
-    "title": "International Conference on Explainable AI and Data Science (ICEAIDS)",
-    "date": "2026-09-01",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/south-korea/artificial-intelligence",
-    "source": "internationalconferencealerts.com",
-    "description": "Academic conference focused on explainable AI and data science. Features research presentations, keynote sessions, and networking opportunities for researchers and practitioners in XAI and data science fields.",
-    "title_local": "설명 가능한 AI 및 데이터 과학 국제 컨퍼런스 (ICEAIDS)",
-    "description_local": "설명 가능한 AI 및 데이터 과학에 초점을 맞춘 학술 컨퍼런스. XAI 및 데이터 과학 분야의 연구자 및 실무자를 위한 연구 발표, 기조 세션 및 네트워킹 기회 제공",
-    "city": "seoul",
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-08-23",
-    "id": "98dd8b906bab4381"
-  },
-  {
     "title": "Search SEOul",
     "date": "2026-09-01",
     "venue": "Seoul, South Korea",
@@ -650,6 +636,20 @@
     "first_seen": "2026-08-07",
     "last_seen": "2026-08-07",
     "id": "424ab78795fa917c"
+  },
+  {
+    "title": "International Conference on AI Applications in Biomedical Informatics (ICAABMI)",
+    "date": "2026-09-07",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/south-korea/artificial-intelligence",
+    "source": "internationalconferencealerts.com",
+    "description": "International conference focusing on AI applications in biomedical informatics. Virtual and in-person format. Covers AI-driven healthcare solutions, medical imaging, clinical decision support, and biomedical data analysis.",
+    "title_local": "국제 바이오메디컬 정보학의 AI 응용 컨퍼런스 (ICAABMI)",
+    "description_local": "바이오메디컬 정보학의 AI 응용에 초점을 둔 국제 컨퍼런스. 가상 및 대면 형식. AI 기반 의료 솔루션, 의료 영상, 임상 의사 결정 지원 및 바이오메디컬 데이터 분석 다룸.",
+    "city": "seoul",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-08-24",
+    "id": "98dd8b906bab4381"
   },
   {
     "title": "AI WORLD 2026",
@@ -722,17 +722,17 @@
     "id": "a0b1a76f574c22bc"
   },
   {
-    "title": "International Conference on Computer Science, Cybersecurity and Information Technology (ICCSCIT)",
-    "title_local": "국제 컴퓨터과학, 사이버보안 및 정보기술 컨퍼런스",
+    "title": "International Conference on Computer Science, Programming and Security (ICCSPS)",
     "date": "2026-09-16",
     "venue": "Seoul, Republic of Korea",
     "url": "https://conferenceindex.org/conferences/machine-learning/seoul-kr",
     "source": "conferenceindex.org",
-    "description": "International conference covering computer science, cybersecurity and information technology with machine learning focus.",
-    "description_local": "머신러닝을 포함한 컴퓨터과학, 사이버보안 및 정보기술 국제 컨퍼런스.",
+    "description": "International conference on computer science, programming, and security with sessions on machine learning, AI security, and secure programming practices.",
+    "title_local": "국제 컴퓨터 과학, 프로그래밍 및 보안 컨퍼런스 (ICCSPS)",
+    "description_local": "컴퓨터 과학, 프로그래밍 및 보안에 관한 국제 컨퍼런스. 기계학습, AI 보안 및 안전한 프로그래밍 실습 세션 포함.",
     "city": "seoul",
     "first_seen": "2026-08-03",
-    "last_seen": "2026-08-23",
+    "last_seen": "2026-08-24",
     "id": "94ccce9b8532c79a"
   },
   {

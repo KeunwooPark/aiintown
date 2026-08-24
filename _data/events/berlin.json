@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-24",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -322,7 +322,7 @@
     "description_local": "Persönliches Global AI Community-Event mit Fokus auf künstliche Intelligenz, maschinelles Lernen und Data Science. Mit Diskussionen, Workshops und Networking für KI-Praktiker und Enthusiasten.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-25",
+    "last_seen": "2026-08-24",
     "id": "c173ee1f9567ce8d"
   },
   {
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-24",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -476,7 +476,7 @@
     "description_local": "Das KI-Meetup in Berlin ist eine Gelegenheit, Erkenntnisse auszutauschen, reale Anwendungsfälle zu teilen und von anderen zu lernen, die auf diesem Gebiet arbeiten. Sprecher sind Salma Sohrabi-Jahromi (Senior AI Scientist bei SAP) über 'Building Specialized LLM-based Enterprise Applications' und Arman Nassirtoussi (Gründer & CEO bei Stealth Startup) über 'Let's talk about Agentic AI'. Die Veranstaltung ist kostenlos, aber eine Registrierung ist erforderlich, mit begrenzten Plätzen. Getränke und Snacks sind inklusive.",
     "city": "berlin",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-08-15",
+    "last_seen": "2026-08-24",
     "id": "17b6c7bd9030c94c"
   },
   {
@@ -631,7 +631,7 @@
     "description_local": "Internationale akademische Konferenz zu Robotik, KI und Computertechnik mit Expertensitzungen, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern. Die Veranstaltung bietet auch Einladungsschreiben, Publikationsmöglichkeiten und einfache Registrierungsoptionen für internationale Teilnehmer.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-08-21",
+    "last_seen": "2026-08-24",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -799,7 +799,7 @@
     "description_local": "Zweitägige akkreditierte CPD-Veranstaltung zu Innovation in autonomer Mobilität, digitaler Fertigung und Elektronik mit KI-Anwendungen.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-08-12",
+    "last_seen": "2026-08-24",
     "id": "b19a445a8aa872b3"
   },
   {
@@ -813,7 +813,7 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-21",
+    "last_seen": "2026-08-24",
     "id": "216d5e94062d17a7"
   },
   {
@@ -1231,7 +1231,7 @@
     "description_local": "Die optimale Infrastruktur für den produktiven und skalierbaren Einsatz von verschiedensten AI Anwendungen steht im Mittelpunkt des AI Infrastructure Summit – diskutieren Sie mit mehr als 500 AI & IT Infrastructure Spezialisten über die neuesten Entwicklungen, technologische Lösungen und praktische Use Cases.",
     "city": "berlin",
     "first_seen": "2026-07-30",
-    "last_seen": "2026-07-30",
+    "last_seen": "2026-08-24",
     "id": "b83034415a1dc426"
   },
   {
@@ -1315,7 +1315,7 @@
     "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) mit Forschern, Branchenführern und Entwicklern zu den neuesten Fortschritten in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung mit fast dreißig wissenschaftlichen Sessions zu Robotik, autonomen Systemen, Klimawissenschaft, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-23",
+    "last_seen": "2026-08-24",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1455,7 +1455,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-23",
+    "last_seen": "2026-08-24",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1676,7 +1676,7 @@
     "city": "berlin",
     "date_status": "unknown",
     "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
+    "last_seen": "2026-08-24",
     "id": "85c8aa34e118ae0f"
   },
   {
@@ -1699,14 +1699,14 @@
     "date": null,
     "venue": "SAP Data Space, Rosenthaler Str. 38, 10178 Berlin",
     "url": "https://luma.com/hvg8jn50",
-    "source": "luma.com",
-    "description": "Meetup for AI, Deep Learning, Machine Learning engineers, Data Scientists, and AI startup founders. Sponsored by SAP, partnered with Jina AI. Features presentations on Jina Embeddings for RAG and Business AI developments, with networking.",
+    "source": "Luma",
+    "description": "Generative AI meetup sponsored by SAP, partnered with Jina AI. For AI, Deep Learning, ML engineers, Data Scientists, and AI startup founders. Features presentations on Jina Embeddings for RAG and Business AI developments, followed by networking with drinks and snacks",
     "title_local": "Generative AI Meetup in Berlin",
-    "description_local": "Meetup für KI-, Deep-Learning-, Machine-Learning-Ingenieure, Data Scientists und KI-Startup-Gründer. Gesponsert von SAP, in Partnerschaft mit Jina AI. Mit Präsentationen zu Jina Embeddings für RAG und Business-AI-Entwicklungen, mit Networking.",
+    "description_local": "Generative-AI-Meetup gesponsert von SAP, in Partnerschaft mit Jina AI. Für KI-, Deep-Learning-, ML-Engineers, Data Scientists und KI-Startup-Gründer. Präsentationen zu Jina Embeddings für RAG und Business-AI-Entwicklungen, gefolgt von Networking mit Getränken und Snacks",
     "city": "berlin",
     "date_status": "unknown",
     "first_seen": "2026-08-02",
-    "last_seen": "2026-08-02",
+    "last_seen": "2026-08-24",
     "id": "7f9bb7d1bb49feff"
   },
   {
