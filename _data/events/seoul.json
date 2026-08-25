@@ -750,6 +750,20 @@
     "id": "07dcb56d833f6ee7"
   },
   {
+    "title": "Next AI & Big Data Summit 2026",
+    "date": "2026-09-18",
+    "venue": "EL Tower 6F Grace Hall, Yangje, Seoul",
+    "url": "https://sarc.io/forum/t/3588",
+    "source": "ETNEWS Internet",
+    "description": "Conference focused on enterprise AI execution strategies with the theme 'AI ROI Era: Corporate AI Execution Strategy to Increase Investment Performance'. Topics include generative AI, agentic AI adoption, AI agent utilization, data capability enhancement, security and governance framework.",
+    "title_local": "Next AI & Big Data Summit 2026",
+    "description_local": "AI ROI 시대, 투자 성과 높이는 기업 AI 실행 전략을 주제로 하는 컨퍼런스입니다. 생성형 AI와 에이전틱 AI 확산에 맞춘 기업의 AI 투자 성과 극대화 방안, AI 에이전트 활용, 데이터 역량 강화, 보안과 거버넌스 체계 구축을 다룹니다.",
+    "city": "seoul",
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-08-25",
+    "id": "ceed13552c8e0101"
+  },
+  {
     "title": "AI for Science Conference 2026 (AI4Sci Korea)",
     "date": "2026-09-27",
     "venue": "Seoul Dragon City, Seoul",
@@ -856,7 +870,7 @@
     "description_local": "인공지능과 딥러닝의 고급 연구에 초점을 맞춘 학술 회의로, 연구자, 학계 및 산업 전문가들이 최신 연구 결과와 혁신을 공유.",
     "city": "seoul",
     "first_seen": "2026-08-02",
-    "last_seen": "2026-08-21",
+    "last_seen": "2026-08-25",
     "id": "bcb0a36139231a15"
   },
   {

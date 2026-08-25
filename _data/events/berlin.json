@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-23"
+    "last_seen": "2026-08-25"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-08-25",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -759,6 +759,20 @@
     "first_seen": "2026-07-02",
     "last_seen": "2026-07-02",
     "id": "75f871879fb580de"
+  },
+  {
+    "title": "International Conference on Artificial Intelligence and Machine Learning (ICAIML)",
+    "date": "2026-08-26",
+    "venue": "Berlin",
+    "url": "https://www.allconferencealert.com/berlin/ai",
+    "source": "Conference Alerts",
+    "description": "International academic conference covering innovation, research developments, practical applications, and future trends in AI and machine learning. Features expert sessions, keynote presentations, workshops, and networking opportunities with global participants.",
+    "title_local": "Internationale Konferenz für Künstliche Intelligenz und Maschinelles Lernen (ICAIML)",
+    "description_local": "Internationale akademische Konferenz zu Innovation, Forschungsentwicklungen, praktischen Anwendungen und Zukunftstrends in KI und maschinellem Lernen. Mit Expertensitzungen, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern.",
+    "city": "berlin",
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-08-25",
+    "id": "7cca0b0de334129d"
   },
   {
     "title": "Next Banking Summit 2026",
@@ -1287,7 +1301,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-25",
     "id": "cb6443b487d22397"
   },
   {
@@ -1385,7 +1399,7 @@
     "description_local": "Abendveranstaltung mit 150 von Berlins Wirtschafts- und Technologieführern (18-22 Uhr). Veranstaltet von Startup Network Europe. Beinhaltet Panel mit 30 Minuten vorbereiteten Fragen und 15 Minuten kuratiertem Publikums-Q&A. Inklusive kostenloser Getränke, Snacks und Networking-App.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-23",
+    "last_seen": "2026-08-25",
     "id": "d7949f08ac7e51e0"
   },
   {
@@ -1455,7 +1469,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-08-25",
     "id": "9a05b37a144a341e"
   },
   {
