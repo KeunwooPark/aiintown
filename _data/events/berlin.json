@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-25"
+    "last_seen": "2026-08-27"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-27",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -631,7 +631,7 @@
     "description_local": "Internationale akademische Konferenz zu Robotik, KI und Computertechnik mit Expertensitzungen, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern. Die Veranstaltung bietet auch Einladungsschreiben, Publikationsmöglichkeiten und einfache Registrierungsoptionen für internationale Teilnehmer.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-08-27",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -827,7 +827,7 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-08-27",
     "id": "216d5e94062d17a7"
   },
   {
@@ -1469,7 +1469,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-27",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1501,6 +1501,20 @@
     "id": "d5be695f108fc9f4"
   },
   {
+    "title": "KI-X HR Convention 2026",
+    "date": "2026-11-18",
+    "venue": "Berlin",
+    "url": "https://www.ki-x.berlin/",
+    "source": "ki-x.berlin",
+    "description": "Germany's largest conference on the use of artificial intelligence in HR work. Focuses on practical AI applications in recruiting, talent management, employee development, onboarding, and predictive analytics.",
+    "title_local": "KI-X HR Convention 2026",
+    "description_local": "Deutschlands größte Fachveranstaltung zum Einsatz künstlicher Intelligenz in der Personalarbeit. Im Mittelpunkt stehen praxisnahe Anwendungen von KI – etwa in Recruiting, Talentmanagement, Mitarbeiterentwicklung, Onboarding und Predictive Analytics.",
+    "city": "berlin",
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "id": "08e68b8299bee59e"
+  },
+  {
     "title": "{Tech: Berlin} X LLM Studios: AI Builders' Fireside Chat",
     "date": "2026-11-18",
     "venue": "Merantix AI Campus Berlin, Max-Ulrich-Straße 3",
@@ -1513,6 +1527,20 @@
     "first_seen": "2026-07-02",
     "last_seen": "2026-07-19",
     "id": "df9833e57f749195"
+  },
+  {
+    "title": "(Gut) Play-Konferenz 2026",
+    "date": "2026-11-24",
+    "venue": "Berlin",
+    "url": "https://www.depak.de/konferenzen/",
+    "source": "depak.de",
+    "description": "Conference with focus on AI and efficient production in 2026. Features 44 speakers including Prof. Dr. Carsten Schermuly, Sascha Lobo, and experts from Charité Berlin, TÜV NORD, and DOUGLAS.",
+    "title_local": "(Gut) Play-Konferenz 2026 - Schwerpunkt KI & effiziente Produktion",
+    "description_local": "Konferenz mit Schwerpunkt 2026 auf KI und effiziente Produktion. Mit 44 Referent:innen darunter Prof. Dr. Carsten Schermuly, Sascha Lobo und Experten von Charité Berlin, TÜV NORD und DOUGLAS.",
+    "city": "berlin",
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "id": "7c66ab55c8a51ce8"
   },
   {
     "title": "TFEST26 | The Supply Chain Transformation Event for Senior Leaders",
