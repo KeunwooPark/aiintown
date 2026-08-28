@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-08-28",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -565,20 +565,6 @@
     "id": "7652492edd459f82"
   },
   {
-    "title": "🎫 Mobile.de & Miro: A Night with Christian Idiodi (SVPG Group)",
-    "date": "2026-08-13",
-    "venue": "TBD, Berlin",
-    "url": "https://luma.com/4n0irfhh",
-    "source": "luma.com",
-    "description": "Evening event with Christian Idiodi from SVPG discussing how generative AI is impacting product development. Covers how AI is changing product team roles, product discovery, and product delivery. Part of Productlab Europe's community events.",
-    "title_local": "🎫 Mobile.de & Miro: Ein Abend mit Christian Idiodi (SVPG Group)",
-    "description_local": "Abendveranstaltung mit Christian Idiodi von SVPG, der diskutiert, wie generative KI die Produktentwicklung beeinflusst. Behandelt, wie KI die Rollen im Produktteam, Product Discovery und Product Delivery verändert.",
-    "city": "berlin",
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-08-03",
-    "id": "e341c1f91b5ab103"
-  },
-  {
     "title": "Digital Minds Research Sprint 2026 - Berlin",
     "date": "2026-08-14",
     "venue": "Foresight Node, CIC Berlin",
@@ -771,7 +757,7 @@
     "description_local": "Internationale akademische Konferenz zu Innovation, Forschungsentwicklungen, praktischen Anwendungen und Zukunftstrends in KI und maschinellem Lernen. Mit Expertensitzungen, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern.",
     "city": "berlin",
     "first_seen": "2026-08-25",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-28",
     "id": "7cca0b0de334129d"
   },
   {
@@ -827,8 +813,22 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-08-28",
     "id": "216d5e94062d17a7"
+  },
+  {
+    "title": "Mobile.de & Miro: A Night with Christian Idiodi (SVPG Group)",
+    "date": "2026-09-01",
+    "venue": "Berlin, Germany",
+    "url": "https://luma.com/4n0irfhh",
+    "source": "luma.com",
+    "description": "Evening event featuring Christian Idiodi from SVPG discussing how Generative AI is impacting product development. Topics include how this enabling technology is impacting roles on the product team, product discovery, and product delivery. Free tickets available upon venue capacity. Food and drinks provided.",
+    "title_local": "Mobile.de & Miro: Ein Abend mit Christian Idiodi (SVPG Group)",
+    "description_local": "Abendveranstaltung mit Christian Idiodi von SVPG, der diskutiert, wie Generative KI die Produktentwicklung beeinflusst. Themen umfassen, wie diese neue Technologie die Rollen im Produktteam, Product Discovery und Product Delivery beeinflusst. Kostenlose Tickets verfügbar je nach Veranstaltungskapazität. Essen und Getränke werden bereitgestellt.",
+    "city": "berlin",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-28",
+    "id": "e341c1f91b5ab103"
   },
   {
     "title": "XR Creator Con 2026 (XRCC) - XR+AI Hackathon",
@@ -1469,7 +1469,7 @@
     "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-08-28",
     "id": "9a05b37a144a341e"
   },
   {
