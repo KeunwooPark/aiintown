@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-27"
+    "last_seen": "2026-08-29"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -617,7 +617,7 @@
     "description_local": "Internationale akademische Konferenz zu Robotik, KI und Computertechnik mit Expertensitzungen, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten mit globalen Teilnehmern. Die Veranstaltung bietet auch Einladungsschreiben, Publikationsmöglichkeiten und einfache Registrierungsoptionen für internationale Teilnehmer.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-08-29",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -813,7 +813,7 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-28",
+    "last_seen": "2026-08-29",
     "id": "216d5e94062d17a7"
   },
   {
@@ -857,6 +857,20 @@
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
     "id": "53dfaa2f1e8d2c34"
+  },
+  {
+    "title": "We Need to Talk About AI, for real!",
+    "date": "2026-09-02",
+    "venue": "Human Future Hub, Berlin",
+    "url": "https://www.meetup.com/human-future-hub/",
+    "source": "createwith.com",
+    "description": "Community discussion event examining AI beyond simplistic calls to 'just use AI', exploring practical and critical perspectives on AI implementation. Starts at 18:30.",
+    "title_local": "Wir müssen über KI reden, wirklich!",
+    "description_local": "Community-Diskussionsveranstaltung zur kritischen Auseinandersetzung mit KI jenseits vereinfachter Aufrufe, praktische und kritische Perspektiven zur KI-Implementierung. Beginn um 18:30 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "id": "5b3795b3cc54bf6f"
   },
   {
     "title": "IFA 2026 (AI focus)",
@@ -969,6 +983,20 @@
     "first_seen": "2026-07-21",
     "last_seen": "2026-08-08",
     "id": "5b165a1f3e5a80ac"
+  },
+  {
+    "title": "AI Adoption & Automation Full-Day Event",
+    "date": "2026-09-15",
+    "venue": "Festsaal Kreuzberg, Berlin",
+    "url": "https://www.visitberlin.de/en/event-calendar-berlin",
+    "source": "visitberlin.de",
+    "description": "Full-day event on AI adoption and automation with tracks on organization, revenue & ops, and product. Speakers from AWS, HiBob, Mobile.de, FINN & SumUp share real lessons. Starts at 9:00.",
+    "title_local": "KI-Einführung & Automatisierung Ganztagesveranstaltung",
+    "description_local": "Ganztägige Veranstaltung zur KI-Einführung und Automatisierung mit Tracks zu Organisation, Umsatz & Ops sowie Produkt. Speaker von AWS, HiBob, Mobile.de, FINN & SumUp teilen echte Erfahrungen. Beginn um 9:00 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "id": "57b675813677dbae"
   },
   {
     "title": "Agentic AI Summit Berlin 2026",
@@ -1217,7 +1245,7 @@
     "description_local": "Summit für Fachleute, die Künstliche Intelligenz und Machine Learning praxisnah in Unternehmen einsetzen. Im Mittelpunkt stehen reale Use Cases, technologische Entwicklungen und erprobte Methoden aus Bereichen wie Applied AI, Analytics und MLOps. Bietet eine Plattform für den fachlichen Austausch über skalierbare KI-Lösungen und aktuelle Projekte aus der Unternehmenspraxis.",
     "city": "berlin",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-04",
+    "last_seen": "2026-08-29",
     "id": "af7769f167286697"
   },
   {
@@ -1291,6 +1319,20 @@
     "id": "7157d5749c55289f"
   },
   {
+    "title": "AGETECHX 2026",
+    "date": "2026-10-05",
+    "venue": "Clärchens Ballhaus (Oct 5 reception) & Schankhalle Pfefferberg, Prenzlauer Berg (Oct 6 forum), Berlin",
+    "url": "https://luma.com/agetechx-berlin",
+    "source": "luma.com",
+    "description": "Curated two-day event (October 5-6, 2026) for 200 founders, investors, care operators, corporates, policymakers, and researchers in ageing and longevity tech. Full-day forum on Oct 6 covering longevity biotech, care infrastructure, silver economy, robotics, and AI in ageing with 40 speakers. Includes German-language track 'Ethik trifft Rendite: KI in der Pflegepraxis' for care operators.",
+    "title_local": "AGETECHX 2026",
+    "description_local": "Kuratiertes zweitägiges Event (5.-6. Oktober 2026) für 200 Gründer, Investoren, Pflegebetreiber, Unternehmen, Entscheidungsträger und Forscher im Bereich Alterns- und Langlebigkeitstechnologie. Ganztägiges Forum am 6. Oktober zu Langlebigkeitsbiotech, Pflegeinfrastruktur, Silver Economy, Robotik und KI im Alter mit 40 Sprechern. Inkl. deutschsprachigem Track 'Ethik trifft Rendite: KI in der Pflegepraxis' für Pflegebetreiber.",
+    "city": "berlin",
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "id": "5ad17e5445093c9c"
+  },
+  {
     "title": "BERLIN QUANTUM BBQ October 2026",
     "date": "2026-10-06",
     "venue": "Berlin (venue TBD)",
@@ -1301,7 +1343,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-29",
     "id": "cb6443b487d22397"
   },
   {
@@ -1461,16 +1503,30 @@
   {
     "title": "MLcon Berlin 2026",
     "date": "2026-11-16",
-    "venue": "Maritim ProArte Hotel Berlin",
+    "venue": "Maritim proArte Hotel Berlin, Friedrichstraße 151, 10117 Berlin",
     "url": "https://mlconference.ai/berlin/",
     "source": "mlconference.ai",
-    "description": "The Event for Machine Learning Technologies & Innovations. Conference runs November 16-20, 2026, with expo on November 18-19, 2026. Features hands-on workshops, keynotes, and sessions from industry experts on generative AI and machine learning engineering. Includes ML Fundamentals Bootcamp and Strategy Day on November 25, with Workshop Days on November 25 & 28. Available both in-person in Berlin and online.",
+    "description": "Major machine learning and AI conference (November 16-20, 2026) with bootcamps Nov 16-17, main conference & expo Nov 18-19, and workshops Nov 17 & 20. Features 5 tracks: AI Agents & Agentic Workflows, Advanced RAG, Multimodal AI, MLOps & Open Source LLMs, and AI Strategy, Organization & Governance. Part of AI Native Week including VibeKode, AI Engineering Summit, and API Conference. Expected 40+ speakers with hands-on workshops and keynotes.",
     "title_local": "MLcon Berlin 2026",
-    "description_local": "Die Veranstaltung für Machine-Learning-Technologien & Innovationen. Konferenz vom 16.-20. November 2026, mit Expo am 18.-19. November 2026. Bietet Hands-on-Workshops, Keynotes und Sessions von Branchenexperten zu generativer KI und Machine-Learning-Engineering. Beinhaltet ML Fundamentals Bootcamp und Strategy Day am 25. November, mit Workshop-Tagen am 25. & 28. November. Verfügbar sowohl vor Ort in Berlin als auch online.",
+    "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-28",
+    "last_seen": "2026-08-29",
     "id": "9a05b37a144a341e"
+  },
+  {
+    "title": "BVDW KI-Meet-Up",
+    "date": "2026-11-18",
+    "venue": "Google AI Center Berlin",
+    "url": "https://www.bvdw.org/events/bvdw-ki-meet-up/",
+    "source": "bvdw.org",
+    "description": "Second AI meet-up examining what has actually changed since the major AI hype, technologically, organizationally and strategically. Focus on concrete insights, real practical questions, and open exchange about what works (and what doesn't). No long presentations or polished slides, but practical insights from real-world implementations.",
+    "title_local": "BVDW KI-Meet-Up",
+    "description_local": "Zweites KI-Meet-up mit Blick darauf, was sich seit den großen KI-Hypes tatsächlich verändert hat, technologisch, organisatorisch und strategisch. Fokus auf konkrete Einblicke, echte Fragen aus der Praxis und offenen Austausch darüber, was funktioniert (und was nicht). Keine langen Grundsatzreferate oder Hochglanzfolien, sondern konkrete Einblicke aus der Praxis.",
+    "city": "berlin",
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "id": "b088686d9c4ba20a"
   },
   {
     "title": "KI-X HR Convention",

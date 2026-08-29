@@ -652,6 +652,20 @@
     "id": "424ab78795fa917c"
   },
   {
+    "title": "GraphRAG & AI Agent Seminar",
+    "date": "2026-09-03",
+    "venue": "Gangnam-gu, Seoul",
+    "url": "https://onoffmix.com/event",
+    "source": "OnOffMix",
+    "description": "Paid seminar focusing on GraphRAG, AI Agents, AIREADY and public data applications from 1:00 PM to 5:45 PM",
+    "title_local": "GraphRAG & AI Agent 세미나",
+    "description_local": "GraphRAG, AI Agent, AIREADY 및 공공데이터 활용에 초점을 맞춘 유료 세미나 (오후 1시~5시 45분)",
+    "city": "seoul",
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "id": "0c9661f8103fb242"
+  },
+  {
     "title": "International Conference on AI Applications in Biomedical Informatics (ICAABMI)",
     "date": "2026-09-07",
     "venue": "Seoul, South Korea",
@@ -662,7 +676,7 @@
     "description_local": "바이오메디컬 정보학의 AI 응용에 초점을 둔 국제 컨퍼런스. 가상 및 대면 형식. AI 기반 의료 솔루션, 의료 영상, 임상 의사 결정 지원 및 바이오메디컬 데이터 분석 다룸.",
     "city": "seoul",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-28",
+    "last_seen": "2026-08-29",
     "id": "98dd8b906bab4381"
   },
   {
@@ -790,6 +804,20 @@
     "first_seen": "2026-07-20",
     "last_seen": "2026-08-15",
     "id": "79cde4c894afbe1b"
+  },
+  {
+    "title": "KBW2026 with Upbit (Korea Blockchain Week)",
+    "date": "2026-09-30",
+    "venue": "Walkerhill Hotels & Resorts, Gwangjin District, Seoul",
+    "url": "https://www.eventbrite.com/e/kbw2026-with-upbit-tickets-1992031734542",
+    "source": "Eventbrite",
+    "description": "Asia's foremost global blockchain and crypto conference, established in 2018, hosted in Seoul. Features teams with real capital and technology ready to validate, partner, and develop customers in the Korean market. Includes AI and blockchain intersection topics.",
+    "title_local": "KBW2026 with Upbit (코리아 블록체인 위크)",
+    "description_local": "2018년에 설립된 아시아 최고의 글로벌 블록체인 및 암호화폐 컨퍼런스로 서울에서 개최. AI와 블록체인의 교차점을 다루는 주제 포함",
+    "city": "seoul",
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "id": "470a3864adce27a0"
   },
   {
     "title": "Korea Open Source AI Meetup",
@@ -968,21 +996,21 @@
     "description_local": "2026년 12월 26일 서울에서 예정된 국제 머신러닝 및 Chat GPT 컨퍼런스입니다. 이 컨퍼런스는 혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 AI 주제를 다루며 전문가 세션, 기조 연설, 워크샵 및 글로벌 참가자와의 네트워킹 기회를 제공합니다.",
     "city": "seoul",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-08-29",
     "id": "bab02a8c2371d732"
   },
   {
     "title": "International Conference on Artificial Intelligence and Machine Learning (ICAIML)",
     "date": "2026-12-28",
-    "venue": "Seoul",
+    "venue": "Seoul, South Korea",
     "url": "https://www.conferencealert.com/seoul/ai",
     "source": "Conference Alert",
-    "description": "International conference on artificial intelligence and machine learning covering innovation, research developments, practical applications, and future trends. Features expert sessions and publication opportunities.",
-    "title_local": "인공지능 및 머신러닝 국제학술대회 (ICAIML)",
-    "description_local": "혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 다루는 인공지능 및 머신러닝 국제 학술대회. 전문가 세션 및 출판 기회 제공",
+    "description": "International conference covering a wide range of AI and machine learning themes including innovation, research developments, practical applications, and future trends. Offers expert sessions, keynote presentations, workshops, and networking opportunities",
+    "title_local": "인공지능 및 머신러닝 국제 컨퍼런스",
+    "description_local": "혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 광범위한 AI 및 머신러닝 주제를 다루는 국제 컨퍼런스. 전문가 세션, 기조 연설, 워크샵 및 네트워킹 기회 제공",
     "city": "seoul",
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-08-29",
     "id": "05c48094a94ca6a6"
   },
   {
