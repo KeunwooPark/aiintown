@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-29"
+    "last_seen": "2026-08-30"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-28",
+    "last_seen": "2026-08-30",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -364,7 +364,7 @@
     "description_local": "Unter dem Motto 'Connected Intelligence' untersucht dieses Meetup graph-basiertes Reasoning, Constraint Satisfaction, agentische Code-Reviews, KI-gestützte Entwicklungsworkflows und Javas sich entwickelnde Rolle in KI-Systemen. Der Abend umfasst Vorträge von Andreas Kollegger (Director of GenAI, Neo4j), Charles Francoise (Staff Software Engineer, CircleCI) und Ana Maria Mihalceanu (Java Champion Alumni & Developer Advocate, Oracle). Außerdem gibt es ein Panel zu 'Agentic AI in the Wild'. Keine Verkaufspräsentationen - nur praktische Lektionen aus Systemen, die in Produktion laufen. Zeitplan: 17:00 Einlass, 17:30 Begrüßung, Vorträge und Panel, Essen & Networking.",
     "city": "berlin",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-08-23",
+    "last_seen": "2026-08-30",
     "id": "4e17ef04ab5077b4"
   },
   {
@@ -392,7 +392,7 @@
     "description_local": "Besuchen Sie das Berlin KI-Meetup im betahaus am Moritzplatz für einen Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten. Derek Footer von XTR.Capital wird eine Keynote darüber halten, 'Wie Sie Ihr Startup auf die erste Finanzierungsrunde vorbereiten'. Demos umfassen One Ware (Physical AI für autonome Drohnen und Qualitätskontrolle) und Civic (die Berechtigungsebene für KI-Agenten). Egal, ob Sie ein Befürworter oder Kritiker sind, Ihre Perspektive ist wichtig.",
     "city": "berlin",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-08-18",
+    "last_seen": "2026-08-30",
     "id": "e3b46ef72cefd6d1"
   },
   {
@@ -1343,7 +1343,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "id": "cb6443b487d22397"
   },
   {
@@ -1511,7 +1511,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1688,6 +1688,21 @@
     "id": "c927338a65708751"
   },
   {
+    "title": "Berlin AI Engineering Group with m|rig",
+    "date": null,
+    "venue": "Berlin (various locations)",
+    "url": "https://www.meetup.com/berlin-ai-engineering-group-by-m-rig/",
+    "source": "meetup.com",
+    "description": "Regular meetup group dedicated to enhancing knowledge and skills in AI engineering. Explores how AI and Data solutions are designed, deployed, and operated within companies and large organizations, breaking down architectures, design patterns, and cloud services. Some sessions feature industry specialists sharing hands-on implementation experience.",
+    "title_local": "Berlin AI Engineering Group mit m|rig",
+    "description_local": "Regelmäßige Meetup-Gruppe zur Verbesserung von Wissen und Fähigkeiten im KI-Engineering. Untersucht, wie KI- und Datenlösungen in Unternehmen und großen Organisationen entworfen, eingesetzt und betrieben werden, mit Erklärung von Architekturen, Designmustern und Cloud-Services.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "id": "e233184fedf6f804"
+  },
+  {
     "title": "Berlin AI Machine Learning and Computer Vision Meetup",
     "date": null,
     "venue": "Online (monthly)",
@@ -1733,6 +1748,21 @@
     "id": "786e4230a7cdc8a4"
   },
   {
+    "title": "Berlin AI Meetup: 3D Data, Multimodal Models and More",
+    "date": null,
+    "venue": "Merantix AI Campus, Berlin",
+    "url": "https://www.merantix-aicampus.com/event/berlin-ai-meetup-3d-data-multimodal-models-and-more",
+    "source": "merantix-aicampus.com",
+    "description": "Community AI meetup hosted by ML6 in collaboration with AICamp at Merantix AI Campus. Features talks on 3D data and Gaussian splats, Large Multimodal Models (LMMs), and RLHF via Direct Policy Optimization from ML Engineers at ML6 and researchers at Hugging Face.",
+    "title_local": "Berlin AI Meetup: 3D-Daten, multimodale Modelle und mehr",
+    "description_local": "Community-KI-Treffen, veranstaltet von ML6 in Zusammenarbeit mit AICamp im Merantix AI Campus. Mit Vorträgen über 3D-Daten und Gaussian Splats, große multimodale Modelle (LMMs) und RLHF via Direct Policy Optimization von ML-Ingenieuren bei ML6 und Forschern bei Hugging Face.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "id": "a03c4c7024d5469e"
+  },
+  {
     "title": "Berlin DataTalksClub - Agentic AI Engineering",
     "date": null,
     "venue": "Berlin, Germany",
@@ -1746,6 +1776,21 @@
     "first_seen": "2026-06-23",
     "last_seen": "2026-07-29",
     "id": "b450cd094f29dad9"
+  },
+  {
+    "title": "Berlin NLP Meetup",
+    "date": null,
+    "venue": "Berlin (various locations)",
+    "url": "https://www.meetup.com/BerlinNLP/",
+    "source": "meetup.com",
+    "description": "Meetup for software developers and researchers interested in understanding and applying latest research in natural language processing. In-person events in Berlin with remote participation always possible via video call through sister group Open NLP.",
+    "title_local": "Berlin NLP Treffen",
+    "description_local": "Treffen für Softwareentwickler und Forscher, die sich für das Verständnis und die Anwendung neuester Forschung in der natürlichen Sprachverarbeitung interessieren. Präsenzveranstaltungen in Berlin mit Remote-Teilnahme immer möglich per Videoanruf über die Schwestergruppe Open NLP.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "id": "7e4c14b2fcee5b19"
   },
   {
     "title": "Berlin Tech Mixer and Social (Tech / AI / Data / IT)",
@@ -1879,7 +1924,7 @@
     "city": "berlin",
     "date_status": "unknown",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-08-23",
+    "last_seen": "2026-08-30",
     "id": "2ac2b4827290e015"
   }
 ]

@@ -732,7 +732,7 @@
     "description_local": "기계학습 및 사이버보안 주제에 초점을 맞춘 학술대회, 연구자들이 논문을 발표하고 최신 발전을 논의하는 플랫폼 제공",
     "city": "seoul",
     "first_seen": "2026-08-21",
-    "last_seen": "2026-08-28",
+    "last_seen": "2026-08-30",
     "id": "8f79cc37ca724a54"
   },
   {
@@ -1071,6 +1071,21 @@
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
     "id": "388b40ee5d3e0209"
+  },
+  {
+    "title": "SK텔레콤 AI 세미나",
+    "date": null,
+    "venue": "Seoul, South Korea",
+    "url": "https://event-us.kr/khpseminar/event/132272",
+    "source": "EventUs",
+    "description": "SK Telecom AI Lunch Seminar covering AI agents and related topics",
+    "title_local": "SK텔레콤 AI 세미나",
+    "description_local": "SK텔레콤과 함께하는 AI 런치 세미나! AI 에이전트 및 관련 주제를 다룸",
+    "city": "seoul",
+    "date_status": "unknown",
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "id": "418ff179d3e6b585"
   },
   {
     "title": "Seoul AI Meetup",
