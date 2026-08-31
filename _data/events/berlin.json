@@ -336,7 +336,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-30",
+    "last_seen": "2026-08-31",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -392,7 +392,7 @@
     "description_local": "Besuchen Sie das Berlin KI-Meetup im betahaus am Moritzplatz für einen Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten. Derek Footer von XTR.Capital wird eine Keynote darüber halten, 'Wie Sie Ihr Startup auf die erste Finanzierungsrunde vorbereiten'. Demos umfassen One Ware (Physical AI für autonome Drohnen und Qualitätskontrolle) und Civic (die Berechtigungsebene für KI-Agenten). Egal, ob Sie ein Befürworter oder Kritiker sind, Ihre Perspektive ist wichtig.",
     "city": "berlin",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-08-30",
+    "last_seen": "2026-08-31",
     "id": "e3b46ef72cefd6d1"
   },
   {
@@ -476,7 +476,7 @@
     "description_local": "Das KI-Meetup in Berlin ist eine Gelegenheit, Erkenntnisse auszutauschen, reale Anwendungsfälle zu teilen und von anderen zu lernen, die auf diesem Gebiet arbeiten. Sprecher sind Salma Sohrabi-Jahromi (Senior AI Scientist bei SAP) über 'Building Specialized LLM-based Enterprise Applications' und Arman Nassirtoussi (Gründer & CEO bei Stealth Startup) über 'Let's talk about Agentic AI'. Die Veranstaltung ist kostenlos, aber eine Registrierung ist erforderlich, mit begrenzten Plätzen. Getränke und Snacks sind inklusive.",
     "city": "berlin",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-08-31",
     "id": "17b6c7bd9030c94c"
   },
   {
@@ -561,7 +561,7 @@
     "description_local": "Teil des ClawCamp Summer Camp, einer internationalen dezentralen Serie mit Fokus auf persönliche Agenten, KI-Workflows und aufstrebende Agententechnologien. Praktische KI-Builder-Session für Menschen, die tatsächlich mit KI bauen möchten.",
     "city": "berlin",
     "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
+    "last_seen": "2026-08-31",
     "id": "7652492edd459f82"
   },
   {
@@ -603,7 +603,7 @@
     "description_local": "Kleine, fokussierte Treffen für Menschen, die sich bereits intensiver mit KI im Nachhaltigkeitsmanagement in Unternehmen beschäftigen. Konkrete Anwendungsfälle aus der Praxis und Diskussion von Zusammenarbeitsmöglichkeiten.",
     "city": "berlin",
     "first_seen": "2026-08-15",
-    "last_seen": "2026-08-15",
+    "last_seen": "2026-08-31",
     "id": "bd6117e178f6e24c"
   },
   {
@@ -813,8 +813,22 @@
     "description_local": "Konferenz über KI-gesteuerte Data Science und Machine-Learning-Anwendungen mit Fokus auf aktuelle Herausforderungen und Zukunftsperspektiven.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-31",
     "id": "216d5e94062d17a7"
+  },
+  {
+    "title": "AI Agents Berlin - H2 2026 Season",
+    "date": "2026-09-01",
+    "venue": "Berlin (various venues)",
+    "url": "https://luma.com/aiagentsberlin",
+    "source": "luma.com",
+    "description": "The city's leading event series exploring the convergence of agentic AI and blockchain. Multiple sessions through December 2026 including AI Agents Summit and sub-events, industry calls and workshops.",
+    "title_local": "AI Agents Berlin - H2 2026 Saison",
+    "description_local": "Die führende Event-Reihe der Stadt zur Konvergenz von agentischer KI und Blockchain. Mehrere Sessions bis Dezember 2026 einschließlich AI Agents Summit und Sub-Events, Branchen-Calls und Workshops.",
+    "city": "berlin",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-08-31",
+    "id": "6c1b442fc41ffe5f"
   },
   {
     "title": "Mobile.de & Miro: A Night with Christian Idiodi (SVPG Group)",
@@ -1021,7 +1035,7 @@
     "description_local": "Engineering-Gipfel für diejenigen, die KI-Systeme ausliefern und Skalierung anstreben. Über 300 Entwickler und Tech-Führungskräfte konzentrieren sich auf industrietaugliche Agentic AI, mit Nachmittags-Hackathon und 4.500 € Preisgeld für die besten drei Projekte.",
     "city": "berlin",
     "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
+    "last_seen": "2026-08-31",
     "id": "e4e24be233c170c5"
   },
   {
@@ -1079,6 +1093,20 @@
     "first_seen": "2026-08-17",
     "last_seen": "2026-08-17",
     "id": "f153cb14eff3c6c9"
+  },
+  {
+    "title": "Chief AI Officer Summit Berlin",
+    "date": "2026-09-15",
+    "venue": "The Ritz Carlton, 3 Potsdamer Platz",
+    "url": "https://world.aiacceleratorinstitute.com/location/caioberlin/",
+    "source": "aiacceleratorinstitute.com",
+    "description": "By invite only event for Europe's applied AI leaders. Focuses on operationalising AI at enterprise scale, bringing together newly-appointed Chief AI Officers and established Chief Data & Technology Officers.",
+    "title_local": "Chief AI Officer Summit Berlin",
+    "description_local": "Nur auf Einladung für Europas angewandte KI-Führungskräfte. Schwerpunkt liegt auf der Operationalisierung von KI im Unternehmensmaßstab.",
+    "city": "berlin",
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-08-31",
+    "id": "20aeff6f7b88e144"
   },
   {
     "title": "BIG BANG KI Festival 2026",
@@ -1343,7 +1371,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-30",
+    "last_seen": "2026-08-31",
     "id": "cb6443b487d22397"
   },
   {
@@ -1511,7 +1539,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-30",
+    "last_seen": "2026-08-31",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1611,21 +1639,6 @@
     "first_seen": "2026-07-12",
     "last_seen": "2026-08-02",
     "id": "cafd4681a9cdc973"
-  },
-  {
-    "title": "AI Agents Berlin - Summit and Series (H2 2026)",
-    "date": null,
-    "venue": "Berlin, Germany",
-    "url": "https://luma.com/aiagentsberlin",
-    "source": "luma.com",
-    "description": "Berlin's leading event series exploring the convergence of agentic AI and blockchain. H2 2026 season pass includes AI Agents Summit and sub-events, member tickets to every AIB session through December, whitelist invites to industry calls and workshops.",
-    "title_local": "AI Agents Berlin - Summit und Serie (H2 2026)",
-    "description_local": "Berlins führende Veranstaltungsreihe zur Erkundung der Konvergenz von agentischer KI und Blockchain. H2 2026 Saison-Pass umfasst AI Agents Summit und Sub-Events, Mitglieder-Tickets für jede AIB-Session bis Dezember, Whitelist-Einladungen zu Branchen-Calls und Workshops.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-07-21",
-    "last_seen": "2026-07-21",
-    "id": "6c1b442fc41ffe5f"
   },
   {
     "title": "AI Engineering 2026 Meetup",

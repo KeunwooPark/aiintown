@@ -722,17 +722,17 @@
     "id": "20a061d1129d5b42"
   },
   {
-    "title": "International Conference on Machine Learning and Cybernetics (ICMLC)",
-    "date": "2026-09-14",
+    "title": "World Congress on Semiconductor Technologies, AI & Intelligent Electronics (WCSTAI)",
+    "date": "2026-09-09",
     "venue": "Seoul, Republic of Korea",
     "url": "https://conferenceindex.org/conferences/artificial-intelligence/republic-of-korea",
     "source": "Conference Index",
-    "description": "Academic conference focusing on machine learning and cybersecurity topics, providing platform for researchers to present papers and discuss latest developments.",
-    "title_local": "기계학습 및 사이버네틱스 국제학술대회",
-    "description_local": "기계학습 및 사이버보안 주제에 초점을 맞춘 학술대회, 연구자들이 논문을 발표하고 최신 발전을 논의하는 플랫폼 제공",
+    "description": "World Congress focusing on semiconductor technologies, artificial intelligence and intelligent electronics with presentations and networking opportunities for researchers and industry professionals.",
+    "title_local": "World Congress on Semiconductor Technologies, AI & Intelligent Electronics (WCSTAI)",
+    "description_local": "반도체 기술, 인공지능 및 지능형 전자공학에 초점을 맞춘 세계 회의",
     "city": "seoul",
     "first_seen": "2026-08-21",
-    "last_seen": "2026-08-30",
+    "last_seen": "2026-08-31",
     "id": "8f79cc37ca724a54"
   },
   {
@@ -954,7 +954,7 @@
     "description_local": "제조, 물류 및 기업 응용을 포함한 산업 전반의 AI 전환(AX)에 초점을 맞춘 산업 AI 엑스포. 전시, 컨퍼런스 및 비즈니스 매칭 포함",
     "city": "seoul",
     "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
+    "last_seen": "2026-08-31",
     "id": "983148da87840f1e"
   },
   {
@@ -996,7 +996,7 @@
     "description_local": "2026년 12월 26일 서울에서 예정된 국제 머신러닝 및 Chat GPT 컨퍼런스입니다. 이 컨퍼런스는 혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 AI 주제를 다루며 전문가 세션, 기조 연설, 워크샵 및 글로벌 참가자와의 네트워킹 기회를 제공합니다.",
     "city": "seoul",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-31",
     "id": "bab02a8c2371d732"
   },
   {
@@ -1010,7 +1010,7 @@
     "description_local": "혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 광범위한 AI 및 머신러닝 주제를 다루는 국제 컨퍼런스. 전문가 세션, 기조 연설, 워크샵 및 네트워킹 기회 제공",
     "city": "seoul",
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-31",
     "id": "05c48094a94ca6a6"
   },
   {
