@@ -638,6 +638,34 @@
     "id": "e05542a7457ed01f"
   },
   {
+    "title": "Daytona HackSprint Seoul 해커톤",
+    "date": "2026-09-01",
+    "venue": "Seoul, South Korea",
+    "url": "https://luma.com/theaibuildersdev",
+    "source": "AI Builders, Daytona & Nosana",
+    "description": "AI development hackathon hosted by AI Builders community in Seoul",
+    "title_local": "Daytona HackSprint Seoul 해커톤",
+    "description_local": "서울의 AI Builders 커뮤니티가 주최하는 AI 개발 해커톤",
+    "city": "seoul",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "id": "4dd277638ee5a9e8"
+  },
+  {
+    "title": "Foundry Data & AI Summit",
+    "date": "2026-09-01",
+    "venue": "Seoul, South Korea",
+    "url": "https://foundryco.com/events/region/south-korea/",
+    "source": "Foundry",
+    "description": "CIO and tech expert summit covering AI, quantum security, and strategies for a data-driven future",
+    "title_local": "Foundry 데이터 & AI 서밋",
+    "description_local": "AI, 양자 보안 및 데이터 기반 미래를 위한 전략을 다루는 CIO 및 기술 전문가 서밋",
+    "city": "seoul",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "id": "a17765dea6924d56"
+  },
+  {
     "title": "Search SEOul",
     "date": "2026-09-01",
     "venue": "Seoul, South Korea",
@@ -664,6 +692,20 @@
     "first_seen": "2026-08-29",
     "last_seen": "2026-08-29",
     "id": "0c9661f8103fb242"
+  },
+  {
+    "title": "International Conference on Computer Science, Machine Learning and Artificial Intelligence (ICCSMLAI)",
+    "date": "2026-09-03",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.allconferencealert.com/seoul/september",
+    "source": "AllConferenceAlert",
+    "description": "International conference focusing on computer science, machine learning and artificial intelligence research",
+    "title_local": "컴퓨터 과학, 머신러닝 및 인공지능 국제 컨퍼런스",
+    "description_local": "컴퓨터 과학, 머신러닝 및 인공지능 연구에 초점을 맞춘 국제 컨퍼런스",
+    "city": "seoul",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "id": "498d945218d3f4d3"
   },
   {
     "title": "International Conference on AI Applications in Biomedical Informatics (ICAABMI)",
@@ -708,6 +750,20 @@
     "id": "3dfcd4a2d89c420b"
   },
   {
+    "title": "AICC & CX Insight 2026",
+    "date": "2026-09-09",
+    "venue": "COEX Hall B",
+    "url": "https://event-us.kr/etnewsinternet/event/130316",
+    "source": "EventUs",
+    "description": "AI Contact Center and Customer Experience conference showcasing AI innovations in customer service",
+    "title_local": "AICC & CX Insight 2026",
+    "description_local": "AI 컨택센터 및 고객경험 컨퍼런스, 고객 서비스 분야의 AI 혁신 소개",
+    "city": "seoul",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "id": "3cc01d38abc15d40"
+  },
+  {
     "title": "Try Everything 2026",
     "date": "2026-09-09",
     "venue": "Dongdaemun Design Plaza (DDP)",
@@ -734,6 +790,20 @@
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-31",
     "id": "8f79cc37ca724a54"
+  },
+  {
+    "title": "[9.11] 생성형 AI 구축을 위한 활용 방안과 신(新)사업 이슈 및 신(新)상업화 세미나",
+    "date": "2026-09-11",
+    "venue": "Seoul, South Korea",
+    "url": "https://event-us.kr/lfow3bsrr5ez/event/90138",
+    "source": "EventUs",
+    "description": "Seminar on generative AI implementation strategies, new business opportunities and commercialization",
+    "title_local": "[9.11] 생성형 AI 구축을 위한 활용 방안과 신(新)사업 이슈 및 신(新)상업화 세미나",
+    "description_local": "생성형 인공지능(AI) 시대를 대비하여 우리 기업의 현주소를 분석하고 미래 기술 기회 선점을 위한 다양한 분야의 주제가 발표되며 신기술 개발의 활로를 찾는 기회",
+    "city": "seoul",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "id": "72408f1a588f0649"
   },
   {
     "title": "2026 제2회 서울 AI 행정혁신포럼",
@@ -912,7 +982,7 @@
     "description_local": "인공지능과 딥러닝의 고급 연구에 초점을 맞춘 학술 회의로, 연구자, 학계 및 산업 전문가들이 최신 연구 결과와 혁신을 공유.",
     "city": "seoul",
     "first_seen": "2026-08-02",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-09-01",
     "id": "bcb0a36139231a15"
   },
   {
@@ -970,6 +1040,20 @@
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-18",
     "id": "eb7b9a95d3b2abc7"
+  },
+  {
+    "title": "Harnessing AI for Marketing Innovation | Seoul",
+    "date": "2026-11-10",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.eventbrite.com/d/south-korea--seoul/seoul-november/",
+    "source": "Eventbrite",
+    "description": "Workshop on how AI transforms marketing strategies with innovative automation, personalization, and analytics tools",
+    "title_local": "마케팅 혁신을 위한 AI 활용 | 서울",
+    "description_local": "혁신적인 자동화, 개인화 및 분석 도구를 통해 AI가 마케팅 전략을 어떻게 변화시키는지에 대한 워크숍",
+    "city": "seoul",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "id": "18b70194089547c7"
   },
   {
     "title": "ACML 2026 - The 18th Asian Conference on Machine Learning",

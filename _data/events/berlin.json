@@ -213,7 +213,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-30"
+    "last_seen": "2026-09-01"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -420,7 +420,7 @@
     "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die industriereife LLMs und generative KI aufbauen. Fokussierte KI-Builder-Veranstaltung mit Hunderten von Pionier-Ingenieuren, Entwicklern und Führungskräften.",
     "city": "berlin",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-08-14",
+    "last_seen": "2026-09-01",
     "id": "51113d0f9d43e4b6"
   },
   {
@@ -518,7 +518,7 @@
     "description_local": "Reihe von KI-Veranstaltungen am Merantix AI Campus zu Industrieanwendungen, Politik & Auswirkungen, Venture & Investitionen sowie Forschung & technologischem Fortschritt.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-09-01",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -929,6 +929,20 @@
     "id": "0280bd0dea9379d9"
   },
   {
+    "title": "SaaS & AI Pricing Report Launch",
+    "date": "2026-09-09",
+    "venue": "Axel Springer Neubau, Zimmerstraße 50, 10117 Berlin",
+    "url": "https://www.eventbrite.co.uk/d/germany--berlin/ai/",
+    "source": "eventbrite.co.uk",
+    "description": "Join us in person for the big reveal of the latest SaaS & AI Pricing trends and insights!",
+    "title_local": "SaaS & AI Pricing Report Launch",
+    "description_local": "Live-Enthüllung der neuesten SaaS & KI-Preistrends und Erkenntnisse",
+    "city": "berlin",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "id": "34fc27d67f30fba4"
+  },
+  {
     "title": "KI-Landpartie",
     "date": "2026-09-10",
     "venue": "Berlin",
@@ -1123,6 +1137,20 @@
     "id": "a1e89f63d8ce233d"
   },
   {
+    "title": "Hatch Conference 2026",
+    "date": "2026-09-16",
+    "venue": "Silent Green Kulturquartier, Gerichtstraße 35, 13347 Berlin",
+    "url": "https://hatchconference.com/",
+    "source": "hatchconference.com",
+    "description": "Europe's top event for senior UX & Design Professionals, featuring workshops, talks on design, strategy, and the impact of AI on design work. 3-day event (Sep 16-18) with workshops on AI, accessibility, and design systems.",
+    "title_local": "Hatch Conference 2026",
+    "description_local": "Europas führendes Event für erfahrene UX- und Design-Professionals mit Workshops, Vorträgen zu Design, Strategie und den Auswirkungen von KI auf die Designarbeit",
+    "city": "berlin",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "id": "6e8ac3d0191b7461"
+  },
+  {
     "title": "Venture Intelligence Day Berlin 2026",
     "date": "2026-09-16",
     "venue": "Rheinsberger Str. 76/77, 10115 Berlin",
@@ -1247,6 +1275,20 @@
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-17",
     "id": "19a57c55d4cf0abb"
+  },
+  {
+    "title": "BED-Con 2026 (Berlin Expert Days)",
+    "date": "2026-09-23",
+    "venue": "Henry-Ford-Bau, FU Berlin, Garystraße 35, 14195 Berlin",
+    "url": "https://bed-con.org/2026/",
+    "source": "bed-con.org",
+    "description": "Community-driven conference for software developers covering software engineering, cloud, data & AI, ML fundamentals, AI ethics, applications, architectures, frameworks, tools, and software engineering with agents. Two-day event (Sep 23-24).",
+    "title_local": "BED-Con 2026 (Berlin Expert Days)",
+    "description_local": "Community-getriebene Konferenz für Softwareentwickler mit Themen zu Software Engineering, Cloud, Daten & KI, ML-Grundlagen, KI-Ethik, Anwendungen, Architekturen, Frameworks, Tools und Software Engineering mit Agenten",
+    "city": "berlin",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "id": "933ddfb38d5bd738"
   },
   {
     "title": "Berlin Physical AI Workshop and Meetup",
@@ -1399,7 +1441,7 @@
     "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) mit Forschern, Branchenführern und Entwicklern zu den neuesten Fortschritten in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung mit fast dreißig wissenschaftlichen Sessions zu Robotik, autonomen Systemen, Klimawissenschaft, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-09-01",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1774,6 +1816,21 @@
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
     "id": "a03c4c7024d5469e"
+  },
+  {
+    "title": "Berlin Automation Summit",
+    "date": null,
+    "venue": "Needle, Schicklerstraße 5, Berlin",
+    "url": "https://luma.com/qqrosfn3",
+    "source": "luma.com",
+    "description": "Evening event exploring how automation and agentic AI are reshaping organizations and work. Features two fireside chats on Agentic AI & Workflow Automation and The Future of Work, with networking, food & beverages.",
+    "title_local": "Berlin Automation Summit",
+    "description_local": "Abendveranstaltung zur Erforschung, wie Automatisierung und agentische KI Organisationen und Arbeit verändern. Mit zwei Fireside Chats zu agentischer KI & Workflow-Automatisierung und der Zukunft der Arbeit",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "id": "f7569d1775328d25"
   },
   {
     "title": "Berlin DataTalksClub - Agentic AI Engineering",
