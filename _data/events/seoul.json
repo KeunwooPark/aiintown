@@ -634,7 +634,7 @@
     "description_local": "엔지니어, 창업자, 연구자, 제품 개발자를 위한 실전 AI 빌더 커뮤니티 밋업. AI 에이전트, 멀티모달 및 음성 인터페이스, RAG 및 지식 시스템, AI 코딩 도구, 워크플로우 자동화, 평가, 관찰성 및 프로덕션 AI 인프라에 대한 실제 프로젝트 데모",
     "city": "seoul",
     "first_seen": "2026-08-05",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-09-02",
     "id": "e05542a7457ed01f"
   },
   {
@@ -904,6 +904,20 @@
     "id": "8d1de578354f14e1"
   },
   {
+    "title": "Solana Summit Korea",
+    "date": "2026-09-30",
+    "venue": "Seoul, South Korea",
+    "url": "https://solana.com/events",
+    "source": "solana.com",
+    "description": "Solana Summit Korea - blockchain event that may include AI and Web3 technology discussions.",
+    "title_local": "솔라나 서밋 코리아",
+    "description_local": "솔라나 서밋 코리아 - AI 및 Web3 기술 논의를 포함할 수 있는 블록체인 이벤트입니다.",
+    "city": "seoul",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "id": "05f4430eeaa05762"
+  },
+  {
     "title": "The 6th Korea Artificial Intelligence Conference",
     "date": "2026-09-30",
     "venue": "Sono Calm Jeju (not Seoul - in Jeju)",
@@ -1080,7 +1094,7 @@
     "description_local": "2026년 12월 26일 서울에서 예정된 국제 머신러닝 및 Chat GPT 컨퍼런스입니다. 이 컨퍼런스는 혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 AI 주제를 다루며 전문가 세션, 기조 연설, 워크샵 및 글로벌 참가자와의 네트워킹 기회를 제공합니다.",
     "city": "seoul",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-02",
     "id": "bab02a8c2371d732"
   },
   {

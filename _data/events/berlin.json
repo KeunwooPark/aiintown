@@ -420,7 +420,7 @@
     "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die industriereife LLMs und generative KI aufbauen. Fokussierte KI-Builder-Veranstaltung mit Hunderten von Pionier-Ingenieuren, Entwicklern und Führungskräften.",
     "city": "berlin",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-09-01",
+    "last_seen": "2026-09-02",
     "id": "51113d0f9d43e4b6"
   },
   {
@@ -929,20 +929,6 @@
     "id": "0280bd0dea9379d9"
   },
   {
-    "title": "SaaS & AI Pricing Report Launch",
-    "date": "2026-09-09",
-    "venue": "Axel Springer Neubau, Zimmerstraße 50, 10117 Berlin",
-    "url": "https://www.eventbrite.co.uk/d/germany--berlin/ai/",
-    "source": "eventbrite.co.uk",
-    "description": "Join us in person for the big reveal of the latest SaaS & AI Pricing trends and insights!",
-    "title_local": "SaaS & AI Pricing Report Launch",
-    "description_local": "Live-Enthüllung der neuesten SaaS & KI-Preistrends und Erkenntnisse",
-    "city": "berlin",
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-09-01",
-    "id": "34fc27d67f30fba4"
-  },
-  {
     "title": "KI-Landpartie",
     "date": "2026-09-10",
     "venue": "Berlin",
@@ -1277,6 +1263,20 @@
     "id": "19a57c55d4cf0abb"
   },
   {
+    "title": "Berlin Health AI Night: The Rise of Local AI",
+    "date": "2026-09-22",
+    "venue": "Merantix AI Campus, Max-Urich-Straße 3, 13355 Berlin",
+    "url": "https://www.eventbrite.co.uk/d/germany--berlin/ai/",
+    "source": "Eventbrite",
+    "description": "Where health meets AI in Berlin: an evening of short expert talks, open exchange and in-person networking.",
+    "title_local": "Berlin Health AI Night: Der Aufstieg lokaler KI",
+    "description_local": "Wo Gesundheit auf KI in Berlin trifft: ein Abend mit kurzen Expertenvorträgen, offenem Austausch und persönlichem Networking.",
+    "city": "berlin",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-02",
+    "id": "34fc27d67f30fba4"
+  },
+  {
     "title": "BED-Con 2026 (Berlin Expert Days)",
     "date": "2026-09-23",
     "venue": "Henry-Ford-Bau, FU Berlin, Garystraße 35, 14195 Berlin",
@@ -1289,6 +1289,20 @@
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "id": "933ddfb38d5bd738"
+  },
+  {
+    "title": "AI, ML and Computer Vision Meetup",
+    "date": "2026-09-24",
+    "venue": "Online",
+    "url": "https://www.meetup.com/berlin-ai-machine-learning-and-computer-vision-meetup/",
+    "source": "Meetup.com",
+    "description": "Virtual meetup featuring talks from experts on cutting-edge topics across AI, ML, and computer vision.",
+    "title_local": "KI, ML und Computer Vision Meetup",
+    "description_local": "Virtuelles Meetup mit Vorträgen von Experten zu hochmodernen Themen aus KI, ML und Computer Vision.",
+    "city": "berlin",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-09-02",
+    "id": "afee80afb04875d4"
   },
   {
     "title": "Berlin Physical AI Workshop and Meetup",
@@ -1345,6 +1359,34 @@
     "first_seen": "2026-07-30",
     "last_seen": "2026-08-24",
     "id": "b83034415a1dc426"
+  },
+  {
+    "title": "Big Data Minds 2026",
+    "date": "2026-09-28",
+    "venue": "Maritim proArte Hotel Berlin, Berlin",
+    "url": "https://conferenceindex.org/event/big-data-minds-2026-september-berlin-de",
+    "source": "Conference Index",
+    "description": "Conference on efficient data management, advanced data analysis and best practices in data governance. Co-located with Enterprise AI Summit and Business Intelligence Minds. Over 500 participants expected.",
+    "title_local": "Big Data Minds 2026",
+    "description_local": "Konferenz über effizientes Datenmanagement, fortschrittliche Datenanalyse und Best Practices im Bereich Data Governance. Co-located mit Enterprise AI Summit und Business Intelligence Minds. Über 500 Teilnehmende erwartet.",
+    "city": "berlin",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "id": "02480906c215d212"
+  },
+  {
+    "title": "Business & Data Intelligence Minds 2026",
+    "date": "2026-09-28",
+    "venue": "Maritim proArte Hotel Berlin, Berlin",
+    "url": "https://10times.com/e1r3-8k2f-0gkf",
+    "source": "10times",
+    "description": "Conference focusing on efficient implementation of BI and data analytics. Over 500 participants, expert speakers sharing insights on data-driven business practices, innovative solutions, and latest BI tools.",
+    "title_local": "Business & Data Intelligence Minds 2026",
+    "description_local": "Konferenz über die effiziente Implementierung von BI und Datenanalyse. Über 500 Teilnehmende, Expertensprecher teilen Einblicke in datengetriebene Geschäftspraktiken, innovative Lösungen und neueste BI-Tools.",
+    "city": "berlin",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "id": "7cc507df54a596c0"
   },
   {
     "title": "Enterprise AI Summit",
@@ -1571,6 +1613,20 @@
     "id": "6c9e24de15597d06"
   },
   {
+    "title": "AI Native Week Berlin 2026",
+    "date": "2026-11-16",
+    "venue": "Maritim proArte Hotel Berlin, Friedrichstraße 151, 10117 Berlin",
+    "url": "https://devm.io/ai-native-week/",
+    "source": "devm.io",
+    "description": "Week-long conference series exploring AI-native software engineering across ML, APIs, agentic development, architecture, governance and operations. Includes MLcon Conference, VibeKode, AI Engineering Summit, and API Conference. Six tracks covering the complete AI-native software lifecycle.",
+    "title_local": "AI Native Week Berlin 2026",
+    "description_local": "Wochenlange Konferenzreihe zur Erkundung von AI-nativer Software-Entwicklung über ML, APIs, Agentic Development, Architektur, Governance und Operations. Umfasst MLcon Conference, VibeKode, AI Engineering Summit und API Conference. Sechs Tracks, die den gesamten AI-nativen Software-Lebenszyklus abdecken.",
+    "city": "berlin",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "id": "0058e69380058f51"
+  },
+  {
     "title": "MLcon Berlin 2026",
     "date": "2026-11-16",
     "venue": "Maritim proArte Hotel Berlin, Friedrichstraße 151, 10117 Berlin",
@@ -1581,8 +1637,22 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-02",
     "id": "9a05b37a144a341e"
+  },
+  {
+    "title": "VibeKode Berlin 2026",
+    "date": "2026-11-16",
+    "venue": "Maritim proArte Hotel Berlin, Friedrichstraße 151, 10117 Berlin",
+    "url": "https://vibekode.it/berlin/",
+    "source": "vibekode.it",
+    "description": "The Vibe Coding Conference, part of AI Native Week. Brings together innovators, engineers, and enterprise leaders building the next generation of intelligent systems. Includes workshops on MCP & AI Agents, AI Collaborator, and Agentic AI Development.",
+    "title_local": "VibeKode Berlin 2026",
+    "description_local": "Die Vibe Coding Konferenz, Teil der AI Native Week. Bringt Innovatoren, Ingenieure und Unternehmensführer zusammen, die die nächste Generation intelligenter Systeme aufbauen. Beinhaltet Workshops zu MCP & AI Agents, AI Collaborator und Agentic AI Development.",
+    "city": "berlin",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "id": "fdd16f45d46f27cf"
   },
   {
     "title": "BVDW KI-Meet-Up",
@@ -1756,21 +1826,6 @@
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
     "id": "e233184fedf6f804"
-  },
-  {
-    "title": "Berlin AI Machine Learning and Computer Vision Meetup",
-    "date": null,
-    "venue": "Online (monthly)",
-    "url": "https://www.meetup.com/berlin-ai-machine-learning-and-computer-vision-meetup/",
-    "source": "meetup.com",
-    "description": "Monthly meetup featuring diverse speakers working at the cutting edge of AI, machine learning, and computer vision. Topics include Model Context Protocol (MCP), agentic systems, computer vision applications, and medical imaging. Sponsored by Voxel51, maintainers of the FiftyOne computer vision toolset.",
-    "title_local": "Berlin AI Machine Learning und Computer Vision Meetup",
-    "description_local": "Monatliches Meetup mit verschiedenen Speakern, die an der Spitze von KI, Machine Learning und Computer Vision arbeiten. Themen umfassen Model Context Protocol (MCP), agentische Systeme, Computer-Vision-Anwendungen und medizinische Bildgebung. Gesponsert von Voxel51, den Maintainern des FiftyOne Computer-Vision-Toolsets.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "id": "afee80afb04875d4"
   },
   {
     "title": "Berlin AI Meetup (Luma)",
