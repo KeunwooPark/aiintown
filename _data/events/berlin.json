@@ -198,7 +198,7 @@
     "description_local": "Tag mit angewandten und technischen Machine-Learning-Vorträgen, praktischen Workshops, Networking und gutem Essen. Programm umfasst Frühstück, Hauptbühnenvorträge, fokussierte Workshops, Kaffeepausen, Postersession und Abend-Networking. Spezial-Track zu KI für Wissenschaft & Technik.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
+    "last_seen": "2026-09-03",
     "id": "4d4716c9097c2985"
   },
   {
@@ -420,7 +420,7 @@
     "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die industriereife LLMs und generative KI aufbauen. Fokussierte KI-Builder-Veranstaltung mit Hunderten von Pionier-Ingenieuren, Entwicklern und Führungskräften.",
     "city": "berlin",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "id": "51113d0f9d43e4b6"
   },
   {
@@ -675,20 +675,6 @@
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
     "id": "c6e31558e2cf601c"
-  },
-  {
-    "title": "AI Vibe Sprint at AI Campus Berlin",
-    "date": "2026-08-20",
-    "venue": "AI Campus Berlin",
-    "url": "https://www.createwith.com/event/berlin-the-berlin-ai-conference-2026-oct-2026",
-    "source": "createwith.com",
-    "description": "Hands-on vibe coding session (5:00 PM - 9:00 PM) to build and ship an AI-powered product in one evening. In-person sprint designed to move from idea to working project alongside other product builders. Includes 20-minute showcase and workshop with live demos, followed by open building session. Hosted by Emergent.",
-    "title_local": "AI Vibe Sprint am AI Campus Berlin",
-    "description_local": "Praktische Vibe-Coding-Session (17:00 - 21:00 Uhr) zum Aufbau und Deployment eines KI-gestützten Produkts an einem Abend. In-Person-Sprint, um von der Idee zum funktionierenden Projekt zu gelangen. Beinhaltet 20-minütigen Showcase und Workshop mit Live-Demos, gefolgt von offener Building-Session.",
-    "city": "berlin",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-22",
-    "id": "05ab1b0605f2276b"
   },
   {
     "title": "AI Tinkerers Berlin - August 22",
@@ -1431,6 +1417,20 @@
     "id": "7157d5749c55289f"
   },
   {
+    "title": "The Berlin AI Conference 2026",
+    "date": "2026-10-01",
+    "venue": "SPACE SHACK Coworking, Berlin",
+    "url": "https://www.createwith.com/event/berlin-the-berlin-ai-conference-2026-oct-2026",
+    "source": "createwith.com",
+    "description": "The Berlin AI Conference 2026 brings together 150 business and tech leaders for an evening of insights, discussion, and networking. Building on the success of sold-out events in 2024 and 2025, this year's conference promises to deliver cutting-edge perspectives on artificial intelligence from industry practitioners.",
+    "title_local": "The Berlin AI Conference 2026",
+    "description_local": "Die Berlin AI Conference 2026 bringt 150 Business- und Tech-Leader für einen Abend voller Einblicke, Diskussionen und Networking zusammen.",
+    "city": "berlin",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-09-03",
+    "id": "05ab1b0605f2276b"
+  },
+  {
     "title": "AGETECHX 2026",
     "date": "2026-10-05",
     "venue": "Clärchens Ballhaus (Oct 5 reception) & Schankhalle Pfefferberg, Prenzlauer Berg (Oct 6 forum), Berlin",
@@ -1459,6 +1459,20 @@
     "id": "cb6443b487d22397"
   },
   {
+    "title": "ai devCon",
+    "date": "2026-10-07",
+    "venue": "Berlin, Germany",
+    "url": "https://dev.events/meetups/EU/DE/Berlin/ai",
+    "source": "dev.events",
+    "description": "Artificial Intelligence conference in Berlin, Europe. October 7-9, 2026.",
+    "title_local": "ai devCon",
+    "description_local": "Künstliche-Intelligenz-Konferenz in Berlin, Europa. 7.-9. Oktober 2026.",
+    "city": "berlin",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "id": "b7ccc88a42218045"
+  },
+  {
     "title": "AI, Machine Learning & Data Science Conference",
     "date": "2026-10-12",
     "venue": "Berlin, Germany",
@@ -1483,7 +1497,7 @@
     "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) mit Forschern, Branchenführern und Entwicklern zu den neuesten Fortschritten in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung mit fast dreißig wissenschaftlichen Sessions zu Robotik, autonomen Systemen, Klimawissenschaft, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-01",
+    "last_seen": "2026-09-03",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1599,6 +1613,20 @@
     "id": "8829e1c94d7c3e92"
   },
   {
+    "title": "NVIDIA GTC Berlin 2026",
+    "date": "2026-11-09",
+    "venue": "Berlin, Germany",
+    "url": "https://dev.events/EU/DE/Berlin/ai",
+    "source": "dev.events",
+    "description": "Artificial Intelligence conference in Berlin, Europe. November 9-10, 2026. NVIDIA's GPU Technology Conference focused on AI and accelerated computing.",
+    "title_local": "NVIDIA GTC Berlin 2026",
+    "description_local": "Künstliche-Intelligenz-Konferenz in Berlin, Europa. 9.-10. November 2026. NVIDIAs GPU Technology Conference mit Schwerpunkt auf KI und beschleunigtem Computing.",
+    "city": "berlin",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "id": "ee5b8a782a60e44d"
+  },
+  {
     "title": "AI in Production: Building Recommenders and AI-Powered Discovery",
     "date": "2026-11-12",
     "venue": "Sonnenburger Str. 73, 10437 Berlin",
@@ -1637,7 +1665,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1725,6 +1753,20 @@
     "id": "df9833e57f749195"
   },
   {
+    "title": "4. KI-Tag – KI in der (Rechts-)Praxis bei HÄRTING Rechtsanwälte",
+    "date": "2026-11-19",
+    "venue": "HÄRTING Rechtsanwälte, Berlin",
+    "url": "https://www.eventbrite.de/e/4-ki-tag-ki-in-der-rechts-praxis-bei-harting-rechtsanwalte-tickets-1992926459689",
+    "source": "Eventbrite",
+    "description": "The KI-Tag brings together experts from supervision, regulation, corporate practice and the AI economy. The focus is on current questions around artificial intelligence, AI Act, data protection and the practical use of AI in companies.",
+    "title_local": "4. KI-Tag – KI in der (Rechts-)Praxis bei HÄRTING Rechtsanwälte",
+    "description_local": "Der KI-Tag bringt Expert:innen aus Aufsicht, Regulierung, Unternehmenspraxis und KI-Wirtschaft zusammen. Im Mittelpunkt stehen aktuelle Fragen rund um Künstliche Intelligenz, AI Act, Datenschutz und den praktischen Einsatz von KI in Unternehmen.",
+    "city": "berlin",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "id": "5afea2e8c30dc12b"
+  },
+  {
     "title": "(Gut) Play-Konferenz 2026",
     "date": "2026-11-24",
     "venue": "Berlin",
@@ -1751,6 +1793,20 @@
     "first_seen": "2026-07-12",
     "last_seen": "2026-08-02",
     "id": "cafd4681a9cdc973"
+  },
+  {
+    "title": "AI Coding Summit - Berlin Edition",
+    "date": "2026-12-04",
+    "venue": "Berlin, Germany",
+    "url": "https://dev.events/meetups/EU/DE/Berlin/ml",
+    "source": "dev.events",
+    "description": "Machine Learning conference focused on AI coding, hybrid event (online and in-person). Event runs from December 4-7, 2026.",
+    "title_local": "AI Coding Summit - Berlin Edition",
+    "description_local": "Machine-Learning-Konferenz mit Schwerpunkt auf KI-Programmierung, Hybrid-Veranstaltung (online und vor Ort). Die Veranstaltung findet vom 4. bis 7. Dezember 2026 statt.",
+    "city": "berlin",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "id": "761193f35a1b6641"
   },
   {
     "title": "AI Engineering 2026 Meetup",
