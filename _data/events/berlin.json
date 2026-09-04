@@ -146,20 +146,6 @@
     "id": "3f5021a85ab2cd80"
   },
   {
-    "title": "INDUSTRY.forward SUMMIT",
-    "date": "2026-07-01",
-    "venue": "Berlin",
-    "url": "https://www.eventbrite.de/d/germany--berlin--85682499/ki/",
-    "source": "eventbrite.de",
-    "description": "Two-day summit focused on AI-driven automation and resilient enterprise technology stacks for industrial applications.",
-    "title_local": "INDUSTRY.forward SUMMIT",
-    "description_local": "Zweitägiger Gipfel zu KI-getriebener Automatisierung und resilienten Unternehmenstechnologie-Stacks.",
-    "city": "berlin",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "id": "99e8a97b50fc5579"
-  },
-  {
     "title": "CONNECTED Conference 2026 Berlin",
     "date": "2026-07-02",
     "venue": "Berlin",
@@ -213,7 +199,7 @@
     "city": "berlin",
     "id": "47fe1fae574918e4",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-01"
+    "last_seen": "2026-09-04"
   },
   {
     "title": "Language AI Meetup Berlin - July 2026",
@@ -420,7 +406,7 @@
     "description_local": "Berlins führende Versammlung für Ingenieure und Entwickler, die industriereife LLMs und generative KI aufbauen. Fokussierte KI-Builder-Veranstaltung mit Hunderten von Pionier-Ingenieuren, Entwicklern und Führungskräften.",
     "city": "berlin",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "id": "51113d0f9d43e4b6"
   },
   {
@@ -887,6 +873,34 @@
     "id": "4389b8d37c69b49e"
   },
   {
+    "title": "Building AI Applications at Scale ft. ClickHouse®, Grafana, and dltHub",
+    "title_local": "KI-Anwendungen im großen Maßstab entwickeln mit ClickHouse®, Grafana und dltHub",
+    "date": "2026-09-08",
+    "venue": "Rosebud - Meetingraum / Konferenzfläche / Workshop Fläche",
+    "url": "https://www.eventbrite.com/d/germany--berlin/engineering-conference/",
+    "source": "Eventbrite",
+    "description": "Join engineers as they share the architectures behind production AI systems, focusing on scaling AI applications with modern data infrastructure tools.",
+    "description_local": "Treffen Sie Ingenieure, die die Architekturen hinter produktiven KI-Systemen teilen, mit Fokus auf die Skalierung von KI-Anwendungen mit modernen Dateninfrastruktur-Tools.",
+    "city": "berlin",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "id": "e16c8a3bcc5da389"
+  },
+  {
+    "title": "KI & Logistik: Intelligente Prozesse im Mega-Paketzentrum erleben",
+    "title_local": "KI & Logistik: Intelligente Prozesse im Mega-Paketzentrum erleben",
+    "date": "2026-09-08",
+    "venue": "Berlin",
+    "url": "https://www.digitale-hauptstadtregion.de/veranstaltungen/",
+    "source": "Digitale Hauptstadtregion",
+    "description": "Experience intelligent processes in a mega parcel center - an event exploring AI applications in logistics.",
+    "description_local": "Erleben Sie intelligente Prozesse in einem Mega-Paketzentrum - eine Veranstaltung zur Erkundung von KI-Anwendungen in der Logistik.",
+    "city": "berlin",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "id": "f3a1018cede256e8"
+  },
+  {
     "title": "KI-Landpartie",
     "date": "2026-09-08",
     "venue": "Berlin (venue TBD)",
@@ -1250,16 +1264,16 @@
   },
   {
     "title": "Berlin Health AI Night: The Rise of Local AI",
+    "title_local": "Berlin Health AI Night: Der Aufstieg der lokalen KI",
     "date": "2026-09-22",
-    "venue": "Merantix AI Campus, Max-Urich-Straße 3, 13355 Berlin",
+    "venue": "Merantix AI Campus",
     "url": "https://www.eventbrite.co.uk/d/germany--berlin/ai/",
     "source": "Eventbrite",
-    "description": "Where health meets AI in Berlin: an evening of short expert talks, open exchange and in-person networking.",
-    "title_local": "Berlin Health AI Night: Der Aufstieg lokaler KI",
-    "description_local": "Wo Gesundheit auf KI in Berlin trifft: ein Abend mit kurzen Expertenvorträgen, offenem Austausch und persönlichem Networking.",
+    "description": "An evening event where health meets AI in Berlin, featuring short expert talks, open exchange and in-person networking.",
+    "description_local": "Ein Abendveranstaltung, bei der Gesundheit auf KI in Berlin trifft, mit kurzen Expertenvorträgen, offenem Austausch und persönlichem Networking.",
     "city": "berlin",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-04",
     "id": "34fc27d67f30fba4"
   },
   {
@@ -1431,6 +1445,20 @@
     "id": "05ab1b0605f2276b"
   },
   {
+    "title": "BITES 26: Black in Tech Europe Summit",
+    "title_local": "BITES 26: Black in Tech Europe Summit",
+    "date": "2026-10-02",
+    "venue": "Berlin Global Village gGmbH, Am Sudhaus 2",
+    "url": "https://www.eventbrite.com/d/germany--berlin/tech-meetup/",
+    "source": "Eventbrite",
+    "description": "One of Europe's largest conferences for Black tech professionals, bringing together innovators shaping a more inclusive digital future.",
+    "description_local": "Eine der größten Konferenzen Europas für schwarze Tech-Profis, die Innovatoren zusammenbringt, die eine inklusivere digitale Zukunft gestalten.",
+    "city": "berlin",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "id": "7bcca75ba9b8f79d"
+  },
+  {
     "title": "AGETECHX 2026",
     "date": "2026-10-05",
     "venue": "Clärchens Ballhaus (Oct 5 reception) & Schankhalle Pfefferberg, Prenzlauer Berg (Oct 6 forum), Berlin",
@@ -1459,20 +1487,6 @@
     "id": "cb6443b487d22397"
   },
   {
-    "title": "ai devCon",
-    "date": "2026-10-07",
-    "venue": "Berlin, Germany",
-    "url": "https://dev.events/meetups/EU/DE/Berlin/ai",
-    "source": "dev.events",
-    "description": "Artificial Intelligence conference in Berlin, Europe. October 7-9, 2026.",
-    "title_local": "ai devCon",
-    "description_local": "Künstliche-Intelligenz-Konferenz in Berlin, Europa. 7.-9. Oktober 2026.",
-    "city": "berlin",
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-09-03",
-    "id": "b7ccc88a42218045"
-  },
-  {
     "title": "AI, Machine Learning & Data Science Conference",
     "date": "2026-10-12",
     "venue": "Berlin, Germany",
@@ -1497,7 +1511,7 @@
     "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) mit Forschern, Branchenführern und Entwicklern zu den neuesten Fortschritten in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung mit fast dreißig wissenschaftlichen Sessions zu Robotik, autonomen Systemen, Klimawissenschaft, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1613,6 +1627,34 @@
     "id": "8829e1c94d7c3e92"
   },
   {
+    "title": "19. CommunityCamp Berlin",
+    "title_local": "19. CommunityCamp Berlin",
+    "date": "2026-11-07",
+    "venue": "Tagungszentrum Franz-Mehring-Platz 1 (FMP1)",
+    "url": "https://www.eventbrite.de/d/germany--berlin--85682499/ki/",
+    "source": "Eventbrite",
+    "description": "On November 7, 2026, community and social media managers, as well as other professionals from digital communication, meet in Berlin.",
+    "description_local": "Am 7. November 2026 treffen sich Community- und Social-Media-Manager sowie weitere Profis aus der digitalen Kommunikation in Berlin.",
+    "city": "berlin",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-09-04",
+    "id": "99e8a97b50fc5579"
+  },
+  {
+    "title": "Angular - KI-Bootcamp",
+    "title_local": "Angular - KI-Bootcamp",
+    "date": "2026-11-09",
+    "venue": "Berlin",
+    "url": "https://dev.events/meetups/EU/DE/ai",
+    "source": "dev.events",
+    "description": "Bootcamp on AI integration with Angular framework, November 9-10, 2026.",
+    "description_local": "Bootcamp zur KI-Integration mit dem Angular-Framework, 9.-10. November 2026.",
+    "city": "berlin",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "id": "4b05b94843d9a0aa"
+  },
+  {
     "title": "NVIDIA GTC Berlin 2026",
     "date": "2026-11-09",
     "venue": "Berlin, Germany",
@@ -1641,6 +1683,20 @@
     "id": "6c9e24de15597d06"
   },
   {
+    "title": "AI Engineering Summit",
+    "title_local": "AI Engineering Summit",
+    "date": "2026-11-16",
+    "venue": "Berlin",
+    "url": "https://dev.events/meetups/EU/DE/Berlin/ai",
+    "source": "dev.events",
+    "description": "Conference focused on AI engineering practices and implementation, taking place November 16-20, 2026 as part of AI Native Week.",
+    "description_local": "Konferenz mit Fokus auf KI-Engineering-Praktiken und -Implementierung, die vom 16. bis 20. November 2026 als Teil der AI Native Week stattfindet.",
+    "city": "berlin",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
+    "id": "b7ccc88a42218045"
+  },
+  {
     "title": "AI Native Week Berlin 2026",
     "date": "2026-11-16",
     "venue": "Maritim proArte Hotel Berlin, Friedrichstraße 151, 10117 Berlin",
@@ -1665,7 +1721,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1707,7 +1763,7 @@
     "description_local": "Zweitägige KI-Konferenz (18.-19. Nov. 2026) mit Fokus auf KI in der Personalarbeit. Teil der KI-X Berlin-Serie von Quadriga Media. Bietet HR-Professionals Einblicke in Chancen, Grenzen und Risiken künstlicher Intelligenz und vernetzt First Mover deutschlandweit.",
     "city": "berlin",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-08-23",
+    "last_seen": "2026-09-04",
     "id": "6f7d11f8cf93fa4e"
   },
   {
@@ -1765,6 +1821,20 @@
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "id": "5afea2e8c30dc12b"
+  },
+  {
+    "title": "VibeKode Berlin 2026",
+    "title_local": "VibeKode Berlin 2026",
+    "date": "2026-11-23",
+    "venue": "Berlin (Hybrid)",
+    "url": "https://dev.events/EU/DE/Berlin/ml",
+    "source": "dev.events",
+    "description": "Hybrid machine learning conference, November 23-27, 2026, part of AI Native Week.",
+    "description_local": "Hybrid-Machine-Learning-Konferenz, 23.-27. November 2026, Teil der AI Native Week.",
+    "city": "berlin",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "id": "91a0410d1d3a03ac"
   },
   {
     "title": "(Gut) Play-Konferenz 2026",

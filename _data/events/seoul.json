@@ -1,5 +1,35 @@
 [
   {
+    "title": "Databricks AI Days Seoul 2026",
+    "date": "2026-04-00",
+    "venue": "Seoul (venue TBD)",
+    "url": "https://events.databricks.com/FY27-AI-Days-Seoul",
+    "source": "Databricks",
+    "description": "Databricks AI event featuring customer case studies from Korean companies including Kakao Style, NOL UNIVERSE, MUSINSA, Cafe24, KCD, and LG Electronics. Topics include AI workflows, data platforms, and enterprise AI implementation.",
+    "title_local": "Databricks AI Days Seoul 2026",
+    "description_local": "카카오스타일, NOL UNIVERSE, 무신사, 카페24, KCD, LG전자 등 한국 기업의 고객 사례를 포함한 Databricks AI 행사. AI 워크플로우, 데이터 플랫폼 및 엔터프라이즈 AI 구현을 다룹니다.",
+    "city": "seoul",
+    "date_status": "unknown",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "id": "5b1607ebe44573ec"
+  },
+  {
+    "title": "Seoul AI Policy Conference 2026 (SAIPCON 2026)",
+    "date": "2026-06-00",
+    "venue": "Seoul National University",
+    "url": "https://www.saipcon.com/2026-program/",
+    "source": "Seoul National University",
+    "description": "SAIPCON is a premier forum where leading experts from domestic and international academia and industry discuss pressing issues of the AI era. Theme: 'FRONTIER ISSUES IN AI GOVERNANCE: AI AGENTS AT THE GATE'. Topics include AI & Finance, AI & Energy, AI & National Security, and protection of minors.",
+    "title_local": "서울 AI 정책 컨퍼런스 2026",
+    "description_local": "국내외 학계 및 산업계의 주요 전문가들이 AI 시대의 시급한 문제들을 논의하는 주요 포럼입니다. 주제: 'AI 거버넌스의 최전선: AI 에이전트의 시대'. 한국어-영어 동시통역 제공.",
+    "city": "seoul",
+    "date_status": "unknown",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "id": "4f13bc1b5d905e88"
+  },
+  {
     "title": "Seoul AI Policy Conference 2026 (SAIPCON 2026)",
     "date": "2026-06-16",
     "venue": "The Plaza Hotel, Seoul",
@@ -142,6 +172,21 @@
     "first_seen": "2026-06-19",
     "last_seen": "2026-07-06",
     "id": "1ee3df89d9e99b4b"
+  },
+  {
+    "title": "[리벨리온x모두의연구소] 공간생물학 시대의 AI for Science",
+    "date": "2026-07-00",
+    "venue": "모두의연구소 강남캠퍼스 (MODULABS Gangnam Campus)",
+    "url": "https://luma.com/discover/seoul/ai",
+    "source": "Luma",
+    "description": "Joint seminar by Rebellions and MODULABS on AI for Science in the era of spatial biology, covering data explosion, infrastructure, and drug development.",
+    "title_local": "[리벨리온x모두의연구소] 공간생물학 시대의 AI for Science : 데이터 폭발, 인프라, 그리고 신약개발",
+    "description_local": "리벨리온과 모두의연구소가 공동으로 진행하는 공간생물학 시대의 AI for Science 세미나로 데이터 폭발, 인프라, 그리고 신약개발을 다룹니다.",
+    "city": "seoul",
+    "date_status": "unknown",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "id": "0a8098b063381077"
   },
   {
     "title": "2026 Skill-Up Festa (Work Expert Festa)",
@@ -862,6 +907,20 @@
     "id": "ceed13552c8e0101"
   },
   {
+    "title": "Nobel Prize Dialogue - AI's impact on the future of science",
+    "date": "2026-09-20",
+    "venue": "COEX auditorium, COEX (North Gate), 513 Yeongdong-daero, Gangnam-gu, Seoul",
+    "url": "https://www.nobelprize.org/events/nobel-prize-dialogue/seoul-2026/",
+    "source": "nobelprize.org",
+    "description": "The 2026 Nobel Prize Dialogue in Seoul explores how AI will transform the future of science, examining changes in discovery methods, research speed, collaboration structure, and validation standards.",
+    "title_local": "노벨프라이즈 다이얼로그 - AI가 과학의 미래에 미치는 영향",
+    "description_local": "2026 노벨상 다이얼로그는 AI가 과학의 미래를 어떻게 변화시킬지를 탐구하며, 이러한 변화가 긴급한 과제에 대한 과학적 해결책을 개발하는 능력에 어떤 의미가 있는지를 모색합니다.",
+    "city": "seoul",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "id": "3253902ee76736b4"
+  },
+  {
     "title": "AI for Science Conference 2026 (AI4Sci Korea)",
     "date": "2026-09-27",
     "venue": "Seoul Dragon City, Seoul",
@@ -1068,6 +1127,20 @@
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-18",
     "id": "eb7b9a95d3b2abc7"
+  },
+  {
+    "title": "International Conference on Computer Science, Machine Learning and Artificial Intelligence (ICCSMLAI)",
+    "date": "2026-11-03",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.allconferencealert.com/seoul/november",
+    "source": "All Conference Alert",
+    "description": "International conference covering computer science, machine learning, and artificial intelligence research and applications.",
+    "title_local": "컴퓨터 과학, 머신러닝 및 인공지능 국제 컨퍼런스",
+    "description_local": "컴퓨터 과학, 머신러닝 및 인공지능 연구 및 응용을 다루는 국제 컨퍼런스입니다.",
+    "city": "seoul",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "id": "babcd5cc8ed4bef2"
   },
   {
     "title": "Harnessing AI for Marketing Innovation | Seoul",
