@@ -907,6 +907,20 @@
     "id": "07dcb56d833f6ee7"
   },
   {
+    "title": "GES·엔터테크 서울 2026 (GES·Entertech Seoul 2026)",
+    "date": "2026-09-17",
+    "venue": "DDP (Dongdaemun Design Plaza) and JW Marriott Dongdaemun",
+    "url": "https://news.seoul.go.kr/economy/archives/574523",
+    "source": "Seoul Metropolitan Government",
+    "description": "Integrated event combining content, games, e-sports and AI technology. Features AI music composition demonstrations with EvoM AI composer, keynote speeches on content-tech-platform convergence, K-POP performances, and business networking opportunities.",
+    "title_local": "GES·엔터테크 서울 2026",
+    "description_local": "K-POP·AI·XR·게임·모빌리티가 결합된 전시·체험, e스포츠, 포럼, 공연이 열리고 SPP 마켓으로 글로벌 상담이 진행될 계획입니다. 9월 18일 통합 개막식에서는 AI가 직접 음악을 만드는 엔터테크 시연, K-POP 축하 공연까지 이번 행사의 융합 방향을 상징적으로 보여주는 프로그램을 선보입니다.",
+    "city": "seoul",
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "id": "266a46e13ceb855e"
+  },
+  {
     "title": "Next AI & Big Data Summit 2026",
     "date": "2026-09-18",
     "venue": "EL Tower 6F Grace Hall, Yangje, Seoul",
@@ -1043,6 +1057,20 @@
     "first_seen": "2026-08-15",
     "last_seen": "2026-08-15",
     "id": "ddb84263b35c2994"
+  },
+  {
+    "title": "Smart Life Week 2026 (SLW 2026)",
+    "date": "2026-10-06",
+    "venue": "COEX, Seoul",
+    "url": "https://view.asiae.co.kr/article/2026090409285454317",
+    "source": "Seoul AI Foundation",
+    "description": "Global AI and smart city event co-hosted by Seoul Metropolitan Government and World Smart Cities Organization (WeGO), organized by Seoul AI Foundation. Features exhibitions, conferences, and business programs exploring AI-based future of cities and citizen life.",
+    "title_local": "스마트라이프위크 2026",
+    "description_local": "서울시와 세계스마트시티기구(WeGO)가 공동 주최하고 서울AI재단이 주관하는 글로벌 종합 ICT 행사로, 10월 6일부터 8일까지 서울 코엑스에서 열립니다. AI를 기반으로 시민의 삶과 도시의 미래를 조망하는 전시·컨퍼런스·비즈니스 프로그램 등이 운영됩니다.",
+    "city": "seoul",
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "id": "8cf1ad838bbc132e"
   },
   {
     "title": "인공지능 페스타 2026 (AI Festa 2026)",
