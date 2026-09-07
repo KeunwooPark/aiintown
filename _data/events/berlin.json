@@ -1119,7 +1119,7 @@
     "description_local": "Internationale Konferenz, die globale Fachleute zusammenbringt, um KI-Lösungen der nächsten Generation zu erkunden. Deckt ein breites Spektrum von Themen ab, darunter Innovation, Forschungsentwicklungen, praktische Anwendungen und Zukunftstrends. Teilnehmer profitieren von Expertensessions, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten. Virtuelle und persönliche Optionen verfügbar.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-09-06",
+    "last_seen": "2026-09-07",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -1399,7 +1399,7 @@
     "description_local": "Internationale Konferenz mit Fokus auf KI- und Data-Science-Anwendungen in der Bildungstechnologie. Virtueller und persönlicher Konferenzmodus verfügbar. Teil einer Reihe akademischer KI-Konferenzen in Berlin, die Forschungsentwicklungen, praktische Anwendungen und Zukunftstrends mit Möglichkeiten zur Forschungspräsentation und Vernetzung abdecken.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-06",
+    "last_seen": "2026-09-07",
     "id": "216d5e94062d17a7"
   },
   {
@@ -1497,7 +1497,7 @@
     "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) mit Forschern, Branchenführern und Entwicklern zu den neuesten Fortschritten in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung mit fast dreißig wissenschaftlichen Sessions zu Robotik, autonomen Systemen, Klimawissenschaft, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-06",
+    "last_seen": "2026-09-07",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1582,7 +1582,7 @@
     "city": "berlin",
     "id": "360af534a8e89351",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-06"
+    "last_seen": "2026-09-07"
   },
   {
     "title": "NVIDIA GTC Berlin 2026",
@@ -1651,7 +1651,7 @@
     "description_local": "Plattform zur Diskussion aller Themen rund um künstliche Intelligenz und Sprache mit regelmäßigen Community-Events. Teil einer breiteren Community mit Events in Zürich und Berlin. Widmet sich der Erkundung und Teilnahme an erhellenden Gesprächen über die Schnittstelle von Sprache und KI, verbindet Praktiker, Forscher und Sprachbegeisterte, um Bewusstsein zu fördern und Innovation voranzutreiben. Montag Abend Event.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-07",
     "id": "47fe1fae574918e4"
   },
   {
@@ -1721,7 +1721,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-06",
+    "last_seen": "2026-09-07",
     "id": "9a05b37a144a341e"
   },
   {
