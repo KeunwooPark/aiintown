@@ -308,7 +308,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-08",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -448,7 +448,7 @@
     "description_local": "Das KI-Meetup in Berlin ist eine Gelegenheit, Erkenntnisse auszutauschen, reale Anwendungsfälle zu teilen und von anderen zu lernen, die auf diesem Gebiet arbeiten. Sprecher sind Salma Sohrabi-Jahromi (Senior AI Scientist bei SAP) über 'Building Specialized LLM-based Enterprise Applications' und Arman Nassirtoussi (Gründer & CEO bei Stealth Startup) über 'Let's talk about Agentic AI'. Die Veranstaltung ist kostenlos, aber eine Registrierung ist erforderlich, mit begrenzten Plätzen. Getränke und Snacks sind inklusive.",
     "city": "berlin",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-08",
     "id": "17b6c7bd9030c94c"
   },
   {
@@ -887,6 +887,20 @@
     "id": "0280bd0dea9379d9"
   },
   {
+    "title": "Generative AI Meetup in Berlin",
+    "date": "2026-09-10",
+    "venue": "SAP Data Space, Rosenthaler Str., Berlin",
+    "url": "https://luma.com/hvg8jn50",
+    "source": "luma.com",
+    "description": "First Generative AI meetup sponsored by SAP, partnered with Jina AI. For AI, Deep Learning, ML engineers, Data Scientists, and AI startup founders. Presentations on Jina Embeddings for RAG, Q&A session, networking with drinks and snacks.",
+    "title_local": "Generative KI-Meetup in Berlin",
+    "description_local": "Erstes Generative KI-Meetup gesponsert von SAP, in Partnerschaft mit Jina AI. Für KI-, Deep Learning-, ML-Ingenieure, Data Scientists und KI-Startup-Gründer. Präsentationen zu Jina Embeddings für RAG, Q&A-Session, Networking mit Getränken und Snacks.",
+    "city": "berlin",
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-09-08",
+    "id": "7f9bb7d1bb49feff"
+  },
+  {
     "title": "KI-Landpartie",
     "date": "2026-09-10",
     "venue": "Berlin",
@@ -1137,6 +1151,34 @@
     "id": "451fde0434e76966"
   },
   {
+    "title": "Berlin x AI Meetup by Project A",
+    "date": "2026-09-18",
+    "venue": "Berlin (venue TBD)",
+    "url": "https://luma.com/3axe85ws",
+    "source": "luma.com",
+    "description": "Evening event with 3 lightning talks from top Berlin-based builders, featuring talks on revolutionizing media analysis with LLMs, turning ideas into AI products, and bringing AI products to market. Includes food, drinks, and networking. Sponsored by Project A and Amplitude.",
+    "title_local": "Berlin x KI Meetup von Project A",
+    "description_local": "Abendveranstaltung mit 3 Lightning Talks von Top-Berliner Entwicklern, mit Vorträgen über die Revolutionierung der Medienanalyse mit LLMs, die Umsetzung von Ideen in KI-Produkte und die Markteinführung von KI-Produkten. Inkl. Essen, Getränken und Networking. Gesponsert von Project A und Amplitude.",
+    "city": "berlin",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-09-08",
+    "id": "85c8aa34e118ae0f"
+  },
+  {
+    "title": "AI Engineering 2026 Meetup",
+    "date": "2026-09-20",
+    "venue": "Berlin (venue TBD)",
+    "url": "https://luma.com/cekm51d3",
+    "source": "luma.com",
+    "description": "Offline, in-person event for working professionals in software and AI industry. Panel discussion, Q&A session, followed by casual networking with industry professionals about current state of AI.",
+    "title_local": "AI Engineering 2026 Meetup",
+    "description_local": "Offline-Präsenzveranstaltung für Berufstätige in der Software- und KI-Branche. Podiumsdiskussion, Q&A-Session, gefolgt von zwanglosem Networking mit Branchenprofis über den aktuellen Stand der KI.",
+    "city": "berlin",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-09-08",
+    "id": "b4b84d03856ce987"
+  },
+  {
     "title": "AI In Production: Berlin AI Meetup at GetYourGuide",
     "date": "2026-09-20",
     "venue": "GetYourGuide office, Prenzlauer Berg, Berlin",
@@ -1263,6 +1305,20 @@
     "id": "933ddfb38d5bd738"
   },
   {
+    "title": "KI-Lounge Berlin",
+    "date": "2026-09-23",
+    "venue": "Anton-Wilhelm-Amo-Str. 30, 10117 Berlin",
+    "url": "https://berlinboxx.de/hauptstadtkalender/?event=750&category=networking",
+    "source": "berlinboxx.de",
+    "description": "Evening networking event connecting digital innovation with creative perspective, showing how generative AI opens new possibilities. Afterwork gathering with informal exchange.",
+    "title_local": "KI-Lounge Berlin",
+    "description_local": "Abendliches Networking-Event, das digitale Innovation mit kreativer Perspektive verbindet und zeigt, wie generative KI neue Möglichkeiten eröffnet. Afterwork-Treffen mit informellem Austausch.",
+    "city": "berlin",
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-08",
+    "id": "eec0796a2ef48853"
+  },
+  {
     "title": "AI, ML and Computer Vision Meetup",
     "date": "2026-09-24",
     "venue": "Online",
@@ -1275,6 +1331,20 @@
     "first_seen": "2026-06-23",
     "last_seen": "2026-09-02",
     "id": "afee80afb04875d4"
+  },
+  {
+    "title": "Tech Meetup Berlin - powered by Leaseweb",
+    "date": "2026-09-24",
+    "venue": "Mindspace Zimmerstraße, Berlin",
+    "url": "https://luma.com/klg1zbe2",
+    "source": "luma.com",
+    "description": "Business networking event focused on scaling AI workloads with talks on hybrid GPU Kubernetes and resilient infrastructure. Technical deep dives with AI demos, networking with drinks and snacks. Moderated by Arthur Poot, Founder of AI Builders. Limited reservations.",
+    "title_local": "Tech Meetup Berlin - powered by Leaseweb",
+    "description_local": "Business-Networking-Event mit Fokus auf Skalierung von KI-Workloads mit Vorträgen über hybrides GPU-Kubernetes und resiliente Infrastruktur. Technische Deep Dives mit KI-Demos, Networking mit Getränken und Snacks. Moderiert von Arthur Poot, Gründer von AI Builders. Begrenzte Plätze.",
+    "city": "berlin",
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-08",
+    "id": "45b08cb0bc12fbed"
   },
   {
     "title": "Sept 26 - Berlin Physical AI Workshop and Meetup",
@@ -1399,7 +1469,7 @@
     "description_local": "Internationale Konferenz mit Fokus auf KI- und Data-Science-Anwendungen in der Bildungstechnologie. Virtueller und persönlicher Konferenzmodus verfügbar. Teil einer Reihe akademischer KI-Konferenzen in Berlin, die Forschungsentwicklungen, praktische Anwendungen und Zukunftstrends mit Möglichkeiten zur Forschungspräsentation und Vernetzung abdecken.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-08",
     "id": "216d5e94062d17a7"
   },
   {
@@ -1469,7 +1539,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-08",
     "id": "cb6443b487d22397"
   },
   {
@@ -1582,7 +1652,7 @@
     "city": "berlin",
     "id": "360af534a8e89351",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-07"
+    "last_seen": "2026-09-08"
   },
   {
     "title": "NVIDIA GTC Berlin 2026",
@@ -1625,6 +1695,20 @@
     "first_seen": "2026-06-27",
     "last_seen": "2026-09-04",
     "id": "99e8a97b50fc5579"
+  },
+  {
+    "title": "CommunityCamp Berlin 2026 (#ccb26)",
+    "date": "2026-11-07",
+    "venue": "Berlin (venue TBD)",
+    "url": "https://communitycamp.berlin/",
+    "source": "communitycamp.berlin",
+    "description": "19th CommunityCamp for Community & Social Media Managers and digital communication professionals. Discussion of AI topics in social media and community management context.",
+    "title_local": "CommunityCamp Berlin 2026 (#ccb26)",
+    "description_local": "19. CommunityCamp für Community- und Social-Media-Manager sowie weitere Profis aus der digitalen Kommunikation. Diskussion von KI-Themen im Kontext von Social Media und Community-Management.",
+    "city": "berlin",
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-08",
+    "id": "b1ddb401fa54a124"
   },
   {
     "title": "Angular - KI-Bootcamp",
@@ -1879,21 +1963,6 @@
     "id": "761193f35a1b6641"
   },
   {
-    "title": "AI Engineering 2026 Meetup",
-    "date": null,
-    "venue": "Berlin (offline, in-person)",
-    "url": "https://luma.com/cekm51d3",
-    "source": "luma.com",
-    "description": "Offline, in-person event for working professionals looking to network in the software and AI industry. Features a panel discussion, Q&A session, followed by casual networking. For those who want to interact with industry professionals about the current state of AI.",
-    "title_local": "AI Engineering 2026 Meetup",
-    "description_local": "Offline-Veranstaltung vor Ort für Berufstätige, die sich in der Software- und KI-Branche vernetzen möchten. Beinhaltet eine Podiumsdiskussion, eine Frage-und-Antwort-Runde und anschließendes ungezwungenes Networking. Für diejenigen, die mit Branchenexperten über den aktuellen Stand der KI interagieren möchten.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "id": "b4b84d03856ce987"
-  },
-  {
     "title": "AI Reliability and Observability Meetup",
     "date": null,
     "venue": "TBA",
@@ -2059,21 +2128,6 @@
     "id": "299be1d81f11c9ff"
   },
   {
-    "title": "Berlin x AI Meetup",
-    "date": null,
-    "venue": "Berlin (venue TBD)",
-    "url": "https://luma.com/3axe85ws",
-    "source": "luma.com",
-    "description": "Evening event with food and drinks alongside AI experts passionate about building and sharing knowledge. Features 3 lightning talks from top Berlin-based builders, cold drinks, warm people, and real knowledge transfer. Community and networking time with founders, product minds, and AI explorers. Topics include revolutionizing media analysis with LLMs, turning ideas into shipped AI tools, and bringing AI products to market.",
-    "title_local": "Berlin x KI Meetup",
-    "description_local": "Abendveranstaltung mit Essen und Getränken zusammen mit KI-Experten, die leidenschaftlich daran interessiert sind, zu bauen und Wissen zu teilen. Beinhaltet 3 Lightning-Talks von Top-Berliner Entwicklern, kalte Getränke, warme Menschen und echten Wissenstransfer. Community- und Networking-Zeit mit Gründern, Produktexperten und KI-Entdeckern. Themen umfassen die Revolutionierung der Medienanalyse mit LLMs, das Verwandeln von Ideen in ausgelieferte KI-Tools und das Bringen von KI-Produkten auf den Markt.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-08-24",
-    "id": "85c8aa34e118ae0f"
-  },
-  {
     "title": "Everyday AI Club",
     "date": null,
     "venue": "workish.berlin, Harzer Str. 39, 12059 Berlin",
@@ -2087,21 +2141,6 @@
     "first_seen": "2026-07-21",
     "last_seen": "2026-07-21",
     "id": "70d6d9a30117017a"
-  },
-  {
-    "title": "Generative AI Meetup in Berlin",
-    "date": null,
-    "venue": "SAP Data Space, Rosenthaler Str. 38, 10178 Berlin",
-    "url": "https://luma.com/hvg8jn50",
-    "source": "Luma",
-    "description": "Generative AI meetup sponsored by SAP, partnered with Jina AI. For AI, Deep Learning, ML engineers, Data Scientists, and AI startup founders. Features presentations on Jina Embeddings for RAG and Business AI developments, followed by networking with drinks and snacks",
-    "title_local": "Generative AI Meetup in Berlin",
-    "description_local": "Generative-AI-Meetup gesponsert von SAP, in Partnerschaft mit Jina AI. Für KI-, Deep-Learning-, ML-Engineers, Data Scientists und KI-Startup-Gründer. Präsentationen zu Jina Embeddings für RAG und Business-AI-Entwicklungen, gefolgt von Networking mit Getränken und Snacks",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-08-02",
-    "last_seen": "2026-08-24",
-    "id": "7f9bb7d1bb49feff"
   },
   {
     "title": "KI ausprobieren - Hands-on Workshop",
