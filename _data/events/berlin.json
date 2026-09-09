@@ -1133,7 +1133,7 @@
     "description_local": "Internationale Konferenz, die globale Fachleute zusammenbringt, um KI-Lösungen der nächsten Generation zu erkunden. Deckt ein breites Spektrum von Themen ab, darunter Innovation, Forschungsentwicklungen, praktische Anwendungen und Zukunftstrends. Teilnehmer profitieren von Expertensessions, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten. Virtuelle und persönliche Optionen verfügbar.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-09",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -1567,7 +1567,7 @@
     "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) mit Forschern, Branchenführern und Entwicklern zu den neuesten Fortschritten in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung mit fast dreißig wissenschaftlichen Sessions zu Robotik, autonomen Systemen, Klimawissenschaft, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-09",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1639,6 +1639,20 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-09-06",
     "id": "d7949f08ac7e51e0"
+  },
+  {
+    "title": "NeulandPro Connect 2026",
+    "date": "2026-10-16",
+    "venue": "WECC - Westhafen Event & Convention Center Berlin",
+    "url": "https://connect.neulandpro.com/",
+    "source": "neulandpro.com",
+    "description": "Two-day AI conference for founders, leaders, and practitioners from the DACH region. Features over 20 speakers including Sascha Lobo and Sarah Rojewski, 30+ workshops, hackathons, and a focus on Agentic AI, Business/ROI, and Human Skills. Around 1,000 participants expected.",
+    "title_local": "NeulandPro Connect 2026",
+    "description_local": "Zweitägiges KI-Event in Berlin für Founder, Leader, Unternehmen und alle, die Künstliche Intelligenz im Alltag oder Beruf einsetzen möchten. Mit Sascha Lobo, Sarah Rojewski und mehr als 50 weiteren KI-Speakerinnen und KI-Speakern. Über 30 Workshops, Keynotes, Masterclasses und Networking-Formate zeigen, wie KI heute produktiv eingesetzt werden kann.",
+    "city": "berlin",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "id": "ee59023f333197a0"
   },
   {
     "title": "NVIDIA GTC Berlin 2026",
@@ -1735,7 +1749,7 @@
     "description_local": "Plattform zur Diskussion aller Themen rund um künstliche Intelligenz und Sprache mit regelmäßigen Community-Events. Teil einer breiteren Community mit Events in Zürich und Berlin. Widmet sich der Erkundung und Teilnahme an erhellenden Gesprächen über die Schnittstelle von Sprache und KI, verbindet Praktiker, Forscher und Sprachbegeisterte, um Bewusstsein zu fördern und Innovation voranzutreiben. Montag Abend Event.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-09",
     "id": "47fe1fae574918e4"
   },
   {
@@ -1805,7 +1819,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-09",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1881,15 +1895,15 @@
   {
     "title": "{Tech: Berlin} X LLM Studios: AI Builders' Fireside Chat",
     "date": "2026-11-18",
-    "venue": "Merantix AI Campus Berlin, Max-Ulrich-Straße 3",
+    "venue": "Merantix AI Campus Berlin, Max-Ulrich-Straße 3, 13355 Berlin",
     "url": "https://luma.com/23h3gjaa",
     "source": "Luma",
-    "description": "Evening fireside chat (18:30-22:00) featuring Marc Klingen, Co-Founder of Langfuse (leading open-source platform for LLM observability). Discussion covers founding a startup in Berlin, scaling AI solutions for enterprise adoption, and trends in AI and open-source strategies.",
-    "title_local": "{Tech: Berlin} X LLM Studios: AI Builders' Fireside Chat",
-    "description_local": "Abendliches Fireside Chat (18:30-22:00) mit Marc Klingen, Co-Founder von Langfuse (führende Open-Source-Plattform für LLM-Observability). Diskussion über Startup-Gründung in Berlin, Skalierung von KI-Lösungen für Unternehmens-Adoption und Trends in KI und Open-Source-Strategien.",
+    "description": "Exclusive Fireside Chat hosted by {Tech: Berlin} and LLM Studios bringing together active builders and innovators in Berlin's tech scene for an evening of insights on AI, entrepreneurship, and the open-source ecosystem. Features Marc Klingen, Co-Founder of Langfuse. Time: 18:30 - 22:00.",
+    "title_local": "{Tech: Berlin} X LLM Studios: KI-Builders' Fireside Chat",
+    "description_local": "Exklusiver Fireside Chat veranstaltet von {Tech: Berlin} und LLM Studios, der aktive Builders und Innovatoren der Berliner Tech-Szene für einen Abend voller Einblicke in KI, Unternehmertum und das Open-Source-Ökosystem zusammenbringt. Mit Marc Klingen, Mitgründer von Langfuse. Zeit: 18:30 - 22:00.",
     "city": "berlin",
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-19",
+    "last_seen": "2026-09-09",
     "id": "df9833e57f749195"
   },
   {
