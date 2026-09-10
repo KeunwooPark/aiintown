@@ -308,7 +308,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-08",
+    "last_seen": "2026-09-10",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -885,6 +885,20 @@
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-12",
     "id": "0280bd0dea9379d9"
+  },
+  {
+    "title": "AI for Media Meetup #9 (dpa Berlin)",
+    "date": "2026-09-10",
+    "venue": "dpa Berlin headquarters",
+    "url": "https://www.anopenroom.com/berlin",
+    "source": "An Open Room",
+    "description": "The ninth AI for Media meetup, hosted at dpa's Berlin headquarters, on responsible AI in newsrooms: provenance and governance, bias in editorial automation, and deepfake detection as an operational problem rather than a research one. Draws journalists, media engineers and the trust-and-safety community. Free, afternoon format.",
+    "title_local": "AI for Media Meetup #9 (dpa Berlin)",
+    "description_local": "Das neunte AI for Media Meetup, veranstaltet im Berliner Hauptsitz der dpa, zum Thema verantwortungsvolle KI in Nachrichtenredaktionen: Herkunft und Governance, Bias in der redaktionellen Automatisierung und Deepfake-Erkennung als operatives Problem statt Forschungsfrage. Zieht Journalisten, Medieningenieure und die Trust-and-Safety-Community an. Kostenlos, Nachmittagsformat.",
+    "city": "berlin",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "id": "90afcf8355d56451"
   },
   {
     "title": "Generative AI Meetup in Berlin",
@@ -1557,17 +1571,17 @@
     "id": "15932057c4239dba"
   },
   {
-    "title": "Artificial Intelligence, Machine Learning & Data Science Conference Berlin",
+    "title": "Artificial Intelligence, Machine Learning & Data Science Conference",
     "date": "2026-10-12",
     "venue": "Berlin",
     "url": "https://www.createwith.com/cities/berlin",
-    "source": "createwith.com",
-    "description": "Three-day conference (Oct 12-14, 2026) bringing together researchers, industry leaders and developers to explore latest advances in AI, ML, data analytics, and responsible automation. Theme: 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation' with nearly thirty focused scientific sessions covering robotics, autonomous systems, climate science applications, MLOps, trustworthy AI, and multimodal AI.",
-    "title_local": "Konferenz für Künstliche Intelligenz, maschinelles Lernen und Datenwissenschaft Berlin",
-    "description_local": "Dreitägige Konferenz (12.-14. Oktober 2026) mit Forschern, Branchenführern und Entwicklern zu den neuesten Fortschritten in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung mit fast dreißig wissenschaftlichen Sessions zu Robotik, autonomen Systemen, Klimawissenschaft, MLOps, vertrauenswürdiger KI und multimodaler KI.",
+    "source": "Create With",
+    "description": "This three-day event (Oct 12–14, 2026) brings together researchers, industry leaders and developers from around the world to explore the latest advances in AI, ML, data analytics, and responsible automation. Guided by the theme 'AI, Machine Learning & Data Science: Driving the Next Wave of Digital Transformation.' Nearly thirty focused scientific sessions covering robotics, autonomous systems, climate science applications, MLOps, trustworthy AI, and multimodal AI.",
+    "title_local": "Künstliche Intelligenz, Maschinelles Lernen & Data Science Konferenz",
+    "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-10",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1819,7 +1833,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-10",
     "id": "9a05b37a144a341e"
   },
   {
