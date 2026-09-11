@@ -308,7 +308,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -887,20 +887,6 @@
     "id": "0280bd0dea9379d9"
   },
   {
-    "title": "AI for Media Meetup #9 (dpa Berlin)",
-    "date": "2026-09-10",
-    "venue": "dpa Berlin headquarters",
-    "url": "https://www.anopenroom.com/berlin",
-    "source": "An Open Room",
-    "description": "The ninth AI for Media meetup, hosted at dpa's Berlin headquarters, on responsible AI in newsrooms: provenance and governance, bias in editorial automation, and deepfake detection as an operational problem rather than a research one. Draws journalists, media engineers and the trust-and-safety community. Free, afternoon format.",
-    "title_local": "AI for Media Meetup #9 (dpa Berlin)",
-    "description_local": "Das neunte AI for Media Meetup, veranstaltet im Berliner Hauptsitz der dpa, zum Thema verantwortungsvolle KI in Nachrichtenredaktionen: Herkunft und Governance, Bias in der redaktionellen Automatisierung und Deepfake-Erkennung als operatives Problem statt Forschungsfrage. Zieht Journalisten, Medieningenieure und die Trust-and-Safety-Community an. Kostenlos, Nachmittagsformat.",
-    "city": "berlin",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
-    "id": "90afcf8355d56451"
-  },
-  {
     "title": "Generative AI Meetup in Berlin",
     "date": "2026-09-10",
     "venue": "SAP Data Space, Rosenthaler Str., Berlin",
@@ -1093,6 +1079,20 @@
     "first_seen": "2026-08-31",
     "last_seen": "2026-08-31",
     "id": "20aeff6f7b88e144"
+  },
+  {
+    "title": "OpenAI x Parloa Berlin Community Event",
+    "date": "2026-09-15",
+    "venue": "Berlin (venue TBA)",
+    "url": "https://www.anopenroom.com/berlin",
+    "source": "An Open Room",
+    "description": "OpenAI hosts an evening of hands-on building, live demos and discussion in Berlin, co-hosted with Parloa. The programme covers how leading engineering teams are approaching useful agents, a fireside with Parloa on what they have learned in production, what is new in Codex, and open office hours with OpenAI engineers for technical and product questions. Food provided, built around local founders, CTOs and engineers.",
+    "title_local": "OpenAI x Parloa Berlin Community Event",
+    "description_local": "OpenAI veranstaltet einen Abend mit praktischem Bauen, Live-Demos und Diskussion in Berlin, zusammen mit Parloa. Das Programm umfasst, wie führende Engineering-Teams an nützlichen Agenten arbeiten, ein Kamingespräch mit Parloa über ihre Produktionserfahrungen, Neuigkeiten zu Codex und offene Sprechstunden mit OpenAI-Ingenieuren für technische und Produktfragen.",
+    "city": "berlin",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
+    "id": "90afcf8355d56451"
   },
   {
     "title": "BIG BANG KI Festival 2026",
@@ -1371,7 +1371,7 @@
     "description_local": "Nachmittags-Workshop und Meetup gemeinsam präsentiert von Nebius und Voxel51. Lightning Talks von lokalen Referenten aus den Bereichen KI, Machine Learning und Computer Vision, gefolgt von einem praktischen Workshop zum Aufbau physischer KI-Anwendungen mit FiftyOne, einschließlich Robotik- und Sensordatensätzen und der Evaluierung von Vision-Modellen auf realen Daten. Samstag-Event von 13:30 - 16:30 Uhr.",
     "city": "berlin",
     "first_seen": "2026-08-10",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-11",
     "id": "2aa72d7c8f7f5822"
   },
   {
@@ -1555,6 +1555,20 @@
     "first_seen": "2026-07-23",
     "last_seen": "2026-09-08",
     "id": "cb6443b487d22397"
+  },
+  {
+    "title": "WAVE 2026 (Parloa Flagship Conference)",
+    "date": "2026-10-07",
+    "venue": "Wilhelm Studios, Berlin",
+    "url": "https://wave.parloa.com/",
+    "source": "Parloa",
+    "description": "Two-day conference bringing together leaders in European AI and customer experience (AI+CX). Features speakers from OpenAI, Viessmann, OBI, Deloitte, Allianz Partners and other industry leaders. Focus on the next decade of customer experience transformation through AI.",
+    "title_local": "WAVE 2026 (Parloa Flagship Konferenz)",
+    "description_local": "Zweitägige Konferenz, die Führungskräfte im Bereich europäische KI und Kundenerlebnis (AI+CX) zusammenbringt. Mit Referenten von OpenAI, Viessmann, OBI, Deloitte, Allianz Partners und anderen Branchenführern.",
+    "city": "berlin",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "id": "29ab3087363b97d5"
   },
   {
     "title": "AI, Machine Learning & Data Science Conference",
@@ -1833,7 +1847,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "id": "9a05b37a144a341e"
   },
   {
