@@ -308,7 +308,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -971,6 +971,20 @@
     "id": "5b165a1f3e5a80ac"
   },
   {
+    "title": "Accelerate Tomorrow AI Summit 2026",
+    "date": "2026-09-14",
+    "venue": "Estrel Berlin",
+    "url": "https://www.createwith.com/event/berlin-the-berlin-ai-conference-2026-oct-2026",
+    "source": "Create With",
+    "description": "Enterprise AI Summit bringing 2,000+ senior executives, 200+ AI speakers and 100+ AI startups to Berlin. Germany's leading AI event for business leaders, focused on turning AI into competitive advantage. Business-focused summit for leaders who own strategy and budgets, moving from pilots to enterprise-wide AI adoption.",
+    "title_local": "Accelerate Tomorrow KI-Gipfel 2026",
+    "description_local": "Enterprise-KI-Gipfel mit 2.000+ Senior Executives, 200+ KI-Sprechern und 100+ KI-Startups in Berlin. Deutschlands führendes KI-Event für Unternehmensleiter, fokussiert auf die Umwandlung von KI in Wettbewerbsvorteile.",
+    "city": "berlin",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-09-12",
+    "id": "05ab1b0605f2276b"
+  },
+  {
     "title": "AI Adoption & Automation Full-Day Event",
     "date": "2026-09-15",
     "venue": "Festsaal Kreuzberg, Berlin",
@@ -1483,7 +1497,7 @@
     "description_local": "Internationale Konferenz mit Fokus auf KI- und Data-Science-Anwendungen in der Bildungstechnologie. Virtueller und persönlicher Konferenzmodus verfügbar. Teil einer Reihe akademischer KI-Konferenzen in Berlin, die Forschungsentwicklungen, praktische Anwendungen und Zukunftstrends mit Möglichkeiten zur Forschungspräsentation und Vernetzung abdecken.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-08",
+    "last_seen": "2026-09-12",
     "id": "216d5e94062d17a7"
   },
   {
@@ -1499,20 +1513,6 @@
     "first_seen": "2026-08-02",
     "last_seen": "2026-08-02",
     "id": "7157d5749c55289f"
-  },
-  {
-    "title": "The Berlin AI Conference 2026",
-    "date": "2026-10-01",
-    "venue": "SPACE SHACK Coworking, Berlin",
-    "url": "https://www.createwith.com/event/berlin-the-berlin-ai-conference-2026-oct-2026",
-    "source": "createwith.com",
-    "description": "The Berlin AI Conference 2026 brings together 150 business and tech leaders for an evening of insights, discussion, and networking. Building on the success of sold-out events in 2024 and 2025, this year's conference promises to deliver cutting-edge perspectives on artificial intelligence from industry practitioners.",
-    "title_local": "The Berlin AI Conference 2026",
-    "description_local": "Die Berlin AI Conference 2026 bringt 150 Business- und Tech-Leader für einen Abend voller Einblicke, Diskussionen und Networking zusammen.",
-    "city": "berlin",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-09-03",
-    "id": "05ab1b0605f2276b"
   },
   {
     "title": "BITES 26: Black in Tech Europe Summit",
@@ -1595,7 +1595,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-12",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1694,7 +1694,7 @@
     "city": "berlin",
     "id": "360af534a8e89351",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-08"
+    "last_seen": "2026-09-12"
   },
   {
     "title": "NVIDIA GTC Berlin 2026",
@@ -1847,7 +1847,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
     "id": "9a05b37a144a341e"
   },
   {
