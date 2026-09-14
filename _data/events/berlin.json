@@ -308,7 +308,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-14",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -1105,7 +1105,7 @@
     "description_local": "OpenAI veranstaltet einen Abend mit praktischem Bauen, Live-Demos und Diskussion in Berlin, zusammen mit Parloa. Das Programm umfasst, wie führende Engineering-Teams an nützlichen Agenten arbeiten, ein Kamingespräch mit Parloa über ihre Produktionserfahrungen, Neuigkeiten zu Codex und offene Sprechstunden mit OpenAI-Ingenieuren für technische und Produktfragen.",
     "city": "berlin",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "id": "90afcf8355d56451"
   },
   {
@@ -1777,7 +1777,7 @@
     "description_local": "Plattform zur Diskussion aller Themen rund um künstliche Intelligenz und Sprache mit regelmäßigen Community-Events. Teil einer breiteren Community mit Events in Zürich und Berlin. Widmet sich der Erkundung und Teilnahme an erhellenden Gesprächen über die Schnittstelle von Sprache und KI, verbindet Praktiker, Forscher und Sprachbegeisterte, um Bewusstsein zu fördern und Innovation voranzutreiben. Montag Abend Event.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-14",
     "id": "47fe1fae574918e4"
   },
   {
@@ -1807,6 +1807,20 @@
     "first_seen": "2026-07-02",
     "last_seen": "2026-07-02",
     "id": "6c9e24de15597d06"
+  },
+  {
+    "title": "EAGx Berlin 2026",
+    "date": "2026-11-13",
+    "venue": "Urania Berlin e.V., An d. Urania 17, 10787 Berlin",
+    "url": "https://luma.com/jj889pmr",
+    "source": "Luma",
+    "description": "Effective Altruism conference from November 13-15, 2026. Opportunity for both seasoned EAs and those newer to the community to learn, connect, and grow together. Focus on high-impact work including AI alignment and safety.",
+    "title_local": "EAGx Berlin 2026",
+    "description_local": "Effective Altruism Konferenz vom 13.-15. November 2026. Gelegenheit für erfahrene EAs und Neueinsteiger, gemeinsam zu lernen, sich zu vernetzen und zu wachsen. Fokus auf wirkungsvolle Arbeit einschließlich KI-Alignment und -Sicherheit.",
+    "city": "berlin",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "id": "9f675b7f397efb75"
   },
   {
     "title": "AI Engineering Summit",
@@ -1847,7 +1861,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "id": "9a05b37a144a341e"
   },
   {
