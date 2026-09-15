@@ -1105,7 +1105,7 @@
     "description_local": "OpenAI veranstaltet einen Abend mit praktischem Bauen, Live-Demos und Diskussion in Berlin, zusammen mit Parloa. Das Programm umfasst, wie führende Engineering-Teams an nützlichen Agenten arbeiten, ein Kamingespräch mit Parloa über ihre Produktionserfahrungen, Neuigkeiten zu Codex und offene Sprechstunden mit OpenAI-Ingenieuren für technische und Produktfragen.",
     "city": "berlin",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "id": "90afcf8355d56451"
   },
   {
@@ -1665,7 +1665,7 @@
     "description_local": "Abendveranstaltung mit 150 von Berlins Wirtschafts- und Technologieführern (18-22 Uhr). Veranstaltet von Startup Network Europe. Beinhaltet Panel mit 30 Minuten vorbereiteten Fragen und 15 Minuten kuratiertem Publikums-Q&A. Inklusive kostenloser Getränke, Snacks und Networking-App.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-15",
     "id": "d7949f08ac7e51e0"
   },
   {
@@ -1777,7 +1777,7 @@
     "description_local": "Plattform zur Diskussion aller Themen rund um künstliche Intelligenz und Sprache mit regelmäßigen Community-Events. Teil einer breiteren Community mit Events in Zürich und Berlin. Widmet sich der Erkundung und Teilnahme an erhellenden Gesprächen über die Schnittstelle von Sprache und KI, verbindet Praktiker, Forscher und Sprachbegeisterte, um Bewusstsein zu fördern und Innovation voranzutreiben. Montag Abend Event.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "id": "47fe1fae574918e4"
   },
   {
@@ -1861,7 +1861,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1939,13 +1939,13 @@
     "date": "2026-11-18",
     "venue": "Merantix AI Campus Berlin, Max-Ulrich-Straße 3, 13355 Berlin",
     "url": "https://luma.com/23h3gjaa",
-    "source": "Luma",
-    "description": "Exclusive Fireside Chat hosted by {Tech: Berlin} and LLM Studios bringing together active builders and innovators in Berlin's tech scene for an evening of insights on AI, entrepreneurship, and the open-source ecosystem. Features Marc Klingen, Co-Founder of Langfuse. Time: 18:30 - 22:00.",
-    "title_local": "{Tech: Berlin} X LLM Studios: KI-Builders' Fireside Chat",
-    "description_local": "Exklusiver Fireside Chat veranstaltet von {Tech: Berlin} und LLM Studios, der aktive Builders und Innovatoren der Berliner Tech-Szene für einen Abend voller Einblicke in KI, Unternehmertum und das Open-Source-Ökosystem zusammenbringt. Mit Marc Klingen, Mitgründer von Langfuse. Zeit: 18:30 - 22:00.",
+    "source": "luma.com",
+    "description": "Exclusive Fireside Chat hosted by {Tech: Berlin} and LLM Studios bringing together active builders and innovators in Berlin's tech scene. Features Marc Klingen, Co-Founder of Langfuse, discussing LLM observability, founding a startup in Berlin, and AI trends. Event runs 18:30-22:00. Geared toward active builders.",
+    "title_local": "{Tech: Berlin} X LLM Studios: AI Builders' Fireside Chat",
+    "description_local": "Exklusiver Fireside Chat gehostet von {Tech: Berlin} und LLM Studios, der aktive Entwickler und Innovatoren in Berlins Tech-Szene zusammenbringt. Mit Marc Klingen, Mitgründer von Langfuse, über LLM-Observability, Startup-Gründung in Berlin und KI-Trends.",
     "city": "berlin",
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-15",
     "id": "df9833e57f749195"
   },
   {
