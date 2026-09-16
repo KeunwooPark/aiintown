@@ -1105,7 +1105,7 @@
     "description_local": "OpenAI veranstaltet einen Abend mit praktischem Bauen, Live-Demos und Diskussion in Berlin, zusammen mit Parloa. Das Programm umfasst, wie führende Engineering-Teams an nützlichen Agenten arbeiten, ein Kamingespräch mit Parloa über ihre Produktionserfahrungen, Neuigkeiten zu Codex und offene Sprechstunden mit OpenAI-Ingenieuren für technische und Produktfragen.",
     "city": "berlin",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "id": "90afcf8355d56451"
   },
   {
@@ -1373,6 +1373,20 @@
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-08",
     "id": "45b08cb0bc12fbed"
+  },
+  {
+    "title": "AI4Science Agent Hackathon @ Merantix AI Berlin",
+    "title_local": "AI4Science Agent Hackathon @ Merantix AI Berlin",
+    "date": "2026-09-26",
+    "venue": "Merantix AI Campus, Berlin",
+    "url": "https://www.deep-tech-week.com/berlin-2026/events/ai4science-agent-hackathon-merantix-ai-berlin",
+    "source": "Deep Tech Week",
+    "description": "Build an autonomous AI agent that can do science — without knowing in advance what science it will be doing. This is an autoresearch hackathon where each team designs a system — agent scaffold, prompt engineering, and tool integration. Doors open at 1:30 PM. Part of Deep Tech Week Berlin 2026.",
+    "description_local": "Bauen Sie einen autonomen KI-Agenten, der Wissenschaft betreiben kann – ohne im Voraus zu wissen, welche Wissenschaft er betreiben wird. Dies ist ein Autoresearch-Hackathon, bei dem jedes Team ein System entwirft – Agent-Scaffold, Prompt-Engineering und Tool-Integration. Türen öffnen um 13:30 Uhr. Teil der Deep Tech Week Berlin 2026.",
+    "city": "berlin",
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "id": "6bf810894341485c"
   },
   {
     "title": "Sept 26 - Berlin Physical AI Workshop and Meetup",
@@ -1861,7 +1875,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "id": "9a05b37a144a341e"
   },
   {
@@ -2001,7 +2015,7 @@
     "description_local": "Supply-Chain-Transformationsveranstaltung für Führungskräfte mit Schwerpunkt auf KI und digitaler Transformation in Logistik und Supply-Chain-Management. Beginn 08:00.",
     "city": "berlin",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-08-02",
+    "last_seen": "2026-09-16",
     "id": "cafd4681a9cdc973"
   },
   {
