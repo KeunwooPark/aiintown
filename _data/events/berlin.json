@@ -308,7 +308,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-18",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -1105,7 +1105,7 @@
     "description_local": "OpenAI veranstaltet einen Abend mit praktischem Bauen, Live-Demos und Diskussion in Berlin, zusammen mit Parloa. Das Programm umfasst, wie führende Engineering-Teams an nützlichen Agenten arbeiten, ein Kamingespräch mit Parloa über ihre Produktionserfahrungen, Neuigkeiten zu Codex und offene Sprechstunden mit OpenAI-Ingenieuren für technische und Produktfragen.",
     "city": "berlin",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-18",
     "id": "90afcf8355d56451"
   },
   {
@@ -1331,6 +1331,20 @@
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "id": "933ddfb38d5bd738"
+  },
+  {
+    "title": "GTM World Tour - Berlin",
+    "date": "2026-09-23",
+    "venue": "Merantix AI Campus",
+    "url": "https://www.merantix-aicampus.com/event/gtm-world-tour---berlin",
+    "source": "Merantix AI Campus",
+    "description": "Evening event with founder fireside on what actually built pipeline, and GTM roundtables (6-8 people per table, operator-led). Topics: diagnosing your funnel, building a GTM team you can't hire for, which AI tools survived contact with reality. Food, drinks and 60 people. Doors close at 18:15. Includes 2026 GTM framework and GTM Manifesto.",
+    "title_local": "GTM World Tour - Berlin",
+    "description_local": "Abendveranstaltung mit Gründer-Fireside darüber, was tatsächlich Pipeline aufgebaut hat, und GTM-Roundtables (6-8 Personen pro Tisch, von Operators geleitet). Themen: Diagnose Ihres Funnels, Aufbau eines GTM-Teams, das Sie nicht einstellen können, welche KI-Tools den Kontakt mit der Realität überlebt haben.",
+    "city": "berlin",
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-18",
+    "id": "9a40b1d4bc6bb8a2"
   },
   {
     "title": "KI-Lounge Berlin",
