@@ -308,7 +308,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -1515,6 +1515,20 @@
     "id": "3001a2879c713804"
   },
   {
+    "title": "AI for Media Meetup #9",
+    "date": "2026-09-29",
+    "venue": "dpa (Deutsche Presse-Agentur) Berlin headquarters",
+    "url": "https://aiformedia.network/en/",
+    "source": "AI for Media Network",
+    "description": "The ninth AI for Media meetup hosted at dpa's Berlin headquarters, focusing on responsible AI in newsrooms: provenance and governance, bias in editorial automation, and deepfake detection as an operational problem. Draws journalists, media engineers and the trust-and-safety community. Free, afternoon format.",
+    "title_local": "AI for Media Meetup #9",
+    "description_local": "Das neunte AI for Media Meetup in der Berliner dpa-Zentrale erkundet, wie Medienorganisationen KI verantwortungsvoll einsetzen können – ohne journalistische Werte, Glaubwürdigkeit oder Sicherheit zu gefährden. Fokus auf Herkunft und Governance, Bias in redaktioneller Automatisierung und Deepfake-Erkennung.",
+    "city": "berlin",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-22",
+    "id": "8561bde668f2fb7f"
+  },
+  {
     "title": "International Conference on AI and Data Science for Education Technology (ICADSET)",
     "date": "2026-09-29",
     "venue": "Berlin, Germany",
@@ -1581,7 +1595,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-09-19",
+    "last_seen": "2026-09-22",
     "id": "cb6443b487d22397"
   },
   {
@@ -1739,6 +1753,20 @@
     "id": "f0de881b7d97f1b7"
   },
   {
+    "title": "OpenAI DevDay Exchange Berlin",
+    "date": "2026-10-26",
+    "venue": "Berlin (venue TBA)",
+    "url": "https://events.openai.com/devdayexchange2026",
+    "source": "OpenAI",
+    "description": "OpenAI brings DevDay Exchange to Berlin as part of global tour. Evening of hands-on building, live demos and discussion, co-hosted with Parloa. Programme covers how leading engineering teams are approaching useful agents, fireside chat with Parloa on production learnings, what's new in Codex, and open office hours with OpenAI engineers. Event begins at 2pm local time.",
+    "title_local": "OpenAI DevDay Exchange Berlin",
+    "description_local": "OpenAI bringt DevDay Exchange nach Berlin als Teil einer weltweiten Tour. Abend mit praktischem Bauen, Live-Demos und Diskussionen, co-hosted mit Parloa. Programm umfasst wie führende Engineering-Teams nützliche Agents entwickeln, Fireside-Chat mit Parloa über Produktions-Learnings, Neues bei Codex und offene Office Hours mit OpenAI-Ingenieuren.",
+    "city": "berlin",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-22",
+    "id": "5c81cee5d89e53f7"
+  },
+  {
     "title": "Falling Walls Science Summit",
     "date": "2026-11-06",
     "venue": "Berlin, Germany",
@@ -1889,7 +1917,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "id": "9a05b37a144a341e"
   },
   {
@@ -1905,6 +1933,20 @@
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
     "id": "fdd16f45d46f27cf"
+  },
+  {
+    "title": "AI Builders Berlin - Nov 17",
+    "date": "2026-11-17",
+    "venue": "Aethos, Berlin",
+    "url": "https://www.eventbrite.com/e/ai-builders-berlin-nov-17-tickets-1995322375939",
+    "source": "Eventbrite / AI Builders Club",
+    "description": "Berlin's AI Builders event showcases cutting-edge tools like OpenClaw, LLMOps, and Evals with live demos and networking for developers. Topics include Vibecoding, OpenClaw, Distills, Evals, LLMOps & anything about Agents. Community of 5000+ AI nerds. Evening format 5:30-9 PM with pizza, talks, and networking with free drinks.",
+    "title_local": "AI Builders Berlin - 17. November",
+    "description_local": "Berlins AI Builders Event präsentiert modernste Tools wie OpenClaw, LLMOps und Evals mit Live-Demos und Networking für Entwickler. Themen umfassen Vibecoding, OpenClaw, Distills, Evals, LLMOps & alles über Agents. Community von 5000+ KI-Nerds. Abendformat 17:30-21:00 Uhr mit Pizza, Vorträgen und Networking mit Gratis-Getränken.",
+    "city": "berlin",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-22",
+    "id": "2086ec2b763d859a"
   },
   {
     "title": "BVDW KI-Meet-Up",
