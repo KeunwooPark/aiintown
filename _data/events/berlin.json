@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-25",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -308,7 +308,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-25",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -1543,6 +1543,20 @@
     "id": "216d5e94062d17a7"
   },
   {
+    "title": "Token Break - AI Walking Meetup",
+    "date": "2026-09-29",
+    "venue": "Berlin (meeting point TBA)",
+    "url": null,
+    "source": "meetup.com",
+    "description": "Walking meetup for AI builders and practitioners - 10,000 steps (around 90 minutes) walking through Berlin talking about AI face to face. Zero laptops, just people walking and discussing what they're building, what's working, what isn't, recent discoveries and honest opinions about what's useful and what's hype.",
+    "title_local": "Token Break - AI Walking Meetup",
+    "description_local": "Walking-Meetup für KI-Builder und -Praktiker - 10.000 Schritte (ca. 90 Minuten) durch Berlin gehen und persönlich über KI sprechen. Null Laptops, nur Menschen, die gehen und diskutieren, was sie bauen, was funktioniert, was nicht, aktuelle Entdeckungen und ehrliche Meinungen.",
+    "city": "berlin",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "id": "d8ece2faacef2de3"
+  },
+  {
     "title": "Next.OE | RAUM FÜR ZUKÜNFTE",
     "date": "2026-09-30",
     "venue": "Kreuzberg, Berlin",
@@ -1611,6 +1625,20 @@
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "id": "29ab3087363b97d5"
+  },
+  {
+    "title": "ARRtist AI Summit 2026",
+    "date": "2026-10-08",
+    "venue": "Von Greifswald, Berlin",
+    "url": "https://www.eventbrite.de/e/arrtist-ai-summit-2026-tickets-1709585449099",
+    "source": "eventbrite.de",
+    "description": "The leading networking conference for B2B Software and AI in Germany, Austria and Switzerland.",
+    "title_local": "ARRtist AI Summit 2026",
+    "description_local": "Die führende Networking-Konferenz für B2B-Software und KI in Deutschland, Österreich und der Schweiz.",
+    "city": "berlin",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "id": "ac4e742f0c89eb0d"
   },
   {
     "title": "AI, Machine Learning & Data Science Conference",
@@ -1765,6 +1793,20 @@
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "id": "5c81cee5d89e53f7"
+  },
+  {
+    "title": "Werkzeuge entscheiden nicht: Designpraxis und Lehre in Zeiten von KI",
+    "date": "2026-11-04",
+    "venue": "Hochschule für Technik und Wirtschaft Berlin (HTW Berlin) - Campus Wilhelminenhof",
+    "url": "https://www.eventbrite.de/e/werkzeuge-entscheiden-nicht-designpraxis-und-lehre-in-zeiten-von-ki-tickets-1995064522693",
+    "source": "eventbrite.de",
+    "description": "Event examining how AI changes roles, competencies and working methods in design teams, and what skills will be expected from people in the future. Focus on design education and questions around creativity, critical thinking, judgment and ethics in an AI-shaped work environment.",
+    "title_local": "Werkzeuge entscheiden nicht: Designpraxis und Lehre in Zeiten von KI",
+    "description_local": "Veranstaltung zur Frage, wie KI die Rollen, Kompetenzen und Arbeitsweisen in Designteams verändert, und welche Fähigkeiten künftig überhaupt noch von Menschen erwartet werden. Fokus auf Designausbildung und Fragen zu Kreativität, kritischem Denken, Urteilskraft und Ethik in einer von KI geprägten Arbeitswelt.",
+    "city": "berlin",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "id": "585670ed485d1b68"
   },
   {
     "title": "Falling Walls Science Summit",
@@ -2119,21 +2161,6 @@
     "id": "e7d2b6de6f7b8f4d"
   },
   {
-    "title": "Berlin AI",
-    "date": null,
-    "venue": "TBA",
-    "url": "https://www.meetup.com/berlinai/",
-    "source": "meetup.com",
-    "description": "Community for people who build, apply, and actively use AI in real life. Brings together engineers, AI practitioners, founders, product leaders, operators, investors, and creative technologists. Features practical talks, real-world use cases, technical deep dives. Hosted by Kim Ngan Le Dang, Harshil Agrawa, Tejas Kumar and Bhargav Venkatesh Babu.",
-    "title_local": "Berlin AI",
-    "description_local": "Community für Menschen, die KI im echten Leben bauen, anwenden und aktiv nutzen. Vereint Ingenieure, KI-Praktiker, Gründer, Produktverantwortliche, Betreiber, Investoren und kreative Technologen.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-08-23",
-    "id": "c927338a65708751"
-  },
-  {
     "title": "Berlin AI Engineering Group with m|rig",
     "date": null,
     "venue": "Berlin (various locations)",
@@ -2147,6 +2174,21 @@
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
     "id": "e233184fedf6f804"
+  },
+  {
+    "title": "Berlin AI Meetup",
+    "date": null,
+    "venue": "Berlin (various locations)",
+    "url": "https://www.meetup.com/berlinai/",
+    "source": "meetup.com",
+    "description": "Community for people who build, apply, and actively use AI in real life. Brings together engineers, AI practitioners, founders, product leaders, operators, investors, and creative technologists integrating AI into products, workflows, companies, and artistic practice. Space for practical talks, real-world use cases, technical deep dives, and transparent discussions.",
+    "title_local": "Berlin AI Meetup",
+    "description_local": "Community für Menschen, die KI im echten Leben bauen, anwenden und aktiv nutzen. Bringt Ingenieure, KI-Praktiker, Gründer, Produktmanager, Betreiber, Investoren und kreative Technologen zusammen, die KI in Produkte, Workflows, Unternehmen und künstlerische Praxis integrieren.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-09-25",
+    "id": "c927338a65708751"
   },
   {
     "title": "Berlin AI Meetup (Luma)",
