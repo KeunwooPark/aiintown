@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-25",
+    "last_seen": "2026-09-26",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -294,7 +294,7 @@
     "description_local": "Persönliches Global AI Community-Event mit Fokus auf künstliche Intelligenz, maschinelles Lernen und Data Science. Mit Diskussionen, Workshops und Networking für KI-Praktiker und Enthusiasten.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-26",
     "id": "c173ee1f9567ce8d"
   },
   {
@@ -308,7 +308,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-25",
+    "last_seen": "2026-09-26",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -549,20 +549,6 @@
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-05",
     "id": "cdd30d1150018cbb"
-  },
-  {
-    "title": "KI und Nachhaltigkeit Arbeitstreffen Berlin",
-    "date": "2026-08-15",
-    "venue": "MotionLab.Berlin, Bouchéstr. 12 Halle 20",
-    "url": "https://www.meetup.com/berlin-ki-und-nachhaltigkeit-meetup-group/",
-    "source": "meetup.com",
-    "description": "Small, focused meetings for people deeply engaged with AI in corporate sustainability management. Practical use cases from practice, discussion of collaboration opportunities. For people with practical experience at the intersection of AI and sustainability management in companies.",
-    "title_local": "KI x Nachhaltigkeit: Wer baut mit? Arbeitstreffen in Berlin",
-    "description_local": "Kleine, fokussierte Treffen für Menschen, die sich bereits intensiver mit KI im Nachhaltigkeitsmanagement in Unternehmen beschäftigen. Konkrete Anwendungsfälle aus der Praxis und Diskussion von Zusammenarbeitsmöglichkeiten.",
-    "city": "berlin",
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-31",
-    "id": "bd6117e178f6e24c"
   },
   {
     "title": "AI Builders Berlin - RAG & Agents Edition",
@@ -1557,6 +1543,20 @@
     "id": "d8ece2faacef2de3"
   },
   {
+    "title": "Hackathon Robotik und Künstliche Intelligenz",
+    "date": "2026-09-30",
+    "venue": "Berlin",
+    "url": "https://www.berlin.de/industriestadt/masterplan-industriestadt-berlin/termine/",
+    "source": "berlin.de",
+    "description": "Hackathon in the field of robotics and artificial intelligence. Developers, robotics engineers and other actors work together on practical solutions and prototypes in the context of agentic AI.",
+    "title_local": "Hackathon Robotik und Künstliche Intelligenz",
+    "description_local": "Hackathon im Bereich Robotik und Künstliche Intelligenz. Entwickler:innen, Robotik-Ingenieur:innen sowie weitere Akteur:innen arbeiten gemeinsam an praxisnahen Lösungen und Prototypen im Kontext agentischer KI.",
+    "city": "berlin",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-09-26",
+    "id": "decde93fcc3a35b0"
+  },
+  {
     "title": "Next.OE | RAUM FÜR ZUKÜNFTE",
     "date": "2026-09-30",
     "venue": "Kreuzberg, Berlin",
@@ -1569,6 +1569,20 @@
     "first_seen": "2026-08-02",
     "last_seen": "2026-08-02",
     "id": "7157d5749c55289f"
+  },
+  {
+    "title": "Berlin KI und Nachhaltigkeit Meetup",
+    "date": "2026-10-01",
+    "venue": "MotionLab.Berlin, Bouchéstr. 12 Halle 20, 12435 Berlin",
+    "url": "https://www.meetup.com/berlin-ki-und-nachhaltigkeit-meetup-group/",
+    "source": "meetup.com",
+    "description": "Small, focused meetings for people already intensively engaged with AI in sustainability management in companies and interested in developing concrete applications together. Focuses on concrete use cases from practice and discusses whether and in what form collaboration makes sense. For people with practical experience at the intersection of AI and sustainability management.",
+    "title_local": "Berlin KI und Nachhaltigkeit Meetup",
+    "description_local": "Arbeitstreffen in Berlin. Kleine, fokussierte Treffen für Menschen, die sich bereits intensiver mit KI im Nachhaltigkeitsmanagement in Unternehmen beschäftigen und Interesse haben, daraus konkrete Anwendungen gemeinsam weiterzuentwickeln. Für Menschen mit praktischer Erfahrung an der Schnittstelle von KI und Nachhaltigkeitsmanagement in Unternehmen.",
+    "city": "berlin",
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-09-26",
+    "id": "bd6117e178f6e24c"
   },
   {
     "title": "BITES 26: Black in Tech Europe Summit",
@@ -1609,7 +1623,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-26",
     "id": "cb6443b487d22397"
   },
   {
@@ -1723,6 +1737,20 @@
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-08",
     "id": "9244ddc4fe338c96"
+  },
+  {
+    "title": "Rise of AI Conference 2026",
+    "date": "2026-10-15",
+    "venue": "Berlin",
+    "url": "https://riseof.ai/conference-2026/",
+    "source": "riseof.ai",
+    "description": "Celebrating a Decade of European AI Excellence. Features Applied AI Stage (practical insights into launching, scaling, and going global with AI businesses; securing funding; hiring talent), Meta Stage (policy and business concerns such as Geo AI Strategy, European AI Act, AI Sustainability, AI Security, Generative AI). Live workshops on various topics. Connect with founders, investors, researchers, policymakers, and corporate leaders driving AI forward in Europe.",
+    "title_local": "Rise of AI Conference 2026",
+    "description_local": "Feier eines Jahrzehnts europäischer KI-Exzellenz. Applied AI Stage (praktische Einblicke in Start, Skalierung und Internationalisierung von KI-Unternehmen; Finanzierung; Talentakquise), Meta Stage (Politik- und Geschäftsfragen wie Geo-KI-Strategie, Europäisches KI-Gesetz, KI-Nachhaltigkeit, KI-Sicherheit, Generative KI). Live-Workshops zu verschiedenen Themen in Berlin.",
+    "city": "berlin",
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "id": "9e268401cc776868"
   },
   {
     "title": "The Berlin AI Conference 2026",
@@ -2339,21 +2367,6 @@
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
     "id": "f29c0bef56ccb0ef"
-  },
-  {
-    "title": "Robotik und KI Hackathon",
-    "date": null,
-    "venue": "Berlin",
-    "url": "https://www.berlin.de/industriestadt/masterplan-industriestadt-berlin/termine/",
-    "source": "berlin.de",
-    "description": "Hackathon in the fields of robotics and artificial intelligence. Developers, robotics engineers, and other actors work together on practical solutions and prototypes in the context of agentic AI.",
-    "title_local": "Robotik und KI Hackathon",
-    "description_local": "Hackathon im Bereich Robotik und Künstliche Intelligenz. Entwickler:innen, Robotik-Ingenieur:innen sowie weitere Akteur:innen arbeiten gemeinsam an praxisnahen Lösungen und Prototypen im Kontext agentischer KI.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-07-04",
-    "id": "decde93fcc3a35b0"
   },
   {
     "title": "The Berlin AI Community Meetup",
