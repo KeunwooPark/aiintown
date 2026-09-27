@@ -284,20 +284,6 @@
     "id": "0226fb9fbc26f91c"
   },
   {
-    "title": "Global AI Berlin",
-    "date": "2026-07-11",
-    "venue": "Berlin, Germany",
-    "url": "https://globalai.community/chapters/berlin/",
-    "source": "globalai.community",
-    "description": "In-person Global AI community event focused on artificial intelligence, machine learning, and data science. Features discussions, workshops, and networking for AI practitioners and enthusiasts.",
-    "title_local": "Global AI Berlin",
-    "description_local": "Persönliches Global AI Community-Event mit Fokus auf künstliche Intelligenz, maschinelles Lernen und Data Science. Mit Diskussionen, Workshops und Networking für KI-Praktiker und Enthusiasten.",
-    "city": "berlin",
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-09-26",
-    "id": "c173ee1f9567ce8d"
-  },
-  {
     "title": "{Tech: Europe} Berlin AI Hackathon",
     "date": "2026-07-12",
     "venue": "Berlin",
@@ -308,7 +294,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-09-27",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -1807,6 +1793,20 @@
     "first_seen": "2026-07-31",
     "last_seen": "2026-08-17",
     "id": "f0de881b7d97f1b7"
+  },
+  {
+    "title": "Global AI Berlin October Meetup",
+    "date": "2026-10-23",
+    "venue": "Berlin, Germany",
+    "url": "https://globalai.community/chapters/berlin",
+    "source": "Global AI Community",
+    "description": "In-person meetup by Global AI Berlin community for anyone interested in artificial intelligence, machine learning, and data science. Takes place on Friday, October 23, 2026, from 15:00 to 20:30 CET.",
+    "title_local": "Global AI Berlin Oktober Meetup",
+    "description_local": "Persönliches Treffen der Global AI Berlin Community für alle, die sich für Künstliche Intelligenz, maschinelles Lernen und Data Science interessieren. Findet am Freitag, 23. Oktober 2026, von 15:00 bis 20:30 Uhr statt.",
+    "city": "berlin",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-09-27",
+    "id": "c173ee1f9567ce8d"
   },
   {
     "title": "OpenAI DevDay Exchange Berlin",

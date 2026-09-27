@@ -992,6 +992,20 @@
     "id": "79cde4c894afbe1b"
   },
   {
+    "title": "Weights & Biases Seoul Meetup #12",
+    "date": "2026-09-27",
+    "venue": "Seoul (specific venue TBD)",
+    "url": "https://wandb.ai/site/resources/events/seoul-meetup-12/",
+    "source": "wandb.ai",
+    "description": "Weights & Biases 3rd quarter meetup featuring speakers from Naver Applied AI Research (medical-specialized model development), Channel Corporation (Applied AI Engineer), and Cohere (Staff Solutions Architect). Topics include domain-specific AI implementation across medical, legal, customer service, and enterprise AI agents, focusing on learning, productization, and evaluation challenges. Special collaboration with Cohere.",
+    "title_local": "Weights & Biases 서울 밋업 #12",
+    "description_local": "Weights & Biases가 3분기 밋업에서는 네이버에서 Applied AI Research 팀에서 (의료특화) 모델 개발을 맡고 계신 최예라님, 채널코퍼레이션에서 Applied AI Engineer로 활약중이신 이성진님, 그리고 Cohere에서 스태프 솔루션즈 아키텍트를 맡고 계신 이승민님을 모시고, 의료, 법률, 고객 상담, 엔터프라이즈 AI 에이전트 등 다양한 영역의 사례를 통해, 도메인 특화 AI를 실제 현장에서 유용한 서비스로 구현하기까지 마주하게 되는 학습, 제품화 그리고 평가의 과제를 살펴봅니다.",
+    "city": "seoul",
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "id": "5e00edbe19173761"
+  },
+  {
     "title": "Korea Blockchain Week 2026",
     "title_local": "코리아 블록체인 위크 2026",
     "date": "2026-09-29",
