@@ -294,7 +294,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-27",
+    "last_seen": "2026-09-28",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -1609,7 +1609,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-09-28",
     "id": "cb6443b487d22397"
   },
   {
@@ -1977,6 +1977,20 @@
     "id": "0058e69380058f51"
   },
   {
+    "title": "Handelsblatt KI-Summit 2026",
+    "date": "2026-11-16",
+    "venue": "House of Communication, Munich (NOT Berlin)",
+    "url": "https://live.handelsblatt.com/event/handelsblatt-ki-summit/",
+    "source": "live.handelsblatt.com",
+    "description": "Central conference for decision-makers on AI strategy, scaling, and transformation. Theme: 'Agents & Agency' focusing on new operating models. Two stages (TODAY Stage for strategy, TOMORROW Stage for AI development). Two-day event Nov 16-17, 2026.",
+    "title_local": "Handelsblatt KI-Summit 2026",
+    "description_local": "Der zentrale Orientierungspunkt für Entscheiderinnen und Entscheider, die KI strategisch steuern, skalieren und in nachhaltige Wertschöpfung sowie echten Wettbewerbsvorteil übersetzen. Unter dem Motto 'Agents & Agency' steht 2026 die Gestaltung eines neuen Operating Models im Mittelpunkt. Zweitägige Veranstaltung 16.-17. November 2026.",
+    "city": "berlin",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "id": "21616542dfd33b56"
+  },
+  {
     "title": "MLcon Berlin 2026",
     "date": "2026-11-16",
     "venue": "Maritim proArte Hotel Berlin, Friedrichstraße 151, 10117 Berlin",
@@ -2337,6 +2351,21 @@
     "first_seen": "2026-07-21",
     "last_seen": "2026-07-21",
     "id": "70d6d9a30117017a"
+  },
+  {
+    "title": "Forward Deploy Enterprise AI Summit 2026 - Berlin",
+    "date": null,
+    "venue": "Berlin (location TBA)",
+    "url": "https://www.eventbrite.com/d/germany--berlin/free--science-and-tech--conferences/",
+    "source": "eventbrite.com",
+    "description": "Free science and tech conference focused on enterprise AI deployment.",
+    "title_local": "Forward Deploy Enterprise AI Summit 2026 - Berlin",
+    "description_local": "Kostenlose Wissenschafts- und Technologiekonferenz mit Fokus auf Enterprise-AI-Deployment.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "id": "518399eac25b041c"
   },
   {
     "title": "KI ausprobieren - Hands-on Workshop",
