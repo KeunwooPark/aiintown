@@ -294,7 +294,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-09-29",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -350,7 +350,7 @@
     "description_local": "Besuchen Sie das Berlin KI-Meetup im betahaus am Moritzplatz für einen Abend mit praktischer KI, spannenden Diskussionen und Networking mit Branchenexperten. Derek Footer von XTR.Capital wird eine Keynote darüber halten, 'Wie Sie Ihr Startup auf die erste Finanzierungsrunde vorbereiten'. Demos umfassen One Ware (Physical AI für autonome Drohnen und Qualitätskontrolle) und Civic (die Berechtigungsebene für KI-Agenten). Egal, ob Sie ein Befürworter oder Kritiker sind, Ihre Perspektive ist wichtig.",
     "city": "berlin",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-29",
     "id": "e3b46ef72cefd6d1"
   },
   {
@@ -1067,20 +1067,6 @@
     "id": "90afcf8355d56451"
   },
   {
-    "title": "BIG BANG KI Festival 2026",
-    "date": "2026-09-16",
-    "venue": "Alte Münze, Berlin",
-    "url": "https://bigbangfestival.de/",
-    "source": "bigbangfestival.de",
-    "description": "Major AI festival with six stages, 350+ speakers from business, tech, health, and politics sharing knowledge on current AI trends. Features extensive stage program, street food, networking opportunities, and live entertainment. All participants receive an official AI certificate. New in 2026: Data and Analytics Stage and SME Stage focused on topics for small and medium-sized enterprises.",
-    "title_local": "BIG BANG KI Festival 2026",
-    "description_local": "Großes KI-Festival mit sechs Bühnen, über 350 Speakern aus Wirtschaft, Tech, Gesundheit und Politik, die ihr Wissen über aktuelle KI-Trends teilen. Mit umfangreichem Bühnenprogramm, Street Food, Networking-Möglichkeiten und Live-Entertainment. Alle Teilnehmenden erhalten ein offizielles KI-Zertifikat. Neu 2026: Data and Analytics Stage und SME Stage für kleine und mittelständische Unternehmen.",
-    "city": "berlin",
-    "first_seen": "2026-06-16",
-    "last_seen": "2026-07-18",
-    "id": "a1e89f63d8ce233d"
-  },
-  {
     "title": "Hatch Conference 2026",
     "date": "2026-09-16",
     "venue": "Silent Green Kulturquartier, Gerichtstraße 35, 13347 Berlin",
@@ -1147,7 +1133,7 @@
     "description_local": "Abendveranstaltung mit 3 Lightning Talks von Top-Berliner Entwicklern, mit Vorträgen über die Revolutionierung der Medienanalyse mit LLMs, die Umsetzung von Ideen in KI-Produkte und die Markteinführung von KI-Produkten. Inkl. Essen, Getränken und Networking. Gesponsert von Project A und Amplitude.",
     "city": "berlin",
     "first_seen": "2026-06-19",
-    "last_seen": "2026-09-08",
+    "last_seen": "2026-09-29",
     "id": "85c8aa34e118ae0f"
   },
   {
@@ -1357,7 +1343,7 @@
     "description_local": "Business-Networking-Event mit Fokus auf Skalierung von KI-Workloads mit Vorträgen über hybrides GPU-Kubernetes und resiliente Infrastruktur. Technische Deep Dives mit KI-Demos, Networking mit Getränken und Snacks. Moderiert von Arthur Poot, Gründer von AI Builders. Begrenzte Plätze.",
     "city": "berlin",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-08",
+    "last_seen": "2026-09-29",
     "id": "45b08cb0bc12fbed"
   },
   {
@@ -1609,7 +1595,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-09-29",
     "id": "cb6443b487d22397"
   },
   {
@@ -1665,7 +1651,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-29",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1805,7 +1791,7 @@
     "description_local": "Persönliches Treffen der Global AI Berlin Community für alle, die sich für Künstliche Intelligenz, maschinelles Lernen und Data Science interessieren. Findet am Freitag, 23. Oktober 2026, von 15:00 bis 20:30 Uhr statt.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-09-27",
+    "last_seen": "2026-09-29",
     "id": "c173ee1f9567ce8d"
   },
   {
@@ -1977,6 +1963,20 @@
     "id": "0058e69380058f51"
   },
   {
+    "title": "BIG BANG KI FESTIVAL 2026",
+    "date": "2026-11-16",
+    "venue": "STATION Berlin",
+    "url": "https://www.bigbangfestival.de/",
+    "source": "BIG BANG Festival",
+    "description": "Europe's leading AI event for business with 8,500+ expected attendees, 450+ speakers on six stages. Features KI-Trends, innovation for mid-sized businesses, and top-level business networking. New 2026 venue STATION Berlin. Includes 'United AI of Europe' initiative partnering with AI Action Summit Paris. Offers certified 'Fit for KI' training in cooperation with German Innovation Institute.",
+    "title_local": "BIG BANG KI FESTIVAL 2026",
+    "description_local": "Europas führendes KI-Event für Business mit 8.500+ erwarteten Teilnehmern, 450+ Speakern auf sechs Bühnen. Bietet KI-Trends, Innovation für Mittelstand und Business-Networking auf Top-Niveau. Neue Location 2026: STATION Berlin. Beinhaltet 'United AI of Europe' Initiative in Partnerschaft mit AI Action Summit Paris. Bietet zertifizierte 'Fit for KI' Weiterbildung in Kooperation mit Deutschem Innovationsinstitut.",
+    "city": "berlin",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-09-29",
+    "id": "a1e89f63d8ce233d"
+  },
+  {
     "title": "Handelsblatt KI-Summit 2026",
     "date": "2026-11-16",
     "venue": "House of Communication, Munich (NOT Berlin)",
@@ -2141,7 +2141,7 @@
     "description_local": "Konferenz der Deutschen Presseakademie mit Schwerpunkt auf KI und effizienter Produktion. Mit 22 Referent:innen, darunter Friederike Schiller (DIE ZEIT), Sascha Lobo (Autor, Blogger, Spiegel-Online-Kolumnist) und anderen aus führenden Medien- und Kommunikationsorganisationen.",
     "city": "berlin",
     "first_seen": "2026-08-27",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-29",
     "id": "7c66ab55c8a51ce8"
   },
   {
