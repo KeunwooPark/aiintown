@@ -680,7 +680,7 @@
     "description_local": "엔지니어, 창업자, 연구자, 제품 개발자를 위한 실전 AI 빌더 커뮤니티 밋업. AI 에이전트, 멀티모달 및 음성 인터페이스, RAG 및 지식 시스템, AI 코딩 도구, 워크플로우 자동화, 평가, 관찰성 및 프로덕션 AI 인프라에 대한 실제 프로젝트 데모",
     "city": "seoul",
     "first_seen": "2026-08-05",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-30",
     "id": "e05542a7457ed01f"
   },
   {
@@ -696,20 +696,6 @@
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "id": "4dd277638ee5a9e8"
-  },
-  {
-    "title": "Foundry Data & AI Summit",
-    "date": "2026-09-01",
-    "venue": "Seoul, South Korea",
-    "url": "https://foundryco.com/events/region/south-korea/",
-    "source": "Foundry",
-    "description": "CIO and tech expert summit covering AI, quantum security, and strategies for a data-driven future",
-    "title_local": "Foundry 데이터 & AI 서밋",
-    "description_local": "AI, 양자 보안 및 데이터 기반 미래를 위한 전략을 다루는 CIO 및 기술 전문가 서밋",
-    "city": "seoul",
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-09-01",
-    "id": "a17765dea6924d56"
   },
   {
     "title": "Search SEOul",
@@ -1254,6 +1240,20 @@
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "id": "7d58e16f27604c18"
+  },
+  {
+    "title": "AI and Nextgen Workplace Summit",
+    "date": "2026-11-01",
+    "venue": "Seoul, South Korea",
+    "url": "https://foundryco.com/events/region/south-korea/",
+    "source": "Foundry",
+    "description": "Tech summit for CIOs and tech experts covering AI, quantum security, and strategies for a data-driven workplace in South Korea.",
+    "title_local": "AI and Nextgen Workplace",
+    "description_local": "AI, 양자 보안 및 데이터 기반 전략을 다루는 CIO 및 기술 전문가를 위한 기술 정상회의",
+    "city": "seoul",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-30",
+    "id": "a17765dea6924d56"
   },
   {
     "title": "AIoT Korea 2026",
