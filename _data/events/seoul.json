@@ -1060,6 +1060,20 @@
     "last_seen": "2026-06-16"
   },
   {
+    "title": "2026년 서울테크서밋 AI X Bio 오픈이노베이션 포럼",
+    "date": "2026-10-01",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?eventInfoId=EVEN_000000000068887",
+    "source": "Seoul Metropolitan Government, Seoul Business Agency (SBA), Yonsei University",
+    "description": "Forum promoting convergence of AI and Bio industries, exploring practical commercialization opportunities in future innovation fields. Provides excellent opportunities for Seoul's outstanding startups to interact with general hospitals, large enterprises, investment institutions and public organizations.",
+    "title_local": "2026년 서울테크서밋 AI X Bio 오픈이노베이션 포럼",
+    "description_local": "AI와 Bio 산업의 융합을 촉진하고, 미래 혁신분야의 실질적인 사업화 기회를 모색하기 위해 마련된 포럼입니다. 서울시 우수창업 기업들에게 종합병원, 대기업, 투자기관 및 공공기관과 교류하며 새로운 파트너십을 발굴할 수 있는 최적의 기회입니다.",
+    "city": "seoul",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "id": "165a755a308196b7"
+  },
+  {
     "title": "AI Festa 2026",
     "date": "2026-10-06",
     "venue": "COEX Hall C and Surrounding Area, Seoul",
@@ -1298,6 +1312,20 @@
     "id": "18b70194089547c7"
   },
   {
+    "title": "International Conference on AI in Transcriptomics and Bioinformatics",
+    "date": "2026-11-10",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea",
+    "source": "International Conference Alerts",
+    "description": "International conference on AI applications in transcriptomics and bioinformatics.",
+    "title_local": "전사체학 및 생물정보학에서의 AI 국제 학회",
+    "description_local": "전사체학 및 생물정보학에서 AI 응용에 관한 국제 학회입니다.",
+    "city": "seoul",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "id": "deb32b78c3c75fc5"
+  },
+  {
     "title": "Intel AI Summit Seoul 2026",
     "date": "2026-11-12",
     "venue": "COEX 그랜드볼룸과 오디토리움",
@@ -1324,6 +1352,20 @@
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-08",
     "id": "98f6cb8894011367"
+  },
+  {
+    "title": "International Conference on Software Engineering Solutions for Cyber Defense",
+    "date": "2026-12-01",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/artificial-intelligence/seoul",
+    "source": "International Conference Alerts",
+    "description": "International conference on software engineering solutions for cyber defense with AI applications.",
+    "title_local": "사이버 방어를 위한 소프트웨어 엔지니어링 솔루션 국제 학회",
+    "description_local": "AI 응용을 통한 사이버 방어를 위한 소프트웨어 엔지니어링 솔루션에 관한 국제 학회입니다.",
+    "city": "seoul",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "id": "dbd478639179dca7"
   },
   {
     "title": "International Conference on Machine Learning and Chat GPT (ICMLCG)",

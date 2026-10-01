@@ -869,7 +869,7 @@
     "description_local": "Veranstaltung, die Einblicke in aktuelle Entwicklungen und praktische Anwendungsfelder Künstlicher Intelligenz bietet. 10. September 2026. Fokus auf praktische KI-Anwendungen.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-08-06",
+    "last_seen": "2026-10-01",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -1585,6 +1585,20 @@
     "id": "5ad17e5445093c9c"
   },
   {
+    "title": "ACT Berlin #17 (AI Coworking Tuesday)",
+    "date": "2026-10-06",
+    "venue": "Circuit, Berlin",
+    "url": "https://luma.com/w3hub",
+    "source": "w3.hub / Circuit Event Calendar",
+    "description": "AI Coworking Tuesday - a full day coworking session for AI builders and developers",
+    "title_local": "ACT Berlin #17 (AI Coworking Dienstag)",
+    "description_local": "AI Coworking Dienstag - ein ganztägiger Coworking-Session für KI-Entwickler und Builder",
+    "city": "berlin",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "id": "b23bf485f69a6f9b"
+  },
+  {
     "title": "BERLIN QUANTUM BBQ October 2026",
     "date": "2026-10-06",
     "venue": "Berlin (venue TBD)",
@@ -1599,6 +1613,34 @@
     "id": "cb6443b487d22397"
   },
   {
+    "title": "Berlin AI Meetup October Edition",
+    "date": "2026-10-06",
+    "venue": "Enpal, Bödikerstraße 25, 10245 Berlin",
+    "url": "https://luma.com/09rrv45l",
+    "source": "Berlin AI / Meetup.com",
+    "description": "Monthly Berlin AI meetup exploring Large Language Models and Physics-AI for scientific simulations, agentic engineering, and better knowledge graphs. Features talks from practitioners building AI into real products and workflows.",
+    "title_local": "Berlin AI Meetup Oktober Edition",
+    "description_local": "Monatliches Berlin AI Meetup zur Erkundung von Large Language Models und Physics-AI für wissenschaftliche Simulationen, agentic Engineering und bessere Knowledge Graphs",
+    "city": "berlin",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "id": "3617832c391386b3"
+  },
+  {
+    "title": "AI Growth Summit Berlin Q4 2026",
+    "date": "2026-10-07",
+    "venue": "Soho House Berlin, Torstraße 1, 10119 Berlin",
+    "url": "https://luma.com/founderpath",
+    "source": "Founderpath / createwith.com",
+    "description": "Evening meetup bringing AI founders, builders, operators and investors together for talks and networking on major opportunities and risks emerging across the AI economy. Takes place 6:00-9:00 PM.",
+    "title_local": "AI Growth Summit Berlin Q4 2026",
+    "description_local": "Abend-Meetup, das KI-Gründer, Builder, Operators und Investoren für Vorträge und Networking über wichtige Chancen und Risiken in der KI-Wirtschaft zusammenbringt",
+    "city": "berlin",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "id": "44413cd4e2a2680b"
+  },
+  {
     "title": "WAVE 2026 (Parloa Flagship Conference)",
     "date": "2026-10-07",
     "venue": "Wilhelm Studios, Berlin",
@@ -1611,6 +1653,20 @@
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "id": "29ab3087363b97d5"
+  },
+  {
+    "title": "ai devCon",
+    "date": "2026-10-07",
+    "venue": "Berlin, Germany",
+    "url": "https://dev.events/meetups/EU/DE/Berlin/ai",
+    "source": "dev.events",
+    "description": "A three-day AI developer conference focused on practical AI building topics. Designed for people creating software with artificial intelligence, offering dedicated days for AI development with practical focus.",
+    "title_local": "ai devCon",
+    "description_local": "Eine dreitägige KI-Entwicklerkonferenz mit Fokus auf praktische KI-Building-Themen",
+    "city": "berlin",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-01",
+    "id": "b7ccc88a42218045"
   },
   {
     "title": "ARRtist AI Summit 2026",
@@ -1637,7 +1693,7 @@
     "description_local": "Dreitägige Veranstaltung (12.–14. Oktober 2026), die Forscher, Branchenführer und Entwickler zusammenbringt, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Thema: 'KI, Machine Learning & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Kern-KI-Themen einschließlich Robotik und autonome Systeme, Klimawissenschaftsanwendungen, MLOps und skalierbare Bereitstellung, vertrauenswürdige KI, Hochleistungsrechnen und energieeffiziente KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-19",
+    "last_seen": "2026-10-01",
     "id": "15932057c4239dba"
   },
   {
@@ -1651,7 +1707,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-01",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1791,7 +1847,7 @@
     "description_local": "Persönliches Treffen der Global AI Berlin Community für alle, die sich für Künstliche Intelligenz, maschinelles Lernen und Data Science interessieren. Findet am Freitag, 23. Oktober 2026, von 15:00 bis 20:30 Uhr statt.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-01",
     "id": "c173ee1f9567ce8d"
   },
   {
@@ -1819,7 +1875,7 @@
     "description_local": "Veranstaltung zur Frage, wie KI die Rollen, Kompetenzen und Arbeitsweisen in Designteams verändert, und welche Fähigkeiten künftig überhaupt noch von Menschen erwartet werden. Fokus auf Designausbildung und Fragen zu Kreativität, kritischem Denken, Urteilskraft und Ethik in einer von KI geprägten Arbeitswelt.",
     "city": "berlin",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25",
+    "last_seen": "2026-10-01",
     "id": "585670ed485d1b68"
   },
   {
@@ -1903,7 +1959,7 @@
     "description_local": "Künstliche-Intelligenz-Konferenz in Berlin, Europa. 9.-10. November 2026. NVIDIAs GPU Technology Conference mit Schwerpunkt auf KI und beschleunigtem Computing.",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-10-01",
     "id": "ee5b8a782a60e44d"
   },
   {
@@ -1921,6 +1977,20 @@
     "id": "6c9e24de15597d06"
   },
   {
+    "title": "ODH-Herbstforum 2026",
+    "date": "2026-11-12",
+    "venue": "FORUM Factory, Besselstraße 13-14, 10969 Berlin",
+    "url": "https://www.eventbrite.de/e/odh-herbstforum-2026-tickets-1992994137114",
+    "source": "Open District Hub e.V.",
+    "description": "Forum on shaping the future of districts with focus sessions on Policy, Districts/Commerce/Industry, and Artificial Intelligence. Explores AI solutions in sector coupling and district development including best practice projects.",
+    "title_local": "ODH-Herbstforum 2026",
+    "description_local": "Gemeinsam die Zukunft der Quartiere gestalten – mit Impulsen zu Politik, KI und Sektorkopplung. Forum Künstliche Intelligenz: Welche KI-Lösungen gibt es in der Sektorkopplung und Quartiersentwicklung?",
+    "city": "berlin",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "id": "74a04fa73f198ce5"
+  },
+  {
     "title": "EAGx Berlin 2026",
     "date": "2026-11-13",
     "venue": "Urania Berlin e.V., An d. Urania 17, 10787 Berlin",
@@ -1933,20 +2003,6 @@
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-14",
     "id": "9f675b7f397efb75"
-  },
-  {
-    "title": "AI Engineering Summit",
-    "title_local": "AI Engineering Summit",
-    "date": "2026-11-16",
-    "venue": "Berlin",
-    "url": "https://dev.events/meetups/EU/DE/Berlin/ai",
-    "source": "dev.events",
-    "description": "Conference focused on AI engineering practices and implementation, taking place November 16-20, 2026 as part of AI Native Week.",
-    "description_local": "Konferenz mit Fokus auf KI-Engineering-Praktiken und -Implementierung, die vom 16. bis 20. November 2026 als Teil der AI Native Week stattfindet.",
-    "city": "berlin",
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-09-04",
-    "id": "b7ccc88a42218045"
   },
   {
     "title": "AI Native Week Berlin 2026",
@@ -2141,7 +2197,7 @@
     "description_local": "Konferenz der Deutschen Presseakademie mit Schwerpunkt auf KI und effizienter Produktion. Mit 22 Referent:innen, darunter Friederike Schiller (DIE ZEIT), Sascha Lobo (Autor, Blogger, Spiegel-Online-Kolumnist) und anderen aus führenden Medien- und Kommunikationsorganisationen.",
     "city": "berlin",
     "first_seen": "2026-08-27",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-01",
     "id": "7c66ab55c8a51ce8"
   },
   {
