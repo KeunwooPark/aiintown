@@ -1585,20 +1585,6 @@
     "id": "5ad17e5445093c9c"
   },
   {
-    "title": "ACT Berlin #17 (AI Coworking Tuesday)",
-    "date": "2026-10-06",
-    "venue": "Circuit, Berlin",
-    "url": "https://luma.com/w3hub",
-    "source": "w3.hub / Circuit Event Calendar",
-    "description": "AI Coworking Tuesday - a full day coworking session for AI builders and developers",
-    "title_local": "ACT Berlin #17 (AI Coworking Dienstag)",
-    "description_local": "AI Coworking Dienstag - ein ganztägiger Coworking-Session für KI-Entwickler und Builder",
-    "city": "berlin",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-01",
-    "id": "b23bf485f69a6f9b"
-  },
-  {
     "title": "BERLIN QUANTUM BBQ October 2026",
     "date": "2026-10-06",
     "venue": "Berlin (venue TBD)",
@@ -1665,7 +1651,7 @@
     "description_local": "Eine dreitägige KI-Entwicklerkonferenz mit Fokus auf praktische KI-Building-Themen",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-02",
     "id": "b7ccc88a42218045"
   },
   {
@@ -1707,7 +1693,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-02",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1737,6 +1723,20 @@
     "first_seen": "2026-07-13",
     "last_seen": "2026-07-13",
     "id": "eb5a7368a399d5e4"
+  },
+  {
+    "title": "ACT Berlin #18: Women in AI Edition (AI Coworking Tuesday)",
+    "date": "2026-10-13",
+    "venue": "Circuit, Berlin",
+    "url": "https://luma.com/w3hub",
+    "source": "w3.hub / Circuit Event Calendar",
+    "description": "AI Coworking Tuesday special edition focused on Women in AI, providing a collaborative workspace for AI practitioners and builders.",
+    "title_local": "ACT Berlin #18: Women in AI Edition (AI Coworking Tuesday)",
+    "description_local": "AI Coworking Tuesday Spezialausgabe mit Fokus auf Frauen in der KI, bietet einen kollaborativen Arbeitsbereich für KI-Praktiker und Builder.",
+    "city": "berlin",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-02",
+    "id": "b23bf485f69a6f9b"
   },
   {
     "title": "Future Technologies Conference (FTC) 2026",
@@ -1847,7 +1847,7 @@
     "description_local": "Persönliches Treffen der Global AI Berlin Community für alle, die sich für Künstliche Intelligenz, maschinelles Lernen und Data Science interessieren. Findet am Freitag, 23. Oktober 2026, von 15:00 bis 20:30 Uhr statt.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-02",
     "id": "c173ee1f9567ce8d"
   },
   {
@@ -1863,6 +1863,20 @@
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "id": "5c81cee5d89e53f7"
+  },
+  {
+    "title": "AI Startup Demo & Pizza Night (Berlin)",
+    "date": "2026-10-30",
+    "venue": "Berlin, Germany",
+    "url": "https://www.aicamp.ai/event/eventsquery?city=Germany-Berlin",
+    "source": "AICamp",
+    "description": "Evening meetup featuring AI startup demonstrations and networking over pizza, bringing together founders, developers, and AI enthusiasts.",
+    "title_local": "AI Startup Demo & Pizza Night (Berlin)",
+    "description_local": "Abend-Meetup mit KI-Startup-Demonstrationen und Networking bei Pizza, bringt Gründer, Entwickler und KI-Enthusiasten zusammen.",
+    "city": "berlin",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02",
+    "id": "db36fd55151c179a"
   },
   {
     "title": "Werkzeuge entscheiden nicht: Designpraxis und Lehre in Zeiten von KI",
@@ -1919,6 +1933,20 @@
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-08",
     "id": "b1ddb401fa54a124"
+  },
+  {
+    "title": "AI Listening Machine: A New Science of Care and Creativity",
+    "date": "2026-11-08",
+    "venue": "Holzmarkt 25, Friedrichshain, Berlin",
+    "url": "https://www.eventbrite.com/d/germany--berlin/machine-learning/",
+    "source": "Eventbrite",
+    "description": "Interdisciplinary event exploring AI in the context of care and creativity, combining science, art, and technology at Holzmarkt 25, November 8, 2026.",
+    "title_local": "AI Listening Machine: Eine neue Wissenschaft von Fürsorge und Kreativität",
+    "description_local": "Interdisziplinäre Veranstaltung zur Erforschung von KI im Kontext von Fürsorge und Kreativität, verbindet Wissenschaft, Kunst und Technologie im Holzmarkt 25, 8. November 2026.",
+    "city": "berlin",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02",
+    "id": "eed1f1c8a7c19663"
   },
   {
     "title": "Angular - KI-Bootcamp",

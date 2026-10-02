@@ -189,21 +189,6 @@
     "id": "1a08f9dd6c76d61b"
   },
   {
-    "title": "[리벨리온x모두의연구소] 공간생물학 시대의 AI for Science",
-    "date": "2026-07-00",
-    "venue": "모두의연구소 강남캠퍼스 (MODULABS Gangnam Campus)",
-    "url": "https://luma.com/discover/seoul/ai",
-    "source": "Luma",
-    "description": "Joint seminar by Rebellions and MODULABS on AI for Science in the era of spatial biology, covering data explosion, infrastructure, and drug development.",
-    "title_local": "[리벨리온x모두의연구소] 공간생물학 시대의 AI for Science : 데이터 폭발, 인프라, 그리고 신약개발",
-    "description_local": "리벨리온과 모두의연구소가 공동으로 진행하는 공간생물학 시대의 AI for Science 세미나로 데이터 폭발, 인프라, 그리고 신약개발을 다룹니다.",
-    "city": "seoul",
-    "date_status": "unknown",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
-    "id": "0a8098b063381077"
-  },
-  {
     "title": "2026 Skill-Up Festa (Work Expert Festa)",
     "date": "2026-07-02",
     "venue": "COEX Magok, Seoul",
@@ -1200,6 +1185,20 @@
     "id": "a0bbd4e8cb16e307"
   },
   {
+    "title": "Push to Prod SEOUL [Anthropic X Replit X Korea Investment Partners]",
+    "date": "2026-10-15",
+    "venue": "Seoul, South Korea",
+    "url": "https://luma.com/influencedbyai",
+    "source": "Claude Community, Anthropic, Replit",
+    "description": "Push to Prod Seoul event organized by Anthropic (Claude), Replit, and Korea Investment Partners & Accelerator. Developer and startup-focused event on building and deploying AI applications.",
+    "title_local": "Push to Prod SEOUL [Anthropic X Replit X Korea Investment Partners]",
+    "description_local": "Anthropic(Claude), Replit, Korea Investment Partners & Accelerator가 주최하는 Push to Prod Seoul 이벤트입니다. AI 애플리케이션 구축 및 배포에 초점을 맞춘 개발자 및 스타트업 대상 행사입니다.",
+    "city": "seoul",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02",
+    "id": "6b560059f54394ae"
+  },
+  {
     "title": "2026 Seocho AI Festa",
     "date": "2026-10-17",
     "venue": "Seocho Culture and Arts Park (서초문화예술공원)",
@@ -1212,6 +1211,20 @@
     "first_seen": "2026-06-18",
     "last_seen": "2026-08-21",
     "id": "150af676f831b606"
+  },
+  {
+    "title": "10월18일 젠스파크AI 해커톤 한국젠스파크AI연구회",
+    "date": "2026-10-18",
+    "venue": "Seoul",
+    "url": "https://luma.com/discover/seoul/ai",
+    "source": "Luma",
+    "description": "Genspark AI hackathon organized by the Korean Genspark AI Research Association on October 18, 2026. Community hackathon focused on Genspark AI technologies.",
+    "title_local": "10월18일 젠스파크AI 해커톤 한국젠스파크AI연구회",
+    "description_local": "한국젠스파크AI연구회가 주최하는 2026년 10월 18일 젠스파크AI 해커톤입니다. Genspark AI 기술에 초점을 맞춘 커뮤니티 해커톤입니다.",
+    "city": "seoul",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-02",
+    "id": "0a8098b063381077"
   },
   {
     "title": "Global AI and Digital Summit 2026",
@@ -1280,8 +1293,22 @@
     "description_local": "인공지능(AI)과 사물인터넷(IoT)의 융합을 주제로 하는 전시·컨퍼런스. AI 기반 예측 분석, 스마트시티 인프라, 산업 자동화, 디지털 트윈 등을 다룸. 전시회: 11월 3-5일; 컨퍼런스: 11월 4-6일",
     "city": "seoul",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
+    "last_seen": "2026-10-02",
     "id": "eb7b9a95d3b2abc7"
+  },
+  {
+    "title": "AIoT Korea Exhibition & International Conference 2026",
+    "date": "2026-11-03",
+    "venue": "COEX, Seoul",
+    "url": "https://www.metisaihk.com/events/",
+    "source": "Korea AI IoT Association",
+    "description": "AIoT Korea 2026 exhibition (Nov 3-5) and conference (Nov 4-6) focused on AI and IoT convergence technologies. Features AI-based predictive analytics, smart city infrastructure, industrial automation, digital twins, and next-generation communication technologies in the AIoT ecosystem.",
+    "title_local": "AIoT Korea 전시회 및 국제 컨퍼런스 2026",
+    "description_local": "AI와 IoT 융합 기술에 초점을 맞춘 AIoT Korea 2026 전시회(11월 3-5일)와 컨퍼런스(11월 4-6일)입니다. AI 기반 예측 분석, 스마트시티 인프라, 산업 자동화, 디지털 트윈, AIoT 생태계의 차세대 통신 기술 등이 전시됩니다.",
+    "city": "seoul",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02",
+    "id": "0859b49af4ebdcce"
   },
   {
     "title": "International Conference on Computer Science, Machine Learning and Artificial Intelligence (ICCSMLAI)",
