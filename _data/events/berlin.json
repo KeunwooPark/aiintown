@@ -1585,6 +1585,20 @@
     "id": "5ad17e5445093c9c"
   },
   {
+    "title": "Hacktoberfest Hack Day Berlin 2026",
+    "date": "2026-10-05",
+    "venue": "IBM iX Berlin",
+    "url": "https://ai.berlin/events",
+    "source": "IBM iX Berlin",
+    "description": "Berlin's Hacktoberfest event featuring open-source contributions with AI/ML focus. Community hack day for developers contributing to open-source AI projects.",
+    "title_local": "Hacktoberfest Hack Day Berlin 2026",
+    "description_local": "Berliner Hacktoberfest-Event mit Open-Source-Beiträgen und KI/ML-Fokus. Community-Hack-Tag für Entwickler, die zu Open-Source-KI-Projekten beitragen.",
+    "city": "berlin",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "id": "615827e872ec9a8d"
+  },
+  {
     "title": "BERLIN QUANTUM BBQ October 2026",
     "date": "2026-10-06",
     "venue": "Berlin (venue TBD)",
@@ -1611,6 +1625,20 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-01",
     "id": "3617832c391386b3"
+  },
+  {
+    "title": "Forward Deploy Enterprise AI Summit 2026 - Berlin",
+    "date": "2026-10-06",
+    "venue": "Kraftwerk Berlin",
+    "url": "https://www.eventbrite.com/d/germany--berlin/web3-summit/",
+    "source": "Forward Deploy",
+    "description": "Free in-person summit focused on industrial AI, automotive applications, and EU AI policy. Topics include deploying AI in enterprise environments and navigating regulatory frameworks. 09:00 start time.",
+    "title_local": "Forward Deploy Enterprise AI Summit 2026 - Berlin",
+    "description_local": "Kostenloser Vor-Ort-Gipfel mit Schwerpunkt auf industrieller KI, Automotive-Anwendungen und EU-KI-Politik.",
+    "city": "berlin",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "id": "edd6b4c3fd69b507"
   },
   {
     "title": "AI Growth Summit Berlin Q4 2026",
@@ -1693,7 +1721,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-03",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1809,6 +1837,20 @@
     "id": "ee59023f333197a0"
   },
   {
+    "title": "Build-A-Claw: Berlin",
+    "date": "2026-10-17",
+    "venue": "Berlin (address shared upon registration)",
+    "url": "https://luma.com/bac-berlin",
+    "source": "NVIDIA",
+    "description": "Gathering for developers building with agents, open models, and physical AI. Features live demos, technical talks, an agent challenge, and networking with developers building the next generation of AI. Includes raffle for NVIDIA DGX Spark. 16:00-20:00. Free event, registration required.",
+    "title_local": "Build-A-Claw: Berlin",
+    "description_local": "Treffen für Entwickler, die mit Agenten, offenen Modellen und physischer KI arbeiten. Mit Live-Demos, technischen Vorträgen, einer Agent Challenge und Networking mit Entwicklern.",
+    "city": "berlin",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "id": "630ab18ac2de95d3"
+  },
+  {
     "title": "NVIDIA GTC Berlin 2026",
     "date": "2026-10-20",
     "venue": "Tempodrom (Keynote) & STATION Berlin",
@@ -1851,6 +1893,20 @@
     "id": "c173ee1f9567ce8d"
   },
   {
+    "title": "Graphs Gone Wild - Mini Hack",
+    "date": "2026-10-23",
+    "venue": "CODE University of Applied Sciences, Donaustraße 44, 12043 Berlin",
+    "url": "https://www.meetup.com/de-de/global-ai-berlin/",
+    "source": "Global AI Berlin",
+    "description": "Mini hackathon for people experimenting with AI agents, memory, documents, graphs, MCP (Model Context Protocol), and new developer tooling. Hands-on event focused on graph-based AI applications. 15:00-20:30 CEST.",
+    "title_local": "Graphs Gone Wild - Mini Hack",
+    "description_local": "Mini-Hackathon für Personen, die mit KI-Agenten, Speicher, Dokumenten, Graphen, MCP und neuen Entwickler-Tools experimentieren.",
+    "city": "berlin",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "id": "92b450733574b1a7"
+  },
+  {
     "title": "OpenAI DevDay Exchange Berlin",
     "date": "2026-10-26",
     "venue": "Berlin (venue TBA)",
@@ -1877,6 +1933,20 @@
     "first_seen": "2026-10-02",
     "last_seen": "2026-10-02",
     "id": "db36fd55151c179a"
+  },
+  {
+    "title": "Agentic AI für KMU – vom Potenzial zur praktischen Anwendung",
+    "date": "2026-11-04",
+    "venue": "Merantix AI Campus",
+    "url": "https://www.eventbrite.com/d/germany--berlin/events/",
+    "source": "Merantix AI Campus",
+    "description": "Free event focused on agentic AI for small and medium-sized businesses (KMU), covering practical applications and moving from potential to implementation. 16:00 start time.",
+    "title_local": "Agentic AI für KMU – vom Potenzial zur praktischen Anwendung",
+    "description_local": "Veranstaltung mit Fokus auf Agentic AI für kleine und mittlere Unternehmen (KMU), die praktische Anwendungen abdeckt und vom Potenzial zur Umsetzung führt.",
+    "city": "berlin",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "id": "df3ba746ce7bcaa7"
   },
   {
     "title": "Werkzeuge entscheiden nicht: Designpraxis und Lehre in Zeiten von KI",
@@ -2031,6 +2101,20 @@
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-14",
     "id": "9f675b7f397efb75"
+  },
+  {
+    "title": "Integrating Blockchain and AI (Artificial Intelligence) Berlin",
+    "date": "2026-11-13",
+    "venue": "Berlin",
+    "url": "https://www.eventbrite.com/d/germany/ai/",
+    "source": "Eventbrite",
+    "description": "Event exploring the integration of blockchain technology and artificial intelligence, covering distributed AI systems, decentralized machine learning, and Web3 AI applications. 15:00 start time.",
+    "title_local": "Integrating Blockchain and AI (Artificial Intelligence) Berlin",
+    "description_local": "Veranstaltung zur Erforschung der Integration von Blockchain-Technologie und künstlicher Intelligenz, mit Schwerpunkt auf verteilten KI-Systemen, dezentralem maschinellem Lernen und Web3-KI-Anwendungen.",
+    "city": "berlin",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "id": "0a37c52bb5c8708e"
   },
   {
     "title": "AI Native Week Berlin 2026",
@@ -2201,6 +2285,20 @@
     "id": "5afea2e8c30dc12b"
   },
   {
+    "title": "Onsite Workshop: Google.org Essentials of AI Training November",
+    "date": "2026-11-20",
+    "venue": "Code Academy Berlin",
+    "url": "https://www.eventbrite.com/d/germany--berlin/ai/",
+    "source": "Google.org",
+    "description": "Onsite workshop covering essentials of AI training. Part of Google.org's community education initiative. 17:00 start time. Registration required as event is almost full.",
+    "title_local": "Onsite Workshop: Google.org Essentials of AI Training November",
+    "description_local": "Vor-Ort-Workshop zu den Grundlagen des KI-Trainings. Teil der Community-Bildungsinitiative von Google.org.",
+    "city": "berlin",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "id": "bde19dc8b129c082"
+  },
+  {
     "title": "VibeKode Berlin 2026",
     "title_local": "VibeKode Berlin 2026",
     "date": "2026-11-23",
@@ -2241,6 +2339,20 @@
     "first_seen": "2026-07-12",
     "last_seen": "2026-09-16",
     "id": "cafd4681a9cdc973"
+  },
+  {
+    "title": "AI Community Days Berlin",
+    "date": "2026-12-02",
+    "venue": "Berlin",
+    "url": "https://aicommunitydays.ai/events/berlin-germany-2026",
+    "source": "AI Community Days",
+    "description": "Free, community-driven AI conference. Full day of AI innovation, networking, and learning. Expected 300 attendees. 09:00-18:00 UTC.",
+    "title_local": "AI Community Days Berlin",
+    "description_local": "Kostenlose, von der Community getriebene KI-Konferenz. Ganztägige KI-Innovation, Networking und Lernen.",
+    "city": "berlin",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "id": "eff4e842b9b8978f"
   },
   {
     "title": "AI Coding Summit - Berlin Edition",
