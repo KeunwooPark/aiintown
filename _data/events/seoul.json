@@ -1139,7 +1139,7 @@
     "description_local": "인공지능과 딥러닝의 고급 연구에 초점을 맞춘 학술 회의로, 연구자, 학계 및 산업 전문가들이 최신 연구 결과와 혁신을 공유.",
     "city": "seoul",
     "first_seen": "2026-08-02",
-    "last_seen": "2026-09-01",
+    "last_seen": "2026-10-04",
     "id": "bcb0a36139231a15"
   },
   {
@@ -1395,6 +1395,34 @@
     "id": "b7198c82df2319cd"
   },
   {
+    "title": "OWASP Korea Day 2026",
+    "date": "2026-11-28",
+    "venue": "Seoul, South Korea",
+    "url": "https://dev.events/meetups/AS/KR/Seoul/ai",
+    "source": "dev.events",
+    "description": "OWASP Korea Day conference covering AI and cybersecurity topics.",
+    "title_local": "OWASP Korea Day 2026",
+    "description_local": "AI 및 사이버 보안 주제를 다루는 OWASP Korea Day 컨퍼런스.",
+    "city": "seoul",
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04",
+    "id": "5b863e7a2aa30205"
+  },
+  {
+    "title": "International Conference on Machine Learning for Supply Chain Analytics",
+    "date": "2026-11-30",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea/seoul",
+    "source": "InternationalConferenceAlerts",
+    "description": "International conference on machine learning applications for supply chain analytics.",
+    "title_local": "공급망 분석을 위한 머신러닝 국제 컨퍼런스",
+    "description_local": "공급망 분석을 위한 머신러닝 응용에 관한 국제 컨퍼런스.",
+    "city": "seoul",
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04",
+    "id": "091d10ee586f64b1"
+  },
+  {
     "title": "ACML 2026 - The 18th Asian Conference on Machine Learning",
     "date": "2026-12-01",
     "venue": "TBA, Asia-Pacific region",
@@ -1419,7 +1447,7 @@
     "description_local": "AI 응용을 통한 사이버 방어를 위한 소프트웨어 엔지니어링 솔루션에 관한 국제 학회입니다.",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-04",
     "id": "dbd478639179dca7"
   },
   {
