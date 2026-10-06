@@ -1581,7 +1581,7 @@
     "description_local": "Berliner Hacktoberfest-Event mit Open-Source-Beiträgen und KI/ML-Fokus. Community-Hack-Tag für Entwickler, die zu Open-Source-KI-Projekten beitragen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-06",
     "id": "615827e872ec9a8d"
   },
   {
@@ -1595,7 +1595,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-06",
     "id": "cb6443b487d22397"
   },
   {
@@ -1639,6 +1639,34 @@
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
     "id": "edd6b4c3fd69b507"
+  },
+  {
+    "title": "GitHub Copilot Dev Days Berlin",
+    "date": "2026-10-06",
+    "venue": "adesso SE, Prinzenstraße 34, 10969 Berlin",
+    "url": "https://createwith.com/event/berlin-github-copilot-dev-days-berlin-oct-2026",
+    "source": "Global AI Berlin / createwith.com",
+    "description": "A three-hour, in-person workshop for developers exploring practical AI-assisted workflows through hands-on activities with GitHub Copilot. Part of the global Dev Days initiative running from September 1 to October 31, 2026.",
+    "title_local": "GitHub Copilot Dev Days Berlin",
+    "description_local": "Ein dreistündiger Workshop für Entwickler zur praktischen Erkundung von KI-gestützten Workflows mit GitHub Copilot.",
+    "city": "berlin",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "id": "e1e51b302b212a50"
+  },
+  {
+    "title": "8th International Open Search Symposium #ossym2026",
+    "date": "2026-10-07",
+    "venue": "CODE University of Applied Sciences, Berlin",
+    "url": "https://opensearchfoundation.org/events-osf/ossym2026/",
+    "source": "Open Search Foundation",
+    "description": "Hybrid conference (in-person and online) bringing together the European Open Search community. Features scientific talks, panels, workshops, demonstrations, and student challenges focused on open web search and digital sovereignty. Free of charge. Includes evening side event on October 8 at Weizenbaum Institute.",
+    "title_local": "8. Internationales Open Search Symposium #ossym2026",
+    "description_local": "Hybrid-Konferenz (vor Ort und online), die die europäische Open-Search-Community zusammenbringt. Thema: 'Boosting Digital Sovereignty'. Mit wissenschaftlichen Vorträgen, Panels, Workshops und Demonstrationen. Kostenlos.",
+    "city": "berlin",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "id": "243d8c2cbc62ac09"
   },
   {
     "title": "AI Growth Summit Berlin Q4 2026",
@@ -1693,7 +1721,7 @@
     "description_local": "Eine dreitägige KI-Entwicklerkonferenz mit Fokus auf praktische KI-Building-Themen",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-06",
     "id": "b7ccc88a42218045"
   },
   {
@@ -1749,7 +1777,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-06",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1907,6 +1935,20 @@
     "id": "f0de881b7d97f1b7"
   },
   {
+    "title": "Confidential AI Summit at GTC Berlin",
+    "date": "2026-10-22",
+    "venue": "Anhalt, Berlin",
+    "url": "https://luma.com/AI-Calendar",
+    "source": "Fortanix Team / AI Events Calendar",
+    "description": "Summit focused on confidential computing and AI security at NVIDIA GTC Berlin.",
+    "title_local": "Confidential AI Summit bei GTC Berlin",
+    "description_local": "Gipfel mit Fokus auf vertrauliches Computing und KI-Sicherheit bei NVIDIA GTC Berlin.",
+    "city": "berlin",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "id": "ecdcbb15a529016d"
+  },
+  {
     "title": "AI Meetup (Berlin): Dive into the World of Generative AI with SAP",
     "date": "2026-10-23",
     "venue": "Berlin, Germany",
@@ -1917,7 +1959,7 @@
     "description_local": "KI-Treffen mit Fokus auf generative KI-Technologien mit SAP, Erkundung praktischer Anwendungen und Innovationen.",
     "city": "berlin",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-06",
     "id": "db36fd55151c179a"
   },
   {
@@ -2057,7 +2099,7 @@
     "description_local": "Bootcamp zur KI-Integration mit dem Angular-Framework, 9.-10. November 2026.",
     "city": "berlin",
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-10-06",
     "id": "4b05b94843d9a0aa"
   },
   {

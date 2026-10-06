@@ -1129,6 +1129,34 @@
     "id": "59e4e7f5f7f20e2e"
   },
   {
+    "title": "2026 서울 AI 로봇쇼 피지컬 AI 포럼",
+    "date": "2026-10-07",
+    "venue": "COEX 3층 컨퍼런스룸(남) 301호",
+    "url": "https://event-us.kr/seoulairobotshow/event/134390",
+    "source": "EventUs",
+    "description": "Physical AI Forum showcasing the latest technologies and industrial applications of physical AI and robotics",
+    "title_local": "2026 서울 AI 로봇쇼 피지컬 AI 포럼",
+    "description_local": "Physical AI의 최신 기술부터 산업 적용 사례까지, 로봇 산업의 미래를 한자리에서 만나보는 포럼",
+    "city": "seoul",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "id": "6c072d67a02e9bf1"
+  },
+  {
+    "title": "AI Tinkerers Seoul × Kiro: Demo Night",
+    "date": "2026-10-07",
+    "venue": "Seoul (exact venue TBD)",
+    "url": "https://aitinkerers.org/events",
+    "source": "AI Tinkerers",
+    "description": "Technical demo night featuring Joe and Jake, showcasing LLM projects with live code demos, technical Q&A, and no-pitch networking for AI builders, founders, researchers, and engineers",
+    "title_local": "AI Tinkerers Seoul × Kiro: 데모 나이트",
+    "description_local": "AI Tinkerers Seoul이 주최하는 기술 데모 나이트로, LLM 프로젝트를 선보이는 실습 중심의 AI 빌더 밋업",
+    "city": "seoul",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "id": "02f1a04ed2963fd3"
+  },
+  {
     "title": "International Conference on Advanced Research in Artificial Intelligence and Deep Learning (ICARAIDL)",
     "date": "2026-10-07",
     "venue": "Seoul",
@@ -1185,6 +1213,20 @@
     "id": "e84cf6ca5bf98cdf"
   },
   {
+    "title": "International Conference on AI-driven Robotics Software Security Challenges",
+    "date": "2026-10-10",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea",
+    "source": "International Conference Alerts",
+    "description": "International conference focusing on AI-driven robotics software and security challenges",
+    "title_local": "국제 AI 기반 로보틱스 소프트웨어 보안 과제 컨퍼런스",
+    "description_local": "AI 기반 로보틱스 소프트웨어와 보안 과제에 중점을 둔 국제 컨퍼런스",
+    "city": "seoul",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-06",
+    "id": "deb32b78c3c75fc5"
+  },
+  {
     "title": "OpenSearch Project - Seoul Meetup",
     "date": "2026-10-13",
     "venue": "Yeoksam Centerfield (East Building) 18th Floor",
@@ -1211,6 +1253,20 @@
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
     "id": "a0bbd4e8cb16e307"
+  },
+  {
+    "title": "AI/메타버스 국제표준 전략 세미나",
+    "date": "2026-10-15",
+    "venue": "Seoul, Gangnam-gu (venue TBD)",
+    "url": "https://onoffmix.com/event/main/?interest=A0103",
+    "source": "Onoffmix",
+    "description": "Seminar on international standards strategy for AI and metaverse technologies",
+    "title_local": "AI/메타버스 국제표준 전략 세미나",
+    "description_local": "AI와 메타버스의 국제 표준 전략을 다루는 세미나",
+    "city": "seoul",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "id": "a854b42a001900e1"
   },
   {
     "title": "Push to Prod SEOUL [Anthropic X Replit X Korea Investment Partners]",
@@ -1269,6 +1325,34 @@
     "id": "c067582fa4c66604"
   },
   {
+    "title": "ThinkingAI Summit Seoul 2026",
+    "date": "2026-10-20",
+    "venue": "섬유센터 Tex+Fa Hall",
+    "url": "https://event-us.kr/thinkingdata/event/134382",
+    "source": "EventUs",
+    "description": "AI insights that drive business, focusing on AI transformation, product development, and business applications",
+    "title_local": "ThinkingAI Summit Seoul 2026",
+    "description_local": "Business를 움직이는 AI 인사이트를 만나는 컨퍼런스. AI, AX, 비즈니스, 제품 중심",
+    "city": "seoul",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "id": "440a51145250d192"
+  },
+  {
+    "title": "2026 돈 되는 AI 전략 세미나",
+    "date": "2026-10-21",
+    "venue": "한국광고문화회관 2층 대회의실(잠실)",
+    "url": "https://event-us.kr/datanet/event/113066",
+    "source": "EventUs",
+    "description": "AI strategy seminar focusing on profitable AI implementation, legacy system integration, and practical business insights",
+    "title_local": "2026 돈 되는 AI 전략 세미나",
+    "description_local": "돈 되는 AI, 어떻게 무엇부터 할 것인가? 기존 레거시 시스템과의 통합 등 새로운 인사이트를 제공하는 세미나",
+    "city": "seoul",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "id": "2a5c08c3c060d6af"
+  },
+  {
     "title": "산업AI EXPO",
     "date": "2026-10-21",
     "venue": "KINTEX (일산 킨텍스 제1전시장), Goyang",
@@ -1281,6 +1365,20 @@
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-31",
     "id": "983148da87840f1e"
+  },
+  {
+    "title": "미리 준비하는 2026 AI 산업 성장 모멘텀 세미나",
+    "date": "2026-10-22",
+    "venue": "오렌지플래닛",
+    "url": "https://event-us.kr/mckinleyrice/event/113952",
+    "source": "EventUs",
+    "description": "Seminar on 2026 AI industry trends and growth opportunities, preparing for AI industry expansion",
+    "title_local": "미리 준비하는 2026 AI 산업 성장 모멘텀 세미나",
+    "description_local": "미리 준비하는 2026년 AI 산업 트렌드 및 성장 동력 선점하기",
+    "city": "seoul",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "id": "cb5b601d78e2e97b"
   },
   {
     "title": "AI Youth Festa 2026 - Demo Day",
@@ -1367,20 +1465,6 @@
     "id": "18b70194089547c7"
   },
   {
-    "title": "International Conference on AI in Transcriptomics and Bioinformatics",
-    "date": "2026-11-10",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea",
-    "source": "International Conference Alerts",
-    "description": "International conference on AI applications in transcriptomics and bioinformatics.",
-    "title_local": "전사체학 및 생물정보학에서의 AI 국제 학회",
-    "description_local": "전사체학 및 생물정보학에서 AI 응용에 관한 국제 학회입니다.",
-    "city": "seoul",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-05",
-    "id": "deb32b78c3c75fc5"
-  },
-  {
     "title": "Intel AI Summit Seoul 2026",
     "date": "2026-11-12",
     "venue": "COEX 그랜드볼룸과 오디토리움",
@@ -1447,7 +1531,7 @@
     "description_local": "AI 응용을 통한 사이버 방어를 위한 소프트웨어 엔지니어링 솔루션에 관한 국제 학회입니다.",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-06",
     "id": "dbd478639179dca7"
   },
   {
