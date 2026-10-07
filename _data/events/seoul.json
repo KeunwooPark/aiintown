@@ -1213,6 +1213,20 @@
     "id": "e84cf6ca5bf98cdf"
   },
   {
+    "title": "Try Everything 2026",
+    "date": "2026-10-09",
+    "venue": "Dongdaemun Design Plaza (DDP), Seoul",
+    "url": "https://tryeverything.seoul.kr",
+    "source": "https://m.news.nate.com/view/20260906n05957",
+    "description": "Global startup festival featuring AI and robotics startups, global VC 1:1 meetups, keynote by Eric Brynjolfsson (Stanford), and Seoul Unicorn Challenge finals with AI companies including Anthropic and Genspark participating",
+    "title_local": "트라이 에브리싱 2026",
+    "description_local": "AI·로봇 스타트업 80곳 참여, 글로벌 VC 1대1 밋업, 유니콘 7곳 최종 경연, 에릭 브리뇰프슨 미국 스탠퍼드대 교수 기조연설, 앤트로픽·젠스파크 등 국내외 AI 기업 참여",
+    "city": "seoul",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "id": "fe7a2da4492ca848"
+  },
+  {
     "title": "International Conference on AI-driven Robotics Software Security Challenges",
     "date": "2026-10-10",
     "venue": "Seoul, South Korea",
@@ -1225,6 +1239,20 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-06",
     "id": "deb32b78c3c75fc5"
+  },
+  {
+    "title": "Confluent Data Streaming World Tour 2026 Seoul",
+    "date": "2026-10-13",
+    "venue": "Grand InterContinental Seoul Parnas, Seoul",
+    "url": "https://itknowledgezone.com/kr/event/ai-festa-26/",
+    "source": "https://itknowledgezone.com/kr/event/ai-festa-26/",
+    "description": "Conference on AI innovation through data streaming, organized by Confluent",
+    "title_local": "Confluent Data Streaming World Tour 2026 Seoul | AI 혁신은 흐르는 데이터에서 시작됩니다",
+    "description_local": "흐르는 데이터를 통한 AI 혁신에 관한 컨퍼런스",
+    "city": "seoul",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "id": "704ffdca2f922292"
   },
   {
     "title": "OpenSearch Project - Seoul Meetup",
@@ -1545,7 +1573,7 @@
     "description_local": "2026년 12월 26일 서울에서 예정된 국제 머신러닝 및 Chat GPT 컨퍼런스입니다. 이 컨퍼런스는 혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 AI 주제를 다루며 전문가 세션, 기조 연설, 워크샵 및 글로벌 참가자와의 네트워킹 기회를 제공합니다.",
     "city": "seoul",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-10-07",
     "id": "bab02a8c2371d732"
   },
   {

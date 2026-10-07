@@ -420,7 +420,7 @@
     "description_local": "Das KI-Meetup in Berlin ist eine Gelegenheit, Erkenntnisse auszutauschen, reale Anwendungsfälle zu teilen und von anderen zu lernen, die auf diesem Gebiet arbeiten. Sprecher sind Salma Sohrabi-Jahromi (Senior AI Scientist bei SAP) über 'Building Specialized LLM-based Enterprise Applications' und Arman Nassirtoussi (Gründer & CEO bei Stealth Startup) über 'Let's talk about Agentic AI'. Die Veranstaltung ist kostenlos, aber eine Registrierung ist erforderlich, mit begrenzten Plätzen. Getränke und Snacks sind inklusive.",
     "city": "berlin",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-10-07",
     "id": "17b6c7bd9030c94c"
   },
   {
@@ -715,7 +715,7 @@
     "description_local": "Die führende Event-Reihe der Stadt zur Konvergenz von agentischer KI und Blockchain. Mehrere Sessions bis Dezember 2026 einschließlich AI Agents Summit und Sub-Events, Branchen-Calls und Workshops.",
     "city": "berlin",
     "first_seen": "2026-07-21",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-10-07",
     "id": "6c1b442fc41ffe5f"
   },
   {
@@ -801,20 +801,6 @@
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "id": "e16c8a3bcc5da389"
-  },
-  {
-    "title": "KI & Logistik: Intelligente Prozesse im Mega-Paketzentrum erleben",
-    "title_local": "KI & Logistik: Intelligente Prozesse im Mega-Paketzentrum erleben",
-    "date": "2026-09-08",
-    "venue": "Berlin",
-    "url": "https://www.digitale-hauptstadtregion.de/veranstaltungen/",
-    "source": "Digitale Hauptstadtregion",
-    "description": "Experience intelligent processes in a mega parcel center - an event exploring AI applications in logistics.",
-    "description_local": "Erleben Sie intelligente Prozesse in einem Mega-Paketzentrum - eine Veranstaltung zur Erkundung von KI-Anwendungen in der Logistik.",
-    "city": "berlin",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
-    "id": "f3a1018cede256e8"
   },
   {
     "title": "KI-Landpartie",
@@ -1581,7 +1567,7 @@
     "description_local": "Berliner Hacktoberfest-Event mit Open-Source-Beiträgen und KI/ML-Fokus. Community-Hack-Tag für Entwickler, die zu Open-Source-KI-Projekten beitragen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-07",
     "id": "615827e872ec9a8d"
   },
   {
@@ -1683,6 +1669,20 @@
     "id": "44413cd4e2a2680b"
   },
   {
+    "title": "Berlin Partner X French Tech Berlin: Community Breakfast #36",
+    "date": "2026-10-07",
+    "venue": "Berlin",
+    "url": "https://ai.berlin/de/events",
+    "source": "ai.berlin",
+    "description": "Community breakfast networking event bringing together Berlin and French tech communities with AI focus.",
+    "title_local": "Berlin Partner X French Tech Berlin: Community Breakfast #36",
+    "description_local": "Community-Frühstücks-Networking-Veranstaltung, die Berliner und französische Tech-Communities mit KI-Fokus zusammenbringt.",
+    "city": "berlin",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "id": "638a9009f0257dbf"
+  },
+  {
     "title": "WAVE 2026 (Parloa Flagship Conference)",
     "date": "2026-10-07",
     "venue": "Wilhelm Studios, Berlin",
@@ -1707,7 +1707,7 @@
     "description_local": "Zweitägige KI-Konferenz in Berlin vom 7. bis 8. Oktober 2026 mit KI-fokussiertem Programm für Entwickler, Gründer, Produktteams, Forscher und technische Führungskräfte.",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-07",
     "id": "ee5b8a782a60e44d"
   },
   {
@@ -1737,6 +1737,20 @@
     "first_seen": "2026-09-25",
     "last_seen": "2026-09-25",
     "id": "ac4e742f0c89eb0d"
+  },
+  {
+    "title": "DGKIMED Summit: 3. DGKIMED Summit",
+    "date": "2026-10-08",
+    "venue": "Empress Friedrich Foundation of Medical Education, Berlin",
+    "url": "https://luma.com/discover/berlin/ai",
+    "source": "luma.com",
+    "description": "Medical AI summit focused on digital healthcare and AI applications in medicine. Third edition of the DGKIMED conference bringing together medical professionals and AI researchers.",
+    "title_local": "3. DGKIMED Summit: 8.-9. Oktober",
+    "description_local": "Medizinischer KI-Gipfel mit Fokus auf digitale Gesundheitsversorgung und KI-Anwendungen in der Medizin. Dritte Ausgabe der DGKIMED-Konferenz, die Mediziner und KI-Forscher zusammenbringt.",
+    "city": "berlin",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "id": "43926e851fee96fe"
   },
   {
     "title": "IKPK26 - Internationale Konferenz für Politische Kommunikation",
@@ -1903,7 +1917,7 @@
     "description_local": "Treffen für Entwickler, die mit Agenten, offenen Modellen und physischer KI arbeiten. Mit Live-Demos, technischen Vorträgen, einer Agent Challenge und Networking mit Entwicklern.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-07",
     "id": "630ab18ac2de95d3"
   },
   {
@@ -1939,13 +1953,13 @@
     "date": "2026-10-22",
     "venue": "Anhalt, Berlin",
     "url": "https://luma.com/AI-Calendar",
-    "source": "Fortanix Team / AI Events Calendar",
-    "description": "Summit focused on confidential computing and AI security at NVIDIA GTC Berlin.",
+    "source": "luma.com",
+    "description": "Summit focused on confidential computing and AI security taking place during GTC Berlin week. Evening event from 17:30-19:30.",
     "title_local": "Confidential AI Summit bei GTC Berlin",
-    "description_local": "Gipfel mit Fokus auf vertrauliches Computing und KI-Sicherheit bei NVIDIA GTC Berlin.",
+    "description_local": "Gipfel mit Fokus auf vertrauliches Computing und KI-Sicherheit während der GTC Berlin Woche. Abendveranstaltung von 17:30-19:30 Uhr.",
     "city": "berlin",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-07",
     "id": "ecdcbb15a529016d"
   },
   {
@@ -1973,7 +1987,7 @@
     "description_local": "Persönliches Treffen der Global AI Berlin Community für alle, die sich für Künstliche Intelligenz, maschinelles Lernen und Data Science interessieren. Findet am Freitag, 23. Oktober 2026, von 15:00 bis 20:30 Uhr statt.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-07",
     "id": "c173ee1f9567ce8d"
   },
   {
@@ -2003,6 +2017,20 @@
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "id": "5c81cee5d89e53f7"
+  },
+  {
+    "title": "AI Coding Workshop Berlin edition",
+    "date": "2026-10-29",
+    "venue": "Rosenthaler Str. 38, Berlin",
+    "url": "https://luma.com/calendar/cal-uayOZatEXeyVwL7",
+    "source": "Eclipse Foundation",
+    "description": "Hands-on AI coding workshop focused on practical AI development and coding tools. Paid event (€199) organized by Eclipse Foundation.",
+    "title_local": "AI Coding Workshop Berlin Edition",
+    "description_local": "Praxisorientierter KI-Coding-Workshop mit Fokus auf praktische KI-Entwicklung und Coding-Tools. Kostenpflichtige Veranstaltung (€199) organisiert von der Eclipse Foundation.",
+    "city": "berlin",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "id": "4e40cb0d09507d94"
   },
   {
     "title": "Agentic AI für KMU – vom Potenzial zur praktischen Anwendung",
@@ -2173,6 +2201,20 @@
     "id": "0a37c52bb5c8708e"
   },
   {
+    "title": "Berlin Robotics x AI Hackathon",
+    "date": "2026-11-14",
+    "venue": "Berlin",
+    "url": "https://www.eventbrite.com/d/germany--berlin/ai/",
+    "source": "eventbrite.com",
+    "description": "Weekend robotics and AI hackathon organized by HackLab. Event runs from Saturday to Sunday with live pitches and award ceremony. Places are highly limited and event is listed as sold out.",
+    "title_local": "Berlin Robotics x AI Hackathon",
+    "description_local": "Wochenend-Robotik- und KI-Hackathon organisiert von HackLab. Veranstaltung läuft von Samstag bis Sonntag mit Live-Pitches und Preisverleihung. Plätze sind stark begrenzt und als ausverkauft gelistet.",
+    "city": "berlin",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-07",
+    "id": "bde19dc8b129c082"
+  },
+  {
     "title": "AI Native Week Berlin 2026",
     "date": "2026-11-16",
     "venue": "Maritim proArte Hotel Berlin, Friedrichstraße 151, 10117 Berlin",
@@ -2341,20 +2383,6 @@
     "id": "5afea2e8c30dc12b"
   },
   {
-    "title": "Onsite Workshop: Google.org Essentials of AI Training November",
-    "date": "2026-11-20",
-    "venue": "Code Academy Berlin",
-    "url": "https://www.eventbrite.com/d/germany--berlin/ai/",
-    "source": "Google.org",
-    "description": "Onsite workshop covering essentials of AI training. Part of Google.org's community education initiative. 17:00 start time. Registration required as event is almost full.",
-    "title_local": "Onsite Workshop: Google.org Essentials of AI Training November",
-    "description_local": "Vor-Ort-Workshop zu den Grundlagen des KI-Trainings. Teil der Community-Bildungsinitiative von Google.org.",
-    "city": "berlin",
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
-    "id": "bde19dc8b129c082"
-  },
-  {
     "title": "VibeKode Berlin 2026",
     "title_local": "VibeKode Berlin 2026",
     "date": "2026-11-23",
@@ -2423,6 +2451,20 @@
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "id": "761193f35a1b6641"
+  },
+  {
+    "title": "Tagesspiegel Background Fachkonferenz Digitalisierung & KI",
+    "date": "2026-12-08",
+    "venue": "Berlin",
+    "url": "https://www.digitale-hauptstadtregion.de/veranstaltungen/",
+    "source": "digitale-hauptstadtregion.de",
+    "description": "Professional conference on digitalization and AI organized by Tagesspiegel Background. Focus on policy, business transformation and AI adoption.",
+    "title_local": "Tagesspiegel Background Fachkonferenz Digitalisierung & KI",
+    "description_local": "Fachkonferenz zu Digitalisierung und KI organisiert von Tagesspiegel Background. Fokus auf Politik, Unternehmenstransformation und KI-Adoption.",
+    "city": "berlin",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-07",
+    "id": "f3a1018cede256e8"
   },
   {
     "title": "AI Reliability and Observability Meetup",
