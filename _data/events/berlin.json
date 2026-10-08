@@ -420,7 +420,7 @@
     "description_local": "Das KI-Meetup in Berlin ist eine Gelegenheit, Erkenntnisse auszutauschen, reale Anwendungsfälle zu teilen und von anderen zu lernen, die auf diesem Gebiet arbeiten. Sprecher sind Salma Sohrabi-Jahromi (Senior AI Scientist bei SAP) über 'Building Specialized LLM-based Enterprise Applications' und Arman Nassirtoussi (Gründer & CEO bei Stealth Startup) über 'Let's talk about Agentic AI'. Die Veranstaltung ist kostenlos, aber eine Registrierung ist erforderlich, mit begrenzten Plätzen. Getränke und Snacks sind inklusive.",
     "city": "berlin",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-08",
     "id": "17b6c7bd9030c94c"
   },
   {
@@ -911,7 +911,7 @@
     "description_local": "Enterprise-KI-Gipfel mit 2.000+ Senior Executives, 200+ KI-Sprechern und 100+ KI-Startups in Berlin. Deutschlands führendes KI-Event für Unternehmensleiter, fokussiert auf die Umwandlung von KI in Wettbewerbsvorteile.",
     "city": "berlin",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-10-08",
     "id": "05ab1b0605f2276b"
   },
   {
@@ -1581,7 +1581,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-08",
     "id": "cb6443b487d22397"
   },
   {
@@ -1721,7 +1721,7 @@
     "description_local": "Eine dreitägige KI-Entwicklerkonferenz mit Fokus auf praktische KI-Building-Themen",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-08",
     "id": "b7ccc88a42218045"
   },
   {
@@ -1749,8 +1749,22 @@
     "description_local": "Medizinischer KI-Gipfel mit Fokus auf digitale Gesundheitsversorgung und KI-Anwendungen in der Medizin. Dritte Ausgabe der DGKIMED-Konferenz, die Mediziner und KI-Forscher zusammenbringt.",
     "city": "berlin",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-08",
     "id": "43926e851fee96fe"
+  },
+  {
+    "title": "n8n Berlin Community Meetup",
+    "date": "2026-10-08",
+    "venue": "Impact Hub Berlin, Rollbergstraße 28A (Am Sudhaus), 12053 Berlin-Neukölln",
+    "url": "https://luma.com/2hel1ifq",
+    "source": "Luma",
+    "description": "Community meetup on AI automation workflows with n8n, featuring talks from Captain AI founder on AI for impact organizations and scaling AI agents with human supervision panels",
+    "title_local": "n8n Berlin Community Meetup",
+    "description_local": "Community-Meetup über KI-Automatisierungs-Workflows mit n8n, mit Vorträgen vom Captain AI Gründer über KI für Impact-Organisationen und Skalierung von KI-Agenten mit menschlicher Supervision",
+    "city": "berlin",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "id": "60e502ee71941487"
   },
   {
     "title": "IKPK26 - Internationale Konferenz für Politische Kommunikation",
@@ -1791,7 +1805,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-08",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1835,6 +1849,20 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-02",
     "id": "b23bf485f69a6f9b"
+  },
+  {
+    "title": "Berlin Experimentation Meetup #15",
+    "date": "2026-10-15",
+    "venue": "Berlin",
+    "url": "https://luma.com/bem",
+    "source": "Luma",
+    "description": "Meetup for professionals in Decision Science and product development, focused on A/B testing and experimentation technologies",
+    "title_local": "Berlin Experimentation Meetup #15",
+    "description_local": "Meetup für Fachleute in Decision Science und Produktentwicklung, mit Fokus auf A/B-Testing und Experimentier-Technologien",
+    "city": "berlin",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "id": "6f954953a8ffd03b"
   },
   {
     "title": "Future Technologies Conference (FTC) 2026",
@@ -1919,6 +1947,20 @@
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-07",
     "id": "630ab18ac2de95d3"
+  },
+  {
+    "title": "AI Executive Salon: Berlin Edition",
+    "date": "2026-10-20",
+    "venue": "Berlin",
+    "url": "https://luma.com/gtc-berlin",
+    "source": "Luma / Mirantis & VAST Data",
+    "description": "Executive-level AI salon event during NVIDIA GTC Berlin week",
+    "title_local": "AI Executive Salon: Berlin Edition",
+    "description_local": "Executive-Level KI-Salon-Event während der NVIDIA GTC Berlin Woche",
+    "city": "berlin",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "id": "2fd902b3011070aa"
   },
   {
     "title": "NVIDIA GTC Berlin 2026",
@@ -2061,6 +2103,20 @@
     "id": "585670ed485d1b68"
   },
   {
+    "title": "Who owns knowledge? Citizen Science, Data, and the future of AI",
+    "date": "2026-11-04",
+    "venue": "Museum für Naturkunde Berlin",
+    "url": "https://www.eventbrite.com/d/germany--berlin/data-science/",
+    "source": "Eventbrite",
+    "description": "Interactive role-play workshop and fireside chat on data stewardship, citizen science, and the future of AI",
+    "title_local": "Wem gehört Wissen? Citizen Science, Daten und die Zukunft der KI",
+    "description_local": "Interaktiver Rollenspiel-Workshop und Kamingespräch über Daten-Verwaltung, Citizen Science und die Zukunft der KI",
+    "city": "berlin",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "id": "4888e9c4212cd873"
+  },
+  {
     "title": "Falling Walls Science Summit",
     "date": "2026-11-06",
     "venue": "Berlin, Germany",
@@ -2113,7 +2169,7 @@
     "description_local": "Interdisziplinäre Veranstaltung zur Erforschung von KI im Kontext von Fürsorge und Kreativität, verbindet Wissenschaft, Kunst und Technologie im Holzmarkt 25, 8. November 2026.",
     "city": "berlin",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-08",
     "id": "eed1f1c8a7c19663"
   },
   {
@@ -2127,7 +2183,7 @@
     "description_local": "Bootcamp zur KI-Integration mit dem Angular-Framework, 9.-10. November 2026.",
     "city": "berlin",
     "first_seen": "2026-09-04",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-08",
     "id": "4b05b94843d9a0aa"
   },
   {
@@ -2145,6 +2201,20 @@
     "id": "47fe1fae574918e4"
   },
   {
+    "title": "Understanding AI and Using It Effectively for Research Data Management",
+    "date": "2026-11-10",
+    "venue": "Freie Universität Berlin (online)",
+    "url": "https://www.fu-berlin.de/en/kalender/2026/11/20261110-understanding-ai-and-using-it-effectively-for-research-data-management.html",
+    "source": "Freie Universität Berlin",
+    "description": "Workshop on generative AI and large language models for research data management, part of workshop series 'AI in Research Data Management: Balancing Efficiency and Responsibility'",
+    "title_local": "KI verstehen und effektiv für Forschungsdatenmanagement einsetzen",
+    "description_local": "Workshop über generative KI und große Sprachmodelle für Forschungsdatenmanagement, Teil der Workshop-Reihe 'KI im Forschungsdatenmanagement: Effizienz und Verantwortung in Balance'",
+    "city": "berlin",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "id": "00a6a95b219a61e9"
+  },
+  {
     "title": "AI in Production: Building Recommenders and AI-Powered Discovery",
     "date": "2026-11-12",
     "venue": "Sonnenburger Str. 73, 10437 Berlin",
@@ -2157,6 +2227,20 @@
     "first_seen": "2026-07-02",
     "last_seen": "2026-07-02",
     "id": "6c9e24de15597d06"
+  },
+  {
+    "title": "Miro Meetup: AI Buildathon",
+    "date": "2026-11-12",
+    "venue": "Miro DACH GmbH, Berlin",
+    "url": "https://luma.com/jszbui71",
+    "source": "Luma",
+    "description": "Hands-on evening of collaborative AI, prototyping, pitches and networking at Miro office, focused on design thinking and rapid prototyping",
+    "title_local": "Miro Meetup: AI Buildathon",
+    "description_local": "Praktischer Abend mit kollaborativer KI, Prototyping, Pitches und Networking im Miro-Büro, mit Fokus auf Design Thinking und Rapid Prototyping",
+    "city": "berlin",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "id": "d09466c7ed34f64c"
   },
   {
     "title": "ODH-Herbstforum 2026",

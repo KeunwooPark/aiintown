@@ -1227,20 +1227,6 @@
     "id": "fe7a2da4492ca848"
   },
   {
-    "title": "International Conference on AI-driven Robotics Software Security Challenges",
-    "date": "2026-10-10",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea",
-    "source": "International Conference Alerts",
-    "description": "International conference focusing on AI-driven robotics software and security challenges",
-    "title_local": "국제 AI 기반 로보틱스 소프트웨어 보안 과제 컨퍼런스",
-    "description_local": "AI 기반 로보틱스 소프트웨어와 보안 과제에 중점을 둔 국제 컨퍼런스",
-    "city": "seoul",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-06",
-    "id": "deb32b78c3c75fc5"
-  },
-  {
     "title": "Confluent Data Streaming World Tour 2026 Seoul",
     "date": "2026-10-13",
     "venue": "Grand InterContinental Seoul Parnas, Seoul",
@@ -1495,16 +1481,30 @@
   {
     "title": "Intel AI Summit Seoul 2026",
     "date": "2026-11-12",
-    "venue": "COEX 그랜드볼룸과 오디토리움",
+    "venue": "COEX Grand Ballroom (1F) & Auditorium (3F), Seoul",
     "url": "https://event-us.kr/intelseminar/event/131490",
-    "source": "EventUs",
-    "description": "Intel's AI summit covering AI PC & Edge AI, AI & Data Center, Enterprise AI, Physical AI & Robotics. Focus on AI computing trends and business applications.",
+    "source": "event-us.kr",
+    "description": "Intel's AI summit focusing on AI PC & Edge AI, AI & Data Center, Enterprise AI, Physical AI & Robotics, featuring sessions on on-device AI, agentic AI, AI infrastructure and industry-specific AI solutions.",
     "title_local": "Intel AI Summit Seoul 2026",
-    "description_local": "Intel의 AI 서밋으로 AI PC & 엣지 AI, AI & 데이터센터, 엔터프라이즈 AI, 피지컬 AI & 로보틱스를 다룹니다. AI 컴퓨팅 트렌드와 비즈니스 응용에 초점을 맞춥니다.",
+    "description_local": "AI가 모든 곳에서 가치를 만드는 시대. AI PC & Edge AI, AI & Data Center, Enterprise AI, Physical AI & Robotics를 중심으로 AI 컴퓨팅의 핵심 흐름을 살펴봅니다. 온디바이스 AI와 에이전틱 AI, AI 인프라와 데이터센터, 산업별 AI 솔루션과 AI 생태계까지.",
     "city": "seoul",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-10-08",
     "id": "b7198c82df2319cd"
+  },
+  {
+    "title": "International Conference on Software Engineering for Cybersecurity",
+    "date": "2026-11-18",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea",
+    "source": "internationalconferencealerts.com",
+    "description": "International conference on software engineering solutions for cybersecurity, with AI focus.",
+    "title_local": "International Conference on Software Engineering for Cybersecurity",
+    "description_local": "International Conference on Software Engineering for Cybersecurity",
+    "city": "seoul",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-08",
+    "id": "deb32b78c3c75fc5"
   },
   {
     "title": "OWASP Korea Day 2026",
@@ -1573,7 +1573,7 @@
     "description_local": "2026년 12월 26일 서울에서 예정된 국제 머신러닝 및 Chat GPT 컨퍼런스입니다. 이 컨퍼런스는 혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 AI 주제를 다루며 전문가 세션, 기조 연설, 워크샵 및 글로벌 참가자와의 네트워킹 기회를 제공합니다.",
     "city": "seoul",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-08",
     "id": "bab02a8c2371d732"
   },
   {
