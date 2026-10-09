@@ -1707,7 +1707,7 @@
     "description_local": "Zweitägige KI-Konferenz in Berlin vom 7. bis 8. Oktober 2026 mit KI-fokussiertem Programm für Entwickler, Gründer, Produktteams, Forscher und technische Führungskräfte.",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-09",
     "id": "ee5b8a782a60e44d"
   },
   {
@@ -1781,6 +1781,20 @@
     "id": "1f350ba6aefcfe3b"
   },
   {
+    "title": "AI Monday Berlin@Publix: New Methods for Journalism",
+    "date": "2026-10-12",
+    "venue": "Publix, Hermannstraße 90, Berlin-Neukölln",
+    "url": "https://www.publix.de/en/events",
+    "source": "Publix / Eventbrite",
+    "description": "Join AI Monday Berlin to explore how AI is shaping the future of journalism. Organized by Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), AI Monday, ai.berlin, and AI Nation. Starting at 18:00.",
+    "title_local": "AI Monday Berlin@Publix: Neue Methoden für den Journalismus",
+    "description_local": "Nehmen Sie am AI Monday Berlin teil, um zu erkunden, wie KI die Zukunft des Journalismus prägt. Organisiert vom Deutschen Forschungszentrum für Künstliche Intelligenz (DFKI), AI Monday, ai.berlin und AI Nation.",
+    "city": "berlin",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09",
+    "id": "94a7dacb81c38808"
+  },
+  {
     "title": "AI, Machine Learning & Data Science Conference",
     "date": "2026-10-12",
     "venue": "Berlin, Germany",
@@ -1805,7 +1819,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-09",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2029,7 +2043,7 @@
     "description_local": "Persönliches Treffen der Global AI Berlin Community für alle, die sich für Künstliche Intelligenz, maschinelles Lernen und Data Science interessieren. Findet am Freitag, 23. Oktober 2026, von 15:00 bis 20:30 Uhr statt.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-09",
     "id": "c173ee1f9567ce8d"
   },
   {
@@ -2059,6 +2073,20 @@
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "id": "5c81cee5d89e53f7"
+  },
+  {
+    "title": "Why AI Won't Solve the Media Crisis",
+    "date": "2026-10-27",
+    "venue": "Publix, Berlin",
+    "url": "https://www.publix.de/en",
+    "source": "Publix",
+    "description": "Publix Thursday event in collaboration with the Babelsberg Media Innovation Centre (MIZ). Tav Klitgaard, Prof. Dr Wiebke Loosen and Publix Director Maria Exner will discuss the responsible use of AI in journalism and what newsrooms stand to gain if they don't rely on it. 18:30 - 20:00.",
+    "title_local": "Warum KI die Medienkrise nicht lösen wird",
+    "description_local": "Publix Thursday-Veranstaltung in Zusammenarbeit mit dem Medieninnovationszentrum Babelsberg (MIZ). Tav Klitgaard, Prof. Dr. Wiebke Loosen und Publix-Direktorin Maria Exner diskutieren über den verantwortungsvollen Einsatz von KI im Journalismus.",
+    "city": "berlin",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09",
+    "id": "ad981f39e0cc10e1"
   },
   {
     "title": "AI Coding Workshop Berlin edition",
@@ -2493,6 +2521,20 @@
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-01",
     "id": "7c66ab55c8a51ce8"
+  },
+  {
+    "title": "IBM Bob DACH Community Gathering & Coding Watch Party Berlin",
+    "date": "2026-12-01",
+    "venue": "Ella-Trebe-Straße 3, Berlin-Moabit",
+    "url": "https://www.eventbrite.com/d/germany--berlin/ai-hackathon/",
+    "source": "Eventbrite / Create With",
+    "description": "Explore AI-driven software development with IBM Bob at a free, hands-on hybrid coding watch party in Berlin and online on 1 December 2026. This final event in IBM's hybrid series is designed for practitioners who want to see how an AI-powered development partner fits into real software workflows. Rather than passively watching a webinar, attendees will follow live sessions alongside other creators, discuss what they are seeing, react in real time and learn as a community. Time: 4:00 PM to 8:00 PM CET.",
+    "title_local": "IBM Bob DACH Community Treffen & Coding Watch Party Berlin",
+    "description_local": "Erkunden Sie KI-gesteuerte Softwareentwicklung mit IBM Bob bei einer kostenlosen, praktischen hybriden Coding Watch Party in Berlin und online am 1. Dezember 2026. Diese letzte Veranstaltung in IBMs Hybridserie ist für Praktiker konzipiert, die sehen möchten, wie ein KI-gestützter Entwicklungspartner in echte Software-Workflows passt.",
+    "city": "berlin",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09",
+    "id": "da14a940cb2e373a"
   },
   {
     "title": "TFEST26 | The Supply Chain Transformation Event for Senior Leaders",
