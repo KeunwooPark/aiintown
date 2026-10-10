@@ -1465,6 +1465,20 @@
     "id": "babcd5cc8ed4bef2"
   },
   {
+    "title": "NVIDIA AI Days Seoul 2026",
+    "date": "2026-11-09",
+    "venue": "Seoul (venue not yet published)",
+    "url": "https://www.nvidia.com/en-us/ai-days",
+    "source": "https://www.vdura.com/ai-infrastructure-events-calendar/nvidia-ai-days-seoul-2026/",
+    "description": "NVIDIA's Seoul developer event with hands-on Deep Learning Institute training labs and technical sessions on AI frameworks, tools and accelerated computing platforms.",
+    "title_local": "NVIDIA AI Days Seoul 2026",
+    "description_local": "딥러닝 인스티튜트 실습 랩과 AI 프레임워크, 도구 및 가속 컴퓨팅 플랫폼에 대한 기술 세션을 포함한 NVIDIA의 서울 개발자 행사",
+    "city": "seoul",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "id": "e35140ac3144d096"
+  },
+  {
     "title": "Harnessing AI for Marketing Innovation | Seoul",
     "date": "2026-11-10",
     "venue": "Seoul, South Korea",
@@ -1503,7 +1517,7 @@
     "description_local": "International Conference on Software Engineering for Cybersecurity",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-10",
     "id": "deb32b78c3c75fc5"
   },
   {
@@ -1531,7 +1545,7 @@
     "description_local": "공급망 분석을 위한 머신러닝 응용에 관한 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
     "id": "091d10ee586f64b1"
   },
   {
@@ -1603,6 +1617,21 @@
     "first_seen": "2026-07-20",
     "last_seen": "2026-07-20",
     "id": "e86fd1bf673090e9"
+  },
+  {
+    "title": "AI SALON X Dev Korea",
+    "date": null,
+    "venue": "Seoul, South Korea",
+    "url": "https://luma.com/aisalon",
+    "source": "https://luma.com/aisalon",
+    "description": "AI Salon community meetup in Seoul bringing together AI founders, builders, investors, and partners to connect and collaborate.",
+    "title_local": "AI SALON X Dev Korea",
+    "description_local": "AI 창업자, 빌더, 투자자 및 파트너가 모여 연결하고 협력하는 AI Salon 커뮤니티 밋업",
+    "city": "seoul",
+    "date_status": "unknown",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "id": "c89698b7a40a425c"
   },
   {
     "title": "AI/ML DeepLearning Meetup in Seoul",
