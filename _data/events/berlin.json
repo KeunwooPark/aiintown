@@ -294,7 +294,7 @@
     "description_local": "Ein ganzes Wochenende mit Hacking, Lernen und Networking bei der ersten 2026-Ausgabe des KI-Hackathons in Berlin - wo die klügsten Köpfe der Tech-Szene zusammenkommen, um zu innovieren. Begrenzt auf 90 Teilnehmer. Die Veranstaltung läuft über zwei Tage mit Türöffnung um 10:00 Uhr, Matchmaking, Mittagessen, Abendessen und einem Wettbewerb mit Finalisten-Pitches und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-11",
     "id": "7d4d5145ac13cf39"
   },
   {
@@ -1721,7 +1721,7 @@
     "description_local": "Eine dreitägige KI-Entwicklerkonferenz mit Fokus auf praktische KI-Building-Themen",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-11",
     "id": "b7ccc88a42218045"
   },
   {
@@ -1777,7 +1777,7 @@
     "description_local": "Wie verändern KI, Daten und Social Media politische Kommunikation – und welche Strategien erreichen Wähler künftig noch?",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-11",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -2057,7 +2057,7 @@
     "description_local": "Persönliches Treffen der Global AI Berlin Community für alle, die sich für Künstliche Intelligenz, maschinelles Lernen und Data Science interessieren. Findet am Freitag, 23. Oktober 2026, von 15:00 bis 20:30 Uhr statt.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-11",
     "id": "c173ee1f9567ce8d"
   },
   {
@@ -2071,7 +2071,7 @@
     "description_local": "Mini-Hackathon für Personen, die mit KI-Agenten, Speicher, Dokumenten, Graphen, MCP und neuen Entwickler-Tools experimentieren.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-11",
     "id": "92b450733574b1a7"
   },
   {
@@ -2437,6 +2437,20 @@
     "first_seen": "2026-08-29",
     "last_seen": "2026-08-29",
     "id": "b088686d9c4ba20a"
+  },
+  {
+    "title": "KI-X HR",
+    "date": "2026-11-18",
+    "venue": "Berlin, Germany",
+    "url": "https://www.campixx.de/events/ai-ki/",
+    "source": "campixx.de",
+    "description": "HR AI conference focusing on artificial intelligence applications in human resources. November 18-19, 2026 in Berlin.",
+    "title_local": "KI-X HR",
+    "description_local": "HR KI Konferenz mit Fokus auf künstliche Intelligenz Anwendungen im Personalwesen.",
+    "city": "berlin",
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "id": "228b95ce6de78fb3"
   },
   {
     "title": "KI-X HR Convention",

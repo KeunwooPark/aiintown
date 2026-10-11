@@ -1507,17 +1507,17 @@
     "id": "b7198c82df2319cd"
   },
   {
-    "title": "International Conference on Software Engineering for Cybersecurity",
-    "date": "2026-11-18",
+    "title": "International Conference on AI and Data Science for Personalized Medicine",
+    "date": "2026-11-26",
     "venue": "Seoul, South Korea",
     "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea",
-    "source": "internationalconferencealerts.com",
-    "description": "International conference on software engineering solutions for cybersecurity, with AI focus.",
-    "title_local": "International Conference on Software Engineering for Cybersecurity",
-    "description_local": "International Conference on Software Engineering for Cybersecurity",
+    "source": "International Conference Alerts",
+    "description": "Conference exploring the application of AI and data science in personalized medicine and healthcare.",
+    "title_local": "맞춤 의료를 위한 AI 및 데이터 사이언스 국제 컨퍼런스",
+    "description_local": "맞춤 의료 및 헬스케어 분야에서 AI와 데이터 사이언스 응용을 탐구하는 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-11",
     "id": "deb32b78c3c75fc5"
   },
   {
@@ -1568,12 +1568,12 @@
     "venue": "Seoul, South Korea",
     "url": "https://internationalconferencealerts.com/artificial-intelligence/seoul",
     "source": "International Conference Alerts",
-    "description": "International conference on software engineering solutions for cyber defense with AI applications.",
-    "title_local": "사이버 방어를 위한 소프트웨어 엔지니어링 솔루션 국제 학회",
-    "description_local": "AI 응용을 통한 사이버 방어를 위한 소프트웨어 엔지니어링 솔루션에 관한 국제 학회입니다.",
+    "description": "Conference on AI-driven software engineering solutions for cybersecurity and cyber defense applications.",
+    "title_local": "사이버 방어를 위한 소프트웨어 엔지니어링 솔루션 국제 컨퍼런스",
+    "description_local": "사이버 보안 및 사이버 방어 응용을 위한 AI 기반 소프트웨어 엔지니어링 솔루션 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-11",
     "id": "dbd478639179dca7"
   },
   {
