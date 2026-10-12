@@ -1581,7 +1581,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-12",
     "id": "cb6443b487d22397"
   },
   {
@@ -1721,7 +1721,7 @@
     "description_local": "Eine dreitägige KI-Entwicklerkonferenz mit Fokus auf praktische KI-Building-Themen",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-12",
     "id": "b7ccc88a42218045"
   },
   {
@@ -1777,7 +1777,7 @@
     "description_local": "Wie verändern KI, Daten und Social Media politische Kommunikation – und welche Strategien erreichen Wähler künftig noch?",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-12",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -1819,7 +1819,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "id": "22c4be5ddc567872"
   },
   {
@@ -1863,6 +1863,20 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-10",
     "id": "b23bf485f69a6f9b"
+  },
+  {
+    "title": "Smart Country Convention",
+    "date": "2026-10-13",
+    "venue": "hub27 Berlin, Jafféstraße 2, 14055 Berlin",
+    "url": "https://www.smartcountry.berlin/de",
+    "source": "BERLINboxx / visitberlin.de",
+    "description": "Convention on digitalization of public administration (Oct 13-15, 2026), bringing together politics, administration, business and science. Time: 9:30-16:00.",
+    "title_local": "Smart Country Convention",
+    "description_local": "Convention zur Digitalisierung der Verwaltung (13.-15. Oktober 2026), die Politik, Verwaltung, Wirtschaft und Wissenschaft vereint. Zeit: 9:30-16:00 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "id": "7da4fe4c88f5203e"
   },
   {
     "title": "Berlin Experimentation Meetup #15",
@@ -1977,6 +1991,20 @@
     "id": "630ab18ac2de95d3"
   },
   {
+    "title": "AI Builders Berlin - Oct 20",
+    "date": "2026-10-20",
+    "venue": "Aethos, Lohmühlenstraße 65, 12435 Berlin",
+    "url": "https://lu.ma/berlin-oct20",
+    "source": "Meetup.com / Luma",
+    "description": "Meetup sharing the latest and most practical tech for building AI agents. Topics include Vibecoding, OpenClaw, Distills, Evals, LLMOps and anything about Agents. Time: 5:30 PM CEST. Some sessions are streamed live and recorded.",
+    "title_local": "AI Builders Berlin - 20. Okt",
+    "description_local": "Meetup zum Teilen der neuesten und praktischsten Technologien zum Erstellen von KI-Agenten. Themen umfassen Vibecoding, OpenClaw, Distills, Evals, LLMOps und alles über Agenten. Zeit: 17:30 Uhr CEST. Einige Sessions werden live gestreamt und aufgezeichnet.",
+    "city": "berlin",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "id": "c224a02e2be13d7f"
+  },
+  {
     "title": "AI Executive Salon: Berlin Edition",
     "date": "2026-10-20",
     "venue": "Berlin",
@@ -2057,7 +2085,7 @@
     "description_local": "Persönliches Treffen der Global AI Berlin Community für alle, die sich für Künstliche Intelligenz, maschinelles Lernen und Data Science interessieren. Findet am Freitag, 23. Oktober 2026, von 15:00 bis 20:30 Uhr statt.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-12",
     "id": "c173ee1f9567ce8d"
   },
   {
@@ -2255,6 +2283,20 @@
     "first_seen": "2026-07-02",
     "last_seen": "2026-07-02",
     "id": "6c9e24de15597d06"
+  },
+  {
+    "title": "AgentCon Berlin 2026",
+    "date": "2026-11-12",
+    "venue": "Berlin",
+    "url": "https://globalai.community/chapters/berlin/events/agentcon-berlin-2026/",
+    "source": "Global AI Berlin / Meetup.com",
+    "description": "Conference bringing together 200+ developers, startups, researchers, and tech enthusiasts. Platform to explore real-world applications, architectures, and tools powering agent-based systems. Features keynotes from Microsoft & Neo4j, expert talks from Qdrant, MemVerge, Reply, real-world demos and hands-on agent frameworks.",
+    "title_local": "AgentCon Berlin 2026",
+    "description_local": "Konferenz, die über 200 Entwickler, Startups, Forscher und Technikbegeisterte zusammenbringt. Plattform zur Erkundung realer Anwendungen, Architekturen und Tools für agentenbasierte Systeme. Mit Keynotes von Microsoft & Neo4j, Expertenvorträgen von Qdrant, MemVerge, Reply, realen Demos und praktischen Agenten-Frameworks.",
+    "city": "berlin",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "id": "0c8f3675b5650e75"
   },
   {
     "title": "Miro Meetup: AI Buildathon",
@@ -2467,6 +2509,20 @@
     "id": "6f7d11f8cf93fa4e"
   },
   {
+    "title": "KI-X HR Convention",
+    "date": "2026-11-18",
+    "venue": "Berlin",
+    "url": "https://www.ki-x.berlin/",
+    "source": "ki-x.berlin / marketing-boerse.de",
+    "description": "Germany's largest conference on the use of artificial intelligence in HR work (Nov 18-19, 2026). More than 50 speakers, over 400 participants. Topics include AI-supported applicant and talent management, AI in employee development, pre- and onboarding, and predictive analytics. Organized by Quadriga Media.",
+    "title_local": "KI-X HR Convention",
+    "description_local": "Deutschlands größte Fachveranstaltung zum Einsatz künstlicher Intelligenz in der Personalarbeit (18.-19. November 2026). Mehr als 50 Speaker, über 400 Teilnehmer. Themen umfassen KI-gestütztes Bewerber- und Talentmanagement, KI in der Mitarbeiterentwicklung, Pre- und Onboarding und Predictive Analytics. Veranstaltet von Quadriga Media.",
+    "city": "berlin",
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-10-12",
+    "id": "08e68b8299bee59e"
+  },
+  {
     "title": "KI-X HR Convention 2026",
     "date": "2026-11-18",
     "venue": "Berlin (venue TBD)",
@@ -2479,20 +2535,6 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-10",
     "id": "d5be695f108fc9f4"
-  },
-  {
-    "title": "KI-X HR Convention 2026",
-    "date": "2026-11-18",
-    "venue": "Berlin",
-    "url": "https://www.ki-x.berlin/",
-    "source": "ki-x.berlin",
-    "description": "Germany's largest conference on the use of artificial intelligence in HR work. Focuses on practical AI applications in recruiting, talent management, employee development, onboarding, and predictive analytics.",
-    "title_local": "KI-X HR Convention 2026",
-    "description_local": "Deutschlands größte Fachveranstaltung zum Einsatz künstlicher Intelligenz in der Personalarbeit. Im Mittelpunkt stehen praxisnahe Anwendungen von KI – etwa in Recruiting, Talentmanagement, Mitarbeiterentwicklung, Onboarding und Predictive Analytics.",
-    "city": "berlin",
-    "first_seen": "2026-08-27",
-    "last_seen": "2026-08-27",
-    "id": "08e68b8299bee59e"
   },
   {
     "title": "{Tech: Berlin} X LLM Studios: AI Builders' Fireside Chat",
