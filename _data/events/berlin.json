@@ -462,7 +462,7 @@
     "description_local": "Reihe von KI-Veranstaltungen am Merantix AI Campus zu Industrieanwendungen, Politik & Auswirkungen, Venture & Investitionen sowie Forschung & technologischem Fortschritt.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-09-01",
+    "last_seen": "2026-10-14",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -1581,7 +1581,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-14",
     "id": "cb6443b487d22397"
   },
   {
@@ -1721,7 +1721,7 @@
     "description_local": "Eine dreitägige KI-Entwicklerkonferenz mit Fokus auf praktische KI-Building-Themen",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-14",
     "id": "b7ccc88a42218045"
   },
   {
@@ -1777,7 +1777,7 @@
     "description_local": "Wie verändern KI, Daten und Social Media politische Kommunikation – und welche Strategien erreichen Wähler künftig noch?",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-14",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -2045,6 +2045,20 @@
     "first_seen": "2026-07-31",
     "last_seen": "2026-08-17",
     "id": "f0de881b7d97f1b7"
+  },
+  {
+    "title": "Building at the Frontier of AI",
+    "date": "2026-10-21",
+    "venue": "Merantix AI Campus",
+    "url": "https://www.merantix-aicampus.com/event/building-at-the-frontier-of-ai",
+    "source": "Merantix AI Campus",
+    "description": "Event during NVIDIA GTC Berlin week gathering founders and entrepreneurs to discuss Physical AI, agentic systems and open models. Includes founder panel, unconference tracks, and live watch party of NVIDIA GTC keynote with Jensen Huang",
+    "title_local": "Building at the Frontier of AI",
+    "description_local": "Veranstaltung während der NVIDIA GTC Berlin Woche, die Gründer und Unternehmer zusammenbringt, um Physical AI, agentische Systeme und offene Modelle zu diskutieren",
+    "city": "berlin",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "id": "8e9241fcfb9eb861"
   },
   {
     "title": "Confidential AI Summit at GTC Berlin",
