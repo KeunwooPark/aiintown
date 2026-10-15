@@ -462,7 +462,7 @@
     "description_local": "Reihe von KI-Veranstaltungen am Merantix AI Campus zu Industrieanwendungen, Politik & Auswirkungen, Venture & Investitionen sowie Forschung & technologischem Fortschritt.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -1707,7 +1707,7 @@
     "description_local": "Zweitägige KI-Konferenz in Berlin vom 7. bis 8. Oktober 2026 mit KI-fokussiertem Programm für Entwickler, Gründer, Produktteams, Forscher und technische Führungskräfte.",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-15",
     "id": "ee5b8a782a60e44d"
   },
   {
@@ -1777,7 +1777,7 @@
     "description_local": "Wie verändern KI, Daten und Social Media politische Kommunikation – und welche Strategien erreichen Wähler künftig noch?",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -2099,7 +2099,7 @@
     "description_local": "Persönliches Treffen der Global AI Berlin Community für alle, die sich für Künstliche Intelligenz, maschinelles Lernen und Data Science interessieren. Findet am Freitag, 23. Oktober 2026, von 15:00 bis 20:30 Uhr statt.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-15",
     "id": "c173ee1f9567ce8d"
   },
   {
@@ -2379,7 +2379,7 @@
     "description_local": "Wochenend-Robotik- und KI-Hackathon organisiert von HackLab. Veranstaltung läuft von Samstag bis Sonntag mit Live-Pitches und Preisverleihung. Plätze sind stark begrenzt und als ausverkauft gelistet.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-15",
     "id": "bde19dc8b129c082"
   },
   {
@@ -2675,6 +2675,20 @@
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "id": "761193f35a1b6641"
+  },
+  {
+    "title": "International Conference on Finance and Economics with Artificial Intelligence (ICFEAI)",
+    "date": "2026-12-07",
+    "venue": "Berlin, Germany",
+    "url": "https://kiwoche.com/events/",
+    "source": "https://kiwoche.com/events/",
+    "description": "One-day conference (09:00-17:00) presenting recent innovations, trends and practical challenges in economics and AI, focusing on financial applications.",
+    "title_local": "International Conference on Finance and Economics with Artificial Intelligence (ICFEAI)",
+    "description_local": "Eintägige Konferenz (09:00-17:00) zur Präsentation aktueller Innovationen, Trends und praktischer Herausforderungen in Wirtschaft und KI mit Fokus auf Finanzanwendungen.",
+    "city": "berlin",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "id": "b7f5e36f8fc4ce02"
   },
   {
     "title": "Tagesspiegel Background Fachkonferenz Digitalisierung & KI",
