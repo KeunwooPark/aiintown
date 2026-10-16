@@ -406,7 +406,7 @@
     "city": "seoul",
     "id": "61f806f4aa536cc0",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16"
+    "last_seen": "2026-10-16"
   },
   {
     "title": "Math x MIT: ICML After-Dinner Drinks with E14 Fund and Axiom",
@@ -707,7 +707,7 @@
     "description_local": "GraphRAG, AI Agent, AIREADY 및 공공데이터 활용에 초점을 맞춘 유료 세미나 (오후 1시~5시 45분)",
     "city": "seoul",
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-10-16",
     "id": "0c9661f8103fb242"
   },
   {
@@ -1293,7 +1293,7 @@
     "description_local": "인공지능 및 머신러닝 연구, 이론 및 응용에 중점을 둔 국제 학술 회의",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-16",
     "id": "0fe6a14b3c58126c"
   },
   {
@@ -1687,6 +1687,20 @@
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-31",
     "id": "05c48094a94ca6a6"
+  },
+  {
+    "title": "International Conference on AI-powered Data Science in Finance",
+    "date": "2026-12-31",
+    "venue": "Seoul",
+    "url": "https://internationalconferencealerts.com/conferences/seoul/machine-learning",
+    "source": "internationalconferencealerts.com",
+    "description": "Conference focused on AI-powered data science applications in the finance sector.",
+    "title_local": "International Conference on AI-powered Data Science in Finance",
+    "description_local": "금융 분야 AI 기반 데이터 과학 국제 컨퍼런스",
+    "city": "seoul",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "id": "01434a8ac1ca3f99"
   },
   {
     "title": "AI EXPO KOREA 2027",
