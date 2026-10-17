@@ -715,7 +715,7 @@
     "description_local": "Die führende Event-Reihe der Stadt zur Konvergenz von agentischer KI und Blockchain. Mehrere Sessions bis Dezember 2026 einschließlich AI Agents Summit und Sub-Events, Branchen-Calls und Workshops.",
     "city": "berlin",
     "first_seen": "2026-07-21",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-17",
     "id": "6c1b442fc41ffe5f"
   },
   {
@@ -1581,7 +1581,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-17",
     "id": "cb6443b487d22397"
   },
   {
@@ -1707,7 +1707,7 @@
     "description_local": "Zweitägige KI-Konferenz in Berlin vom 7. bis 8. Oktober 2026 mit KI-fokussiertem Programm für Entwickler, Gründer, Produktteams, Forscher und technische Führungskräfte.",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-17",
     "id": "ee5b8a782a60e44d"
   },
   {
@@ -1777,7 +1777,7 @@
     "description_local": "Wie verändern KI, Daten und Social Media politische Kommunikation – und welche Strategien erreichen Wähler künftig noch?",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-17",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -1819,7 +1819,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-17",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2075,6 +2075,20 @@
     "id": "ecdcbb15a529016d"
   },
   {
+    "title": "Transitioning into AI Safety Accountability Group",
+    "date": "2026-10-22",
+    "venue": "Berlin, Germany",
+    "url": "https://aisafety.com/events",
+    "source": "Berlin AI Safety",
+    "description": "AI Safety event including check-ins and a workshop organized by Berlin AI Safety community. Free event focused on AI safety practices and accountability.",
+    "title_local": "Transitioning into AI Safety Accountability Group",
+    "description_local": "AI-Sicherheits-Event mit Check-ins und einem Workshop, organisiert von der Berlin AI Safety Community. Kostenlose Veranstaltung mit Fokus auf KI-Sicherheitspraktiken und Verantwortlichkeit.",
+    "city": "berlin",
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "id": "5d5644093e4f7a62"
+  },
+  {
     "title": "AI Meetup (Berlin): Dive into the World of Generative AI with SAP",
     "date": "2026-10-23",
     "venue": "Berlin, Germany",
@@ -2099,7 +2113,7 @@
     "description_local": "Persönliches Treffen der Global AI Berlin Community für alle, die sich für Künstliche Intelligenz, maschinelles Lernen und Data Science interessieren. Findet am Freitag, 23. Oktober 2026, von 15:00 bis 20:30 Uhr statt.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-17",
     "id": "c173ee1f9567ce8d"
   },
   {
