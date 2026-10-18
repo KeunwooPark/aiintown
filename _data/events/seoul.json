@@ -1293,7 +1293,7 @@
     "description_local": "인공지능 및 머신러닝 연구, 이론 및 응용에 중점을 둔 국제 학술 회의",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-18",
     "id": "0fe6a14b3c58126c"
   },
   {
@@ -1549,6 +1549,20 @@
     "id": "babcd5cc8ed4bef2"
   },
   {
+    "title": "International Conference on Cryptocurrency, Artificial Intelligence and Machine Learning (ICCAIML)",
+    "date": "2026-11-09",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.conferencealerts.in/seoul/ai/november",
+    "source": "Conference Alerts",
+    "description": "Academic conference on cryptocurrency, AI, and machine learning convergence.",
+    "title_local": "암호화폐, 인공지능 및 머신러닝 국제 컨퍼런스",
+    "description_local": "암호화폐, AI, 머신러닝의 융합에 관한 학술 컨퍼런스.",
+    "city": "seoul",
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "id": "df95197c3f7e5ec3"
+  },
+  {
     "title": "NVIDIA AI Days Seoul 2026",
     "date": "2026-11-09",
     "venue": "Seoul (venue not yet published)",
@@ -1615,7 +1629,7 @@
     "description_local": "맞춤 의료 및 헬스케어 분야에서 AI와 데이터 사이언스 응용을 탐구하는 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-18",
     "id": "deb32b78c3c75fc5"
   },
   {

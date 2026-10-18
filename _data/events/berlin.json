@@ -226,7 +226,7 @@
     "description_local": "Persönliches Community-Event von Global AI Berlin. Teil des weltweiten Global AI Community-Netzwerks mit Diskussionen, Workshops und Networking für KI-Enthusiasten und Fachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-10-18",
     "id": "c86ddf054ed364a8"
   },
   {
@@ -1371,7 +1371,7 @@
     "description_local": "Festival, das einen Raum schafft, in dem Menschen aller Altersgruppen Künstliche Intelligenz erleben, ausprobieren und reflektieren können. Bringt Praxis, Forschung, Kunst und Bildung zusammen mit über 50 Ausstellern, 40+ Speakern und 20 Workshops.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-08-10",
+    "last_seen": "2026-10-18",
     "id": "35e66e82f76f77e6"
   },
   {
@@ -1581,7 +1581,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
     "id": "cb6443b487d22397"
   },
   {
@@ -1721,7 +1721,7 @@
     "description_local": "Eine dreitägige KI-Entwicklerkonferenz mit Fokus auf praktische KI-Building-Themen",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-18",
     "id": "b7ccc88a42218045"
   },
   {
@@ -1777,7 +1777,7 @@
     "description_local": "Wie verändern KI, Daten und Social Media politische Kommunikation – und welche Strategien erreichen Wähler künftig noch?",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -2281,8 +2281,22 @@
     "description_local": "Plattform zur Diskussion aller Themen rund um künstliche Intelligenz und Sprache mit regelmäßigen Community-Events. Teil einer breiteren Community mit Events in Zürich und Berlin. Widmet sich der Erkundung und Teilnahme an erhellenden Gesprächen über die Schnittstelle von Sprache und KI, verbindet Praktiker, Forscher und Sprachbegeisterte, um Bewusstsein zu fördern und Innovation voranzutreiben. Montag Abend Event.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-10-18",
     "id": "47fe1fae574918e4"
+  },
+  {
+    "title": "KI 360° - KI-Workshop für Führungskräfte",
+    "date": "2026-11-10",
+    "venue": "launchlabs Berlin, Leuschnerdamm 13, Berlin-Kreuzberg",
+    "url": "https://www.k11-consulting.com/ki-workshop-berlin-november-2026/",
+    "source": "k11-consulting.com",
+    "description": "Full-day workshop for executives focusing on AI strategy, implementation and compliance. Led by Dr. Alexander Deicke and Hannes Deuerling from K11 Consulting with launchlabs and AVIZO",
+    "title_local": "KI 360° - KI-Workshop für Führungskräfte",
+    "description_local": "Ganztagsworkshop für Führungskräfte mit Fokus auf KI-Strategie, Umsetzung und Compliance. Der Tag richtet sich an Menschen, die KI im Unternehmen nicht nur beobachten, sondern konkrete Entscheidungen dazu treffen müssen",
+    "city": "berlin",
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "id": "03f1103192efbbf8"
   },
   {
     "title": "Understanding AI and Using It Effectively for Research Data Management",
@@ -2393,7 +2407,7 @@
     "description_local": "Wochenend-Robotik- und KI-Hackathon organisiert von HackLab. Veranstaltung läuft von Samstag bis Sonntag mit Live-Pitches und Preisverleihung. Plätze sind stark begrenzt und als ausverkauft gelistet.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-18",
     "id": "bde19dc8b129c082"
   },
   {
@@ -2593,6 +2607,20 @@
     "id": "5afea2e8c30dc12b"
   },
   {
+    "title": "GDS Herbsttagung 2026",
+    "date": "2026-11-19",
+    "venue": "Berlin",
+    "url": "https://deutschlandki.de/ki-events",
+    "source": "deutschlandki.de",
+    "description": "Autumn conference of the German Statistical Society with AI topics",
+    "title_local": "GDS Herbsttagung 2026",
+    "description_local": "Herbsttagung der Deutschen Statistischen Gesellschaft mit KI-Themen",
+    "city": "berlin",
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "id": "ba98018e90ebe848"
+  },
+  {
     "title": "VibeKode Berlin 2026",
     "title_local": "VibeKode Berlin 2026",
     "date": "2026-11-23",
@@ -2617,7 +2645,7 @@
     "description_local": "Zweitägige Konferenz (30. Nov. - 1. Dez.) über Enterprise DevSecOps mit KI-Integrationsthemen.",
     "city": "berlin",
     "first_seen": "2026-09-04",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-18",
     "id": "4b05b94843d9a0aa"
   },
   {
