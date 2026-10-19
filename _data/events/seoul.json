@@ -1437,6 +1437,20 @@
     "id": "cb5b601d78e2e97b"
   },
   {
+    "title": "Seoul AI Festival 2026",
+    "date": "2026-10-23",
+    "venue": "The Seoul Lytium (더서울라이티움), Seongdong-gu, Seoul Forest area",
+    "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=326",
+    "source": "Fun Seoul (Seoul City Festival Portal)",
+    "description": "Seoul AI Lifelong Learning Playground event featuring exhibitions, hands-on experiences, competitions and expert lectures - a citizen participation event hosted by Seoul City and Seoul AI Foundation",
+    "title_local": "서울AI페스티벌 2026",
+    "description_local": "전시, 체험, 경진대회 및 전문가 강연 등 시민참여 행사. 서울시, 서울AI재단 주최/주관",
+    "city": "seoul",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "id": "8cc348c897a699cf"
+  },
+  {
     "title": "Cursor Hackathon Seoul 4th",
     "date": "2026-10-24",
     "venue": "Seoul",
@@ -1517,7 +1531,7 @@
     "description_local": "인공지능(AI)과 사물인터넷(IoT)의 융합을 주제로 하는 전시·컨퍼런스. AI 기반 예측 분석, 스마트시티 인프라, 산업 자동화, 디지털 트윈 등을 다룸. 전시회: 11월 3-5일; 컨퍼런스: 11월 4-6일",
     "city": "seoul",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-19",
     "id": "eb7b9a95d3b2abc7"
   },
   {
@@ -1531,7 +1545,7 @@
     "description_local": "AI와 IoT 융합 기술에 초점을 맞춘 AIoT Korea 2026 전시회(11월 3-5일)와 컨퍼런스(11월 4-6일)입니다. AI 기반 예측 분석, 스마트시티 인프라, 산업 자동화, 디지털 트윈, AIoT 생태계의 차세대 통신 기술 등이 전시됩니다.",
     "city": "seoul",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-19",
     "id": "0859b49af4ebdcce"
   },
   {
