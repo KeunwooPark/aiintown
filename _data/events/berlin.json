@@ -462,7 +462,7 @@
     "description_local": "Reihe von KI-Veranstaltungen am Merantix AI Campus zu Industrieanwendungen, Politik & Auswirkungen, Venture & Investitionen sowie Forschung & technologischem Fortschritt.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-20",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -1035,7 +1035,7 @@
     "description_local": "OpenAI veranstaltet einen Abend mit praktischem Bauen, Live-Demos und Diskussion in Berlin, zusammen mit Parloa. Das Programm umfasst, wie führende Engineering-Teams an nützlichen Agenten arbeiten, ein Kamingespräch mit Parloa über ihre Produktionserfahrungen, Neuigkeiten zu Codex und offene Sprechstunden mit OpenAI-Ingenieuren für technische und Produktfragen.",
     "city": "berlin",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-09-18",
+    "last_seen": "2026-10-20",
     "id": "90afcf8355d56451"
   },
   {
@@ -1371,7 +1371,7 @@
     "description_local": "Festival, das einen Raum schafft, in dem Menschen aller Altersgruppen Künstliche Intelligenz erleben, ausprobieren und reflektieren können. Bringt Praxis, Forschung, Kunst und Bildung zusammen mit über 50 Ausstellern, 40+ Speakern und 20 Workshops.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-20",
     "id": "35e66e82f76f77e6"
   },
   {
@@ -1581,7 +1581,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-20",
     "id": "cb6443b487d22397"
   },
   {
@@ -2173,6 +2173,20 @@
     "id": "4e40cb0d09507d94"
   },
   {
+    "title": "AI Series: Google DeepMind - B. Alkhamissi",
+    "date": "2026-11-03",
+    "venue": "TU Berlin",
+    "url": "https://www.meetup.com/de-DE/find/de--berlin/technology/",
+    "source": "meetup.com",
+    "description": "BLISS AI Speaker Series featuring researcher from Google DeepMind",
+    "title_local": "AI Series: Google DeepMind - B. Alkhamissi",
+    "description_local": "BLISS AI Speaker Series mit Forscher von Google DeepMind",
+    "city": "berlin",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "id": "275c3985be2037e7"
+  },
+  {
     "title": "Agentic AI für KMU – vom Potenzial zur praktischen Anwendung",
     "date": "2026-11-04",
     "venue": "Merantix AI Campus",
@@ -2283,6 +2297,20 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-18",
     "id": "47fe1fae574918e4"
+  },
+  {
+    "title": "Unhacked 360 Germany: FutureSec Summit",
+    "date": "2026-11-09",
+    "venue": "Berlin",
+    "url": "https://dev.events/EU/DE/ai",
+    "source": "dev.events",
+    "description": "AI conference focused on cybersecurity and future security challenges in the context of artificial intelligence",
+    "title_local": "Unhacked 360 Germany: FutureSec Summit",
+    "description_local": "KI-Konferenz mit Fokus auf Cybersicherheit und zukünftige Sicherheitsherausforderungen im Kontext von künstlicher Intelligenz",
+    "city": "berlin",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "id": "eaeffef4643a5815"
   },
   {
     "title": "KI 360° - KI-Workshop für Führungskräfte",
@@ -2397,6 +2425,20 @@
     "id": "0a37c52bb5c8708e"
   },
   {
+    "title": "Unicon 2026",
+    "date": "2026-11-13",
+    "venue": "CODE University, Berlin-Neukölln",
+    "url": "https://unicon.berlin/",
+    "source": "unicon.berlin",
+    "description": "Germany's most exclusive AI and startup conference, limited to 300 curated students, founders and investors, two days focusing on developers, designers and entrepreneurs",
+    "title_local": "Unicon 2026",
+    "description_local": "Deutschlands exklusivste KI- und Startup-Konferenz, begrenzt auf 300 ausgewählte Studenten, Gründer und Investoren, zwei Tage für Entwickler, Designer und Unternehmer",
+    "city": "berlin",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "id": "25f1dc55abe641fe"
+  },
+  {
     "title": "Berlin Robotics x AI Hackathon",
     "date": "2026-11-14",
     "venue": "Berlin",
@@ -2423,6 +2465,20 @@
     "first_seen": "2026-10-10",
     "last_seen": "2026-10-10",
     "id": "92baef89f276485a"
+  },
+  {
+    "title": "Robotics x AI Hackathon - HackLab",
+    "date": "2026-11-14",
+    "venue": "CIC Berlin",
+    "url": "https://www.eventbrite.com/e/berlin-robotics-ai-hackathon-hacklab-x-brisa-tickets",
+    "source": "eventbrite.com",
+    "description": "48-hour intensive Robotics x AI Hackathon at CIC Berlin, focused on building and shipping working Physical AI prototypes with hardware training and experimentation",
+    "title_local": "Robotics x AI Hackathon - HackLab",
+    "description_local": "48-stündiger intensiver Robotics x AI Hackathon im CIC Berlin, fokussiert auf die Entwicklung und den Versand funktionierender Physical AI Prototypen mit Hardware-Training und Experimenten",
+    "city": "berlin",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "id": "db10d07e25c718e5"
   },
   {
     "title": "AI Native Week Berlin 2026",
@@ -2617,7 +2673,7 @@
     "description_local": "Herbsttagung der Deutschen Statistischen Gesellschaft mit KI-Themen",
     "city": "berlin",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-20",
     "id": "ba98018e90ebe848"
   },
   {
@@ -2633,6 +2689,20 @@
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "id": "91a0410d1d3a03ac"
+  },
+  {
+    "title": "TÜV AICon 2026",
+    "date": "2026-11-26",
+    "venue": "Forum Digitale Technologien",
+    "url": "https://www.tuev-verband.de/events/aicon-2026",
+    "source": "tuev-verband.de",
+    "description": "Conference on safe and trustworthy artificial intelligence, bringing together experts from politics, science and business to discuss AI Act implementation, generative AI, industrial applications and safety-critical systems",
+    "title_local": "TÜV AICon 2026",
+    "description_local": "Konferenz rund um sichere und vertrauenswürdige Künstliche Intelligenz mit Expert:innen aus Politik, Wissenschaft und Wirtschaft zu Themen wie AI Act, generative KI, industrielle Anwendungen und sicherheitskritische Systeme",
+    "city": "berlin",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "id": "e177750c26801382"
   },
   {
     "title": "Enterprise DevSecOps 2026",
