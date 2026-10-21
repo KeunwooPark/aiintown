@@ -1545,7 +1545,7 @@
     "description_local": "AI와 IoT 융합 기술에 초점을 맞춘 AIoT Korea 2026 전시회(11월 3-5일)와 컨퍼런스(11월 4-6일)입니다. AI 기반 예측 분석, 스마트시티 인프라, 산업 자동화, 디지털 트윈, AIoT 생태계의 차세대 통신 기술 등이 전시됩니다.",
     "city": "seoul",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "id": "0859b49af4ebdcce"
   },
   {
@@ -1617,6 +1617,20 @@
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "id": "18b70194089547c7"
+  },
+  {
+    "title": "2026 AI-ICT Industry & Technology Outlook Conference",
+    "date": "2026-11-12",
+    "venue": "Korea Chamber of Commerce and Industry, Seoul",
+    "url": "https://aiwhatson.com/event/ai-ict-industry-technology-outlook-conference-2026-seoul",
+    "source": "aiwhatson.com",
+    "description": "Three-day Seoul conference surveying AI and ICT technology outlook, R&D directions and talent development. Hosted by Korea's Ministry of Science and ICT, theme 'Beyond ICT — AI Great Transformation'.",
+    "title_local": "2026 AI·ICT 산업·기술전망 컨퍼런스",
+    "description_local": "AI와 ICT 기술 전망, R&D 방향 및 인재 개발을 다루는 3일간의 서울 컨퍼런스. 과학기술정보통신부 주최, 주제 'Beyond ICT — AI 대전환'",
+    "city": "seoul",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "id": "d0518d63b07aec96"
   },
   {
     "title": "Intel AI Summit Seoul 2026",

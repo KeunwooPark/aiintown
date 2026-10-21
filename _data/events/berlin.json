@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-10-21",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -226,7 +226,7 @@
     "description_local": "Persönliches Community-Event von Global AI Berlin. Teil des weltweiten Global AI Community-Netzwerks mit Diskussionen, Workshops und Networking für KI-Enthusiasten und Fachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-21",
     "id": "c86ddf054ed364a8"
   },
   {
@@ -1581,7 +1581,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "id": "cb6443b487d22397"
   },
   {
@@ -1707,7 +1707,7 @@
     "description_local": "Zweitägige KI-Konferenz in Berlin vom 7. bis 8. Oktober 2026 mit KI-fokussiertem Programm für Entwickler, Gründer, Produktteams, Forscher und technische Führungskräfte.",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-21",
     "id": "ee5b8a782a60e44d"
   },
   {
@@ -1765,20 +1765,6 @@
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "id": "60e502ee71941487"
-  },
-  {
-    "title": "IKPK26 - Internationale Konferenz für Politische Kommunikation",
-    "date": "2026-10-11",
-    "venue": "Akademie der Konrad-Adenauer-Stiftung, Tiergartenstraße 35, 10785 Berlin",
-    "url": "https://berlinboxx.de/hauptstadtkalender/",
-    "source": "BERLINboxx Hauptstadtkalender",
-    "description": "International conference on political communication examining how AI, data, and social media are changing political communication and which strategies will reach voters in the future. October 11-12, 2026.",
-    "title_local": "IKPK26 - Internationale Konferenz für Politische Kommunikation",
-    "description_local": "Wie verändern KI, Daten und Social Media politische Kommunikation – und welche Strategien erreichen Wähler künftig noch?",
-    "city": "berlin",
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-10-18",
-    "id": "1f350ba6aefcfe3b"
   },
   {
     "title": "AI Monday Berlin@Publix: New Methods for Journalism",
@@ -2075,18 +2061,32 @@
     "id": "ecdcbb15a529016d"
   },
   {
-    "title": "Transitioning into AI Safety Accountability Group",
+    "title": "How is AI changing the world beyond software?",
     "date": "2026-10-22",
-    "venue": "Berlin, Germany",
-    "url": "https://aisafety.com/events",
-    "source": "Berlin AI Safety",
-    "description": "AI Safety event including check-ins and a workshop organized by Berlin AI Safety community. Free event focused on AI safety practices and accountability.",
-    "title_local": "Transitioning into AI Safety Accountability Group",
-    "description_local": "AI-Sicherheits-Event mit Check-ins und einem Workshop, organisiert von der Berlin AI Safety Community. Kostenlose Veranstaltung mit Fokus auf KI-Sicherheitspraktiken und Verantwortlichkeit.",
+    "venue": "Berlin",
+    "url": "https://www.meetup.com/de-DE/find/de--berlin/technology/",
+    "source": "Meetup",
+    "description": "Technology meetup exploring AI's impact beyond software development.",
+    "title_local": "Wie verändert KI die Welt jenseits von Software?",
+    "description_local": "Technologie-Meetup, das die Auswirkungen von KI jenseits der Softwareentwicklung untersucht.",
     "city": "berlin",
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-17",
-    "id": "5d5644093e4f7a62"
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
+    "id": "275c3985be2037e7"
+  },
+  {
+    "title": "Navigating Intelligence – From Geo AI to Agent Orchestration",
+    "date": "2026-10-22",
+    "venue": "Bettermile, Oranienstraße 183/Aufgang B, 10999 Berlin",
+    "url": "https://www.meetup.com/women-in-big-data-berlin/",
+    "source": "Meetup - Women in Big Data Berlin",
+    "description": "Meetup hosted by Women in Big Data Berlin exploring geographic AI and agent orchestration.",
+    "title_local": "Navigation von Intelligenz – Von Geo-KI bis zur Agentenorchestrierung",
+    "description_local": "Meetup von Women in Big Data Berlin zur Erforschung geografischer KI und Agentenorchestrierung.",
+    "city": "berlin",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "id": "181f1069d4b92f40"
   },
   {
     "title": "AI Meetup (Berlin): Dive into the World of Generative AI with SAP",
@@ -2103,20 +2103,6 @@
     "id": "db36fd55151c179a"
   },
   {
-    "title": "Global AI Berlin October Meetup",
-    "date": "2026-10-23",
-    "venue": "Berlin, Germany",
-    "url": "https://globalai.community/chapters/berlin",
-    "source": "Global AI Community",
-    "description": "In-person meetup by Global AI Berlin community for anyone interested in artificial intelligence, machine learning, and data science. Takes place on Friday, October 23, 2026, from 15:00 to 20:30 CET.",
-    "title_local": "Global AI Berlin Oktober Meetup",
-    "description_local": "Persönliches Treffen der Global AI Berlin Community für alle, die sich für Künstliche Intelligenz, maschinelles Lernen und Data Science interessieren. Findet am Freitag, 23. Oktober 2026, von 15:00 bis 20:30 Uhr statt.",
-    "city": "berlin",
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-10-17",
-    "id": "c173ee1f9567ce8d"
-  },
-  {
     "title": "Graphs Gone Wild - Mini Hack",
     "date": "2026-10-23",
     "venue": "CODE University of Applied Sciences, Donaustraße 44, 12043 Berlin",
@@ -2129,6 +2115,20 @@
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-11",
     "id": "92b450733574b1a7"
+  },
+  {
+    "title": "Build & Learn: From Data Science to AI Engineering Week 4",
+    "date": "2026-10-24",
+    "venue": "Berlin",
+    "url": "https://www.meetup.com/build-learn-ai-with-coffee/",
+    "source": "Meetup",
+    "description": "Week 4 of a series on transitioning from Data Science to AI Engineering, part of Build & Learn: AI with Coffee series.",
+    "title_local": "Build & Learn: Von Data Science zu AI Engineering Woche 4",
+    "description_local": "Woche 4 einer Serie über den Übergang von Data Science zu AI Engineering.",
+    "city": "berlin",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "id": "18b286665da6cdbe"
   },
   {
     "title": "OpenAI DevDay Exchange Berlin",
@@ -2173,18 +2173,18 @@
     "id": "4e40cb0d09507d94"
   },
   {
-    "title": "AI Series: Google DeepMind - B. Alkhamissi",
-    "date": "2026-11-03",
-    "venue": "TU Berlin",
-    "url": "https://www.meetup.com/de-DE/find/de--berlin/technology/",
-    "source": "meetup.com",
-    "description": "BLISS AI Speaker Series featuring researcher from Google DeepMind",
-    "title_local": "AI Series: Google DeepMind - B. Alkhamissi",
-    "description_local": "BLISS AI Speaker Series mit Forscher von Google DeepMind",
+    "title": "Build with OpenAI Codex",
+    "date": "2026-10-29",
+    "venue": "Hybrid - Berlin",
+    "url": "https://www.meetup.com/agent-builders/",
+    "source": "Meetup - Agent Builders",
+    "description": "Hybrid meetup focused on building with OpenAI Codex, hosted by Agent Builders.",
+    "title_local": "Entwickeln mit OpenAI Codex",
+    "description_local": "Hybrid-Meetup zum Entwickeln mit OpenAI Codex.",
     "city": "berlin",
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-10-20",
-    "id": "275c3985be2037e7"
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "id": "da62a9c6e63f2a85"
   },
   {
     "title": "Agentic AI für KMU – vom Potenzial zur praktischen Anwendung",
@@ -2309,7 +2309,7 @@
     "description_local": "KI-Konferenz mit Fokus auf Cybersicherheit und zukünftige Sicherheitsherausforderungen im Kontext von künstlicher Intelligenz",
     "city": "berlin",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "id": "eaeffef4643a5815"
   },
   {
@@ -2383,6 +2383,20 @@
     "id": "d09466c7ed34f64c"
   },
   {
+    "title": "NODES 2026 - Global AI Berlin",
+    "date": "2026-11-12",
+    "venue": "Berlin",
+    "url": "https://globalai.community/chapters/berlin",
+    "source": "Global AI Community",
+    "description": "NODES 2026 pop-up event focused on building with Neo4j technologies including Document Intelligence, Aura MCP, knowledge graphs, and Agent Memory. Build agents, connected knowledge, memory, documents, tools, or graphs.",
+    "title_local": "NODES 2026 - Global AI Berlin",
+    "description_local": "NODES 2026 Pop-up-Event zum Erstellen mit Neo4j-Technologien wie Document Intelligence, Wissensdiagrammen und Agent Memory.",
+    "city": "berlin",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-10-21",
+    "id": "c173ee1f9567ce8d"
+  },
+  {
     "title": "ODH-Herbstforum 2026",
     "date": "2026-11-12",
     "venue": "FORUM Factory, Besselstraße 13-14, 10969 Berlin",
@@ -2437,6 +2451,20 @@
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
     "id": "25f1dc55abe641fe"
+  },
+  {
+    "title": "AI Reality Check",
+    "date": "2026-11-14",
+    "venue": "Berlin and other locations",
+    "url": "https://aisafety.com/events",
+    "source": "AI Safety",
+    "description": "Day of action where volunteers give the same presentation about the state of AI, what's at stake, and what people can do, with slides and script provided.",
+    "title_local": "AI Reality Check",
+    "description_local": "Aktionstag, bei dem Freiwillige dieselbe Präsentation über den Stand der KI, was auf dem Spiel steht und was Menschen tun können, halten.",
+    "city": "berlin",
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-21",
+    "id": "5d5644093e4f7a62"
   },
   {
     "title": "Berlin Robotics x AI Hackathon",
@@ -2577,6 +2605,20 @@
     "first_seen": "2026-08-29",
     "last_seen": "2026-08-29",
     "id": "b088686d9c4ba20a"
+  },
+  {
+    "title": "Handelskongress 2026",
+    "date": "2026-11-18",
+    "venue": "JW Marriott Hotel Berlin, Stauffenbergstraße 26, 10785 Berlin",
+    "url": "https://berlinboxx.de/hauptstadtkalender/",
+    "source": "BERLINboxx",
+    "description": "Trade congress running November 18-19, 2026, exploring how AI, automation and new consumer habits are changing commerce and raising questions about the relationship between technology, economy and humans.",
+    "title_local": "Handelskongress 2026",
+    "description_local": "KI, Automatisierung und neue Konsumgewohnheiten verändern den Handel – und werfen Fragen nach dem Verhältnis von Technologie, Wirtschaft und Mensch auf.",
+    "city": "berlin",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-10-21",
+    "id": "1f350ba6aefcfe3b"
   },
   {
     "title": "KI-X HR",
@@ -2799,7 +2841,7 @@
     "description_local": "Eintägige Konferenz (09:00-17:00) zur Präsentation aktueller Innovationen, Trends und praktischer Herausforderungen in Wirtschaft und KI mit Fokus auf Finanzanwendungen.",
     "city": "berlin",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-21",
     "id": "b7f5e36f8fc4ce02"
   },
   {
@@ -2813,7 +2855,7 @@
     "description_local": "Fachkonferenz zu Digitalisierung und KI organisiert von Tagesspiegel Background. Fokus auf Politik, Unternehmenstransformation und KI-Adoption.",
     "city": "berlin",
     "first_seen": "2026-09-04",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-21",
     "id": "f3a1018cede256e8"
   },
   {
