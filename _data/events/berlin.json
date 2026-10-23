@@ -420,7 +420,7 @@
     "description_local": "Das KI-Meetup in Berlin ist eine Gelegenheit, Erkenntnisse auszutauschen, reale Anwendungsfälle zu teilen und von anderen zu lernen, die auf diesem Gebiet arbeiten. Sprecher sind Salma Sohrabi-Jahromi (Senior AI Scientist bei SAP) über 'Building Specialized LLM-based Enterprise Applications' und Arman Nassirtoussi (Gründer & CEO bei Stealth Startup) über 'Let's talk about Agentic AI'. Die Veranstaltung ist kostenlos, aber eine Registrierung ist erforderlich, mit begrenzten Plätzen. Getränke und Snacks sind inklusive.",
     "city": "berlin",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-23",
     "id": "17b6c7bd9030c94c"
   },
   {
@@ -1371,7 +1371,7 @@
     "description_local": "Festival, das einen Raum schafft, in dem Menschen aller Altersgruppen Künstliche Intelligenz erleben, ausprobieren und reflektieren können. Bringt Praxis, Forschung, Kunst und Bildung zusammen mit über 50 Ausstellern, 40+ Speakern und 20 Workshops.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-23",
     "id": "35e66e82f76f77e6"
   },
   {
@@ -1707,7 +1707,7 @@
     "description_local": "Zweitägige KI-Konferenz in Berlin vom 7. bis 8. Oktober 2026 mit KI-fokussiertem Programm für Entwickler, Gründer, Produktteams, Forscher und technische Führungskräfte.",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-23",
     "id": "ee5b8a782a60e44d"
   },
   {
@@ -1805,7 +1805,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-23",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2187,6 +2187,20 @@
     "id": "da62a9c6e63f2a85"
   },
   {
+    "title": "AI Series: Google DeepMind's Badr Alkhamissi",
+    "date": "2026-11-03",
+    "venue": "C130, Institut für Chemie, Technische Universität Berlin, Chemiegebäude, Str. des 17. Juni",
+    "url": "https://createwith.com/directory/events",
+    "source": "BLISS AI Speaker Series 2026/2027",
+    "description": "Google DeepMind student researcher Badr Alkhamissi discusses human-like artificial intelligence in a 45-minute focused talk. Hosted by BLISS e.V., 7:00-9:00pm CET.",
+    "title_local": "AI Series: Google DeepMind's Badr Alkhamissi",
+    "description_local": "Google DeepMind Student Researcher Badr Alkhamissi spricht über menschenähnliche künstliche Intelligenz in einem 45-minütigen fokussierten Vortrag. Veranstaltet von BLISS e.V., 19:00-21:00 Uhr MEZ.",
+    "city": "berlin",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "id": "91161f5959abeefc"
+  },
+  {
     "title": "Agentic AI für KMU – vom Potenzial zur praktischen Anwendung",
     "date": "2026-11-04",
     "venue": "Merantix AI Campus",
@@ -2369,6 +2383,20 @@
     "id": "0c8f3675b5650e75"
   },
   {
+    "title": "Build with AI: Berlin Meetup",
+    "date": "2026-11-12",
+    "venue": "JetBrains Berlin",
+    "url": "https://luma.com/agmd8ie4",
+    "source": "Luma / Vanishing Gradients",
+    "description": "Meetup bringing together builders, researchers, and curious minds. Features talks by Ines Montani (spaCy/Explosion) on Vibe NLP for Applied NLP and Hugo Bowne-Anderson on Building Effective AI Agents Without the Framework Hangover, plus lightning demos. Hosted by Vanishing Gradients and Explosion at JetBrains.",
+    "title_local": "Build with AI: Berlin Meetup",
+    "description_local": "Meetup, das Builders, Forscher und Neugierige zusammenbringt. Mit Vorträgen von Ines Montani (spaCy/Explosion) über Vibe NLP für Applied NLP und Hugo Bowne-Anderson über den Aufbau effektiver KI-Agenten ohne Framework-Kater, plus Lightning Demos. Veranstaltet von Vanishing Gradients und Explosion bei JetBrains.",
+    "city": "berlin",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "id": "153723d25d4ec082"
+  },
+  {
     "title": "Miro Meetup: AI Buildathon",
     "date": "2026-11-12",
     "venue": "Miro DACH GmbH, Berlin",
@@ -2477,7 +2505,7 @@
     "description_local": "Wochenend-Robotik- und KI-Hackathon organisiert von HackLab. Veranstaltung läuft von Samstag bis Sonntag mit Live-Pitches und Preisverleihung. Plätze sind stark begrenzt und als ausverkauft gelistet.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-23",
     "id": "bde19dc8b129c082"
   },
   {
@@ -2497,15 +2525,15 @@
   {
     "title": "Robotics x AI Hackathon - HackLab",
     "date": "2026-11-14",
-    "venue": "CIC Berlin",
+    "venue": "CIC Berlin, Lohmühlenstraße 65",
     "url": "https://www.eventbrite.com/e/berlin-robotics-ai-hackathon-hacklab-x-brisa-tickets",
-    "source": "eventbrite.com",
-    "description": "48-hour intensive Robotics x AI Hackathon at CIC Berlin, focused on building and shipping working Physical AI prototypes with hardware training and experimentation",
+    "source": "Eventbrite / createwith.com",
+    "description": "48-hour intensive hackathon for building and shipping working Physical AI prototypes. Participants form teams, develop innovative robotics and AI projects, with hardware training and experimentation. Saturday 14 November 09:00 to Sunday 15 November 19:00. Event sold out as of search date.",
     "title_local": "Robotics x AI Hackathon - HackLab",
-    "description_local": "48-stündiger intensiver Robotics x AI Hackathon im CIC Berlin, fokussiert auf die Entwicklung und den Versand funktionierender Physical AI Prototypen mit Hardware-Training und Experimenten",
+    "description_local": "48-stündiger intensiver Hackathon zum Bauen und Versenden funktionierender Physical AI Prototypen. Teilnehmer bilden Teams, entwickeln innovative Robotik- und KI-Projekte, mit Hardware-Training und Experimentieren. Samstag 14. November 09:00 bis Sonntag 15. November 19:00 Uhr. Event ausverkauft.",
     "city": "berlin",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-23",
     "id": "db10d07e25c718e5"
   },
   {
@@ -2519,7 +2547,7 @@
     "description_local": "Wochenlange Konferenzreihe zur Erkundung von AI-nativer Software-Entwicklung über ML, APIs, Agentic Development, Architektur, Governance und Operations. Umfasst MLcon Conference, VibeKode, AI Engineering Summit und API Conference. Sechs Tracks, die den gesamten AI-nativen Software-Lebenszyklus abdecken.",
     "city": "berlin",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-10-23",
     "id": "0058e69380058f51"
   },
   {
@@ -2593,6 +2621,20 @@
     "id": "2086ec2b763d859a"
   },
   {
+    "title": "Machine Learning Week Europe 2026",
+    "date": "2026-11-17",
+    "venue": "Berlin, Germany",
+    "url": "https://confbeacon.com/cities/berlin/artificial-intelligence",
+    "source": "ConfBeacon / deutschlandki.de",
+    "description": "Masterclasses and conference on machine learning, generative and agentic AI, model operations, and applications in business and industry. November 17-18, 2026.",
+    "title_local": "Machine Learning Week Europe 2026",
+    "description_local": "Masterclasses und Konferenz zu Machine Learning, generativer und agentischer KI, Modellbetrieb sowie Anwendungen in Wirtschaft und Industrie. 17.-18. November 2026.",
+    "city": "berlin",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "id": "7beb6a107c254c06"
+  },
+  {
     "title": "BVDW KI-Meet-Up",
     "date": "2026-11-18",
     "venue": "Google AI Center Berlin",
@@ -2607,6 +2649,20 @@
     "id": "b088686d9c4ba20a"
   },
   {
+    "title": "Global AI Nights - Berlin",
+    "date": "2026-11-18",
+    "venue": "Berlin, Germany",
+    "url": "https://globalai.community/chapters/berlin/events/",
+    "source": "Global AI Community Berlin",
+    "description": "In-person Global AI community night event hosted by Global AI Berlin chapter, 18:00.",
+    "title_local": "Global AI Nights - Berlin",
+    "description_local": "Persönliches Global AI Community Night Event, veranstaltet vom Global AI Berlin Chapter, 18:00 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "id": "5702f87e302d6900"
+  },
+  {
     "title": "Handelskongress 2026",
     "date": "2026-11-18",
     "venue": "JW Marriott Hotel Berlin, Stauffenbergstraße 26, 10785 Berlin",
@@ -2617,7 +2673,7 @@
     "description_local": "KI, Automatisierung und neue Konsumgewohnheiten verändern den Handel – und werfen Fragen nach dem Verhältnis von Technologie, Wirtschaft und Mensch auf.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-23",
     "id": "1f350ba6aefcfe3b"
   },
   {
