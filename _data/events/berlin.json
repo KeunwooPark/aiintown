@@ -1581,7 +1581,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-24",
     "id": "cb6443b487d22397"
   },
   {
@@ -1707,7 +1707,7 @@
     "description_local": "Zweitägige KI-Konferenz in Berlin vom 7. bis 8. Oktober 2026 mit KI-fokussiertem Programm für Entwickler, Gründer, Produktteams, Forscher und technische Führungskräfte.",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-24",
     "id": "ee5b8a782a60e44d"
   },
   {
@@ -1805,7 +1805,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-24",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2187,6 +2187,20 @@
     "id": "da62a9c6e63f2a85"
   },
   {
+    "title": "KI Park AI Strategy & Management Expert Group - Meetup",
+    "date": "2026-10-29",
+    "venue": "Berlin, Germany",
+    "url": "https://superpowerdaily.com/events/cities/berlin-germany",
+    "source": "superpowerdaily.com",
+    "description": "KI Park AI Strategy & Management Expert Group meetup focusing on leadership in the AI era, with presentations, workshops, and practical impulses on strategy, leadership, and organizational change.",
+    "title_local": "KI Park AI Strategy & Management Expert Group - Meetup",
+    "description_local": "KI Park AI Strategy & Management Expert Group Meetup mit Fokus auf Leadership im KI-Zeitalter, mit Vorträgen, Workshops und praxisnahen Impulsen zu Strategie, Führung und Veränderungen in Unternehmen.",
+    "city": "berlin",
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
+    "id": "283a32807d02db1a"
+  },
+  {
     "title": "AI Series: Google DeepMind's Badr Alkhamissi",
     "date": "2026-11-03",
     "venue": "C130, Institut für Chemie, Technische Universität Berlin, Chemiegebäude, Str. des 17. Juni",
@@ -2397,6 +2411,20 @@
     "id": "153723d25d4ec082"
   },
   {
+    "title": "Graphs Gone Wild",
+    "date": "2026-11-12",
+    "venue": "CODE University of Applied Sciences, Donaustraße 44, 12043 Berlin",
+    "url": "https://globalai.community/chapters/berlin/events/graphs-gone-wild/",
+    "source": "Global AI Berlin / globalai.community",
+    "description": "In-person event for people experimenting with AI agents, memory, documents, graphs, and MCP. A NODES 2026 pop-up event featuring Neo4j Document Intelligence, Aura MCP, knowledge graphs, and Agent Memory. Focused on building experimental projects with agents and connected knowledge.",
+    "title_local": "Graphs Gone Wild",
+    "description_local": "Präsenzveranstaltung für Entwickler, die mit KI-Agenten, Memory, Dokumenten, Graphen und MCP experimentieren. Ein NODES 2026 Pop-up mit Neo4j Document Intelligence, Aura MCP, Knowledge Graphs und Agent Memory. Fokus auf experimentelle Projekte mit Agenten und vernetztem Wissen.",
+    "city": "berlin",
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
+    "id": "4f9436e81909a4d5"
+  },
+  {
     "title": "Miro Meetup: AI Buildathon",
     "date": "2026-11-12",
     "venue": "Miro DACH GmbH, Berlin",
@@ -2463,7 +2491,7 @@
     "description_local": "Veranstaltung zur Erforschung der Integration von Blockchain-Technologie und künstlicher Intelligenz, mit Schwerpunkt auf verteilten KI-Systemen, dezentralem maschinellem Lernen und Web3-KI-Anwendungen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-24",
     "id": "0a37c52bb5c8708e"
   },
   {
@@ -2673,8 +2701,22 @@
     "description_local": "KI, Automatisierung und neue Konsumgewohnheiten verändern den Handel – und werfen Fragen nach dem Verhältnis von Technologie, Wirtschaft und Mensch auf.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-24",
     "id": "1f350ba6aefcfe3b"
+  },
+  {
+    "title": "KI-Navigator 2026",
+    "date": "2026-11-18",
+    "venue": "Nürnberg, Germany",
+    "url": "https://deutschlandki.de/ki-events",
+    "source": "deutschlandki.de",
+    "description": "Practical conference on AI technology, productive use cases, corporate strategy, the world of work, and responsible use.",
+    "title_local": "KI-Navigator 2026",
+    "description_local": "Praxiskonferenz zu KI-Technologie, produktiven Use Cases, Unternehmensstrategie, Arbeitswelt und verantwortungsvollem Einsatz.",
+    "city": "berlin",
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-24",
+    "id": "ba98018e90ebe848"
   },
   {
     "title": "KI-X HR",
@@ -2759,20 +2801,6 @@
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "id": "5afea2e8c30dc12b"
-  },
-  {
-    "title": "GDS Herbsttagung 2026",
-    "date": "2026-11-19",
-    "venue": "Berlin",
-    "url": "https://deutschlandki.de/ki-events",
-    "source": "deutschlandki.de",
-    "description": "Autumn conference of the German Statistical Society with AI topics",
-    "title_local": "GDS Herbsttagung 2026",
-    "description_local": "Herbsttagung der Deutschen Statistischen Gesellschaft mit KI-Themen",
-    "city": "berlin",
-    "first_seen": "2026-10-18",
-    "last_seen": "2026-10-20",
-    "id": "ba98018e90ebe848"
   },
   {
     "title": "VibeKode Berlin 2026",
@@ -2871,6 +2899,20 @@
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
     "id": "eff4e842b9b8978f"
+  },
+  {
+    "title": "AI@HPI Conference 2026",
+    "date": "2026-12-02",
+    "venue": "Potsdam, Germany",
+    "url": "https://agentconfs.com/ai-conferences/germany",
+    "source": "agentconfs.com",
+    "description": "Conference on designing the human-AI economy, hosted by Hasso Plattner Institute.",
+    "title_local": "AI@HPI Conference 2026",
+    "description_local": "Konferenz zur Gestaltung der Mensch-KI-Wirtschaft, veranstaltet vom Hasso-Plattner-Institut.",
+    "city": "berlin",
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
+    "id": "66744c42cbaa85e4"
   },
   {
     "title": "AI Coding Summit - Berlin Edition",
