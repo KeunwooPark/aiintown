@@ -1129,20 +1129,6 @@
     "id": "59e4e7f5f7f20e2e"
   },
   {
-    "title": "2026 서울 AI 로봇쇼 피지컬 AI 포럼",
-    "date": "2026-10-07",
-    "venue": "COEX 3층 컨퍼런스룸(남) 301호",
-    "url": "https://event-us.kr/seoulairobotshow/event/134390",
-    "source": "EventUs",
-    "description": "Physical AI Forum showcasing the latest technologies and industrial applications of physical AI and robotics",
-    "title_local": "2026 서울 AI 로봇쇼 피지컬 AI 포럼",
-    "description_local": "Physical AI의 최신 기술부터 산업 적용 사례까지, 로봇 산업의 미래를 한자리에서 만나보는 포럼",
-    "city": "seoul",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06",
-    "id": "6c072d67a02e9bf1"
-  },
-  {
     "title": "AI Tinkerers Seoul × Kiro: Demo Night",
     "date": "2026-10-07",
     "venue": "Seoul (exact venue TBD)",
@@ -1491,6 +1477,20 @@
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
     "id": "82a6f309786573cf"
+  },
+  {
+    "title": "2026 서울 AI 로봇쇼 피지컬 AI 포럼",
+    "date": "2026-11-01",
+    "venue": "COEX Conference Room (South) 301",
+    "url": "https://event-us.kr/seoulairobotshow/event/134390",
+    "source": "EventUs",
+    "description": "Physical AI forum covering latest technologies and industrial applications in robotics. Part of Seoul AI Robot Show focusing on embedded systems and physical AI.",
+    "title_local": "2026 서울 AI 로봇쇼 피지컬 AI 포럼",
+    "description_local": "Physical AI의 최신 기술부터 산업 적용 사례까지, 로봇 산업의 미래를 한자리에서 만나보세요",
+    "city": "seoul",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-25",
+    "id": "6c072d67a02e9bf1"
   },
   {
     "title": "AI Youth Festa 2026 - Demo Day",

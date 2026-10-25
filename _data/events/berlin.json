@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-25",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -462,7 +462,7 @@
     "description_local": "Reihe von KI-Veranstaltungen am Merantix AI Campus zu Industrieanwendungen, Politik & Auswirkungen, Venture & Investitionen sowie Forschung & technologischem Fortschritt.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-25",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -1567,7 +1567,7 @@
     "description_local": "Berliner Hacktoberfest-Event mit Open-Source-Beiträgen und KI/ML-Fokus. Community-Hack-Tag für Entwickler, die zu Open-Source-KI-Projekten beitragen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-25",
     "id": "615827e872ec9a8d"
   },
   {
@@ -1805,7 +1805,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2369,6 +2369,20 @@
     "id": "00a6a95b219a61e9"
   },
   {
+    "title": "Berlin AI Meetup: Agents Under the Hood & AI in Practice",
+    "date": "2026-11-11",
+    "venue": "Location TBA",
+    "url": "https://www.meetup.com/berlinai/",
+    "source": "Berlin AI",
+    "description": "Berlin AI meetup exploring agent architectures and practical AI applications, organized by GitNation",
+    "title_local": "Berlin AI Meetup: Agents Under the Hood & KI in der Praxis",
+    "description_local": "Berlin AI Treffen zu Agenten-Architekturen und praktischen KI-Anwendungen, organisiert von GitNation",
+    "city": "berlin",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-10-25",
+    "id": "c927338a65708751"
+  },
+  {
     "title": "AI in Production: Building Recommenders and AI-Powered Discovery",
     "date": "2026-11-12",
     "venue": "Sonnenburger Str. 73, 10437 Berlin",
@@ -2561,7 +2575,7 @@
     "description_local": "48-stündiger intensiver Hackathon zum Bauen und Versenden funktionierender Physical AI Prototypen. Teilnehmer bilden Teams, entwickeln innovative Robotik- und KI-Projekte, mit Hardware-Training und Experimentieren. Samstag 14. November 09:00 bis Sonntag 15. November 19:00 Uhr. Event ausverkauft.",
     "city": "berlin",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-25",
     "id": "db10d07e25c718e5"
   },
   {
@@ -2575,7 +2589,7 @@
     "description_local": "Wochenlange Konferenzreihe zur Erkundung von AI-nativer Software-Entwicklung über ML, APIs, Agentic Development, Architektur, Governance und Operations. Umfasst MLcon Conference, VibeKode, AI Engineering Summit und API Conference. Sechs Tracks, die den gesamten AI-nativen Software-Lebenszyklus abdecken.",
     "city": "berlin",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-25",
     "id": "0058e69380058f51"
   },
   {
@@ -2591,6 +2605,20 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-09-29",
     "id": "a1e89f63d8ce233d"
+  },
+  {
+    "title": "ESMO AI & Digital Oncology",
+    "date": "2026-11-16",
+    "venue": "Messe Berlin",
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender",
+    "source": "Messe Berlin",
+    "description": "Conference on AI and digital technologies in oncology, November 16-18, 2026",
+    "title_local": "ESMO AI & Digital Oncology",
+    "description_local": "Konferenz zu KI und digitalen Technologien in der Onkologie, 16.-18. November 2026",
+    "city": "berlin",
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "id": "35317369f5417656"
   },
   {
     "title": "Handelsblatt KI-Summit 2026",
@@ -2659,7 +2687,7 @@
     "description_local": "Masterclasses und Konferenz zu Machine Learning, generativer und agentischer KI, Modellbetrieb sowie Anwendungen in Wirtschaft und Industrie. 17.-18. November 2026.",
     "city": "berlin",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-25",
     "id": "7beb6a107c254c06"
   },
   {
@@ -2701,7 +2729,7 @@
     "description_local": "KI, Automatisierung und neue Konsumgewohnheiten verändern den Handel – und werfen Fragen nach dem Verhältnis von Technologie, Wirtschaft und Mensch auf.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -2801,6 +2829,20 @@
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "id": "5afea2e8c30dc12b"
+  },
+  {
+    "title": "4. KI-Tag – KI in der (Rechts-)Praxis bei HÄRTING Rechtsanwälte",
+    "date": "2026-11-19",
+    "venue": "HÄRTING Rechtsanwälte, Berlin",
+    "url": "https://www.eventbrite.com/d/germany--berlin/science-and-tech/",
+    "source": "HÄRTING Rechtsanwälte",
+    "description": "Legal practice event on AI trends, opportunities and risks in legal practice, current developments and practical applications",
+    "title_local": "4. KI-Tag – KI in der (Rechts-)Praxis bei HÄRTING Rechtsanwälte",
+    "description_local": "Rechts-Praxis-Event zu KI-Trends, Chancen und Risiken in der Rechtspraxis, aktuellen Entwicklungen und praktischen Anwendungen",
+    "city": "berlin",
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "id": "98bd2baae6fb6489"
   },
   {
     "title": "VibeKode Berlin 2026",
@@ -2903,15 +2945,15 @@
   {
     "title": "AI@HPI Conference 2026",
     "date": "2026-12-02",
-    "venue": "Potsdam, Germany",
+    "venue": "HPI Potsdam",
     "url": "https://agentconfs.com/ai-conferences/germany",
-    "source": "agentconfs.com",
-    "description": "Conference on designing the human-AI economy, hosted by Hasso Plattner Institute.",
+    "source": "HPI",
+    "description": "Conference on designing the human-AI economy, December 2-3, 2026 in Potsdam (near Berlin)",
     "title_local": "AI@HPI Conference 2026",
-    "description_local": "Konferenz zur Gestaltung der Mensch-KI-Wirtschaft, veranstaltet vom Hasso-Plattner-Institut.",
+    "description_local": "Konferenz zur Gestaltung der Mensch-KI-Wirtschaft, 2.-3. Dezember 2026 in Potsdam (bei Berlin)",
     "city": "berlin",
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "id": "66744c42cbaa85e4"
   },
   {
@@ -2927,6 +2969,20 @@
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "id": "761193f35a1b6641"
+  },
+  {
+    "title": "AI Coding Summit Berlin Edition",
+    "date": "2026-12-04",
+    "venue": "Berlin",
+    "url": "https://aicodingsummit.com/berlin/",
+    "source": "GitNation",
+    "description": "Multi-day summit focused on AI-powered coding, development tools and practices, December 4-7, 2026",
+    "title_local": "AI Coding Summit Berlin Edition",
+    "description_local": "Mehrtägiger Summit zu KI-gestütztem Coding, Entwicklungstools und -praktiken, 4.-7. Dezember 2026",
+    "city": "berlin",
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "id": "725f092e472e82ca"
   },
   {
     "title": "International Conference on Finance and Economics with Artificial Intelligence (ICFEAI)",
@@ -3000,21 +3056,6 @@
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
     "id": "e233184fedf6f804"
-  },
-  {
-    "title": "Berlin AI Meetup",
-    "date": null,
-    "venue": "Berlin (various locations)",
-    "url": "https://www.meetup.com/berlinai/",
-    "source": "meetup.com",
-    "description": "Community for people who build, apply, and actively use AI in real life. Brings together engineers, AI practitioners, founders, product leaders, operators, investors, and creative technologists integrating AI into products, workflows, companies, and artistic practice. Space for practical talks, real-world use cases, technical deep dives, and transparent discussions.",
-    "title_local": "Berlin AI Meetup",
-    "description_local": "Community für Menschen, die KI im echten Leben bauen, anwenden und aktiv nutzen. Bringt Ingenieure, KI-Praktiker, Gründer, Produktmanager, Betreiber, Investoren und kreative Technologen zusammen, die KI in Produkte, Workflows, Unternehmen und künstlerische Praxis integrieren.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-09-25",
-    "id": "c927338a65708751"
   },
   {
     "title": "Berlin AI Meetup (Luma)",
