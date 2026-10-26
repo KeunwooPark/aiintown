@@ -697,20 +697,6 @@
     "id": "424ab78795fa917c"
   },
   {
-    "title": "GraphRAG & AI Agent Seminar",
-    "date": "2026-09-03",
-    "venue": "Gangnam-gu, Seoul",
-    "url": "https://onoffmix.com/event",
-    "source": "OnOffMix",
-    "description": "Paid seminar focusing on GraphRAG, AI Agents, AIREADY and public data applications from 1:00 PM to 5:45 PM",
-    "title_local": "GraphRAG & AI Agent 세미나",
-    "description_local": "GraphRAG, AI Agent, AIREADY 및 공공데이터 활용에 초점을 맞춘 유료 세미나 (오후 1시~5시 45분)",
-    "city": "seoul",
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-10-16",
-    "id": "0c9661f8103fb242"
-  },
-  {
     "title": "International Conference on Computer Science, Machine Learning and Artificial Intelligence (ICCSMLAI)",
     "date": "2026-09-03",
     "venue": "Seoul, South Korea",
@@ -1477,6 +1463,20 @@
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
     "id": "82a6f309786573cf"
+  },
+  {
+    "title": "피지컬 AI x AI 네트워크 초연결 버티컬 AX연합 토론회",
+    "date": "2026-10-28",
+    "venue": "Seoul",
+    "url": "https://onoffmix.com/event",
+    "source": "onoffmix.com",
+    "description": "Discussion forum on Physical AI and AI network hyperconnectivity vertical AX alliance. Organized by AINA (AI Network Alliance).",
+    "title_local": "피지컬 AI x AI 네트워크 초연결 버티컬 AX연합 토론회",
+    "description_local": "AINA 주관 피지컬 AI와 AI 네트워크 초연결 버티컬 AX연합 토론회.",
+    "city": "seoul",
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-10-26",
+    "id": "0c9661f8103fb242"
   },
   {
     "title": "2026 서울 AI 로봇쇼 피지컬 AI 포럼",

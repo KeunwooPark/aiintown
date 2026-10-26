@@ -90,7 +90,7 @@
     "description_local": "Unser Flaggschiff-Showcase für die aufregendsten neuen Deep-Tech-Startups Deutschlands. Es bringt Wissenschaftler, Gründer und Investoren zusammen, um zu erkunden, was als Nächstes in KI, Quantentechnologie, Photonik und darüber hinaus kommt. Jede Ausgabe präsentiert aufstrebende Startups und die Forschung, die sie antreibt.",
     "city": "berlin",
     "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
+    "last_seen": "2026-10-26",
     "id": "7a901bd5b4edd97a"
   },
   {
@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -757,7 +757,7 @@
     "description_local": "Präsenz- und Hybrid-Event mit Vorträgen zu ereignisgesteuerter Architektur, Java-Modernisierung, KI-infundiertem Quarkus mit LangChain4j und LLM-Integration & KI-gestützten Workflows. Mit Networking, Abendessen und Getränken. 2. September 2026, 13:00-18:15 Uhr.",
     "city": "berlin",
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-10-26",
     "id": "53dfaa2f1e8d2c34"
   },
   {
@@ -1371,7 +1371,7 @@
     "description_local": "Festival, das einen Raum schafft, in dem Menschen aller Altersgruppen Künstliche Intelligenz erleben, ausprobieren und reflektieren können. Bringt Praxis, Forschung, Kunst und Bildung zusammen mit über 50 Ausstellern, 40+ Speakern und 20 Workshops.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-26",
     "id": "35e66e82f76f77e6"
   },
   {
@@ -1567,7 +1567,7 @@
     "description_local": "Berliner Hacktoberfest-Event mit Open-Source-Beiträgen und KI/ML-Fokus. Community-Hack-Tag für Entwickler, die zu Open-Source-KI-Projekten beitragen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "id": "615827e872ec9a8d"
   },
   {
@@ -1707,7 +1707,7 @@
     "description_local": "Zweitägige KI-Konferenz in Berlin vom 7. bis 8. Oktober 2026 mit KI-fokussiertem Programm für Entwickler, Gründer, Produktteams, Forscher und technische Führungskräfte.",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-26",
     "id": "ee5b8a782a60e44d"
   },
   {
@@ -2201,6 +2201,20 @@
     "id": "283a32807d02db1a"
   },
   {
+    "title": "Nullcon Security Conference and Training - Berlin 2026",
+    "date": "2026-11-02",
+    "venue": "Maritim proArte Hotel Berlin",
+    "url": "https://www.eventbrite.com/d/germany--berlin/tech-events/",
+    "source": "Eventbrite",
+    "description": "Security conference and training focusing on cybersecurity and AI security. November 2-6, 2026.",
+    "title_local": "Nullcon Security Conference and Training - Berlin 2026",
+    "description_local": "Sicherheitskonferenz und Training mit Fokus auf Cybersicherheit und KI-Sicherheit. 2.-6. November 2026.",
+    "city": "berlin",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "id": "badbc3f6719670a0"
+  },
+  {
     "title": "AI Series: Google DeepMind's Badr Alkhamissi",
     "date": "2026-11-03",
     "venue": "C130, Institut für Chemie, Technische Universität Berlin, Chemiegebäude, Str. des 17. Juni",
@@ -2248,12 +2262,12 @@
     "venue": "Museum für Naturkunde Berlin",
     "url": "https://www.eventbrite.com/d/germany--berlin/data-science/",
     "source": "Eventbrite",
-    "description": "Interactive role-play workshop and fireside chat on data stewardship, citizen science, and the future of AI",
+    "description": "Interactive role-play workshop and fireside chat on data stewardship, citizen science, and the future of AI. 4:45 PM start.",
     "title_local": "Wem gehört Wissen? Citizen Science, Daten und die Zukunft der KI",
-    "description_local": "Interaktiver Rollenspiel-Workshop und Kamingespräch über Daten-Verwaltung, Citizen Science und die Zukunft der KI",
+    "description_local": "Interaktiver Rollenspiel-Workshop und Kamingespräch über Datenverantwortung, Citizen Science und die Zukunft der KI. Beginn 16:45 Uhr.",
     "city": "berlin",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-26",
     "id": "4888e9c4212cd873"
   },
   {
@@ -2325,20 +2339,6 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-18",
     "id": "47fe1fae574918e4"
-  },
-  {
-    "title": "Unhacked 360 Germany: FutureSec Summit",
-    "date": "2026-11-09",
-    "venue": "Berlin",
-    "url": "https://dev.events/EU/DE/ai",
-    "source": "dev.events",
-    "description": "AI conference focused on cybersecurity and future security challenges in the context of artificial intelligence",
-    "title_local": "Unhacked 360 Germany: FutureSec Summit",
-    "description_local": "KI-Konferenz mit Fokus auf Cybersicherheit und zukünftige Sicherheitsherausforderungen im Kontext von künstlicher Intelligenz",
-    "city": "berlin",
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-10-21",
-    "id": "eaeffef4643a5815"
   },
   {
     "title": "KI 360° - KI-Workshop für Führungskräfte",
@@ -2551,6 +2551,20 @@
     "id": "bde19dc8b129c082"
   },
   {
+    "title": "International Conference on AI-driven Data Science in Genomics",
+    "date": "2026-11-14",
+    "venue": "Berlin",
+    "url": "https://internationalconferencealerts.com/machine-learning/germany/november",
+    "source": "International Conference Alerts",
+    "description": "Academic conference on AI-driven data science applications in genomics. November 14-15, 2026.",
+    "title_local": "Internationale Konferenz über KI-gesteuerte Data Science in der Genomik",
+    "description_local": "Akademische Konferenz über KI-gesteuerte Data Science-Anwendungen in der Genomik. 14.-15. November 2026.",
+    "city": "berlin",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "id": "5652a45aa654c9be"
+  },
+  {
     "title": "International Conference on Machine Learning for Supply Chain Analytics",
     "date": "2026-11-14",
     "venue": "Berlin, Germany",
@@ -2575,7 +2589,7 @@
     "description_local": "48-stündiger intensiver Hackathon zum Bauen und Versenden funktionierender Physical AI Prototypen. Teilnehmer bilden Teams, entwickeln innovative Robotik- und KI-Projekte, mit Hardware-Training und Experimentieren. Samstag 14. November 09:00 bis Sonntag 15. November 19:00 Uhr. Event ausverkauft.",
     "city": "berlin",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "id": "db10d07e25c718e5"
   },
   {
@@ -2645,7 +2659,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-10-26",
     "id": "9a05b37a144a341e"
   },
   {
@@ -2677,6 +2691,20 @@
     "id": "2086ec2b763d859a"
   },
   {
+    "title": "KI-X HR Convention Vorabend-Check-In",
+    "date": "2026-11-17",
+    "venue": "Quadriga Campus, Berlin",
+    "url": "https://hr.ki-x.berlin/programm/",
+    "source": "KI-X Berlin HR",
+    "description": "Pre-conference check-in evening with welcome drinks for the KI-X HR Convention. Networking and registration. November 17, 2026 evening.",
+    "title_local": "KI-X HR Convention Vorabend-Check-In",
+    "description_local": "Vorabend-Check-In mit Willkommensdrinks für die KI-X HR Convention. Networking und Registrierung. 17. November 2026 abends.",
+    "city": "berlin",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "id": "fa78fa4b44693587"
+  },
+  {
     "title": "Machine Learning Week Europe 2026",
     "date": "2026-11-17",
     "venue": "Berlin, Germany",
@@ -2689,6 +2717,20 @@
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-25",
     "id": "7beb6a107c254c06"
+  },
+  {
+    "title": "Sharing Wisdom and Warm Data Lab",
+    "date": "2026-11-17",
+    "venue": "Studios-ID | Berlin",
+    "url": "https://www.eventbrite.com/d/germany--berlin/free--events/data-conference/",
+    "source": "Eventbrite",
+    "description": "Conversation exploring 'How can city dwellers deepen our connection to Nature and to one another?' followed by a Warm Data Lab. Free event.",
+    "title_local": "Sharing Wisdom and Warm Data Lab",
+    "description_local": "Gespräch über 'Wie können Stadtbewohner unsere Verbindung zur Natur und zueinander vertiefen?' gefolgt von einem Warm Data Lab. Kostenlose Veranstaltung.",
+    "city": "berlin",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "id": "f1c3b9d267f424f4"
   },
   {
     "title": "BVDW KI-Meet-Up",
@@ -2845,6 +2887,20 @@
     "id": "98bd2baae6fb6489"
   },
   {
+    "title": "Herbsttagung 2026",
+    "date": "2026-11-19",
+    "venue": "Tucholskystraße 2, Berlin",
+    "url": "https://www.eventbrite.com/b/germany--berlin/science-and-tech/",
+    "source": "Eventbrite",
+    "description": "Focus on bringing data science, GenAI and AI agents into production, and on sovereign and trustworthy AI. November 19, 2026, 9:00 AM.",
+    "title_local": "Herbsttagung 2026",
+    "description_local": "Schwerpunkt auf der Produktivsetzung von Data Science, GenAI und AI-Agenten sowie souveräner und vertrauenswürdiger KI. 19. November 2026, 9:00 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "id": "569bc708cc6e9e29"
+  },
+  {
     "title": "VibeKode Berlin 2026",
     "title_local": "VibeKode Berlin 2026",
     "date": "2026-11-23",
@@ -2911,7 +2967,7 @@
     "description_local": "Erkunden Sie KI-gesteuerte Softwareentwicklung mit IBM Bob bei einer kostenlosen, praktischen hybriden Coding Watch Party in Berlin und online am 1. Dezember 2026. Diese letzte Veranstaltung in IBMs Hybridserie ist für Praktiker konzipiert, die sehen möchten, wie ein KI-gestützter Entwicklungspartner in echte Software-Workflows passt.",
     "city": "berlin",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-26",
     "id": "da14a940cb2e373a"
   },
   {
@@ -2955,6 +3011,20 @@
     "first_seen": "2026-10-24",
     "last_seen": "2026-10-25",
     "id": "66744c42cbaa85e4"
+  },
+  {
+    "title": "AI Coding Summit - Berlin Edition",
+    "date": "2026-12-04",
+    "venue": "Berlin",
+    "url": "https://dev.events/EU/DE/ai",
+    "source": "dev.events",
+    "description": "AI conference focused on AI-powered coding and development. December 4-7, 2026. Hybrid: in-person in Berlin or online.",
+    "title_local": "AI Coding Summit - Berlin Edition",
+    "description_local": "KI-Konferenz mit Fokus auf KI-gestütztes Coding und Entwicklung. 4.-7. Dezember 2026. Hybrid: vor Ort in Berlin oder online.",
+    "city": "berlin",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-26",
+    "id": "eaeffef4643a5815"
   },
   {
     "title": "AI Coding Summit - Berlin Edition",
