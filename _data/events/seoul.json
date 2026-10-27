@@ -1531,7 +1531,7 @@
     "description_local": "AI 관련 소프트웨어 취약점 평가 및 사이버보안에 관한 국제 컨퍼런스. 2026년 11월 2~3일 서울에서 개최.",
     "city": "seoul",
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-27",
     "id": "091d10ee586f64b1"
   },
   {
@@ -1559,7 +1559,7 @@
     "description_local": "AI와 IoT 융합 기술에 초점을 맞춘 AIoT Korea 2026 전시회(11월 3-5일)와 컨퍼런스(11월 4-6일)입니다. AI 기반 예측 분석, 스마트시티 인프라, 산업 자동화, 디지털 트윈, AIoT 생태계의 차세대 통신 기술 등이 전시됩니다.",
     "city": "seoul",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-27",
     "id": "0859b49af4ebdcce"
   },
   {
@@ -1591,17 +1591,17 @@
     "id": "df95197c3f7e5ec3"
   },
   {
-    "title": "NVIDIA AI Days Seoul 2026",
+    "title": "NVIDIA AI Day Seoul 2026",
     "date": "2026-11-09",
-    "venue": "Seoul (venue not yet published)",
+    "venue": "COEX",
     "url": "https://www.nvidia.com/en-us/ai-days",
-    "source": "https://www.vdura.com/ai-infrastructure-events-calendar/nvidia-ai-days-seoul-2026/",
-    "description": "NVIDIA's Seoul developer event with hands-on Deep Learning Institute training labs and technical sessions on AI frameworks, tools and accelerated computing platforms.",
-    "title_local": "NVIDIA AI Days Seoul 2026",
-    "description_local": "딥러닝 인스티튜트 실습 랩과 AI 프레임워크, 도구 및 가속 컴퓨팅 플랫폼에 대한 기술 세션을 포함한 NVIDIA의 서울 개발자 행사",
+    "source": "NVIDIA Official",
+    "description": "NVIDIA's flagship AI event in Korea running Nov 9-10, bringing together developers, startups, enterprises, partners, researchers, and industry leaders. Features sessions on Physical AI, Agentic AI and Claws, and AI Infrastructure, with Deep Learning Institute training labs and technical workshops. Expected attendance of 2,000 people.",
+    "title_local": "엔비디아 AI 데이 서울 2026",
+    "description_local": "11월 9일부터 10일까지 서울 코엑스에서 개최되는 NVIDIA의 한국 대표 AI 행사. 개발자, 스타트업, 기업, 파트너, 연구자와 업계 리더들이 한자리에 모여 피지컬 AI, 에이전틱 AI와 클로, AI 인프라를 중심으로 최신 AI 기술과 산업 트렌드, 실제 적용 사례를 공유",
     "city": "seoul",
     "first_seen": "2026-10-10",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-27",
     "id": "e35140ac3144d096"
   },
   {
@@ -1671,7 +1671,7 @@
     "description_local": "맞춤 의료 및 헬스케어 분야에서 AI와 데이터 사이언스 응용을 탐구하는 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-27",
     "id": "deb32b78c3c75fc5"
   },
   {
@@ -1713,8 +1713,22 @@
     "description_local": "사이버 보안 및 사이버 방어 응용을 위한 AI 기반 소프트웨어 엔지니어링 솔루션 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-27",
     "id": "dbd478639179dca7"
+  },
+  {
+    "title": "International Conference on Machine Learning for Big Data in IT Network Security",
+    "date": "2026-12-15",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/machine-learning/south-korea/seoul",
+    "source": "Conference Alerts",
+    "description": "Two-day conference on machine learning applications in big data for IT network security, Dec 15-16, 2026.",
+    "title_local": "IT 네트워크 보안의 빅데이터를 위한 머신러닝 국제 컨퍼런스",
+    "description_local": "2026년 12월 15일부터 16일까지 서울에서 열리는 IT 네트워크 보안의 빅데이터 분야 머신러닝 응용에 관한 이틀간의 컨퍼런스",
+    "city": "seoul",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "id": "299a307f265fbfa2"
   },
   {
     "title": "International Conference on Machine Learning and Chat GPT (ICMLCG)",
@@ -1747,15 +1761,15 @@
   {
     "title": "International Conference on AI-powered Data Science in Finance",
     "date": "2026-12-31",
-    "venue": "Seoul",
+    "venue": "Seoul, South Korea",
     "url": "https://internationalconferencealerts.com/conferences/seoul/machine-learning",
-    "source": "internationalconferencealerts.com",
-    "description": "Conference focused on AI-powered data science applications in the finance sector.",
-    "title_local": "International Conference on AI-powered Data Science in Finance",
-    "description_local": "금융 분야 AI 기반 데이터 과학 국제 컨퍼런스",
+    "source": "Conference Alerts",
+    "description": "Two-day conference on AI-powered data science applications in finance, Dec 31, 2026 - Jan 1, 2027.",
+    "title_local": "금융 분야 AI 기반 데이터 사이언스 국제 컨퍼런스",
+    "description_local": "2026년 12월 31일부터 2027년 1월 1일까지 서울에서 열리는 금융 분야 AI 기반 데이터 사이언스 응용에 관한 이틀간의 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-27",
     "id": "01434a8ac1ca3f99"
   },
   {
