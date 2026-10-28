@@ -462,7 +462,7 @@
     "description_local": "Reihe von KI-Veranstaltungen am Merantix AI Campus zu Industrieanwendungen, Politik & Auswirkungen, Venture & Investitionen sowie Forschung & technologischem Fortschritt.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -1567,7 +1567,7 @@
     "description_local": "Berliner Hacktoberfest-Event mit Open-Source-Beiträgen und KI/ML-Fokus. Community-Hack-Tag für Entwickler, die zu Open-Source-KI-Projekten beitragen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-28",
     "id": "615827e872ec9a8d"
   },
   {
@@ -1707,7 +1707,7 @@
     "description_local": "Zweitägige KI-Konferenz in Berlin vom 7. bis 8. Oktober 2026 mit KI-fokussiertem Programm für Entwickler, Gründer, Produktteams, Forscher und technische Führungskräfte.",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-28",
     "id": "ee5b8a782a60e44d"
   },
   {
@@ -2341,6 +2341,20 @@
     "id": "47fe1fae574918e4"
   },
   {
+    "title": "AI Series: Anthropic — Pavel Izmailov",
+    "date": "2026-11-10",
+    "venue": "C130, Institut für Chemie, Technische Universität Berlin",
+    "url": "https://www.meetup.com/bliss-ai-speaker-series-2026-2027/",
+    "source": "meetup.com/createwith.com",
+    "description": "BLISS AI Speaker Series featuring Pavel Izmailov, Member of Technical Staff at Anthropic, presenting 'Understanding Reasoning from Pretraining to Post-Training'. Free drinks and pizza. Doors close at 7:15pm, RSVP required for guaranteed entry.",
+    "title_local": "AI Series: Anthropic — Pavel Izmailov",
+    "description_local": "BLISS AI Speaker Series mit Pavel Izmailov, Member of Technical Staff bei Anthropic, der 'Understanding Reasoning from Pretraining to Post-Training' präsentiert. Kostenlose Getränke und Pizza. Türen schließen um 19:15 Uhr, RSVP erforderlich.",
+    "city": "berlin",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "id": "e22cb15a8b37448e"
+  },
+  {
     "title": "KI 360° - KI-Workshop für Führungskräfte",
     "date": "2026-11-10",
     "venue": "launchlabs Berlin, Leuschnerdamm 13, Berlin-Kreuzberg",
@@ -2481,6 +2495,20 @@
     "id": "74a04fa73f198ce5"
   },
   {
+    "title": "AI Safety & Society Exhibition",
+    "date": "2026-11-13",
+    "venue": "EAGx Berlin venue (13-15 Nov), then Foresight Institute Berlin Node (from 19 Nov)",
+    "url": "https://aisafety.museum/",
+    "source": "aisafety.museum",
+    "description": "Small exhibition of artworks and hands-on pieces about what increasingly capable AI could mean for society. First showing at EAGx Berlin (Nov 13-15), then extended run at Foresight Institute Berlin Node from Nov 19. Interactive pieces, VR stations, and artist talks. In English and German.",
+    "title_local": "KI-Sicherheit & Gesellschaft Ausstellung",
+    "description_local": "Kleine Ausstellung von Kunstwerken und interaktiven Stücken darüber, was zunehmend leistungsfähige KI für die Gesellschaft bedeuten könnte. Erste Präsentation bei EAGx Berlin (13.-15. Nov), dann längere Laufzeit im Foresight Institute Berlin Node ab 19. Nov. Interaktive Stücke, VR-Stationen und Künstlergespräche. Auf Englisch und Deutsch.",
+    "city": "berlin",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "id": "9bbbe4f98204061e"
+  },
+  {
     "title": "EAGx Berlin 2026",
     "date": "2026-11-13",
     "venue": "Urania Berlin e.V., An d. Urania 17, 10787 Berlin",
@@ -2591,6 +2619,20 @@
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-26",
     "id": "db10d07e25c718e5"
+  },
+  {
+    "title": "AI Engineering Summit Berlin 2026",
+    "date": "2026-11-16",
+    "venue": "Maritim ProArte Hotel Berlin",
+    "url": "https://mlconference.ai/ai-engineering-summit/",
+    "source": "createwith.com/dev.events",
+    "description": "Five-day hands-on enterprise AI training exploring how to integrate coding agents, AI assistants and agentic workflows into software delivery. Part of AI Native Week, Nov 16-20, 2026.",
+    "title_local": "AI Engineering Summit Berlin 2026",
+    "description_local": "Fünftägiges praktisches Enterprise-KI-Training zur Integration von Coding Agents, KI-Assistenten und agentischen Workflows in die Softwareentwicklung. Teil der AI Native Week, 16.-20. Nov 2026.",
+    "city": "berlin",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "id": "40fecb0c1f411865"
   },
   {
     "title": "AI Native Week Berlin 2026",
@@ -2943,6 +2985,20 @@
     "id": "4b05b94843d9a0aa"
   },
   {
+    "title": "Bob DACH Community Gathering & Coding Watch Party Berlin",
+    "date": "2026-12-01",
+    "venue": "SRH Hochschule Berlin, Sonnenallee 221",
+    "url": "https://luma.com/5a30tz8v",
+    "source": "luma.com/eventbrite.de",
+    "description": "Final 2026 event in IBM's hybrid series of hands-on AI development events featuring IBM Bob, an AI-powered development partner. Tracks for beginners, intermediate, and experts. Hosted exclusively at SRH University Berlin. Free event, limited onsite tickets.",
+    "title_local": "Bob DACH Community Gathering & Coding Watch Party Berlin",
+    "description_local": "Abschlussveranstaltung 2026 in IBMs hybrider Serie von praktischen KI-Entwicklungs-Events mit IBM Bob, einem KI-gestützten Entwicklungspartner. Tracks für Anfänger, Fortgeschrittene und Experten. Exklusiv an der SRH Hochschule Berlin. Kostenlose Veranstaltung, begrenzte Onsite-Tickets.",
+    "city": "berlin",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "id": "af7da74ba508c3f8"
+  },
+  {
     "title": "Depak Konferenz - Schwerpunkt KI & effiziente Produktion",
     "date": "2026-12-01",
     "venue": "Berlin",
@@ -3011,6 +3067,20 @@
     "first_seen": "2026-10-24",
     "last_seen": "2026-10-25",
     "id": "66744c42cbaa85e4"
+  },
+  {
+    "title": "AI@HPI Conference 2026",
+    "date": "2026-12-02",
+    "venue": "Hasso Plattner Institute, Potsdam",
+    "url": "https://ai.hpi.de/",
+    "source": "agentconfs.com/kibuzzer.com",
+    "description": "Conference organized by Hasso Plattner Institute with the theme 'Designing the Human-AI Economy'. Focus on AI research, applications, and societal impact. December 2-3, 2026.",
+    "title_local": "AI@HPI Conference 2026",
+    "description_local": "Konferenz des Hasso-Plattner-Instituts mit dem Thema 'Designing the Human-AI Economy'. Schwerpunkt auf KI-Forschung, Anwendungen und gesellschaftlichen Auswirkungen. 2.-3. Dezember 2026.",
+    "city": "berlin",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "id": "7be7c0cb89e823ef"
   },
   {
     "title": "AI Coding Summit - Berlin Edition",
