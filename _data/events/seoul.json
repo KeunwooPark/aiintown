@@ -1479,6 +1479,20 @@
     "id": "0c9661f8103fb242"
   },
   {
+    "title": "2026 AI Safety Policy Global Workshop",
+    "date": "2026-10-29",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.aisi.re.kr/kor/article/ATCL75b4fb0a5/127",
+    "source": "Korea AISI (AI Safety Institute)",
+    "description": "6th AI Safety Policy Research Seminar themed 'From Framework to Practice', discussing AI risk identification, systematization, actual risk management and policy responses. Organized by Korea's Artificial Intelligence Safety Research Institute.",
+    "title_local": "2026 제6차 AI 안전 정책 연구 세미나 「2026 AI Safety Policy Global Workshop」",
+    "description_local": "인공지능안전연구소가 개최하는 AI 위험과 안전 정책 연구의 주요 이슈를 국내외 전문가들과 함께 논의하는 세미나. From Framework to Practice를 주제로 AI 위험의 식별과 체계화부터 실제 위험관리 및 정책적 대응까지 폭넓게 논의합니다.",
+    "city": "seoul",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "id": "967c80543227591d"
+  },
+  {
     "title": "2026 서울 AI 로봇쇼 피지컬 AI 포럼",
     "date": "2026-11-01",
     "venue": "COEX Conference Room (South) 301",
@@ -1575,6 +1589,20 @@
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "id": "babcd5cc8ed4bef2"
+  },
+  {
+    "title": "2026 Future Research Information Forum",
+    "date": "2026-11-04",
+    "venue": "Korea Science and Technology Center (한국과학기술회관), Seoul - International Conference Room",
+    "url": "https://frif2026.kr/",
+    "source": "frif2026.kr",
+    "description": "Forum themed 'The Future of Science and Technology Innovation Opened by AI and Data', organized at Korea Science and Technology Center. Pre-registration closes November 2, 2026. First 300 pre-registered attendees receive lunch and souvenirs.",
+    "title_local": "2026 미래연구정보포럼",
+    "description_local": "AI와 데이터가 여는 과학기술 혁신의 미래를 주제로 2026년 11월 4일 (수) 09:30 - 17:30 한국과학기술회관(서울) 국제회의실에서 개최. 사전등록 선착순 300분께 소정의 기념품과 점심식사 제공.",
+    "city": "seoul",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "id": "5918ee4a037d696b"
   },
   {
     "title": "International Conference on Cryptocurrency, Artificial Intelligence and Machine Learning (ICCAIML)",

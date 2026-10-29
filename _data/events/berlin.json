@@ -462,7 +462,7 @@
     "description_local": "Reihe von KI-Veranstaltungen am Merantix AI Campus zu Industrieanwendungen, Politik & Auswirkungen, Venture & Investitionen sowie Forschung & technologischem Fortschritt.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -1371,7 +1371,7 @@
     "description_local": "Festival, das einen Raum schafft, in dem Menschen aller Altersgruppen Künstliche Intelligenz erleben, ausprobieren und reflektieren können. Bringt Praxis, Forschung, Kunst und Bildung zusammen mit über 50 Ausstellern, 40+ Speakern und 20 Workshops.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-29",
     "id": "35e66e82f76f77e6"
   },
   {
@@ -1707,7 +1707,7 @@
     "description_local": "Zweitägige KI-Konferenz in Berlin vom 7. bis 8. Oktober 2026 mit KI-fokussiertem Programm für Entwickler, Gründer, Produktteams, Forscher und technische Führungskräfte.",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "id": "ee5b8a782a60e44d"
   },
   {
@@ -1749,7 +1749,7 @@
     "description_local": "Medizinischer KI-Gipfel mit Fokus auf digitale Gesundheitsversorgung und KI-Anwendungen in der Medizin. Dritte Ausgabe der DGKIMED-Konferenz, die Mediziner und KI-Forscher zusammenbringt.",
     "city": "berlin",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-29",
     "id": "43926e851fee96fe"
   },
   {
@@ -2201,6 +2201,20 @@
     "id": "283a32807d02db1a"
   },
   {
+    "title": "Digital-Gipfel 2026",
+    "date": "2026-11-02",
+    "venue": "Berlin",
+    "url": "https://bmds.bund.de/en/news/digital-summit",
+    "source": "German Federal Government",
+    "description": "German Government's Digital Summit under the slogan 'Shaping AI: safe, sovereign, competitive', addressing key aspects of AI from political and strategic issues to applications and security.",
+    "title_local": "Digital-Gipfel 2026",
+    "description_local": "Digital-Gipfel der Bundesregierung unter dem Motto 'KI gestalten: sicher, souverän, wettbewerbsfähig', der zentrale Aspekte von KI von politischen und strategischen Fragen bis hin zu Anwendungen und Sicherheit behandelt.",
+    "city": "berlin",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "id": "11355a1e6b7f199b"
+  },
+  {
     "title": "Nullcon Security Conference and Training - Berlin 2026",
     "date": "2026-11-02",
     "venue": "Maritim proArte Hotel Berlin",
@@ -2327,6 +2341,20 @@
     "id": "eed1f1c8a7c19663"
   },
   {
+    "title": "AI4Science",
+    "date": "2026-11-09",
+    "venue": "Merantix AI Campus, Max-Urich-Straße 3, 13355 Berlin",
+    "url": "https://ai.berlin/events/event/ai4science",
+    "source": "ai.berlin",
+    "description": "AI4Science evening examining how generative and foundation models, simulations, and experiments can form tighter scientific discovery loops. Talks featuring ML researchers, applied scientists, and engineers including Patrik Reizinger from MPI-IS and ELLIS Tübingen.",
+    "title_local": "AI4Science - The Next Chapter for Science",
+    "description_local": "Meetup zum Thema KI-gestützte Forschung in den Bereichen Materialwissenschaft, Klima, Biologie und maschinelles Lernen.",
+    "city": "berlin",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "id": "b72bef90e16261bd"
+  },
+  {
     "title": "Language AI Meetup Berlin (November)",
     "date": "2026-11-09",
     "venue": "TBD",
@@ -2339,6 +2367,20 @@
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-18",
     "id": "47fe1fae574918e4"
+  },
+  {
+    "title": "Unhacked 360 Germany: FutureSec Summit",
+    "date": "2026-11-09",
+    "venue": "Berlin",
+    "url": "https://www.eventbrite.com/d/germany--berlin/summit/",
+    "source": "Eventbrite",
+    "description": "Two transformative days focused on future security topics including AI security.",
+    "title_local": "Unhacked 360 Germany: FutureSec Summit",
+    "description_local": "Zwei transformative Tage mit Fokus auf zukünftige Sicherheitsthemen einschließlich KI-Sicherheit.",
+    "city": "berlin",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "id": "e604d90d4d2715f2"
   },
   {
     "title": "AI Series: Anthropic — Pavel Izmailov",
@@ -2575,7 +2617,7 @@
     "description_local": "Wochenend-Robotik- und KI-Hackathon organisiert von HackLab. Veranstaltung läuft von Samstag bis Sonntag mit Live-Pitches und Preisverleihung. Plätze sind stark begrenzt und als ausverkauft gelistet.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-29",
     "id": "bde19dc8b129c082"
   },
   {
@@ -2813,7 +2855,7 @@
     "description_local": "KI, Automatisierung und neue Konsumgewohnheiten verändern den Handel – und werfen Fragen nach dem Verhältnis von Technologie, Wirtschaft und Mensch auf.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-29",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -2827,7 +2869,7 @@
     "description_local": "Praxiskonferenz zu KI-Technologie, produktiven Use Cases, Unternehmensstrategie, Arbeitswelt und verantwortungsvollem Einsatz.",
     "city": "berlin",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-29",
     "id": "ba98018e90ebe848"
   },
   {
@@ -2957,6 +2999,20 @@
     "id": "91a0410d1d3a03ac"
   },
   {
+    "title": "SAP NOW AI Tour Germany",
+    "date": "2026-11-26",
+    "venue": "Wilhelm Studios Berlin",
+    "url": "https://www.sap.com/germany/events/sapnowgermany.html",
+    "source": "SAP",
+    "description": "Experience SAP's visionary AI strategy and learn how to benefit from intelligent, connected workflows with Joule across the enterprise.",
+    "title_local": "SAP NOW AI Tour Germany",
+    "description_local": "Erleben Sie die visionäre KI-Strategie von SAP und wie Sie mit Joule unternehmensweit von intelligenten, vernetzten Workflows profitieren.",
+    "city": "berlin",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "id": "5e775c013d6c6f42"
+  },
+  {
     "title": "TÜV AICon 2026",
     "date": "2026-11-26",
     "venue": "Forum Digitale Technologien",
@@ -3009,7 +3065,7 @@
     "description_local": "Konferenz der Deutschen Presseakademie mit Schwerpunkt auf KI und effizienter Produktion. Mit 22 Referent:innen, darunter Friederike Schiller (DIE ZEIT), Sascha Lobo (Autor, Blogger, Spiegel-Online-Kolumnist) und anderen aus führenden Medien- und Kommunikationsorganisationen.",
     "city": "berlin",
     "first_seen": "2026-08-27",
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-29",
     "id": "7c66ab55c8a51ce8"
   },
   {
@@ -3023,7 +3079,7 @@
     "description_local": "Erkunden Sie KI-gesteuerte Softwareentwicklung mit IBM Bob bei einer kostenlosen, praktischen hybriden Coding Watch Party in Berlin und online am 1. Dezember 2026. Diese letzte Veranstaltung in IBMs Hybridserie ist für Praktiker konzipiert, die sehen möchten, wie ein KI-gestützter Entwicklungspartner in echte Software-Workflows passt.",
     "city": "berlin",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-29",
     "id": "da14a940cb2e373a"
   },
   {
