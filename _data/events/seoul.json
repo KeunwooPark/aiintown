@@ -1265,7 +1265,7 @@
     "description_local": "인공지능 및 머신러닝 연구, 이론 및 응용에 중점을 둔 국제 학술 회의",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-30",
     "id": "0fe6a14b3c58126c"
   },
   {
@@ -1545,7 +1545,7 @@
     "description_local": "AI 관련 소프트웨어 취약점 평가 및 사이버보안에 관한 국제 컨퍼런스. 2026년 11월 2~3일 서울에서 개최.",
     "city": "seoul",
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-10-30",
     "id": "091d10ee586f64b1"
   },
   {
@@ -1615,7 +1615,7 @@
     "description_local": "암호화폐, AI, 머신러닝의 융합에 관한 학술 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-30",
     "id": "df95197c3f7e5ec3"
   },
   {
@@ -1689,6 +1689,20 @@
     "id": "b7198c82df2319cd"
   },
   {
+    "title": "SMATEC2026 국제컨퍼런스 - 산업 AI 대전환",
+    "date": "2026-11-18",
+    "venue": "경기도 수원시",
+    "url": "https://onoffmix.com/event?c=104",
+    "source": "Onoffmix",
+    "description": "International conference on Industrial AI Transformation",
+    "title_local": "SMATEC2026 국제컨퍼런스 - 산업 AI 대전환",
+    "description_local": "산업 AI 대전환을 주제로 한 국제 컨퍼런스",
+    "city": "seoul",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "id": "0795eaff5ad8d2b9"
+  },
+  {
     "title": "International Conference on AI and Data Science for Personalized Medicine",
     "date": "2026-11-26",
     "venue": "Seoul, South Korea",
@@ -1699,7 +1713,7 @@
     "description_local": "맞춤 의료 및 헬스케어 분야에서 AI와 데이터 사이언스 응용을 탐구하는 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-10-30",
     "id": "deb32b78c3c75fc5"
   },
   {
@@ -1755,7 +1769,7 @@
     "description_local": "2026년 12월 15일부터 16일까지 서울에서 열리는 IT 네트워크 보안의 빅데이터 분야 머신러닝 응용에 관한 이틀간의 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-10-30",
     "id": "299a307f265fbfa2"
   },
   {

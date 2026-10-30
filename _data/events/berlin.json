@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-30",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -1291,20 +1291,6 @@
     "id": "eec0796a2ef48853"
   },
   {
-    "title": "AI, ML and Computer Vision Meetup",
-    "date": "2026-09-24",
-    "venue": "Online",
-    "url": "https://www.meetup.com/berlin-ai-machine-learning-and-computer-vision-meetup/",
-    "source": "Meetup.com",
-    "description": "Virtual meetup featuring talks from experts on cutting-edge topics across AI, ML, and computer vision.",
-    "title_local": "KI, ML und Computer Vision Meetup",
-    "description_local": "Virtuelles Meetup mit Vorträgen von Experten zu hochmodernen Themen aus KI, ML und Computer Vision.",
-    "city": "berlin",
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-09-02",
-    "id": "afee80afb04875d4"
-  },
-  {
     "title": "Tech Meetup Berlin - powered by Leaseweb",
     "date": "2026-09-24",
     "venue": "Mindspace Zimmerstraße, Berlin",
@@ -1567,7 +1553,7 @@
     "description_local": "Berliner Hacktoberfest-Event mit Open-Source-Beiträgen und KI/ML-Fokus. Community-Hack-Tag für Entwickler, die zu Open-Source-KI-Projekten beitragen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-30",
     "id": "615827e872ec9a8d"
   },
   {
@@ -1581,7 +1567,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-30",
     "id": "cb6443b487d22397"
   },
   {
@@ -1805,7 +1791,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2087,20 +2073,6 @@
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
     "id": "181f1069d4b92f40"
-  },
-  {
-    "title": "AI Meetup (Berlin): Dive into the World of Generative AI with SAP",
-    "date": "2026-10-23",
-    "venue": "Berlin, Germany",
-    "url": "https://www.aicamp.ai/event/eventsquery?city=Germany-Berlin",
-    "source": "AICamp",
-    "description": "AI meetup focused on generative AI technologies with SAP, exploring practical applications and innovations. October 23, 2026, 15:00 CEST.",
-    "title_local": "AI Meetup (Berlin): Tauchen Sie ein in die Welt der generativen KI mit SAP",
-    "description_local": "KI-Treffen mit Fokus auf generative KI-Technologien mit SAP, Erkundung praktischer Anwendungen und Innovationen.",
-    "city": "berlin",
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-06",
-    "id": "db36fd55151c179a"
   },
   {
     "title": "Graphs Gone Wild - Mini Hack",
@@ -2425,6 +2397,20 @@
     "id": "00a6a95b219a61e9"
   },
   {
+    "title": "AI, ML and Computer Vision Meetup - November 11",
+    "date": "2026-11-11",
+    "venue": "TBA Berlin",
+    "url": "https://www.meetup.com/berlin-ai-machine-learning-and-computer-vision-meetup/",
+    "source": "meetup.com",
+    "description": "Weekly meetup with speakers including Ljubomir Buturovic (AI scientist and biotech executive) and Rohan Talwadia (LabGPT co-founder) discussing AI applications in diagnostics and environmental field sampling.",
+    "title_local": "KI, ML und Computer Vision Meetup - 11. November",
+    "description_local": "Wöchentliches Treffen mit Sprechern darunter Ljubomir Buturovic (KI-Wissenschaftler und Biotech-Executive) und Rohan Talwadia (LabGPT Mitgründer) über KI-Anwendungen in Diagnostik und Umweltprobenahme.",
+    "city": "berlin",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-10-30",
+    "id": "afee80afb04875d4"
+  },
+  {
     "title": "Berlin AI Meetup: Agents Under the Hood & AI in Practice",
     "date": "2026-11-11",
     "venue": "Location TBA",
@@ -2635,20 +2621,6 @@
     "id": "5652a45aa654c9be"
   },
   {
-    "title": "International Conference on Machine Learning for Supply Chain Analytics",
-    "date": "2026-11-14",
-    "venue": "Berlin, Germany",
-    "url": "https://internationalconferencealerts.com/artificial-intelligence/germany/berlin",
-    "source": "International Conference Alerts",
-    "description": "Two-day conference (Nov 14-15) on machine learning applications in supply chain analytics.",
-    "title_local": "Internationale Konferenz über maschinelles Lernen für Supply Chain Analytics",
-    "description_local": "Zweitägige Konferenz (14.-15. Nov.) über Anwendungen des maschinellen Lernens in der Lieferkettenanalyse.",
-    "city": "berlin",
-    "first_seen": "2026-10-10",
-    "last_seen": "2026-10-10",
-    "id": "92baef89f276485a"
-  },
-  {
     "title": "Robotics x AI Hackathon - HackLab",
     "date": "2026-11-14",
     "venue": "CIC Berlin, Lohmühlenstraße 65",
@@ -2799,7 +2771,7 @@
     "description_local": "Masterclasses und Konferenz zu Machine Learning, generativer und agentischer KI, Modellbetrieb sowie Anwendungen in Wirtschaft und Industrie. 17.-18. November 2026.",
     "city": "berlin",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
     "id": "7beb6a107c254c06"
   },
   {
@@ -2855,7 +2827,7 @@
     "description_local": "KI, Automatisierung und neue Konsumgewohnheiten verändern den Handel – und werfen Fragen nach dem Verhältnis von Technologie, Wirtschaft und Mensch auf.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -2869,7 +2841,7 @@
     "description_local": "Praxiskonferenz zu KI-Technologie, produktiven Use Cases, Unternehmensstrategie, Arbeitswelt und verantwortungsvollem Einsatz.",
     "city": "berlin",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "id": "ba98018e90ebe848"
   },
   {
@@ -2961,13 +2933,13 @@
     "date": "2026-11-19",
     "venue": "HÄRTING Rechtsanwälte, Berlin",
     "url": "https://www.eventbrite.com/d/germany--berlin/science-and-tech/",
-    "source": "HÄRTING Rechtsanwälte",
-    "description": "Legal practice event on AI trends, opportunities and risks in legal practice, current developments and practical applications",
+    "source": "eventbrite.com",
+    "description": "Fourth AI Day by HÄRTING law firm focusing on AI in legal practice, with insights on current trends, opportunities and risks of AI in law.",
     "title_local": "4. KI-Tag – KI in der (Rechts-)Praxis bei HÄRTING Rechtsanwälte",
-    "description_local": "Rechts-Praxis-Event zu KI-Trends, Chancen und Risiken in der Rechtspraxis, aktuellen Entwicklungen und praktischen Anwendungen",
+    "description_local": "Vierter KI-Tag der Kanzlei HÄRTING mit Fokus auf KI in der Rechtspraxis, Einblicke in aktuelle Trends, Chancen und Risiken von KI im Recht.",
     "city": "berlin",
     "first_seen": "2026-10-25",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
     "id": "98bd2baae6fb6489"
   },
   {
@@ -2997,6 +2969,20 @@
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "id": "91a0410d1d3a03ac"
+  },
+  {
+    "title": "AI Meetup Berlin: Skills and Strategies for AI Innovators with SAP",
+    "date": "2026-11-26",
+    "venue": "SAP Berlin",
+    "url": "https://www.aicamp.ai/event/eventsquery?city=Germany-Berlin",
+    "source": "aicamp.ai",
+    "description": "AI meetup hosted by SAP featuring speakers Olcayto Cengiz and Yuanzhen Ji on skills and strategies for AI innovation. Event at 3:00 PM CET.",
+    "title_local": "AI Meetup Berlin: Fähigkeiten und Strategien für KI-Innovatoren mit SAP",
+    "description_local": "Von SAP veranstaltetes KI-Treffen mit den Sprechern Olcayto Cengiz und Yuanzhen Ji über Fähigkeiten und Strategien für KI-Innovation. Veranstaltung um 15:00 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-30",
+    "id": "db36fd55151c179a"
   },
   {
     "title": "SAP NOW AI Tour Germany",
@@ -3139,6 +3125,20 @@
     "id": "7be7c0cb89e823ef"
   },
   {
+    "title": "AI@HPI Conference 2026",
+    "date": "2026-12-02",
+    "venue": "Hasso Plattner Institute, Potsdam",
+    "url": "https://hpi.de/en/ai-hpi-conference/",
+    "source": "hpi.de",
+    "description": "Two-day conference on designing the human-AI economy and human-AI collaboration in value creation. Leading voices from academia, industry and policy discuss AI's impact across sectors. December 2-3, 2026 in Potsdam (near Berlin).",
+    "title_local": "AI@HPI Conference 2026",
+    "description_local": "Zweitägige Konferenz zur Gestaltung der Mensch-KI-Wirtschaft und Mensch-KI-Zusammenarbeit in der Wertschöpfung. Führende Stimmen aus Wissenschaft, Wirtschaft und Politik diskutieren KI-Auswirkungen über Sektoren hinweg. 2.-3. Dezember 2026 in Potsdam (bei Berlin).",
+    "city": "berlin",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "id": "7b3c084b5122f2a0"
+  },
+  {
     "title": "AI Coding Summit - Berlin Edition",
     "date": "2026-12-04",
     "venue": "Berlin",
@@ -3193,6 +3193,20 @@
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-21",
     "id": "b7f5e36f8fc4ce02"
+  },
+  {
+    "title": "International Conference on AI and Data Science in Metagenomics",
+    "date": "2026-12-08",
+    "venue": "Berlin",
+    "url": "https://internationalconferencealerts.com/artificial-intelligence/germany/berlin",
+    "source": "internationalconferencealerts.com",
+    "description": "Academic conference on AI-driven data science in metagenomics research, December 8-9, 2026.",
+    "title_local": "Internationale Konferenz zu KI und Data Science in der Metagenomik",
+    "description_local": "Akademische Konferenz zu KI-gestützter Data Science in der Metagenomik-Forschung, 8.-9. Dezember 2026.",
+    "city": "berlin",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-30",
+    "id": "92baef89f276485a"
   },
   {
     "title": "Tagesspiegel Background Fachkonferenz Digitalisierung & KI",
