@@ -462,7 +462,7 @@
     "description_local": "Reihe von KI-Veranstaltungen am Merantix AI Campus zu Industrieanwendungen, Politik & Auswirkungen, Venture & Investitionen sowie Forschung & technologischem Fortschritt.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-31",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -979,7 +979,7 @@
     "description_local": "Jährlicher Berlin AI Day organisiert von buildersklub, der KI-Builder und die Community im Festsaal Kreuzberg zusammenbringt.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-10-31",
     "id": "40b36f30494c75e2"
   },
   {
@@ -1357,7 +1357,7 @@
     "description_local": "Festival, das einen Raum schafft, in dem Menschen aller Altersgruppen Künstliche Intelligenz erleben, ausprobieren und reflektieren können. Bringt Praxis, Forschung, Kunst und Bildung zusammen mit über 50 Ausstellern, 40+ Speakern und 20 Workshops.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-31",
     "id": "35e66e82f76f77e6"
   },
   {
@@ -1567,7 +1567,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-10-31",
     "id": "cb6443b487d22397"
   },
   {
@@ -1653,20 +1653,6 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-01",
     "id": "44413cd4e2a2680b"
-  },
-  {
-    "title": "Berlin Partner X French Tech Berlin: Community Breakfast #36",
-    "date": "2026-10-07",
-    "venue": "Berlin",
-    "url": "https://ai.berlin/de/events",
-    "source": "ai.berlin",
-    "description": "Community breakfast networking event bringing together Berlin and French tech communities with AI focus.",
-    "title_local": "Berlin Partner X French Tech Berlin: Community Breakfast #36",
-    "description_local": "Community-Frühstücks-Networking-Veranstaltung, die Berliner und französische Tech-Communities mit KI-Fokus zusammenbringt.",
-    "city": "berlin",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07",
-    "id": "638a9009f0257dbf"
   },
   {
     "title": "WAVE 2026 (Parloa Flagship Conference)",
@@ -1791,7 +1777,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-10-31",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2213,6 +2199,20 @@
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23",
     "id": "91161f5959abeefc"
+  },
+  {
+    "title": "KI, Narrative und die Konstruktion von Wirklichkeit",
+    "date": "2026-11-03",
+    "venue": "Leibniz-Zentrum für Literatur- und Kulturforschung (ZfL), Berlin",
+    "url": "https://ai.berlin/de/events",
+    "source": "ai.berlin",
+    "description": "Discussion on AI, narratives, and the construction of reality - exploring how AI shapes our understanding of the world.",
+    "title_local": "KI, Narrative und die Konstruktion von Wirklichkeit",
+    "description_local": "Diskussion über KI, Narrative und die Konstruktion von Wirklichkeit - wie KI unser Weltverständnis prägt.",
+    "city": "berlin",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-31",
+    "id": "638a9009f0257dbf"
   },
   {
     "title": "Agentic AI für KMU – vom Potenzial zur praktischen Anwendung",
@@ -2771,7 +2771,7 @@
     "description_local": "Masterclasses und Konferenz zu Machine Learning, generativer und agentischer KI, Modellbetrieb sowie Anwendungen in Wirtschaft und Industrie. 17.-18. November 2026.",
     "city": "berlin",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-10-31",
     "id": "7beb6a107c254c06"
   },
   {
@@ -2827,7 +2827,7 @@
     "description_local": "KI, Automatisierung und neue Konsumgewohnheiten verändern den Handel – und werfen Fragen nach dem Verhältnis von Technologie, Wirtschaft und Mensch auf.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-10-31",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -2841,7 +2841,7 @@
     "description_local": "Praxiskonferenz zu KI-Technologie, produktiven Use Cases, Unternehmensstrategie, Arbeitswelt und verantwortungsvollem Einsatz.",
     "city": "berlin",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-10-31",
     "id": "ba98018e90ebe848"
   },
   {
@@ -3135,7 +3135,7 @@
     "description_local": "Zweitägige Konferenz zur Gestaltung der Mensch-KI-Wirtschaft und Mensch-KI-Zusammenarbeit in der Wertschöpfung. Führende Stimmen aus Wissenschaft, Wirtschaft und Politik diskutieren KI-Auswirkungen über Sektoren hinweg. 2.-3. Dezember 2026 in Potsdam (bei Berlin).",
     "city": "berlin",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-10-31",
     "id": "7b3c084b5122f2a0"
   },
   {
@@ -3167,17 +3167,17 @@
     "id": "761193f35a1b6641"
   },
   {
-    "title": "AI Coding Summit Berlin Edition",
+    "title": "AI Coding Summit - Berlin Edition",
     "date": "2026-12-04",
-    "venue": "Berlin",
+    "venue": "Berlin, Germany",
     "url": "https://aicodingsummit.com/berlin/",
     "source": "GitNation",
-    "description": "Multi-day summit focused on AI-powered coding, development tools and practices, December 4-7, 2026",
-    "title_local": "AI Coding Summit Berlin Edition",
-    "description_local": "Mehrtägiger Summit zu KI-gestütztem Coding, Entwicklungstools und -praktiken, 4.-7. Dezember 2026",
+    "description": "AI Coding Summit bringing together developers to explore AI-powered development tools and coding practices. December 4-7, 2026.",
+    "title_local": "AI Coding Summit - Berlin Edition",
+    "description_local": "AI Coding Summit bringt Entwickler zusammen, um KI-gestützte Entwicklungstools und Coding-Praktiken zu erkunden. 4.-7. Dezember 2026.",
     "city": "berlin",
     "first_seen": "2026-10-25",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-31",
     "id": "725f092e472e82ca"
   },
   {
@@ -3219,7 +3219,7 @@
     "description_local": "Fachkonferenz zu Digitalisierung und KI organisiert von Tagesspiegel Background. Fokus auf Politik, Unternehmenstransformation und KI-Adoption.",
     "city": "berlin",
     "first_seen": "2026-09-04",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-31",
     "id": "f3a1018cede256e8"
   },
   {
