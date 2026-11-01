@@ -1265,7 +1265,7 @@
     "description_local": "인공지능 및 머신러닝 연구, 이론 및 응용에 중점을 둔 국제 학술 회의",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-01",
     "id": "0fe6a14b3c58126c"
   },
   {
@@ -1605,20 +1605,6 @@
     "id": "5918ee4a037d696b"
   },
   {
-    "title": "International Conference on Cryptocurrency, Artificial Intelligence and Machine Learning (ICCAIML)",
-    "date": "2026-11-09",
-    "venue": "Seoul, South Korea",
-    "url": "https://www.conferencealerts.in/seoul/ai/november",
-    "source": "Conference Alerts",
-    "description": "Academic conference on cryptocurrency, AI, and machine learning convergence.",
-    "title_local": "암호화폐, 인공지능 및 머신러닝 국제 컨퍼런스",
-    "description_local": "암호화폐, AI, 머신러닝의 융합에 관한 학술 컨퍼런스.",
-    "city": "seoul",
-    "first_seen": "2026-10-18",
-    "last_seen": "2026-10-30",
-    "id": "df95197c3f7e5ec3"
-  },
-  {
     "title": "NVIDIA AI Day Seoul 2026",
     "date": "2026-11-09",
     "venue": "COEX",
@@ -1689,17 +1675,31 @@
     "id": "b7198c82df2319cd"
   },
   {
+    "title": "International Conference on Artificial Intelligence, Network Security, and Blockchain Technology (ICAINSBT)",
+    "date": "2026-11-13",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.conferencealert.com/south-korea/artificial-intelligence",
+    "source": "Conference Alert",
+    "description": "International conference on AI, network security, and blockchain technology organized by Research Era.",
+    "title_local": "국제 인공지능, 네트워크 보안 및 블록체인 기술 학회",
+    "description_local": "인공지능, 네트워크 보안 및 블록체인 기술에 관한 국제 학회입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "id": "134eb44963400bcb"
+  },
+  {
     "title": "SMATEC2026 국제컨퍼런스 - 산업 AI 대전환",
     "date": "2026-11-18",
-    "venue": "경기도 수원시",
+    "venue": "Suwon, Gyeonggi Province",
     "url": "https://onoffmix.com/event?c=104",
     "source": "Onoffmix",
-    "description": "International conference on Industrial AI Transformation",
+    "description": "International conference on industrial AI transformation, focusing on automation and AI implementation in industry.",
     "title_local": "SMATEC2026 국제컨퍼런스 - 산업 AI 대전환",
-    "description_local": "산업 AI 대전환을 주제로 한 국제 컨퍼런스",
+    "description_local": "산업 자동화 및 AI 구현에 초점을 맞춘 산업 AI 대전환에 관한 국제 컨퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-01",
     "id": "0795eaff5ad8d2b9"
   },
   {
@@ -1713,8 +1713,22 @@
     "description_local": "맞춤 의료 및 헬스케어 분야에서 AI와 데이터 사이언스 응용을 탐구하는 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-01",
     "id": "deb32b78c3c75fc5"
+  },
+  {
+    "title": "International Conference on Robotics, Machine Learning and Artificial Intelligence (ICRMLAI)",
+    "date": "2026-11-27",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.conferencealerts.in/seoul/ai/november",
+    "source": "Conference Alerts",
+    "description": "International conference on robotics, machine learning and artificial intelligence.",
+    "title_local": "국제 로보틱스, 머신러닝 및 인공지능 학회",
+    "description_local": "로보틱스, 머신러닝 및 인공지능에 관한 국제 학회입니다.",
+    "city": "seoul",
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-11-01",
+    "id": "df95197c3f7e5ec3"
   },
   {
     "title": "OWASP Korea Day 2026",
@@ -1797,7 +1811,7 @@
     "description_local": "혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 광범위한 AI 및 머신러닝 주제를 다루는 국제 컨퍼런스. 전문가 세션, 기조 연설, 워크샵 및 네트워킹 기회 제공",
     "city": "seoul",
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-11-01",
     "id": "05c48094a94ca6a6"
   },
   {
@@ -1811,7 +1825,7 @@
     "description_local": "2026년 12월 31일부터 2027년 1월 1일까지 서울에서 열리는 금융 분야 AI 기반 데이터 사이언스 응용에 관한 이틀간의 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-11-01",
     "id": "01434a8ac1ca3f99"
   },
   {

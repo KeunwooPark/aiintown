@@ -452,20 +452,6 @@
     "id": "b42a2b9cea4080b9"
   },
   {
-    "title": "Merantix AI Campus Events (July 30, August 27, September 10)",
-    "date": "2026-07-30",
-    "venue": "Merantix AI Campus, Berlin",
-    "url": "https://www.merantix-aicampus.com/events",
-    "source": "merantix-aicampus.com",
-    "description": "Series of AI events at Merantix AI Campus covering industry applications, policy & impact, venture & investments, and research & technological progress. Events on July 30, August 27, and September 10, 2026.",
-    "title_local": "Merantix AI Campus Veranstaltungen",
-    "description_local": "Reihe von KI-Veranstaltungen am Merantix AI Campus zu Industrieanwendungen, Politik & Auswirkungen, Venture & Investitionen sowie Forschung & technologischem Fortschritt.",
-    "city": "berlin",
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-10-31",
-    "id": "ba2e2e2af3a88d72"
-  },
-  {
     "title": "Berlin AWS User Group - Fireside Chat with Dr. Werner Vogels",
     "date": "2026-07-XX",
     "venue": "NLND (Neuland) Berlin",
@@ -1553,7 +1539,7 @@
     "description_local": "Berliner Hacktoberfest-Event mit Open-Source-Beiträgen und KI/ML-Fokus. Community-Hack-Tag für Entwickler, die zu Open-Source-KI-Projekten beitragen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-01",
     "id": "615827e872ec9a8d"
   },
   {
@@ -1567,7 +1553,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-01",
     "id": "cb6443b487d22397"
   },
   {
@@ -1679,7 +1665,7 @@
     "description_local": "Zweitägige KI-Konferenz in Berlin vom 7. bis 8. Oktober 2026 mit KI-fokussiertem Programm für Entwickler, Gründer, Produktteams, Forscher und technische Führungskräfte.",
     "city": "berlin",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-11-01",
     "id": "ee5b8a782a60e44d"
   },
   {
@@ -1777,7 +1763,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-01",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2481,6 +2467,20 @@
     "id": "4f9436e81909a4d5"
   },
   {
+    "title": "Industry Meets AI 2026",
+    "date": "2026-11-12",
+    "venue": "Merantix AI Campus",
+    "url": "https://www.merantix-aicampus.com/events",
+    "source": "Merantix AI Campus",
+    "description": "Joint event by Merantix Momentum and HANNOVER MESSE on getting AI past the pilot stage in industry sectors including production, logistics and energy, featuring startup showcases and expert sessions with rotating 30-minute sessions.",
+    "title_local": "Industry Meets AI 2026",
+    "description_local": "Gemeinsame Veranstaltung von Merantix Momentum und HANNOVER MESSE zur Überführung von KI über das Pilotstadium hinaus in Industriesektoren wie Produktion, Logistik und Energie, mit Startup-Präsentationen und Expertensessions in rotierenden 30-Minuten-Sessions.",
+    "city": "berlin",
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-11-01",
+    "id": "ba2e2e2af3a88d72"
+  },
+  {
     "title": "Miro Meetup: AI Buildathon",
     "date": "2026-11-12",
     "venue": "Miro DACH GmbH, Berlin",
@@ -2771,7 +2771,7 @@
     "description_local": "Masterclasses und Konferenz zu Machine Learning, generativer und agentischer KI, Modellbetrieb sowie Anwendungen in Wirtschaft und Industrie. 17.-18. November 2026.",
     "city": "berlin",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-01",
     "id": "7beb6a107c254c06"
   },
   {
@@ -2829,20 +2829,6 @@
     "first_seen": "2026-06-28",
     "last_seen": "2026-10-31",
     "id": "1f350ba6aefcfe3b"
-  },
-  {
-    "title": "KI-Navigator 2026",
-    "date": "2026-11-18",
-    "venue": "Nürnberg, Germany",
-    "url": "https://deutschlandki.de/ki-events",
-    "source": "deutschlandki.de",
-    "description": "Practical conference on AI technology, productive use cases, corporate strategy, the world of work, and responsible use.",
-    "title_local": "KI-Navigator 2026",
-    "description_local": "Praxiskonferenz zu KI-Technologie, produktiven Use Cases, Unternehmensstrategie, Arbeitswelt und verantwortungsvollem Einsatz.",
-    "city": "berlin",
-    "first_seen": "2026-10-18",
-    "last_seen": "2026-10-31",
-    "id": "ba98018e90ebe848"
   },
   {
     "title": "KI-X HR",
@@ -3099,15 +3085,15 @@
   {
     "title": "AI@HPI Conference 2026",
     "date": "2026-12-02",
-    "venue": "HPI Potsdam",
+    "venue": "Potsdam (near Berlin)",
     "url": "https://agentconfs.com/ai-conferences/germany",
-    "source": "HPI",
-    "description": "Conference on designing the human-AI economy, December 2-3, 2026 in Potsdam (near Berlin)",
+    "source": "agentconfs.com",
+    "description": "Conference at Hasso Plattner Institute on Designing the Human-AI Economy, December 2-3, 2026 in Potsdam.",
     "title_local": "AI@HPI Conference 2026",
-    "description_local": "Konferenz zur Gestaltung der Mensch-KI-Wirtschaft, 2.-3. Dezember 2026 in Potsdam (bei Berlin)",
+    "description_local": "Konferenz am Hasso-Plattner-Institut zum Thema Gestaltung der Mensch-KI-Wirtschaft, 2.-3. Dezember 2026 in Potsdam.",
     "city": "berlin",
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-11-01",
     "id": "66744c42cbaa85e4"
   },
   {
@@ -3221,6 +3207,20 @@
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-31",
     "id": "f3a1018cede256e8"
+  },
+  {
+    "title": "BBA KI-Konferenz 2026",
+    "date": "2026-12-09",
+    "venue": "Berlin",
+    "url": "https://deutschlandki.de/ki-events",
+    "source": "deutschlandki.de",
+    "description": "Industry conference on generative AI, business process automation and AI strategies in housing industry on December 9, 2026.",
+    "title_local": "BBA KI-Konferenz 2026",
+    "description_local": "Branchenkonferenz zu generativer KI, Geschäftsprozessautomatisierung und KI-Strategien in der Wohnungswirtschaft am 9. Dezember 2026.",
+    "city": "berlin",
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-11-01",
+    "id": "ba98018e90ebe848"
   },
   {
     "title": "AI Reliability and Observability Meetup",
