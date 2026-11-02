@@ -957,20 +957,6 @@
   {
     "title": "Berlin AI Day x buildersklub",
     "date": "2026-09-15",
-    "venue": "Festsaal Kreuzberg, Berlin, Germany",
-    "url": "https://buildersklub.com/",
-    "source": "buildersklub.com",
-    "description": "Annual Berlin AI Day organized by buildersklub bringing together AI builders and the community at Festsaal Kreuzberg.",
-    "title_local": "Berlin AI Day x buildersklub",
-    "description_local": "Jährlicher Berlin AI Day organisiert von buildersklub, der KI-Builder und die Community im Festsaal Kreuzberg zusammenbringt.",
-    "city": "berlin",
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-10-31",
-    "id": "40b36f30494c75e2"
-  },
-  {
-    "title": "Berlin AI Day x buildersklub",
-    "date": "2026-09-15",
     "venue": "Festsaal Kreuzberg",
     "url": "https://luma.com/kco33yis",
     "source": "luma.com",
@@ -1553,7 +1539,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-02",
     "id": "cb6443b487d22397"
   },
   {
@@ -1763,7 +1749,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-02",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2243,6 +2229,20 @@
     "id": "4888e9c4212cd873"
   },
   {
+    "title": "Sovereign & Responsible AI Rollout",
+    "date": "2026-11-05",
+    "venue": "Merantix AI Campus, Berlin",
+    "url": "https://buildersklub.com/",
+    "source": "buildersklub.com",
+    "description": "Buildersklub monthly meetup focused on sovereign and responsible AI rollout, featuring real stories from teams using AI and automation.",
+    "title_local": "Sovereign & Responsible AI Rollout",
+    "description_local": "Buildersklub monatliches Meetup mit Fokus auf souveräne und verantwortungsvolle KI-Einführung, mit echten Geschichten von Teams, die KI und Automatisierung nutzen.",
+    "city": "berlin",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-11-02",
+    "id": "40b36f30494c75e2"
+  },
+  {
     "title": "Falling Walls Science Summit",
     "date": "2026-11-06",
     "venue": "Berlin, Germany",
@@ -2323,7 +2323,7 @@
     "description_local": "Plattform zur Diskussion aller Themen rund um künstliche Intelligenz und Sprache mit regelmäßigen Community-Events. Teil einer breiteren Community mit Events in Zürich und Berlin. Widmet sich der Erkundung und Teilnahme an erhellenden Gesprächen über die Schnittstelle von Sprache und KI, verbindet Praktiker, Forscher und Sprachbegeisterte, um Bewusstsein zu fördern und Innovation voranzutreiben. Montag Abend Event.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-11-02",
     "id": "47fe1fae574918e4"
   },
   {
@@ -2477,7 +2477,7 @@
     "description_local": "Gemeinsame Veranstaltung von Merantix Momentum und HANNOVER MESSE zur Überführung von KI über das Pilotstadium hinaus in Industriesektoren wie Produktion, Logistik und Energie, mit Startup-Präsentationen und Expertensessions in rotierenden 30-Minuten-Sessions.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-02",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -2505,7 +2505,7 @@
     "description_local": "NODES 2026 Pop-up-Event zum Erstellen mit Neo4j-Technologien wie Document Intelligence, Wissensdiagrammen und Agent Memory.",
     "city": "berlin",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-11-02",
     "id": "c173ee1f9567ce8d"
   },
   {
@@ -2561,7 +2561,7 @@
     "description_local": "Veranstaltung zur Erforschung der Integration von Blockchain-Technologie und künstlicher Intelligenz, mit Schwerpunkt auf verteilten KI-Systemen, dezentralem maschinellem Lernen und Web3-KI-Anwendungen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-11-02",
     "id": "0a37c52bb5c8708e"
   },
   {
@@ -2603,7 +2603,7 @@
     "description_local": "Wochenend-Robotik- und KI-Hackathon organisiert von HackLab. Veranstaltung läuft von Samstag bis Sonntag mit Live-Pitches und Preisverleihung. Plätze sind stark begrenzt und als ausverkauft gelistet.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-11-02",
     "id": "bde19dc8b129c082"
   },
   {
@@ -3153,17 +3153,17 @@
     "id": "761193f35a1b6641"
   },
   {
-    "title": "AI Coding Summit - Berlin Edition",
+    "title": "AI Coding Summit Berlin 2026",
     "date": "2026-12-04",
-    "venue": "Berlin, Germany",
+    "venue": "Kosmos, Karl-Marx-Allee 131A, Berlin",
     "url": "https://aicodingsummit.com/berlin/",
-    "source": "GitNation",
-    "description": "AI Coding Summit bringing together developers to explore AI-powered development tools and coding practices. December 4-7, 2026.",
-    "title_local": "AI Coding Summit - Berlin Edition",
-    "description_local": "AI Coding Summit bringt Entwickler zusammen, um KI-gestützte Entwicklungstools und Coding-Praktiken zu erkunden. 4.-7. Dezember 2026.",
+    "source": "aicodingsummit.com",
+    "description": "Conference on AI in software engineering with talks and practical workshops on AI-powered development tools. Hybrid event with in-person day on Dec 4 and remote day on Dec 7.",
+    "title_local": "AI Coding Summit Berlin 2026",
+    "description_local": "Konferenz über KI in der Softwareentwicklung mit Vorträgen und praktischen Workshops zu KI-gestützten Entwicklungstools. Hybrid-Event mit persönlichem Tag am 4. Dezember und Remote-Tag am 7. Dezember.",
     "city": "berlin",
     "first_seen": "2026-10-25",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-02",
     "id": "725f092e472e82ca"
   },
   {
@@ -3219,7 +3219,7 @@
     "description_local": "Branchenkonferenz zu generativer KI, Geschäftsprozessautomatisierung und KI-Strategien in der Wohnungswirtschaft am 9. Dezember 2026.",
     "city": "berlin",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-02",
     "id": "ba98018e90ebe848"
   },
   {

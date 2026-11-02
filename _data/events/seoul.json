@@ -1265,7 +1265,7 @@
     "description_local": "인공지능 및 머신러닝 연구, 이론 및 응용에 중점을 둔 국제 학술 회의",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-02",
     "id": "0fe6a14b3c58126c"
   },
   {
@@ -1573,7 +1573,7 @@
     "description_local": "AI와 IoT 융합 기술에 초점을 맞춘 AIoT Korea 2026 전시회(11월 3-5일)와 컨퍼런스(11월 4-6일)입니다. AI 기반 예측 분석, 스마트시티 인프라, 산업 자동화, 디지털 트윈, AIoT 생태계의 차세대 통신 기술 등이 전시됩니다.",
     "city": "seoul",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-02",
     "id": "0859b49af4ebdcce"
   },
   {
@@ -1605,6 +1605,20 @@
     "id": "5918ee4a037d696b"
   },
   {
+    "title": "International Conference on Cryptocurrency, Artificial Intelligence and Machine Learning (ICCAIML)",
+    "date": "2026-11-09",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.conferencealerts.in/seoul/ai/november",
+    "source": "Conference Alerts",
+    "description": "International conference exploring the intersection of cryptocurrency, artificial intelligence, and machine learning technologies.",
+    "title_local": "암호화폐, 인공지능 및 머신러닝에 관한 국제 컨퍼런스",
+    "description_local": "암호화폐, 인공지능 및 머신러닝 기술의 교차점을 탐구하는 국제 컨퍼런스.",
+    "city": "seoul",
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-11-02",
+    "id": "df95197c3f7e5ec3"
+  },
+  {
     "title": "NVIDIA AI Day Seoul 2026",
     "date": "2026-11-09",
     "venue": "COEX",
@@ -1615,7 +1629,7 @@
     "description_local": "11월 9일부터 10일까지 서울 코엑스에서 개최되는 NVIDIA의 한국 대표 AI 행사. 개발자, 스타트업, 기업, 파트너, 연구자와 업계 리더들이 한자리에 모여 피지컬 AI, 에이전틱 AI와 클로, AI 인프라를 중심으로 최신 AI 기술과 산업 트렌드, 실제 적용 사례를 공유",
     "city": "seoul",
     "first_seen": "2026-10-10",
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-11-02",
     "id": "e35140ac3144d096"
   },
   {
@@ -1675,17 +1689,31 @@
     "id": "b7198c82df2319cd"
   },
   {
-    "title": "International Conference on Artificial Intelligence, Network Security, and Blockchain Technology (ICAINSBT)",
-    "date": "2026-11-13",
+    "title": "고려대 AI의 언어, 인간에게서 찾다 세미나",
+    "date": "2026-11-12",
+    "venue": "KT&G 상상플래닛 3층, 서울 성수동",
+    "url": "https://www.kadh.org/%EC%84%B8%EB%AF%B8%EB%82%98-ai%EC%9D%98-%EC%96%B8%EC%96%B4-%EC%9D%B8%EA%B0%84%EC%97%90%EA%B2%8C%EC%84%9C-%EC%B0%BE%EB%8B%A4-%EA%B3%A0%EB%A0%A4%EB%8C%80-%EC%96%B8%EC%96%B4%EC%A0%95%EB%B3%B4/",
+    "source": "고려대학교 언어정보연구소 & 필라웨어",
+    "description": "Seminar hosted by Korea University Language and Information Research Institute discussing whether AI truly understands language like humans do, and how far we can trust and utilize AI. Networking session follows at 5pm.",
+    "title_local": "AI의 언어, 인간에게서 찾다",
+    "description_local": "고려대학교 언어정보연구소 주최 세미나. AI가 유창하게 말한다고 해서 인간처럼 언어를 이해하고 있는 것인지, 그리고 우리는 그 AI를 어디까지 신뢰하고 활용할 수 있는지를 학계와 현장이 함께 논의. 오후 5시 이후 네트워킹 진행.",
+    "city": "seoul",
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-02",
+    "id": "124389fad9c80a6f"
+  },
+  {
+    "title": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
+    "date": "2026-11-15",
     "venue": "Seoul, South Korea",
     "url": "https://www.conferencealert.com/south-korea/artificial-intelligence",
     "source": "Conference Alert",
-    "description": "International conference on AI, network security, and blockchain technology organized by Research Era.",
-    "title_local": "국제 인공지능, 네트워크 보안 및 블록체인 기술 학회",
-    "description_local": "인공지능, 네트워크 보안 및 블록체인 기술에 관한 국제 학회입니다.",
+    "description": "International conference addressing artificial intelligence applications in robotics and mechanical engineering.",
+    "title_local": "인공지능, 로봇 및 기계공학에 관한 국제 컨퍼런스",
+    "description_local": "로봇공학 및 기계공학에서의 인공지능 응용을 다루는 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-02",
     "id": "134eb44963400bcb"
   },
   {
@@ -1713,22 +1741,8 @@
     "description_local": "맞춤 의료 및 헬스케어 분야에서 AI와 데이터 사이언스 응용을 탐구하는 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-02",
     "id": "deb32b78c3c75fc5"
-  },
-  {
-    "title": "International Conference on Robotics, Machine Learning and Artificial Intelligence (ICRMLAI)",
-    "date": "2026-11-27",
-    "venue": "Seoul, South Korea",
-    "url": "https://www.conferencealerts.in/seoul/ai/november",
-    "source": "Conference Alerts",
-    "description": "International conference on robotics, machine learning and artificial intelligence.",
-    "title_local": "국제 로보틱스, 머신러닝 및 인공지능 학회",
-    "description_local": "로보틱스, 머신러닝 및 인공지능에 관한 국제 학회입니다.",
-    "city": "seoul",
-    "first_seen": "2026-10-18",
-    "last_seen": "2026-11-01",
-    "id": "df95197c3f7e5ec3"
   },
   {
     "title": "OWASP Korea Day 2026",
@@ -1825,7 +1839,7 @@
     "description_local": "2026년 12월 31일부터 2027년 1월 1일까지 서울에서 열리는 금융 분야 AI 기반 데이터 사이언스 응용에 관한 이틀간의 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-02",
     "id": "01434a8ac1ca3f99"
   },
   {
