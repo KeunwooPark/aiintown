@@ -701,7 +701,7 @@
     "description_local": "Die führende Event-Reihe der Stadt zur Konvergenz von agentischer KI und Blockchain. Mehrere Sessions bis Dezember 2026 einschließlich AI Agents Summit und Sub-Events, Branchen-Calls und Workshops.",
     "city": "berlin",
     "first_seen": "2026-07-21",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-11-03",
     "id": "6c1b442fc41ffe5f"
   },
   {
@@ -1525,7 +1525,7 @@
     "description_local": "Berliner Hacktoberfest-Event mit Open-Source-Beiträgen und KI/ML-Fokus. Community-Hack-Tag für Entwickler, die zu Open-Source-KI-Projekten beitragen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-03",
     "id": "615827e872ec9a8d"
   },
   {
@@ -1749,7 +1749,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2187,6 +2187,20 @@
     "id": "638a9009f0257dbf"
   },
   {
+    "title": "Search Technology Meetup - November 2026 edition",
+    "date": "2026-11-03",
+    "venue": "CIC Berlin, Lohmühlenstraße 65, 12435 Berlin",
+    "url": "https://www.meetup.com/berlin-search-technology-meetup/",
+    "source": "Meetup.com",
+    "description": "Search technology meetup featuring talks on teaching models to search documents and how agents search the web. Topics include hyperbolic embedding models, Hyper3-CLIP, and web search by AI agents.",
+    "title_local": "Search Technology Meetup - November 2026 Ausgabe",
+    "description_local": "Search-Technologie-Meetup mit Vorträgen über das Lehren von Modellen zum Durchsuchen von Dokumenten und wie Agenten das Web durchsuchen.",
+    "city": "berlin",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "id": "d071769df60fef32"
+  },
+  {
     "title": "Agentic AI für KMU – vom Potenzial zur praktischen Anwendung",
     "date": "2026-11-04",
     "venue": "Merantix AI Campus",
@@ -2477,7 +2491,7 @@
     "description_local": "Gemeinsame Veranstaltung von Merantix Momentum und HANNOVER MESSE zur Überführung von KI über das Pilotstadium hinaus in Industriesektoren wie Produktion, Logistik und Energie, mit Startup-Präsentationen und Expertensessions in rotierenden 30-Minuten-Sessions.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -2869,7 +2883,7 @@
     "description_local": "Deutschlands größte Fachveranstaltung zum Einsatz künstlicher Intelligenz in der Personalarbeit (18.-19. November 2026). Mehr als 50 Speaker, über 400 Teilnehmer. Themen umfassen KI-gestütztes Bewerber- und Talentmanagement, KI in der Mitarbeiterentwicklung, Pre- und Onboarding und Predictive Analytics. Veranstaltet von Quadriga Media.",
     "city": "berlin",
     "first_seen": "2026-08-27",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-11-03",
     "id": "08e68b8299bee59e"
   },
   {
@@ -2941,6 +2955,20 @@
     "first_seen": "2026-10-26",
     "last_seen": "2026-10-26",
     "id": "569bc708cc6e9e29"
+  },
+  {
+    "title": "AI Builders × commIT | Hack Day Berlin 2026",
+    "date": "2026-11-20",
+    "venue": "ImmoScout24, Invalidenstraße 65, 10557 Berlin",
+    "url": "https://luma.com/ber-nov20-hday",
+    "source": "Luma / AI Builders",
+    "description": "Full day hackathon focused on building useful AI prototypes. Organized by AI Builders and commIT, featuring hands-on AI building, opportunities to meet other AI builders and exchange ideas.",
+    "title_local": "AI Builders × commIT | Hack Day Berlin 2026",
+    "description_local": "Ganztägiger Hackathon mit Fokus auf dem Bau nützlicher KI-Prototypen. Organisiert von AI Builders und commIT.",
+    "city": "berlin",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "id": "d0bc6089edd35346"
   },
   {
     "title": "VibeKode Berlin 2026",
@@ -3113,15 +3141,15 @@
   {
     "title": "AI@HPI Conference 2026",
     "date": "2026-12-02",
-    "venue": "Hasso Plattner Institute, Potsdam",
+    "venue": "Hasso Plattner Institute, Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam",
     "url": "https://hpi.de/en/ai-hpi-conference/",
-    "source": "hpi.de",
-    "description": "Two-day conference on designing the human-AI economy and human-AI collaboration in value creation. Leading voices from academia, industry and policy discuss AI's impact across sectors. December 2-3, 2026 in Potsdam (near Berlin).",
+    "source": "Hasso Plattner Institute",
+    "description": "Two-day conference on 'Designing the Human-AI Economy' exploring how value is created when humans and artificial intelligence collaborate. Features speakers from academia, industry and society discussing the future of human-AI collaboration and economic value creation.",
     "title_local": "AI@HPI Conference 2026",
-    "description_local": "Zweitägige Konferenz zur Gestaltung der Mensch-KI-Wirtschaft und Mensch-KI-Zusammenarbeit in der Wertschöpfung. Führende Stimmen aus Wissenschaft, Wirtschaft und Politik diskutieren KI-Auswirkungen über Sektoren hinweg. 2.-3. Dezember 2026 in Potsdam (bei Berlin).",
+    "description_local": "Zweitägige Konferenz zu 'Designing the Human-AI Economy', die untersucht, wie Wert geschaffen wird, wenn Menschen und künstliche Intelligenz zusammenarbeiten.",
     "city": "berlin",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-03",
     "id": "7b3c084b5122f2a0"
   },
   {
@@ -3165,6 +3193,20 @@
     "first_seen": "2026-10-25",
     "last_seen": "2026-11-02",
     "id": "725f092e472e82ca"
+  },
+  {
+    "title": "AI Coding Summit Berlin 2026",
+    "date": "2026-12-04",
+    "venue": "Kosmos, Karl-Marx-Allee 131A, Berlin",
+    "url": "https://bondcommunity.ai/conferences/berlin",
+    "source": "Bond Community / GitNation",
+    "description": "Conference on AI in software engineering with talks and practical workshops on AI-powered development tools, aimed at software engineers and engineering leaders adopting AI coding tools.",
+    "title_local": "AI Coding Summit Berlin 2026",
+    "description_local": "Konferenz über KI in der Softwareentwicklung mit Vorträgen und praktischen Workshops zu KI-gestützten Entwicklungstools.",
+    "city": "berlin",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "id": "b65233668c45f7e1"
   },
   {
     "title": "International Conference on Finance and Economics with Artificial Intelligence (ICFEAI)",
@@ -3219,7 +3261,7 @@
     "description_local": "Branchenkonferenz zu generativer KI, Geschäftsprozessautomatisierung und KI-Strategien in der Wohnungswirtschaft am 9. Dezember 2026.",
     "city": "berlin",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "id": "ba98018e90ebe848"
   },
   {

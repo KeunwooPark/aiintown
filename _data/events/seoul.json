@@ -1265,7 +1265,7 @@
     "description_local": "인공지능 및 머신러닝 연구, 이론 및 응용에 중점을 둔 국제 학술 회의",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "id": "0fe6a14b3c58126c"
   },
   {
@@ -1615,7 +1615,7 @@
     "description_local": "암호화폐, 인공지능 및 머신러닝 기술의 교차점을 탐구하는 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "id": "df95197c3f7e5ec3"
   },
   {
@@ -1703,17 +1703,17 @@
     "id": "124389fad9c80a6f"
   },
   {
-    "title": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
-    "date": "2026-11-15",
+    "title": "International Conference on Artificial Intelligence, Network Security, and Blockchain Technology (ICAINSBT)",
+    "date": "2026-11-13",
     "venue": "Seoul, South Korea",
     "url": "https://www.conferencealert.com/south-korea/artificial-intelligence",
     "source": "Conference Alert",
-    "description": "International conference addressing artificial intelligence applications in robotics and mechanical engineering.",
-    "title_local": "인공지능, 로봇 및 기계공학에 관한 국제 컨퍼런스",
-    "description_local": "로봇공학 및 기계공학에서의 인공지능 응용을 다루는 국제 컨퍼런스.",
+    "description": "International conference on artificial intelligence, network security, and blockchain technology organized by Research Era.",
+    "title_local": "인공지능, 네트워크 보안 및 블록체인 기술 국제 컨퍼런스",
+    "description_local": "Research Era가 주관하는 인공지능, 네트워크 보안 및 블록체인 기술 국제 컨퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "id": "134eb44963400bcb"
   },
   {
@@ -1741,7 +1741,7 @@
     "description_local": "맞춤 의료 및 헬스케어 분야에서 AI와 데이터 사이언스 응용을 탐구하는 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "id": "deb32b78c3c75fc5"
   },
   {
@@ -1797,7 +1797,7 @@
     "description_local": "2026년 12월 15일부터 16일까지 서울에서 열리는 IT 네트워크 보안의 빅데이터 분야 머신러닝 응용에 관한 이틀간의 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-03",
     "id": "299a307f265fbfa2"
   },
   {
