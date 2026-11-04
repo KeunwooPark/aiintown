@@ -701,7 +701,7 @@
     "description_local": "Die führende Event-Reihe der Stadt zur Konvergenz von agentischer KI und Blockchain. Mehrere Sessions bis Dezember 2026 einschließlich AI Agents Summit und Sub-Events, Branchen-Calls und Workshops.",
     "city": "berlin",
     "first_seen": "2026-07-21",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "id": "6c1b442fc41ffe5f"
   },
   {
@@ -1539,7 +1539,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-04",
     "id": "cb6443b487d22397"
   },
   {
@@ -1639,20 +1639,6 @@
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "id": "29ab3087363b97d5"
-  },
-  {
-    "title": "Wave 2026",
-    "date": "2026-10-07",
-    "venue": "Berlin",
-    "url": "https://dev.events/EU/DE/Berlin/ai",
-    "source": "dev.events",
-    "description": "Two-day AI conference in Berlin spanning October 7-8, 2026, bringing AI-focused programming to Germany's capital for developers, founders, product teams, researchers, and technical leaders.",
-    "title_local": "Wave 2026",
-    "description_local": "Zweitägige KI-Konferenz in Berlin vom 7. bis 8. Oktober 2026 mit KI-fokussiertem Programm für Entwickler, Gründer, Produktteams, Forscher und technische Führungskräfte.",
-    "city": "berlin",
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-11-01",
-    "id": "ee5b8a782a60e44d"
   },
   {
     "title": "ai devCon",
@@ -2253,7 +2239,7 @@
     "description_local": "Buildersklub monatliches Meetup mit Fokus auf souveräne und verantwortungsvolle KI-Einführung, mit echten Geschichten von Teams, die KI und Automatisierung nutzen.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-04",
     "id": "40b36f30494c75e2"
   },
   {
@@ -2325,6 +2311,20 @@
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29",
     "id": "b72bef90e16261bd"
+  },
+  {
+    "title": "Answers you can question: Building a verifiable AI analytics agent",
+    "date": "2026-11-09",
+    "venue": "Online (accessible from Berlin)",
+    "url": "https://luma.com/9y6qc72e",
+    "source": "Berlin DataTalksClub / Luma",
+    "description": "How to build an analytics agent whose answers you can actually verify, featuring Alex Litvinov discussing the Manychat journey.",
+    "title_local": "Antworten, die man hinterfragen kann: Aufbau eines verifizierbaren KI-Analyseagenten",
+    "description_local": "Wie man einen Analyseagenten aufbaut, dessen Antworten tatsächlich überprüfbar sind, mit Alex Litvinov über die Manychat-Reise.",
+    "city": "berlin",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "id": "b423246f54a77e59"
   },
   {
     "title": "Language AI Meetup Berlin (November)",
@@ -2491,7 +2491,7 @@
     "description_local": "Gemeinsame Veranstaltung von Merantix Momentum und HANNOVER MESSE zur Überführung von KI über das Pilotstadium hinaus in Industriesektoren wie Produktion, Logistik und Energie, mit Startup-Präsentationen und Expertensessions in rotierenden 30-Minuten-Sessions.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -2575,7 +2575,7 @@
     "description_local": "Veranstaltung zur Erforschung der Integration von Blockchain-Technologie und künstlicher Intelligenz, mit Schwerpunkt auf verteilten KI-Systemen, dezentralem maschinellem Lernen und Web3-KI-Anwendungen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-04",
     "id": "0a37c52bb5c8708e"
   },
   {
@@ -2731,6 +2731,20 @@
     "first_seen": "2026-06-15",
     "last_seen": "2026-10-26",
     "id": "9a05b37a144a341e"
+  },
+  {
+    "title": "Production AI Agents for Generative Media - Launch Stream",
+    "date": "2026-11-16",
+    "venue": "Online (DataTalksClub YouTube)",
+    "url": "https://www.meetup.com/berlin-datatalks-club/",
+    "source": "Berlin DataTalksClub",
+    "description": "Launch stream for a course on production AI systems where agents orchestrate GPU-powered image, video and audio models on Nebius Serverless AI.",
+    "title_local": "Production AI Agents für generative Medien - Launch Stream",
+    "description_local": "Launch-Stream für einen Kurs über Produktions-KI-Systeme, bei denen Agenten GPU-gestützte Bild-, Video- und Audiomodelle auf Nebius Serverless AI orchestrieren.",
+    "city": "berlin",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-11-04",
+    "id": "b450cd094f29dad9"
   },
   {
     "title": "VibeKode Berlin 2026",
@@ -2953,7 +2967,7 @@
     "description_local": "Schwerpunkt auf der Produktivsetzung von Data Science, GenAI und AI-Agenten sowie souveräner und vertrauenswürdiger KI. 19. November 2026, 9:00 Uhr.",
     "city": "berlin",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-11-04",
     "id": "569bc708cc6e9e29"
   },
   {
@@ -2967,7 +2981,7 @@
     "description_local": "Ganztägiger Hackathon mit Fokus auf dem Bau nützlicher KI-Prototypen. Organisiert von AI Builders und commIT.",
     "city": "berlin",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "id": "d0bc6089edd35346"
   },
   {
@@ -3015,15 +3029,15 @@
   {
     "title": "TÜV AICon 2026",
     "date": "2026-11-26",
-    "venue": "Forum Digitale Technologien",
+    "venue": "Forum Digitale Technologien, Salzufer 15/16, 10587 Berlin",
     "url": "https://www.tuev-verband.de/events/aicon-2026",
-    "source": "tuev-verband.de",
-    "description": "Conference on safe and trustworthy artificial intelligence, bringing together experts from politics, science and business to discuss AI Act implementation, generative AI, industrial applications and safety-critical systems",
+    "source": "TÜV-Verband",
+    "description": "Conference dedicated to secure and trustworthy artificial intelligence. Experts from politics, academia, and business discuss current developments and specific areas of application—from generative AI to industrial applications and safety-critical systems.",
     "title_local": "TÜV AICon 2026",
-    "description_local": "Konferenz rund um sichere und vertrauenswürdige Künstliche Intelligenz mit Expert:innen aus Politik, Wissenschaft und Wirtschaft zu Themen wie AI Act, generative KI, industrielle Anwendungen und sicherheitskritische Systeme",
+    "description_local": "Reservieren Sie sich frühzeitig Ihren Platz auf der AICon, der Konferenz rund um sichere und vertrauenswürdige Künstliche Intelligenz. Kommen Sie vor Ort mit Expert:innen aus Politik, Wissenschaft und Wirtschaft ins Gespräch.",
     "city": "berlin",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-11-04",
     "id": "e177750c26801382"
   },
   {
@@ -3141,15 +3155,15 @@
   {
     "title": "AI@HPI Conference 2026",
     "date": "2026-12-02",
-    "venue": "Hasso Plattner Institute, Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam",
+    "venue": "Hasso Plattner Institute, Potsdam (near Berlin)",
     "url": "https://hpi.de/en/ai-hpi-conference/",
     "source": "Hasso Plattner Institute",
-    "description": "Two-day conference on 'Designing the Human-AI Economy' exploring how value is created when humans and artificial intelligence collaborate. Features speakers from academia, industry and society discussing the future of human-AI collaboration and economic value creation.",
+    "description": "Conference connecting leading voices from across sectors to discuss how AI is reshaping value creation across industries. Topics include AI and the future of value creation, AI in industrial systems, next-generation AI and new ventures, and human capital in the AI economy.",
     "title_local": "AI@HPI Conference 2026",
-    "description_local": "Zweitägige Konferenz zu 'Designing the Human-AI Economy', die untersucht, wie Wert geschaffen wird, wenn Menschen und künstliche Intelligenz zusammenarbeiten.",
+    "description_local": "Konferenz, die führende Stimmen aus verschiedenen Sektoren zusammenbringt, um zu diskutieren, wie KI die Wertschöpfung in allen Branchen verändert. Themen umfassen KI und die Zukunft der Wertschöpfung, KI in industriellen Systemen und menschliches Kapital in der KI-Wirtschaft.",
     "city": "berlin",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "id": "7b3c084b5122f2a0"
   },
   {
@@ -3179,6 +3193,20 @@
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "id": "761193f35a1b6641"
+  },
+  {
+    "title": "AI Coding Summit Berlin 2026",
+    "date": "2026-12-04",
+    "venue": "Kosmos, Karl-Marx-Allee 131A, Berlin",
+    "url": "https://dev.events/EU/DE/Berlin/ai",
+    "source": "dev.events",
+    "description": "Conference on AI in software engineering with talks and practical workshops on AI powered development tools. Aimed at software engineers and engineering leaders adopting AI coding tools in their work.",
+    "title_local": "AI Coding Summit Berlin 2026",
+    "description_local": "Konferenz über KI in der Softwareentwicklung mit Vorträgen und praktischen Workshops zu KI-gestützten Entwicklungswerkzeugen. Für Softwareingenieure und Engineering-Führungskräfte, die KI-Codierungstools in ihrer Arbeit einsetzen.",
+    "city": "berlin",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-11-04",
+    "id": "ee5b8a782a60e44d"
   },
   {
     "title": "AI Coding Summit Berlin 2026",
@@ -3368,21 +3396,6 @@
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "id": "f7569d1775328d25"
-  },
-  {
-    "title": "Berlin DataTalksClub - Agentic AI Engineering",
-    "date": null,
-    "venue": "Berlin, Germany",
-    "url": "https://www.meetup.com/berlin-datatalks-club/",
-    "source": "https://www.meetup.com/berlin-datatalks-club/",
-    "description": "Meetup featuring insights from the Agentic AI Engineering course and core skills for 2026. Speaker Paul Iustin (author of LLM Engineer's Handbook, lead instructor of Agentic AI Engineering course). Topics include transitioning to AI engineering and building future-ready data careers.",
-    "title_local": "Berlin DataTalksClub - Agentic AI Engineering",
-    "description_local": "Treffen mit Einblicken aus dem Agentic AI Engineering Kurs und Kernkompetenzen für 2026. Sprecher Paul Iustin (Autor des LLM Engineer's Handbook, Hauptdozent des Agentic AI Engineering Kurses). Themen umfassen den Übergang zum KI-Engineering und den Aufbau zukunftsfähiger Datenkarrieren.",
-    "city": "berlin",
-    "date_status": "unknown",
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-07-29",
-    "id": "b450cd094f29dad9"
   },
   {
     "title": "Berlin NLP Meetup",

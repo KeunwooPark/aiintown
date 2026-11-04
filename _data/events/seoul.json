@@ -1265,7 +1265,7 @@
     "description_local": "인공지능 및 머신러닝 연구, 이론 및 응용에 중점을 둔 국제 학술 회의",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "id": "0fe6a14b3c58126c"
   },
   {
@@ -1675,6 +1675,20 @@
     "id": "d0518d63b07aec96"
   },
   {
+    "title": "AI 콘텐츠 페스티벌 2026 (AI Content Festival 2026)",
+    "date": "2026-11-12",
+    "venue": "COEX 2층 The Platz, Studio159, Startup Branch",
+    "url": "https://www.munhwa.com/article/11628692",
+    "source": "munhwa.com",
+    "description": "AI content creation festival featuring AI-powered webtoons, videos, music, and business programs. Features exhibitions, keynote speeches, talk sessions, open classes, and business networking. Free admission for general public.",
+    "title_local": "AI 콘텐츠 페스티벌 2026",
+    "description_local": "AI 콘텐츠의 창작·산업 동향을 공유하고 투자·협업 기회를 확대하기 위한 페스티벌. 전시·체험, 강연·토론회, 사업화 프로그램, 창작 오픈클래스, 특별공연 등으로 구성.",
+    "city": "seoul",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "id": "1699e5bc8d83051c"
+  },
+  {
     "title": "Intel AI Summit Seoul 2026",
     "date": "2026-11-12",
     "venue": "COEX Grand Ballroom (1F) & Auditorium (3F), Seoul",
@@ -1713,7 +1727,7 @@
     "description_local": "Research Era가 주관하는 인공지능, 네트워크 보안 및 블록체인 기술 국제 컨퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "id": "134eb44963400bcb"
   },
   {
@@ -1743,6 +1757,20 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-11-03",
     "id": "deb32b78c3c75fc5"
+  },
+  {
+    "title": "KBW2026 with Upbit Main Conference",
+    "date": "2026-11-28",
+    "venue": "Seoul, South Korea",
+    "url": "https://dev.events/meetups/AS/KR/ai",
+    "source": "dev.events",
+    "description": "Korea Blockchain Week conference with AI topics",
+    "title_local": "KBW2026 (업비트 메인 컨퍼런스)",
+    "description_local": "AI 관련 주제를 포함한 한국 블록체인 위크 컨퍼런스",
+    "city": "seoul",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "id": "fcc291372583fb3a"
   },
   {
     "title": "OWASP Korea Day 2026",
