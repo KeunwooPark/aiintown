@@ -1329,7 +1329,7 @@
     "description_local": "Festival, das einen Raum schafft, in dem Menschen aller Altersgruppen Künstliche Intelligenz erleben, ausprobieren und reflektieren können. Bringt Praxis, Forschung, Kunst und Bildung zusammen mit über 50 Ausstellern, 40+ Speakern und 20 Workshops.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-06",
     "id": "35e66e82f76f77e6"
   },
   {
@@ -1525,7 +1525,7 @@
     "description_local": "Berliner Hacktoberfest-Event mit Open-Source-Beiträgen und KI/ML-Fokus. Community-Hack-Tag für Entwickler, die zu Open-Source-KI-Projekten beitragen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-06",
     "id": "615827e872ec9a8d"
   },
   {
@@ -2253,7 +2253,7 @@
     "description_local": "Women's AI Breakfast Event mit Fokus auf den Weg von der Idee zum Startup, mit Sprecherinnen Serra Yosmaoglu, Stephanie Jonkers und Nicole Büttner.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-06",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -2269,6 +2269,20 @@
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-01",
     "id": "8829e1c94d7c3e92"
+  },
+  {
+    "title": "Women's AI Breakfast: From Idea to Startup",
+    "date": "2026-11-06",
+    "venue": "Merantix AI Campus, Max-Urich-Straße 3, 13355 Berlin",
+    "url": "https://luma.com/womens-ai-breakfast-from-idea-to-startup",
+    "source": "Merantix AI Campus / Luma",
+    "description": "A breakfast event bringing together women leaders, founders, investors, and innovators in AI to discuss the journey from idea to startup. Part of the Women's AI Breakfast series for female industry leaders in artificial intelligence.",
+    "title_local": "Women's AI Breakfast: Von der Idee zum Startup",
+    "description_local": "Eine Frühstücksveranstaltung, die Führungskräfte, Gründerinnen, Investorinnen und Innovatorinnen im KI-Bereich zusammenbringt, um den Weg von der Idee zum Startup zu diskutieren. Teil der Women's AI Breakfast-Reihe für weibliche Führungskräfte im Bereich künstliche Intelligenz.",
+    "city": "berlin",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "id": "1101e46e40e677bc"
   },
   {
     "title": "19. CommunityCamp Berlin",
@@ -2379,7 +2393,7 @@
     "description_local": "BLISS AI Speaker Series mit Pavel Izmailov, Member of Technical Staff bei Anthropic, der 'Understanding Reasoning from Pretraining to Post-Training' präsentiert. Kostenlose Getränke und Pizza. Türen schließen um 19:15 Uhr, RSVP erforderlich.",
     "city": "berlin",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-06",
     "id": "e22cb15a8b37448e"
   },
   {
@@ -2663,6 +2677,20 @@
     "id": "db10d07e25c718e5"
   },
   {
+    "title": "Robotics x AI Hackathon — HackLab",
+    "date": "2026-11-14",
+    "venue": "CIC Berlin",
+    "url": "https://luma.com/robotics-ai-hackathon-hacklab-nov14",
+    "source": "HackLab / Luma",
+    "description": "A 48-hour intensive hackathon for building and shipping working Physical AI prototypes. Builders work with robotics and AI to create hardware and software prototypes.",
+    "title_local": "Robotics x AI Hackathon — HackLab",
+    "description_local": "Ein 48-stündiger intensiver Hackathon zum Bau und Versand funktionierender Physical AI-Prototypen. Teilnehmer arbeiten mit Robotik und KI, um Hardware- und Software-Prototypen zu erstellen.",
+    "city": "berlin",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "id": "b364c83b997ece45"
+  },
+  {
     "title": "AI Engineering Summit Berlin 2026",
     "date": "2026-11-16",
     "venue": "Maritim ProArte Hotel Berlin",
@@ -2845,6 +2873,20 @@
     "id": "b088686d9c4ba20a"
   },
   {
+    "title": "Building AI Agents That Think, Remember & Act",
+    "date": "2026-11-18",
+    "venue": "The Delta, Donaustraße 44, 12043 Berlin",
+    "url": "https://www.meetup.com/berlin-microsoft-azure-meetup/",
+    "source": "Azure Meetup Berlin / Global AI Berlin",
+    "description": "A technical meetup on building reliable AI agents with context, memory and real-world capabilities. Sessions include 'Building World-Aware Physical AI with Agent Memory and Context Graphs' (Neo4j & Spranic) and 'From Click to Terminal: API Engineering in the Age of Agents' (Postman).",
+    "title_local": "AI-Agenten bauen, die denken, sich erinnern und handeln",
+    "description_local": "Ein technisches Meetup über den Aufbau zuverlässiger KI-Agenten mit Kontext, Gedächtnis und realen Fähigkeiten. Vorträge umfassen 'Building World-Aware Physical AI with Agent Memory and Context Graphs' (Neo4j & Spranic) und 'From Click to Terminal: API Engineering in the Age of Agents' (Postman).",
+    "city": "berlin",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "id": "9f2d6cf12e19f86a"
+  },
+  {
     "title": "Global AI Nights - Berlin",
     "date": "2026-11-18",
     "venue": "Berlin, Germany",
@@ -2971,6 +3013,20 @@
     "id": "98bd2baae6fb6489"
   },
   {
+    "title": "4. KI-Tag – KI in der (Rechts-)Praxis bei HÄRTING Rechtsanwälte",
+    "date": "2026-11-19",
+    "venue": "HÄRTING Rechtsanwälte, Berlin",
+    "url": "https://www.eventbrite.com/e/ki-tag-haerting-tickets",
+    "source": "Eventbrite",
+    "description": "The fourth edition of the AI Day at HÄRTING law firm, featuring presentations and discussions on current trends, opportunities and risks of AI in legal practice.",
+    "title_local": "4. KI-Tag – KI in der (Rechts-)Praxis bei HÄRTING Rechtsanwälte",
+    "description_local": "Die vierte Ausgabe des KI-Tags bei der Kanzlei HÄRTING mit Impulsen und Austausch zu aktuellen Trends, Chancen und Risiken von KI in der Rechtspraxis.",
+    "city": "berlin",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "id": "bc3423f529ad48ca"
+  },
+  {
     "title": "Herbsttagung 2026",
     "date": "2026-11-19",
     "venue": "Tucholskystraße 2, Berlin",
@@ -2985,18 +3041,46 @@
     "id": "569bc708cc6e9e29"
   },
   {
+    "title": "Herbsttagung 2026",
+    "date": "2026-11-19",
+    "venue": "Tucholskystraße 2, Berlin",
+    "url": "https://www.eventbrite.com/e/herbsttagung-2026-tickets",
+    "source": "Eventbrite",
+    "description": "A German conference focused on bringing data science, GenAI and AI agents into production, and on sovereign and trustworthy AI.",
+    "title_local": "Herbsttagung 2026",
+    "description_local": "Eine Konferenz mit Schwerpunkt darauf, Data Science, GenAI und KI-Agenten in die Produktion zu bringen sowie auf souveräne und vertrauenswürdige KI.",
+    "city": "berlin",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "id": "79e1783f2d249d89"
+  },
+  {
     "title": "AI Builders × commIT | Hack Day Berlin 2026",
     "date": "2026-11-20",
     "venue": "ImmoScout24, Invalidenstraße 65, 10557 Berlin",
     "url": "https://luma.com/ber-nov20-hday",
-    "source": "Luma / AI Builders",
-    "description": "Full day hackathon focused on building useful AI prototypes. Organized by AI Builders and commIT, featuring hands-on AI building, opportunities to meet other AI builders and exchange ideas.",
+    "source": "AI Builders / Luma",
+    "description": "A one-day hackathon organized by AI Builders and commIT. Participants pitch ideas, form teams, build prototypes, and demo their work. Includes optional workshops, lunch, and awards ceremony.",
     "title_local": "AI Builders × commIT | Hack Day Berlin 2026",
-    "description_local": "Ganztägiger Hackathon mit Fokus auf dem Bau nützlicher KI-Prototypen. Organisiert von AI Builders und commIT.",
+    "description_local": "Ein eintägiger Hackathon, organisiert von AI Builders und commIT. Teilnehmer pitchen Ideen, bilden Teams, bauen Prototypen und präsentieren ihre Arbeit. Beinhaltet optionale Workshops, Mittagessen und Preisverleihung.",
     "city": "berlin",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-06",
     "id": "d0bc6089edd35346"
+  },
+  {
+    "title": "Berlin Robotics & AI Hackathon — HackLab x BRISA",
+    "date": "2026-11-21",
+    "venue": "CIC Berlin",
+    "url": "https://createwith.com/events/berlin-robotics-ai-hackathon-hacklab-brisa",
+    "source": "HackLab / CreateWith",
+    "description": "A 48-hour hackathon for building real robotics and Physical AI prototypes. Prizes worth €10,000+. Teams work on hardware and software integration for robotics applications.",
+    "title_local": "Berlin Robotics & AI Hackathon — HackLab x BRISA",
+    "description_local": "Ein 48-Stunden-Hackathon zum Bau echter Robotik- und Physical AI-Prototypen. Preise im Wert von über 10.000 €. Teams arbeiten an Hardware- und Software-Integration für Robotikanwendungen.",
+    "city": "berlin",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "id": "113522c6f6cbf75a"
   },
   {
     "title": "VibeKode Berlin 2026",
@@ -3032,12 +3116,12 @@
     "venue": "Wilhelm Studios Berlin",
     "url": "https://www.sap.com/germany/events/sapnowgermany.html",
     "source": "SAP",
-    "description": "Experience SAP's visionary AI strategy and learn how to benefit from intelligent, connected workflows with Joule across the enterprise.",
+    "description": "SAP's AI strategy event showcasing how to benefit from intelligent, connected workflows with Joule across the enterprise. Focus on Business AI and practical AI implementation with SAP technologies.",
     "title_local": "SAP NOW AI Tour Germany",
-    "description_local": "Erleben Sie die visionäre KI-Strategie von SAP und wie Sie mit Joule unternehmensweit von intelligenten, vernetzten Workflows profitieren.",
+    "description_local": "SAPs KI-Strategie-Event, das zeigt, wie man unternehmensweite von intelligenten, vernetzten Workflows mit Joule profitiert. Schwerpunkt auf Business AI und praktischer KI-Implementierung mit SAP-Technologien.",
     "city": "berlin",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-11-06",
     "id": "5e775c013d6c6f42"
   },
   {
@@ -3053,6 +3137,48 @@
     "first_seen": "2026-10-20",
     "last_seen": "2026-11-04",
     "id": "e177750c26801382"
+  },
+  {
+    "title": "ClawCamp Berlin – Edition #2: Advancing AI Proficiency",
+    "date": "2026-11-27",
+    "venue": "The Delta Campus, Berlin",
+    "url": "https://luma.com/clawcamp-berlin-edition-2",
+    "source": "AI Agents Berlin / Luma",
+    "description": "Second edition of ClawCamp Berlin focused on advancing AI proficiency, particularly with OpenClaw and AI agent development. A community-driven event for builders.",
+    "title_local": "ClawCamp Berlin – Edition #2: Advancing AI Proficiency",
+    "description_local": "Zweite Ausgabe des ClawCamp Berlin mit Fokus auf die Weiterentwicklung von KI-Kenntnissen, insbesondere mit OpenClaw und KI-Agenten-Entwicklung. Eine Community-getriebene Veranstaltung für Builder.",
+    "city": "berlin",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "id": "c88708569dd2436c"
+  },
+  {
+    "title": "BIG BERLIN HACK - 350+ Builders from all over Europe",
+    "date": "2026-11-28",
+    "venue": "Berlin, Germany",
+    "url": "https://luma.com/big-berlin-hack-2026",
+    "source": "Tech: Europe / Luma",
+    "description": "A weekend hackathon for 350+ builders from across Europe, hosted with Google DeepMind and CODE University. Technology partners include ClickHouse, Tavily, Aikido and Gradium. Teams build over two days, with finalist pitches and awards ceremony.",
+    "title_local": "BIG BERLIN HACK - 350+ Builders aus ganz Europa",
+    "description_local": "Ein Wochenend-Hackathon für über 350 Builder aus ganz Europa, veranstaltet mit Google DeepMind und CODE University. Technologiepartner sind ClickHouse, Tavily, Aikido und Gradium. Teams bauen über zwei Tage, mit Finalist-Pitches und Preisverleihung.",
+    "city": "berlin",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "id": "47bb0034ed71fae8"
+  },
+  {
+    "title": "AI Monday x Zeiss-Großplanetarium",
+    "date": "2026-11-30",
+    "venue": "Zeiss-Großplanetarium, Prenzlauer Allee 80, 10405 Berlin",
+    "url": "https://www.eventbrite.de/e/ai-monday-x-zeiss-groplanetarium-tickets-2003969207846",
+    "source": "AI Monday Berlin / Eventbrite",
+    "description": "A special edition of AI Monday in partnership with Zeiss-Großplanetarium, bringing together researchers, founders, industry experts and innovators working at the intersection of AI and space technologies.",
+    "title_local": "AI Monday x Zeiss-Großplanetarium",
+    "description_local": "Eine Sonderausgabe von AI Monday in Partnerschaft mit dem Zeiss-Großplanetarium, die Forscher, Gründer, Branchenexperten und Innovatoren zusammenbringt, die an der Schnittstelle von KI und Weltraumtechnologien arbeiten.",
+    "city": "berlin",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "id": "ec1567ca946f73d4"
   },
   {
     "title": "Enterprise DevSecOps 2026",
@@ -3095,6 +3221,20 @@
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-29",
     "id": "7c66ab55c8a51ce8"
+  },
+  {
+    "title": "Hybrid Bob DACH Community Gathering Online & Coding Watch Party in Berlin",
+    "date": "2026-12-01",
+    "venue": "Berlin (hybrid event)",
+    "url": "https://www.eventbrite.com/e/hybrid-bob-dach-community-gathering-tickets",
+    "source": "Eventbrite",
+    "description": "A hybrid event exploring AI-driven software development with IBM Bob. Free, hands-on coding watch party taking place both in Berlin and online, focused on community-first, AI-powered development.",
+    "title_local": "Hybrid Bob DACH Community Gathering Online & Coding Watch Party in Berlin",
+    "description_local": "Ein Hybrid-Event zur Erkundung von KI-gesteuerter Softwareentwicklung mit IBM Bob. Kostenlose, praktische Coding Watch Party in Berlin und online, mit Fokus auf Community-first, KI-gestützte Entwicklung.",
+    "city": "berlin",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "id": "c8ca98134834d20d"
   },
   {
     "title": "IBM Bob DACH Community Gathering & Coding Watch Party Berlin",
@@ -3297,13 +3437,13 @@
     "date": "2026-12-09",
     "venue": "Berlin",
     "url": "https://deutschlandki.de/ki-events",
-    "source": "deutschlandki.de",
-    "description": "Industry conference on generative AI, business process automation and AI strategies in housing industry on December 9, 2026.",
+    "source": "Deutschland KI",
+    "description": "Industry conference for the housing sector focusing on generative AI, business process automation and AI strategies in the real estate industry.",
     "title_local": "BBA KI-Konferenz 2026",
-    "description_local": "Branchenkonferenz zu generativer KI, Geschäftsprozessautomatisierung und KI-Strategien in der Wohnungswirtschaft am 9. Dezember 2026.",
+    "description_local": "Branchenkonferenz für die Wohnungswirtschaft mit Schwerpunkt auf generativer KI, Geschäftsprozessautomatisierung und KI-Strategien in der Immobilienbranche.",
     "city": "berlin",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-06",
     "id": "ba98018e90ebe848"
   },
   {

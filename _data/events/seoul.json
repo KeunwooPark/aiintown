@@ -1255,20 +1255,6 @@
     "id": "5e073690ef51548c"
   },
   {
-    "title": "International Conference on Artificial Intelligence and Machine Learning (ICAIML)",
-    "date": "2026-10-14",
-    "venue": "Seoul, South Korea",
-    "url": "https://www.conferencealert.com/seoul/artificial-intelligence",
-    "source": "https://www.conferencealert.com/seoul/artificial-intelligence",
-    "description": "International academic conference focusing on artificial intelligence and machine learning research, theories, and applications.",
-    "title_local": "International Conference on Artificial Intelligence and Machine Learning (ICAIML)",
-    "description_local": "인공지능 및 머신러닝 연구, 이론 및 응용에 중점을 둔 국제 학술 회의",
-    "city": "seoul",
-    "first_seen": "2026-10-14",
-    "last_seen": "2026-11-04",
-    "id": "0fe6a14b3c58126c"
-  },
-  {
     "title": "AI/메타버스 국제표준 전략 세미나",
     "date": "2026-10-15",
     "venue": "Seoul, Gangnam-gu (venue TBD)",
@@ -1559,7 +1545,7 @@
     "description_local": "인공지능(AI)과 사물인터넷(IoT)의 융합을 주제로 하는 전시·컨퍼런스. AI 기반 예측 분석, 스마트시티 인프라, 산업 자동화, 디지털 트윈 등을 다룸. 전시회: 11월 3-5일; 컨퍼런스: 11월 4-6일",
     "city": "seoul",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-06",
     "id": "eb7b9a95d3b2abc7"
   },
   {
@@ -1727,7 +1713,7 @@
     "description_local": "Research Era가 주관하는 인공지능, 네트워크 보안 및 블록체인 기술 국제 컨퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-06",
     "id": "134eb44963400bcb"
   },
   {
@@ -1741,7 +1727,7 @@
     "description_local": "산업 자동화 및 AI 구현에 초점을 맞춘 산업 AI 대전환에 관한 국제 컨퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-06",
     "id": "0795eaff5ad8d2b9"
   },
   {
@@ -1813,6 +1799,20 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-27",
     "id": "dbd478639179dca7"
+  },
+  {
+    "title": "World Conference on Generative AI in Education & Learning Ecosystems (WCGAELE)",
+    "date": "2026-12-05",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.conferencealert.com/seoul/artificial-intelligence",
+    "source": "Conference Alert",
+    "description": "World conference on generative AI in education and learning ecosystems organized by AI Research Conference. Paper submission deadline December 5, 2026.",
+    "title_local": "교육 및 학습 생태계에서의 생성형 AI 세계 컨퍼런스",
+    "description_local": "AI Research Conference가 주관하는 교육 및 학습 생태계에서 생성형 AI에 관한 세계 컨퍼런스입니다. 논문 제출 마감 2026년 12월 5일.",
+    "city": "seoul",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-11-06",
+    "id": "0fe6a14b3c58126c"
   },
   {
     "title": "International Conference on Machine Learning for Big Data in IT Network Security",
