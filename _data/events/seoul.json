@@ -1521,20 +1521,6 @@
     "id": "a17765dea6924d56"
   },
   {
-    "title": "International Conference on Software Vulnerability Assessment and Cybersecurity",
-    "date": "2026-11-02",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea/seoul",
-    "source": "https://internationalconferencealerts.com/artificial-intelligence/south-korea/seoul",
-    "description": "International conference on software vulnerability assessment and cybersecurity with AI focus. November 2-3, 2026.",
-    "title_local": "International Conference on Software Vulnerability Assessment and Cybersecurity",
-    "description_local": "AI 관련 소프트웨어 취약점 평가 및 사이버보안에 관한 국제 컨퍼런스. 2026년 11월 2~3일 서울에서 개최.",
-    "city": "seoul",
-    "first_seen": "2026-10-04",
-    "last_seen": "2026-10-30",
-    "id": "091d10ee586f64b1"
-  },
-  {
     "title": "AIoT Korea 2026",
     "date": "2026-11-03",
     "venue": "Seoul (venue TBA)",
@@ -1545,7 +1531,7 @@
     "description_local": "인공지능(AI)과 사물인터넷(IoT)의 융합을 주제로 하는 전시·컨퍼런스. AI 기반 예측 분석, 스마트시티 인프라, 산업 자동화, 디지털 트윈 등을 다룸. 전시회: 11월 3-5일; 컨퍼런스: 11월 4-6일",
     "city": "seoul",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-07",
     "id": "eb7b9a95d3b2abc7"
   },
   {
@@ -1601,8 +1587,22 @@
     "description_local": "암호화폐, 인공지능 및 머신러닝 기술의 교차점을 탐구하는 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-07",
     "id": "df95197c3f7e5ec3"
+  },
+  {
+    "title": "International Conference on Education and Learning with Artificial Intelligence",
+    "date": "2026-11-09",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea/seoul",
+    "source": "Conference Organizer",
+    "description": "Conference on AI applications in education and learning, covering AI-powered educational tools, personalized learning, and educational technology innovations.",
+    "title_local": "International Conference on Education and Learning with Artificial Intelligence",
+    "description_local": "인공지능을 활용한 교육 및 학습 국제 컨퍼런스.",
+    "city": "seoul",
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-11-07",
+    "id": "091d10ee586f64b1"
   },
   {
     "title": "NVIDIA AI Day Seoul 2026",
@@ -1671,7 +1671,7 @@
     "description_local": "AI 콘텐츠의 창작·산업 동향을 공유하고 투자·협업 기회를 확대하기 위한 페스티벌. 전시·체험, 강연·토론회, 사업화 프로그램, 창작 오픈클래스, 특별공연 등으로 구성.",
     "city": "seoul",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-07",
     "id": "1699e5bc8d83051c"
   },
   {
@@ -1703,18 +1703,18 @@
     "id": "124389fad9c80a6f"
   },
   {
-    "title": "International Conference on Artificial Intelligence, Network Security, and Blockchain Technology (ICAINSBT)",
-    "date": "2026-11-13",
+    "title": "International Conference on AI and Machine Learning in Big Data Systems",
+    "date": "2026-11-16",
     "venue": "Seoul, South Korea",
-    "url": "https://www.conferencealert.com/south-korea/artificial-intelligence",
-    "source": "Conference Alert",
-    "description": "International conference on artificial intelligence, network security, and blockchain technology organized by Research Era.",
-    "title_local": "인공지능, 네트워크 보안 및 블록체인 기술 국제 컨퍼런스",
-    "description_local": "Research Era가 주관하는 인공지능, 네트워크 보안 및 블록체인 기술 국제 컨퍼런스입니다.",
+    "url": "https://internationalconferencealerts.com/machine-learning/south-korea/seoul",
+    "source": "Conference Organizer",
+    "description": "Conference on AI and machine learning applications in big data systems, covering scalable algorithms, distributed computing, and data analytics.",
+    "title_local": "International Conference on AI and Machine Learning in Big Data Systems",
+    "description_local": "빅데이터 시스템에서의 AI 및 머신러닝 국제 컨퍼런스.",
     "city": "seoul",
-    "first_seen": "2026-11-01",
-    "last_seen": "2026-11-06",
-    "id": "134eb44963400bcb"
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-07",
+    "id": "299a307f265fbfa2"
   },
   {
     "title": "SMATEC2026 국제컨퍼런스 - 산업 AI 대전환",
@@ -1743,6 +1743,20 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-11-03",
     "id": "deb32b78c3c75fc5"
+  },
+  {
+    "title": "International Conference on Application of AI in Business Management (ICAAIBM)",
+    "date": "2026-11-28",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.conferencealert.com/south-korea/artificial-intelligence",
+    "source": "International Conference on Logistics and Business Management",
+    "description": "Conference focused on AI applications in business management, covering topics like AI-driven decision making, business analytics, and organizational transformation.",
+    "title_local": "International Conference on Application of AI in Business Management (ICAAIBM)",
+    "description_local": "비즈니스 관리에서의 AI 적용 국제 컨퍼런스.",
+    "city": "seoul",
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-07",
+    "id": "134eb44963400bcb"
   },
   {
     "title": "KBW2026 with Upbit Main Conference",
@@ -1811,22 +1825,8 @@
     "description_local": "AI Research Conference가 주관하는 교육 및 학습 생태계에서 생성형 AI에 관한 세계 컨퍼런스입니다. 논문 제출 마감 2026년 12월 5일.",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-07",
     "id": "0fe6a14b3c58126c"
-  },
-  {
-    "title": "International Conference on Machine Learning for Big Data in IT Network Security",
-    "date": "2026-12-15",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/machine-learning/south-korea/seoul",
-    "source": "Conference Alerts",
-    "description": "Two-day conference on machine learning applications in big data for IT network security, Dec 15-16, 2026.",
-    "title_local": "IT 네트워크 보안의 빅데이터를 위한 머신러닝 국제 컨퍼런스",
-    "description_local": "2026년 12월 15일부터 16일까지 서울에서 열리는 IT 네트워크 보안의 빅데이터 분야 머신러닝 응용에 관한 이틀간의 컨퍼런스",
-    "city": "seoul",
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-03",
-    "id": "299a307f265fbfa2"
   },
   {
     "title": "International Conference on Machine Learning and Chat GPT (ICMLCG)",
