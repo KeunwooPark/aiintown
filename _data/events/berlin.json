@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-08",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -1049,7 +1049,7 @@
     "description_local": "Internationale Konferenz, die globale Fachleute zusammenbringt, um KI-Lösungen der nächsten Generation zu erkunden. Deckt ein breites Spektrum von Themen ab, darunter Innovation, Forschungsentwicklungen, praktische Anwendungen und Zukunftstrends. Teilnehmer profitieren von Expertensessions, Keynote-Präsentationen, Workshops und Networking-Möglichkeiten. Virtuelle und persönliche Optionen verfügbar.",
     "city": "berlin",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-11-08",
     "id": "8ebb2860cfc9dd22"
   },
   {
@@ -1329,7 +1329,7 @@
     "description_local": "Festival, das einen Raum schafft, in dem Menschen aller Altersgruppen Künstliche Intelligenz erleben, ausprobieren und reflektieren können. Bringt Praxis, Forschung, Kunst und Bildung zusammen mit über 50 Ausstellern, 40+ Speakern und 20 Workshops.",
     "city": "berlin",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-08",
     "id": "35e66e82f76f77e6"
   },
   {
@@ -1539,7 +1539,7 @@
     "description_local": "BarBQ ist ein offenes Networking-Event, das die Community zusammenbringt und den Austausch von Meinungen und Ideen im Quantenbereich zwischen Studenten, Gründern, Wissenschaftlern sowie technisch und nicht-technisch Interessierten fördert. Die Veranstaltung richtet sich an ein breites Publikum, das mehr über Quantum und die Quantum-Community in Berlin erfahren möchte.",
     "city": "berlin",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
     "id": "cb6443b487d22397"
   },
   {
@@ -1735,7 +1735,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-08",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2169,7 +2169,7 @@
     "description_local": "Diskussion über KI, Narrative und die Konstruktion von Wirklichkeit - wie KI unser Weltverständnis prägt.",
     "city": "berlin",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-08",
     "id": "638a9009f0257dbf"
   },
   {
@@ -2911,7 +2911,7 @@
     "description_local": "KI, Automatisierung und neue Konsumgewohnheiten verändern den Handel – und werfen Fragen nach dem Verhältnis von Technologie, Wirtschaft und Mensch auf.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -3169,15 +3169,15 @@
   {
     "title": "AI Monday x Zeiss-Großplanetarium",
     "date": "2026-11-30",
-    "venue": "Zeiss-Großplanetarium, Prenzlauer Allee 80, 10405 Berlin",
+    "venue": "Zeiss-Großplanetarium Berlin",
     "url": "https://www.eventbrite.de/e/ai-monday-x-zeiss-groplanetarium-tickets-2003969207846",
-    "source": "AI Monday Berlin / Eventbrite",
-    "description": "A special edition of AI Monday in partnership with Zeiss-Großplanetarium, bringing together researchers, founders, industry experts and innovators working at the intersection of AI and space technologies.",
+    "source": "AI Monday Berlin",
+    "description": "Join AI Monday Berlin at the Zeiss-Großplanetarium for an evening exploring how artificial intelligence is transforming the way we observe, understand and leverage space. The evening brings together researchers, founders, industry experts and innovators working at the intersection of AI and space technologies.",
     "title_local": "AI Monday x Zeiss-Großplanetarium",
-    "description_local": "Eine Sonderausgabe von AI Monday in Partnerschaft mit dem Zeiss-Großplanetarium, die Forscher, Gründer, Branchenexperten und Innovatoren zusammenbringt, die an der Schnittstelle von KI und Weltraumtechnologien arbeiten.",
+    "description_local": "Ein Abend im Zeiss-Großplanetarium Berlin, der erforscht, wie künstliche Intelligenz die Art und Weise verändert, wie wir den Weltraum beobachten, verstehen und nutzen. Zusammenführung von Forschern, Gründern, Branchenexperten und Innovatoren an der Schnittstelle von KI und Weltraumtechnologien.",
     "city": "berlin",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-08",
     "id": "ec1567ca946f73d4"
   },
   {
@@ -3387,7 +3387,7 @@
     "description_local": "Konferenz über KI in der Softwareentwicklung mit Vorträgen und praktischen Workshops zu KI-gestützten Entwicklungstools.",
     "city": "berlin",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-08",
     "id": "b65233668c45f7e1"
   },
   {
@@ -3443,7 +3443,7 @@
     "description_local": "Branchenkonferenz für die Wohnungswirtschaft mit Schwerpunkt auf generativer KI, Geschäftsprozessautomatisierung und KI-Strategien in der Immobilienbranche.",
     "city": "berlin",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-08",
     "id": "ba98018e90ebe848"
   },
   {

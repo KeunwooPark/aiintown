@@ -1587,7 +1587,7 @@
     "description_local": "암호화폐, 인공지능 및 머신러닝 기술의 교차점을 탐구하는 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "id": "df95197c3f7e5ec3"
   },
   {
@@ -1633,6 +1633,20 @@
     "id": "8cb3eea67fd99fd9"
   },
   {
+    "title": "DEEP DIVE INTO 2026",
+    "date": "2026-11-10",
+    "venue": "Grand Hyatt Seoul",
+    "url": "https://deepdiveinto.kr/",
+    "source": "DIPS",
+    "description": "DIPS Global Deep Tech Forum focused on Physical AI: Intelligence in Motion. Features 110+ sessions, 1,000+ participating companies, and 8,000+ attendees from 20+ countries exploring industrial transformation through Physical AI.",
+    "title_local": "DEEP DIVE INTO 2026",
+    "description_local": "Physical AI가 만드는 산업의 전환과 새로운 연결을 함께 탐구하는 DIPS 글로벌 딥테크 포럼. 110개 이상의 세션, 1,000개 이상의 참여기업, 8,000명 이상의 참가자.",
+    "city": "seoul",
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "id": "3041413dfd95095b"
+  },
+  {
     "title": "Harnessing AI for Marketing Innovation | Seoul",
     "date": "2026-11-10",
     "venue": "Seoul, South Korea",
@@ -1659,6 +1673,20 @@
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
     "id": "d0518d63b07aec96"
+  },
+  {
+    "title": "AI Content Festival 2026",
+    "date": "2026-11-12",
+    "venue": "COEX 2F The Platz, Studio159, Startup Branch",
+    "url": "https://www.kmjournal.net/news/articleView.html?idxno=14072",
+    "source": "KMJ",
+    "description": "Festival featuring AI-powered content creation including webtoons, videos, and music. Open to the public with hands-on experiences, talk sessions, and open classes on AI content creation. Free admission.",
+    "title_local": "AI 콘텐츠 페스티벌 2026",
+    "description_local": "AI를 활용한 웹툰과 영상, 음악 등 다양한 콘텐츠를 직접 체험하고 창작·비즈니스 가능성까지 살펴볼 수 있는 행사. AI 콘텐츠에 관심 있는 일반 참가자도 무료로 참여 가능.",
+    "city": "seoul",
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "id": "52e253b84b057a3f"
   },
   {
     "title": "AI 콘텐츠 페스티벌 2026 (AI Content Festival 2026)",
@@ -1703,17 +1731,17 @@
     "id": "124389fad9c80a6f"
   },
   {
-    "title": "International Conference on AI and Machine Learning in Big Data Systems",
-    "date": "2026-11-16",
+    "title": "International Conference on AI-driven Image Recognition and Data Science",
+    "date": "2026-11-14",
     "venue": "Seoul, South Korea",
     "url": "https://internationalconferencealerts.com/machine-learning/south-korea/seoul",
-    "source": "Conference Organizer",
-    "description": "Conference on AI and machine learning applications in big data systems, covering scalable algorithms, distributed computing, and data analytics.",
-    "title_local": "International Conference on AI and Machine Learning in Big Data Systems",
-    "description_local": "빅데이터 시스템에서의 AI 및 머신러닝 국제 컨퍼런스.",
+    "source": "International Conference Alerts",
+    "description": "Conference on AI-driven image recognition and data science, supporting learning, research exchange, and professional development in machine learning.",
+    "title_local": "AI 기반 이미지 인식 및 데이터 과학 국제 콘퍼런스",
+    "description_local": "머신러닝 분야의 학습, 연구 교류 및 전문성 개발을 지원하는 AI 기반 이미지 인식 및 데이터 과학 관련 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "id": "299a307f265fbfa2"
   },
   {
@@ -1727,7 +1755,7 @@
     "description_local": "산업 자동화 및 AI 구현에 초점을 맞춘 산업 AI 대전환에 관한 국제 컨퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-08",
     "id": "0795eaff5ad8d2b9"
   },
   {
@@ -1825,7 +1853,7 @@
     "description_local": "AI Research Conference가 주관하는 교육 및 학습 생태계에서 생성형 AI에 관한 세계 컨퍼런스입니다. 논문 제출 마감 2026년 12월 5일.",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "id": "0fe6a14b3c58126c"
   },
   {
