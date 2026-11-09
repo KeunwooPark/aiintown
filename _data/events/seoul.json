@@ -1741,7 +1741,7 @@
     "description_local": "머신러닝 분야의 학습, 연구 교류 및 전문성 개발을 지원하는 AI 기반 이미지 인식 및 데이터 과학 관련 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-09",
     "id": "299a307f265fbfa2"
   },
   {
@@ -1759,6 +1759,20 @@
     "id": "0795eaff5ad8d2b9"
   },
   {
+    "title": "Design Korea",
+    "date": "2026-11-25",
+    "venue": "COEX Convention Center, Seoul",
+    "url": "https://10times.com/korea/artificial-intelligence",
+    "source": "10times.com",
+    "description": "Textile, fabrics and yarns tradeshow with AI and technology components",
+    "title_local": null,
+    "description_local": null,
+    "city": "seoul",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "id": "e041237dbf93652f"
+  },
+  {
     "title": "International Conference on AI and Data Science for Personalized Medicine",
     "date": "2026-11-26",
     "venue": "Seoul, South Korea",
@@ -1769,7 +1783,7 @@
     "description_local": "맞춤 의료 및 헬스케어 분야에서 AI와 데이터 사이언스 응용을 탐구하는 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-09",
     "id": "deb32b78c3c75fc5"
   },
   {

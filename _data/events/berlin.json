@@ -1007,7 +1007,7 @@
     "description_local": "OpenAI veranstaltet einen Abend mit praktischem Bauen, Live-Demos und Diskussion in Berlin, zusammen mit Parloa. Das Programm umfasst, wie führende Engineering-Teams an nützlichen Agenten arbeiten, ein Kamingespräch mit Parloa über ihre Produktionserfahrungen, Neuigkeiten zu Codex und offene Sprechstunden mit OpenAI-Ingenieuren für technische und Produktfragen.",
     "city": "berlin",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-09",
     "id": "90afcf8355d56451"
   },
   {
@@ -2537,6 +2537,20 @@
     "id": "d09466c7ed34f64c"
   },
   {
+    "title": "Miro Meetup: AI Buildathon",
+    "date": "2026-11-12",
+    "venue": "Miro DACH Office, Berlin",
+    "url": "https://www.datentreiber.com/blog/miro-meetup-berlin-in-november-ai-buildathon/",
+    "source": "Datentreiber / Miro Meetups",
+    "description": "Hands-on Berlin meetup at the Miro DACH office focused on collaborative AI, design thinking and rapid prototyping in Miro. Build a better Berlin together using Miro AI. Includes talks on AI for Design Thinking, designing engaging experiences, and Miro AI Flows & Sidekicks, followed by pitches, networking and drinks.",
+    "title_local": "Miro Meetup: AI Buildathon",
+    "description_local": "Hands-on Meetup im Miro DACH Office zum Thema kollaborative KI, Design Thinking und schnelles Prototyping in Miro. Gemeinsam bauen wir ein besseres Berlin. Sie lernen praktisch, wie man benutzerzentrierte KI-Lösungen mit Miro, Miro AI und Design Thinking im Team entwickelt.",
+    "city": "berlin",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "id": "418fbcfdbbae62a6"
+  },
+  {
     "title": "NODES 2026 - Global AI Berlin",
     "date": "2026-11-12",
     "venue": "Berlin",
@@ -2603,7 +2617,7 @@
     "description_local": "Veranstaltung zur Erforschung der Integration von Blockchain-Technologie und künstlicher Intelligenz, mit Schwerpunkt auf verteilten KI-Systemen, dezentralem maschinellem Lernen und Web3-KI-Anwendungen.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-09",
     "id": "0a37c52bb5c8708e"
   },
   {
@@ -3037,7 +3051,7 @@
     "description_local": "Schwerpunkt auf der Produktivsetzung von Data Science, GenAI und AI-Agenten sowie souveräner und vertrauenswürdiger KI. 19. November 2026, 9:00 Uhr.",
     "city": "berlin",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-09",
     "id": "569bc708cc6e9e29"
   },
   {
@@ -3055,17 +3069,31 @@
     "id": "79e1783f2d249d89"
   },
   {
+    "title": "42 x Volkswagen x Databricks - Data & AI Hackathon: The Final Pitches",
+    "date": "2026-11-20",
+    "venue": "42 Berlin",
+    "url": "https://www.eventbrite.com/o/42-berlin-60108695013",
+    "source": "42 Berlin / Eventbrite",
+    "description": "Final pitches for the Data & AI Hackathon organized by 42 Berlin, Volkswagen and Databricks. Free event at 1:30 PM featuring presentations from hackathon participants.",
+    "title_local": "42 x Volkswagen x Databricks - Data & AI Hackathon: Die finalen Pitches",
+    "description_local": "Finale Pitches des Data & AI Hackathons, organisiert von 42 Berlin, Volkswagen und Databricks. Kostenlose Veranstaltung mit Präsentationen der Hackathon-Teilnehmer.",
+    "city": "berlin",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "id": "ddd064f258753404"
+  },
+  {
     "title": "AI Builders × commIT | Hack Day Berlin 2026",
     "date": "2026-11-20",
     "venue": "ImmoScout24, Invalidenstraße 65, 10557 Berlin",
     "url": "https://luma.com/ber-nov20-hday",
-    "source": "AI Builders / Luma",
-    "description": "A one-day hackathon organized by AI Builders and commIT. Participants pitch ideas, form teams, build prototypes, and demo their work. Includes optional workshops, lunch, and awards ceremony.",
+    "source": "Luma / AI Builders",
+    "description": "Full day of building with AI hosted by AI Builders and commIT. Bring an idea, meet collaborators, and turn a promising concept into a working prototype alongside fellow builders. Hands-on AI building with opportunities to exchange ideas. 10:00-22:00.",
     "title_local": "AI Builders × commIT | Hack Day Berlin 2026",
-    "description_local": "Ein eintägiger Hackathon, organisiert von AI Builders und commIT. Teilnehmer pitchen Ideen, bilden Teams, bauen Prototypen und präsentieren ihre Arbeit. Beinhaltet optionale Workshops, Mittagessen und Preisverleihung.",
+    "description_local": "Ganztägiges Event zum Entwickeln mit KI. Bringen Sie eine Idee mit, treffen Sie Mitstreiter und verwandeln Sie ein vielversprechendes Konzept in einen funktionierenden Prototyp gemeinsam mit anderen Entwicklern.",
     "city": "berlin",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-09",
     "id": "d0bc6089edd35346"
   },
   {
@@ -3111,6 +3139,20 @@
     "id": "db36fd55151c179a"
   },
   {
+    "title": "AICon 2026",
+    "date": "2026-11-26",
+    "venue": "Forum Digitale Technologien, Salzufer 15/16, 10587 Berlin",
+    "url": "https://www.tuev-verband.de/events/aicon-2026",
+    "source": "TÜV-Verband / BIFOLD",
+    "description": "Conference dedicated to secure and trustworthy artificial intelligence. Engage with experts from politics, academia, and business. Topics include generative AI, industrial applications, and safety-critical systems. Focus on secure, trustworthy, and responsibly deployed AI. 8:30-16:00.",
+    "title_local": "TÜV AICon 2026",
+    "description_local": "Reservieren Sie sich frühzeitig Ihren Platz auf der AICon, der Konferenz rund um sichere und vertrauenswürdige Künstliche Intelligenz. Diskutieren Sie aktuelle Entwicklungen und konkrete Anwendungsfelder – von generativer KI über industrielle Anwendungen bis hin zu sicherheitskritischen Systemen. Im Fokus 2026: sichere, vertrauenswürdige und verantwortungsvoll eingesetzte Künstliche Intelligenz.",
+    "city": "berlin",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-11-09",
+    "id": "e177750c26801382"
+  },
+  {
     "title": "SAP NOW AI Tour Germany",
     "date": "2026-11-26",
     "venue": "Wilhelm Studios Berlin",
@@ -3123,20 +3165,6 @@
     "first_seen": "2026-10-29",
     "last_seen": "2026-11-06",
     "id": "5e775c013d6c6f42"
-  },
-  {
-    "title": "TÜV AICon 2026",
-    "date": "2026-11-26",
-    "venue": "Forum Digitale Technologien, Salzufer 15/16, 10587 Berlin",
-    "url": "https://www.tuev-verband.de/events/aicon-2026",
-    "source": "TÜV-Verband",
-    "description": "Conference dedicated to secure and trustworthy artificial intelligence. Experts from politics, academia, and business discuss current developments and specific areas of application—from generative AI to industrial applications and safety-critical systems.",
-    "title_local": "TÜV AICon 2026",
-    "description_local": "Reservieren Sie sich frühzeitig Ihren Platz auf der AICon, der Konferenz rund um sichere und vertrauenswürdige Künstliche Intelligenz. Kommen Sie vor Ort mit Expert:innen aus Politik, Wissenschaft und Wirtschaft ins Gespräch.",
-    "city": "berlin",
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-11-04",
-    "id": "e177750c26801382"
   },
   {
     "title": "ClawCamp Berlin – Edition #2: Advancing AI Proficiency",
@@ -3179,6 +3207,20 @@
     "first_seen": "2026-11-06",
     "last_seen": "2026-11-08",
     "id": "ec1567ca946f73d4"
+  },
+  {
+    "title": "AI Monday x Zeiss-Großplanetarium",
+    "date": "2026-11-30",
+    "venue": "Zeiss-Großplanetarium Berlin, Prenzlauer Allee 80, 10405 Berlin",
+    "url": "https://www.planetarium.berlin/veranstaltungen/ai-monday-berlin-x-planetarium-ki-raumfahrt",
+    "source": "Planetarium Berlin / Eventbrite",
+    "description": "Join AI Monday Berlin at the Zeiss-Großplanetarium for an evening exploring how artificial intelligence is transforming space observation, Earth monitoring, and spacecraft operations. Features talks from researchers and startups, followed by networking. Free entry with reservation.",
+    "title_local": "AI Monday Berlin x Planetarium: KI & Raumfahrt",
+    "description_local": "Wenn sich der AI Monday Berlin und die Stiftung Planetarium Berlin zusammenschließen, stehen Künstliche Intelligenz und Weltraum im Mittelpunkt. Freuen Sie sich auf spannende Vorträge und Diskussionen mit Expert*innen aus Wissenschaft, Forschung und der KI-Szene. Im Anschluss bietet ein gemeinsames Networking bei Snacks und Getränken Gelegenheit, neue Kontakte innerhalb der Berliner KI-Community zu knüpfen.",
+    "city": "berlin",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "id": "c2d40857380538aa"
   },
   {
     "title": "Enterprise DevSecOps 2026",
@@ -3235,6 +3277,20 @@
     "first_seen": "2026-11-06",
     "last_seen": "2026-11-06",
     "id": "c8ca98134834d20d"
+  },
+  {
+    "title": "Hybrid Bob DACH Community Gathering Online & Coding Watch Party in Berlin",
+    "date": "2026-12-01",
+    "venue": "Berlin (Hybrid: Online & In-person)",
+    "url": "https://www.eventbrite.com/d/germany--berlin/science-and-tech--networking/",
+    "source": "Eventbrite",
+    "description": "Community-first, AI-powered, hands-on coding event. Explore AI-driven software development with IBM Bob at a free, hands-on hybrid coding watch party in Berlin and online from 4:00 PM to 8:00 PM CET.",
+    "title_local": "Hybrid Bob DACH Community Gathering Online & Coding Watch Party in Berlin",
+    "description_local": "Community-First. KI-gestützt. Hands-on. Entdecken Sie KI-gesteuerte Softwareentwicklung mit IBM Bob bei einer kostenlosen, praktischen hybriden Coding Watch Party in Berlin und online.",
+    "city": "berlin",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "id": "9aef45a67e3244f9"
   },
   {
     "title": "IBM Bob DACH Community Gathering & Coding Watch Party Berlin",
@@ -3323,20 +3379,6 @@
   {
     "title": "AI Coding Summit - Berlin Edition",
     "date": "2026-12-04",
-    "venue": "Berlin",
-    "url": "https://dev.events/EU/DE/ai",
-    "source": "dev.events",
-    "description": "AI conference focused on AI-powered coding and development. December 4-7, 2026. Hybrid: in-person in Berlin or online.",
-    "title_local": "AI Coding Summit - Berlin Edition",
-    "description_local": "KI-Konferenz mit Fokus auf KI-gestütztes Coding und Entwicklung. 4.-7. Dezember 2026. Hybrid: vor Ort in Berlin oder online.",
-    "city": "berlin",
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-10-26",
-    "id": "eaeffef4643a5815"
-  },
-  {
-    "title": "AI Coding Summit - Berlin Edition",
-    "date": "2026-12-04",
     "venue": "Berlin, Germany",
     "url": "https://dev.events/meetups/EU/DE/Berlin/ml",
     "source": "dev.events",
@@ -3347,6 +3389,20 @@
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "id": "761193f35a1b6641"
+  },
+  {
+    "title": "AI Coding Summit Berlin 2026",
+    "date": "2026-12-04",
+    "venue": "Kosmos, Karl-Marx-Allee 131A, Berlin",
+    "url": "https://dev.events/EU/DE/ai",
+    "source": "dev.events / Bond Community",
+    "description": "Conference on AI in software engineering with talks and practical workshops on AI-powered development tools. Features speakers from Microsoft, Stately AI, Hugging Face and others. Aimed at software engineers and engineering leaders adopting AI coding tools. Continues online December 7. Includes an algorave and DJ sets.",
+    "title_local": "AI Coding Summit Berlin 2026",
+    "description_local": "Konferenz zu KI in der Softwareentwicklung mit Vorträgen und praktischen Workshops zu KI-gestützten Entwicklungstools. Für Softwareentwickler und Engineering-Führungskräfte, die KI-Coding-Tools einsetzen. Mit Algorave und DJ-Sets.",
+    "city": "berlin",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-11-09",
+    "id": "eaeffef4643a5815"
   },
   {
     "title": "AI Coding Summit Berlin 2026",
