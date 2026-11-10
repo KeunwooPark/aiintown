@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-10",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -2117,6 +2117,51 @@
     "id": "283a32807d02db1a"
   },
   {
+    "title": "ACT Berlin #11 (AI Coworking Tuesday)",
+    "date": "2026-11",
+    "venue": "w3.hub, Möckernstraße 120, 10963 Berlin",
+    "url": "https://luma.com/act11",
+    "source": "Luma / Circuit Event Calendar",
+    "description": "A working day for people building with AI in Berlin. Bring your laptop and monitor cable. Features workshop/talk by Nils Engeln & Rafael Schultz on 'Who Manages the Agents? Building a Claude-Powered Head of Agents'. No sales pitches, space for those who actually build and deploy.",
+    "title_local": "ACT Berlin #11 (AI Coworking Tuesday)",
+    "description_local": "Ein Arbeitstag für Menschen, die mit KI in Berlin arbeiten. Bring deinen Laptop und Monitorkabel mit. Mit Workshop/Vortrag von Nils Engeln & Rafael Schultz zu 'Wer managt die Agenten? Aufbau eines Claude-betriebenen Head of Agents'. Keine Verkaufspräsentationen, Raum für diejenigen, die tatsächlich bauen und einsetzen.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "id": "e40cfea42b1c3f2a"
+  },
+  {
+    "title": "AI Builders Berlin Meetup",
+    "date": "2026-11",
+    "venue": "Berlin",
+    "url": "https://luma.com/ai-builders",
+    "source": "Luma / AI Builders",
+    "description": "Informal meetup for AI Nerds with practical demos and technical talks about building Gen-AI applications. Organized by AI Builders community.",
+    "title_local": "AI Builders Berlin Meetup",
+    "description_local": "Informelles Meetup für KI-Nerds mit praktischen Demos und technischen Vorträgen über den Aufbau von Gen-AI-Anwendungen. Organisiert von der AI Builders Community.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "id": "eb94d7bd4d8121e0"
+  },
+  {
+    "title": "Evening Talk: AI for Public Health",
+    "date": "2026-11",
+    "venue": "Hertie School, Berlin",
+    "url": "https://luma.com/",
+    "source": "Luma / Hertie School AI Policy Initiative",
+    "description": "Evening talk organized by the Hertie School AI Policy Initiative focusing on applications of AI in public health. Discussion on policy implications and practical applications.",
+    "title_local": "Evening Talk: AI for Public Health",
+    "description_local": "Abendvortrag organisiert von der Hertie School AI Policy Initiative mit Fokus auf KI-Anwendungen im öffentlichen Gesundheitswesen. Diskussion über politische Implikationen und praktische Anwendungen.",
+    "city": "berlin",
+    "date_status": "unknown",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "id": "4f87e4e6b88eac89"
+  },
+  {
     "title": "Digital-Gipfel 2026",
     "date": "2026-11-02",
     "venue": "Berlin",
@@ -2437,34 +2482,6 @@
     "first_seen": "2026-06-23",
     "last_seen": "2026-10-30",
     "id": "afee80afb04875d4"
-  },
-  {
-    "title": "Berlin AI Meetup: Agents Under the Hood & AI in Practice",
-    "date": "2026-11-11",
-    "venue": "Location TBA",
-    "url": "https://www.meetup.com/berlinai/",
-    "source": "Berlin AI",
-    "description": "Berlin AI meetup exploring agent architectures and practical AI applications, organized by GitNation",
-    "title_local": "Berlin AI Meetup: Agents Under the Hood & KI in der Praxis",
-    "description_local": "Berlin AI Treffen zu Agenten-Architekturen und praktischen KI-Anwendungen, organisiert von GitNation",
-    "city": "berlin",
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-10-25",
-    "id": "c927338a65708751"
-  },
-  {
-    "title": "Beyond Text: Imperfect Labels and Intent in Visual Retrieval",
-    "date": "2026-11-11",
-    "venue": "Berlin",
-    "url": "https://www.meetup.com/",
-    "source": "meetup.com",
-    "description": "Technical meetup exploring visual retrieval beyond text, focusing on imperfect labels and intent in AI systems.",
-    "title_local": "Beyond Text: Imperfect Labels and Intent in Visual Retrieval",
-    "description_local": "Technisches Meetup zur Erkundung visueller Retrieval-Systeme jenseits von Text, mit Fokus auf unvollständige Labels und Intent in KI-Systemen.",
-    "city": "berlin",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-05",
-    "id": "b8f31c0e9e25eda4"
   },
   {
     "title": "AI in Production: Building Recommenders and AI-Powered Discovery",
@@ -2789,20 +2806,6 @@
     "id": "9a05b37a144a341e"
   },
   {
-    "title": "Production AI Agents for Generative Media - Launch Stream",
-    "date": "2026-11-16",
-    "venue": "Online (DataTalksClub YouTube)",
-    "url": "https://www.meetup.com/berlin-datatalks-club/",
-    "source": "Berlin DataTalksClub",
-    "description": "Launch stream for a course on production AI systems where agents orchestrate GPU-powered image, video and audio models on Nebius Serverless AI.",
-    "title_local": "Production AI Agents für generative Medien - Launch Stream",
-    "description_local": "Launch-Stream für einen Kurs über Produktions-KI-Systeme, bei denen Agenten GPU-gestützte Bild-, Video- und Audiomodelle auf Nebius Serverless AI orchestrieren.",
-    "city": "berlin",
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-11-04",
-    "id": "b450cd094f29dad9"
-  },
-  {
     "title": "VibeKode Berlin 2026",
     "date": "2026-11-16",
     "venue": "Maritim proArte Hotel Berlin, Friedrichstraße 151, 10117 Berlin",
@@ -2829,6 +2832,20 @@
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "id": "2086ec2b763d859a"
+  },
+  {
+    "title": "Africa AI Finance Executive Dialogue Series - Live from Berlin",
+    "date": "2026-11-17",
+    "venue": "SAP Berlin",
+    "url": "https://www.meetup.com/",
+    "source": "Meetup Berlin",
+    "description": "Join technology leaders, financial services executives, AI practitioners, founders, investors, and policymakers in Berlin as we connect live to the Africa AI Finance Executive Dialogue Series at SAP Berlin.",
+    "title_local": "Africa AI Finance Executive Dialogue Series - Live aus Berlin",
+    "description_local": "Treffen Sie Technologieführer, Führungskräfte aus Finanzdienstleistungen, KI-Praktiker, Gründer, Investoren und Politiker in Berlin, während wir uns live mit der Africa AI Finance Executive Dialogue Series verbinden, bei SAP Berlin.",
+    "city": "berlin",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-10",
+    "id": "b8f31c0e9e25eda4"
   },
   {
     "title": "KI-X HR Convention Vorabend-Check-In",
@@ -2899,6 +2916,20 @@
     "first_seen": "2026-11-06",
     "last_seen": "2026-11-06",
     "id": "9f2d6cf12e19f86a"
+  },
+  {
+    "title": "GTM & AI Engineering Meetup: Agents in Production",
+    "date": "2026-11-18",
+    "venue": "CIC Berlin",
+    "url": "https://www.gtm-week.com/",
+    "source": "GTM Tech Week Berlin",
+    "description": "Hear how teams run AI agents in real GTM (Go-To-Market) systems, then compare notes over pizza and drinks. Part of GTM Tech Week Berlin. Focus on practical implementation of AI agents in production environments.",
+    "title_local": "GTM & AI Engineering Meetup: Agents in Production",
+    "description_local": "Erfahren Sie, wie Teams KI-Agenten in echten GTM-Systemen (Go-To-Market) betreiben, und tauschen Sie sich anschließend bei Pizza und Getränken aus. Teil der GTM Tech Week Berlin. Fokus auf praktische Implementierung von KI-Agenten in Produktionsumgebungen.",
+    "city": "berlin",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "id": "fc2808fbfbf1c350"
   },
   {
     "title": "Global AI Nights - Berlin",
@@ -2995,7 +3026,7 @@
     "description_local": "Exklusiver Fireside Chat gehostet von {Tech: Berlin} und LLM Studios, der aktive Entwickler und Innovatoren in Berlins Tech-Szene zusammenbringt. Mit Marc Klingen, Mitgründer von Langfuse, über LLM-Observability, Startup-Gründung in Berlin und KI-Trends.",
     "city": "berlin",
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-11-10",
     "id": "df9833e57f749195"
   },
   {
@@ -3093,7 +3124,7 @@
     "description_local": "Ganztägiges Event zum Entwickeln mit KI. Bringen Sie eine Idee mit, treffen Sie Mitstreiter und verwandeln Sie ein vielversprechendes Konzept in einen funktionierenden Prototyp gemeinsam mit anderen Entwicklern.",
     "city": "berlin",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-10",
     "id": "d0bc6089edd35346"
   },
   {
@@ -3109,6 +3140,20 @@
     "first_seen": "2026-11-06",
     "last_seen": "2026-11-06",
     "id": "113522c6f6cbf75a"
+  },
+  {
+    "title": "Berlin Robotics & AI Hackathon — HackLab x BRISA",
+    "date": "2026-11-21",
+    "venue": "CIC Berlin, Lohmühlenstraße 65, 12435 Berlin",
+    "url": "https://luma.com/robotics-ai-hackathon-brisa-nov21",
+    "source": "Luma / HackLab",
+    "description": "Build real robotics and Physical AI prototypes at a 48-hour hackathon taking place at CIC Berlin on 21–22 November 2026, with prizes worth €10,000+. Focus on building working Physical AI prototypes.",
+    "title_local": "Berlin Robotics & AI Hackathon — HackLab x BRISA",
+    "description_local": "Baue echte Robotik- und Physical-AI-Prototypen bei einem 48-stündigen Hackathon im CIC Berlin am 21.–22. November 2026, mit Preisen im Wert von über 10.000 €. Fokus auf die Erstellung funktionierender Physical-AI-Prototypen.",
+    "city": "berlin",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "id": "18597fbd2f4fc109"
   },
   {
     "title": "VibeKode Berlin 2026",
@@ -3181,6 +3226,20 @@
     "id": "c88708569dd2436c"
   },
   {
+    "title": "ClawCamp Berlin – Edition #2: Advancing AI Proficiency",
+    "date": "2026-11-27",
+    "venue": "The Delta Campus, Donaustraße 44, 12043 Berlin",
+    "url": "https://luma.com/clawcamp-berlin-2",
+    "source": "Luma / AI Agents Berlin",
+    "description": "A gathering focused on advancing AI proficiency and agentic AI systems. Hosted by AI Agents Berlin and ClawCamp Community at The Delta Campus.",
+    "title_local": "ClawCamp Berlin – Edition #2: Advancing AI Proficiency",
+    "description_local": "Ein Treffen mit Fokus auf die Weiterentwicklung von KI-Kompetenzen und agentischen KI-Systemen. Veranstaltet von AI Agents Berlin und ClawCamp Community im The Delta Campus.",
+    "city": "berlin",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "id": "debdcb25508e3f09"
+  },
+  {
     "title": "BIG BERLIN HACK - 350+ Builders from all over Europe",
     "date": "2026-11-28",
     "venue": "Berlin, Germany",
@@ -3205,7 +3264,7 @@
     "description_local": "Ein Abend im Zeiss-Großplanetarium Berlin, der erforscht, wie künstliche Intelligenz die Art und Weise verändert, wie wir den Weltraum beobachten, verstehen und nutzen. Zusammenführung von Forschern, Gründern, Branchenexperten und Innovatoren an der Schnittstelle von KI und Weltraumtechnologien.",
     "city": "berlin",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-10",
     "id": "ec1567ca946f73d4"
   },
   {
@@ -3291,6 +3350,20 @@
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
     "id": "9aef45a67e3244f9"
+  },
+  {
+    "title": "IBM Bob Coding Watch Party in Berlin & Online",
+    "date": "2026-12-01",
+    "venue": "Berlin (hybrid)",
+    "url": "https://www.meetup.com/berlin-datatalks-club/",
+    "source": "Meetup / DataTalks Club",
+    "description": "Explore AI-driven software development with IBM Bob at a free, hands-on hybrid coding watch party in Berlin and online on 1 December 2026. Workshop format with Sebastian Grodzietzki from IBM.",
+    "title_local": "IBM Bob Coding Watch Party in Berlin & Online",
+    "description_local": "Erforschen Sie KI-gesteuerte Softwareentwicklung mit IBM Bob bei einer kostenlosen, praxisorientierten Hybrid-Coding-Watch-Party in Berlin und online am 1. Dezember 2026. Workshop-Format mit Sebastian Grodzietzki von IBM.",
+    "city": "berlin",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-11-10",
+    "id": "b450cd094f29dad9"
   },
   {
     "title": "IBM Bob DACH Community Gathering & Coding Watch Party Berlin",
@@ -3389,6 +3462,20 @@
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "id": "761193f35a1b6641"
+  },
+  {
+    "title": "AI Coding Summit Berlin 2026",
+    "date": "2026-12-04",
+    "venue": "Kosmos, Karl-Marx-Allee 131A, 10243 Berlin",
+    "url": "https://www.meetup.com/berlinai/",
+    "source": "Meetup / Berlin AI",
+    "description": "Join 500+ engineers and technical leaders at AI Coding Summit Berlin to learn how teams use AI to build, test, and ship production software. Conference runs December 4-7 with online continuation. Features an algorave where artists live-code techno on stage, followed by DJ sets.",
+    "title_local": "AI Coding Summit Berlin 2026",
+    "description_local": "Treffen Sie 500+ Ingenieure und technische Führungskräfte beim AI Coding Summit Berlin, um zu lernen, wie Teams KI nutzen, um Produktionssoftware zu erstellen, zu testen und auszuliefern. Konferenz läuft vom 4.-7. Dezember mit Online-Fortsetzung. Mit Algorave, bei dem Künstler live Techno auf der Bühne programmieren, gefolgt von DJ-Sets.",
+    "city": "berlin",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-11-10",
+    "id": "c927338a65708751"
   },
   {
     "title": "AI Coding Summit Berlin 2026",

@@ -1731,6 +1731,20 @@
     "id": "124389fad9c80a6f"
   },
   {
+    "title": "Generative AI Research Ethics Seminar (Seoul National University)",
+    "date": "2026-11-13",
+    "venue": "Online (Zoom)",
+    "url": "https://whistory.snu.ac.kr/20247/",
+    "source": "Seoul National University",
+    "description": "Online seminar on research ethics in the era of generative AI, focusing on preventing research misconduct and proper use of generative AI in research contexts.",
+    "title_local": "생성형 AI 연구윤리 세미나",
+    "description_local": "생성형 AI의 연구 활용이 확대됨에 따라 발생할 수 있는 연구부정행위를 예방하고, 연구 현장에서 생성형 AI를 올바르게 활용하기 위한 세미나입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "id": "61ea1ad0380d0a44"
+  },
+  {
     "title": "International Conference on AI-driven Image Recognition and Data Science",
     "date": "2026-11-14",
     "venue": "Seoul, South Korea",
@@ -1757,6 +1771,20 @@
     "first_seen": "2026-10-30",
     "last_seen": "2026-11-08",
     "id": "0795eaff5ad8d2b9"
+  },
+  {
+    "title": "2026 Seoul National University School of Public Health AI Days",
+    "date": "2026-11-20",
+    "venue": "Seoul National University, College of Public Health Building 221, Room 100",
+    "url": "https://health.snu.ac.kr/%EC%84%B8%EB%AF%B8%EB%82%98%EC%A0%95%EB%B3%B4/?mod=document&uid=5912",
+    "source": "Seoul National University School of Public Health",
+    "description": "AI Days workshop and symposium focusing on public health education and research in the AI era, with Day 1 (AI Education & Research Workshop) on Nov 20 and Day 2 (Symposium) on Nov 27.",
+    "title_local": "2026 서울대 보건대학원 AI Days",
+    "description_local": "AI 시대의 보건학, 무엇을 묻고 어떻게 가르칠 것인가를 주제로 한 워크숍과 심포지엄. 11월 20일과 27일 두 차례 진행되며 AI 시대의 보건학 교육과 연구를 논의합니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "id": "4399e81d9d459e3d"
   },
   {
     "title": "Design Korea",
@@ -1855,6 +1883,20 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-27",
     "id": "dbd478639179dca7"
+  },
+  {
+    "title": "AI for Finance Summit 2026 Asia",
+    "date": "2026-12-04",
+    "venue": "Park Hyatt Seoul, 3F The Salon",
+    "url": "https://luma.com/uc8dbwzm",
+    "source": "Luma (LinqAlpha x LSEG x LG AI Research)",
+    "description": "Invite-only summit co-hosted by LinqAlpha, LSEG, and LG AI Research (sponsored by Google/AWS), bringing together leaders from Wall Street and global research with Korean and Asian securities, asset management, and banking firms to discuss AI applications in finance.",
+    "title_local": "AI for Finance Summit 2026 Asia",
+    "description_local": "월스트리트와 글로벌 연구 현장의 최전선에 있는 리더들이 AI를 어떻게 바라보고 빌드하고 있는지, 그리고 한국·아시아의 주요 증권·운용·은행이 AI를 실제 어떻게 적용하고 있는지를 한자리에서 다루는 초청 전용 서밋입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "id": "68b0c0557238c25e"
   },
   {
     "title": "World Conference on Generative AI in Education & Learning Ecosystems (WCGAELE)",
