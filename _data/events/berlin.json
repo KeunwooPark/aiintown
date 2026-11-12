@@ -392,7 +392,7 @@
     "description_local": "Monatliches praktisches KI-Builder-Meetup, Teil eines globalen Netzwerks mit 243 Städten und 114.000+ Mitgliedern. Drei-Stunden-Meetups mit Live-Demos von lokalen Buildern, die funktionierende Prototypen, Architektur-Lektionen und praktische Demos zeigen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-12",
     "id": "4867edb863b0a225"
   },
   {
@@ -1735,7 +1735,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-12",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2298,7 +2298,7 @@
     "description_local": "Women's AI Breakfast Event mit Fokus auf den Weg von der Idee zum Startup, mit Sprecherinnen Serra Yosmaoglu, Stephanie Jonkers und Nicole Büttner.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-12",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -2610,6 +2610,20 @@
     "id": "9bbbe4f98204061e"
   },
   {
+    "title": "Berlin AI Meetup: Agents Under the Hood & AI in Practice",
+    "date": "2026-11-13",
+    "venue": "Location not specified yet",
+    "url": "https://luma.com/xwbjncyb",
+    "source": "meetup.com/berlinai, createwith.com",
+    "description": "Berlin AI meetup featuring talks on AI agents and practical AI implementation. Technical show-and-tell for engineers, founders, and product leaders integrating AI into real products and workflows.",
+    "title_local": "Berlin AI Meetup: Agenten im Detail & KI in der Praxis",
+    "description_local": "Berlin AI Meetup mit Vorträgen über KI-Agenten und praktische KI-Implementierung. Technisches Show-and-Tell für Ingenieure, Gründer und Produktverantwortliche, die KI in echte Produkte und Workflows integrieren.",
+    "city": "berlin",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "id": "204b689fd99e927a"
+  },
+  {
     "title": "EAGx Berlin 2026",
     "date": "2026-11-13",
     "venue": "Urania Berlin e.V., An d. Urania 17, 10787 Berlin",
@@ -2804,6 +2818,20 @@
     "first_seen": "2026-06-15",
     "last_seen": "2026-10-26",
     "id": "9a05b37a144a341e"
+  },
+  {
+    "title": "Podiumsdiskussion: KI, Arbeit und soziale Ungleichheit",
+    "date": "2026-11-16",
+    "venue": "WZB Wissenschaftszentrum Berlin für Sozialforschung, Reichpietschufer 50, 10785 Berlin",
+    "url": "https://berlinboxx.de/hauptstadtkalender/kategorie/where-to-go/",
+    "source": "berlinboxx.de",
+    "description": "Panel discussion exploring which forms of work and social order emerge through AI and who benefits from technological changes. Focus on AI's impact on labor markets and social inequality.",
+    "title_local": "Podiumsdiskussion: KI, Arbeit und soziale Ungleichheit",
+    "description_local": "Podiumsdiskussion über die Formen von Arbeit und sozialer Ordnung, die durch KI entstehen, und wer von technologischen Veränderungen profitiert. Fokus auf die Auswirkungen von KI auf Arbeitsmärkte und soziale Ungleichheit.",
+    "city": "berlin",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "id": "931e5ff70548aeb2"
   },
   {
     "title": "VibeKode Berlin 2026",
@@ -3118,13 +3146,13 @@
     "date": "2026-11-20",
     "venue": "ImmoScout24, Invalidenstraße 65, 10557 Berlin",
     "url": "https://luma.com/ber-nov20-hday",
-    "source": "Luma / AI Builders",
-    "description": "Full day of building with AI hosted by AI Builders and commIT. Bring an idea, meet collaborators, and turn a promising concept into a working prototype alongside fellow builders. Hands-on AI building with opportunities to exchange ideas. 10:00-22:00.",
+    "source": "luma.com",
+    "description": "Full day of building useful things with AI. Focused hands-on AI building day with GTM Track (AI for winning customers: lead research, outreach, sales agents) and Open Track (build anything useful with AI). Opportunities to meet other AI builders and exchange ideas.",
     "title_local": "AI Builders × commIT | Hack Day Berlin 2026",
-    "description_local": "Ganztägiges Event zum Entwickeln mit KI. Bringen Sie eine Idee mit, treffen Sie Mitstreiter und verwandeln Sie ein vielversprechendes Konzept in einen funktionierenden Prototyp gemeinsam mit anderen Entwicklern.",
+    "description_local": "Ganztägiges Event zum Erstellen nützlicher Anwendungen mit KI. Fokussierter praktischer KI-Bautag mit GTM Track (KI für Kundengewinnung: Lead-Research, Outreach, Sales-Agenten) und Open Track (baue alles Nützliche mit KI). Gelegenheiten, andere KI-Builder zu treffen und Ideen auszutauschen.",
     "city": "berlin",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-12",
     "id": "d0bc6089edd35346"
   },
   {
@@ -3212,6 +3240,20 @@
     "id": "5e775c013d6c6f42"
   },
   {
+    "title": "TÜV AICon 2026",
+    "date": "2026-11-26",
+    "venue": "Forum Digitale Technologien, Salzufer 15/16, 10587 Berlin",
+    "url": "https://event.tuev-verband.de/events/dddc84d3a1",
+    "source": "tuev-verband.de, bifold.berlin",
+    "description": "Conference dedicated to secure, trustworthy, and responsibly deployed artificial intelligence. Features experts from politics, academia, and business discussing current developments from generative AI to industrial applications and safety-critical systems. Focus on secure and trustworthy AI applications.",
+    "title_local": "TÜV AICon 2026",
+    "description_local": "Konferenz zu sicherer, vertrauenswürdiger und verantwortungsvoll eingesetzter Künstlicher Intelligenz. Expert:innen aus Politik, Wissenschaft und Wirtschaft diskutieren aktuelle Entwicklungen von generativer KI über industrielle Anwendungen bis zu sicherheitskritischen Systemen. Fokus auf sichere und vertrauenswürdige KI-Anwendungen.",
+    "city": "berlin",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "id": "5e31f8f00a35d064"
+  },
+  {
     "title": "ClawCamp Berlin – Edition #2: Advancing AI Proficiency",
     "date": "2026-11-27",
     "venue": "The Delta Campus, Berlin",
@@ -3280,6 +3322,20 @@
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
     "id": "c2d40857380538aa"
+  },
+  {
+    "title": "AI Monday x Zeiss-Großplanetarium: AI & Space Exploration",
+    "date": "2026-11-30",
+    "venue": "Zeiss-Großplanetarium, Prenzlauer Allee 80, 10405 Berlin",
+    "url": "https://www.visitberlin.de/en/event/ai-monday-berlin-x-planetarium-ai-space-exploration",
+    "source": "visitberlin.de, createwith.com",
+    "description": "90-minute in-person event exploring AI and space technology. Fascinating talks and discussions with experts from science, research and the AI scene on current developments at the intersection of AI and space exploration. Networking session with snacks and drinks follows. Event held in English.",
+    "title_local": "AI Monday x Zeiss-Großplanetarium: KI & Weltraumforschung",
+    "description_local": "90-minütiges persönliches Event über KI und Weltraumtechnologie. Faszinierende Vorträge und Diskussionen mit Expert:innen aus Wissenschaft, Forschung und der KI-Szene über aktuelle Entwicklungen an der Schnittstelle von KI und Weltraumforschung. Anschließend Networking-Session mit Snacks und Drinks. Veranstaltung auf Englisch.",
+    "city": "berlin",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "id": "f0df59c7ee679f10"
   },
   {
     "title": "Enterprise DevSecOps 2026",
@@ -3578,15 +3634,15 @@
   {
     "title": "BBA KI-Konferenz 2026",
     "date": "2026-12-09",
-    "venue": "Berlin",
+    "venue": "Berlin (Hauptstraße 78-79, 12159 Berlin)",
     "url": "https://deutschlandki.de/ki-events",
-    "source": "Deutschland KI",
-    "description": "Industry conference for the housing sector focusing on generative AI, business process automation and AI strategies in the real estate industry.",
+    "source": "deutschlandki.de, berlinboxx.de",
+    "description": "Industry conference focused on generative AI, business process automation and AI strategies in the housing industry. Topics include AI in property management and real estate.",
     "title_local": "BBA KI-Konferenz 2026",
-    "description_local": "Branchenkonferenz für die Wohnungswirtschaft mit Schwerpunkt auf generativer KI, Geschäftsprozessautomatisierung und KI-Strategien in der Immobilienbranche.",
+    "description_local": "Branchenkonferenz mit Fokus auf generative KI, Geschäftsprozessautomatisierung und KI-Strategien in der Wohnungswirtschaft. Themen umfassen KI in der Immobilienverwaltung und im Immobilienwesen.",
     "city": "berlin",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-12",
     "id": "ba98018e90ebe848"
   },
   {

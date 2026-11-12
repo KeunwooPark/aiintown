@@ -665,7 +665,7 @@
     "description_local": "엔지니어, 창업자, 연구자, 제품 개발자를 위한 실전 AI 빌더 커뮤니티 밋업. AI 에이전트, 멀티모달 및 음성 인터페이스, RAG 및 지식 시스템, AI 코딩 도구, 워크플로우 자동화, 평가, 관찰성 및 프로덕션 AI 인프라에 대한 실제 프로젝트 데모",
     "city": "seoul",
     "first_seen": "2026-08-05",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "id": "e05542a7457ed01f"
   },
   {
@@ -1717,6 +1717,20 @@
     "id": "b7198c82df2319cd"
   },
   {
+    "title": "Physical AI Conference 2026",
+    "date": "2026-11-12",
+    "venue": "Seoul (venue TBD)",
+    "url": "https://luma.com/y0qs8gra",
+    "source": "luma.com",
+    "description": "Third annual Physical AI Conference exploring possibilities of Physical AI and meeting people bringing them into the real world. Hosted by K-PAI (Korean Private AI Forum), focusing on AI security, robotics, homomorphic encryption.",
+    "title_local": "Physical AI Conference 2026",
+    "description_local": "세 번째 Physical AI Conference 2026에 함께해 Physical AI의 가능성을 살펴보고, 이를 현실로 만들어가는 사람들을 만나보세요. Physical AI to Real World — 현실 세계로 확장되는 AI",
+    "city": "seoul",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "id": "b16efddc3f97a4ea"
+  },
+  {
     "title": "고려대 AI의 언어, 인간에게서 찾다 세미나",
     "date": "2026-11-12",
     "venue": "KT&G 상상플래닛 3층, 서울 성수동",
@@ -1797,7 +1811,7 @@
     "description_local": null,
     "city": "seoul",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-12",
     "id": "e041237dbf93652f"
   },
   {
@@ -1857,6 +1871,20 @@
     "id": "5b863e7a2aa30205"
   },
   {
+    "title": "2026 인공지능 전환 (AX) 콘퍼런스",
+    "date": "2026-12-01",
+    "venue": "SKY31 Convention, Lotte World Tower 31F, Seoul",
+    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004605",
+    "source": "asiatoday.co.kr",
+    "description": "Organized by Venture Business Association's AX Bridge Committee. Theme 'AX NEXT 2027' covers policy communication, corporate AX application cases, 2027 AI/AX industry outlook lectures, and AI solution showcase.",
+    "title_local": "2026 인공지능 전환 (AX) 콘퍼런스",
+    "description_local": "AX 넥스트(NEXT) 2027을 슬로건으로 정책 소통, 기업의 AX 적용사례 발표, 2027년 AI·AX 산업 전망 강연, AI 솔루션 쇼케이스 등 다양한 프로그램 진행",
+    "city": "seoul",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "id": "672b9efb8be1ae68"
+  },
+  {
     "title": "ACML 2026 - The 18th Asian Conference on Machine Learning",
     "date": "2026-12-01",
     "venue": "TBA, Asia-Pacific region",
@@ -1911,6 +1939,20 @@
     "first_seen": "2026-10-14",
     "last_seen": "2026-11-11",
     "id": "0fe6a14b3c58126c"
+  },
+  {
+    "title": "COMEUP 2026",
+    "date": "2026-12-09",
+    "venue": "Seoul",
+    "url": "https://zevente.com/south-korea",
+    "source": "zevente.com",
+    "description": "Startup innovation and deep technology conference featuring talks on robotics, AI, space businesses and entrepreneurship. Runs December 9-11, 2026.",
+    "title_local": "COMEUP 2026",
+    "description_local": "로보틱스, AI, 우주 비즈니스 및 창업에 관한 스타트업 혁신 및 딥 테크놀로지 컨퍼런스",
+    "city": "seoul",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "id": "eab31c8aa0ee0049"
   },
   {
     "title": "Generative AI, Big Data Analytics & Responsible Innovation Conference (ICGAIBARI)",
