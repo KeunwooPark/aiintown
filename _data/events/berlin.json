@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-13",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -392,7 +392,7 @@
     "description_local": "Monatliches praktisches KI-Builder-Meetup, Teil eines globalen Netzwerks mit 243 Städten und 114.000+ Mitgliedern. Drei-Stunden-Meetups mit Live-Demos von lokalen Buildern, die funktionierende Prototypen, Architektur-Lektionen und praktische Demos zeigen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "id": "4867edb863b0a225"
   },
   {
@@ -1735,7 +1735,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2284,7 +2284,7 @@
     "description_local": "Buildersklub monatliches Meetup mit Fokus auf souveräne und verantwortungsvolle KI-Einführung, mit echten Geschichten von Teams, die KI und Automatisierung nutzen.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-13",
     "id": "40b36f30494c75e2"
   },
   {
@@ -2624,6 +2624,20 @@
     "id": "204b689fd99e927a"
   },
   {
+    "title": "Calliope-Tag 2026 der Allianz für informatische Bildung",
+    "date": "2026-11-13",
+    "venue": "KiezLab im EDGE East Side Tower, Tamara-Danz-Straße 13, 10243 Berlin",
+    "url": "https://www.eventbrite.de/e/calliope-tag-2026-der-allianz-fur-informatische-bildung-tickets-2001415556807",
+    "source": "Calliope gGmbH / Eventbrite",
+    "description": "Celebrating the 10th birthday of the Calliope mini! An inspiring meeting about computer science education, where you can exchange ideas personally with other actors.",
+    "title_local": "Calliope-Tag 2026 der Allianz für informatische Bildung",
+    "description_local": "Feiert mit uns den 10. Geburtstag des Calliope mini! Ein inspirierendes Treffen rund um die informatische Bildung, bei dem du dich persönlich mit anderen Akteur:innen austauschen kannst.",
+    "city": "berlin",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "id": "d3727cdd42cf2b23"
+  },
+  {
     "title": "EAGx Berlin 2026",
     "date": "2026-11-13",
     "venue": "Urania Berlin e.V., An d. Urania 17, 10787 Berlin",
@@ -2832,6 +2846,20 @@
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-12",
     "id": "931e5ff70548aeb2"
+  },
+  {
+    "title": "Rapid Prototyping mit KI für Anfänger:innen: Ein eigenes Drumkit bauen",
+    "date": "2026-11-16",
+    "venue": "Hasso-Plattner-Institut",
+    "url": "https://www.eventbrite.de/o/ai-services-berlin-brandenburg-hpi-77903452433",
+    "source": "KI-Servicezentrum Berlin-Brandenburg @ HPI",
+    "description": "Rapid prototyping with AI for beginners: building your own drum kit. Free event organized by the AI Service Center Berlin-Brandenburg at HPI.",
+    "title_local": "Rapid Prototyping mit KI für Anfänger:innen: Ein eigenes Drumkit bauen",
+    "description_local": "Rapid Prototyping mit KI für Anfänger:innen: Ein eigenes Drumkit bauen. Kostenlose Veranstaltung organisiert vom KI-Servicezentrum Berlin-Brandenburg am HPI.",
+    "city": "berlin",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "id": "d594ce5a8ba270b9"
   },
   {
     "title": "VibeKode Berlin 2026",
@@ -3208,7 +3236,7 @@
     "description_local": "Von SAP veranstaltetes KI-Treffen mit den Sprechern Olcayto Cengiz und Yuanzhen Ji über Fähigkeiten und Strategien für KI-Innovation. Veranstaltung um 15:00 Uhr.",
     "city": "berlin",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-13",
     "id": "db36fd55151c179a"
   },
   {
@@ -3252,6 +3280,20 @@
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-12",
     "id": "5e31f8f00a35d064"
+  },
+  {
+    "title": "Agentic Hackathon: From Research to Commerce",
+    "date": "2026-11-27",
+    "venue": "The Delta Campus, Donaustraße 44, 12043 Berlin",
+    "url": "https://luma.com/research-to-commerce",
+    "source": "AI Agents Berlin",
+    "description": "From Research to Action: Agents That Discover, Verify & Transact. Form a team, pick a track, ship a working demo by the evening — then carry the best builds through to AIB Demo Day in December. Friday, November 27, 14:00–21:00.",
+    "title_local": "Agentic Hackathon: Von der Forschung zum Handel",
+    "description_local": "Von der Forschung zur Aktion: Agenten, die entdecken, verifizieren & handeln. Bilden Sie ein Team, wählen Sie einen Track, liefern Sie bis zum Abend eine funktionierende Demo ab — dann bringen Sie die besten Builds zum AIB Demo Day im Dezember. Freitag, 27. November, 14:00–21:00 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "id": "ce22d167dcb7a58b"
   },
   {
     "title": "ClawCamp Berlin – Edition #2: Advancing AI Proficiency",
@@ -3520,17 +3562,17 @@
     "id": "761193f35a1b6641"
   },
   {
-    "title": "AI Coding Summit Berlin 2026",
+    "title": "AI Coding Summit Berlin",
     "date": "2026-12-04",
-    "venue": "Kosmos, Karl-Marx-Allee 131A, 10243 Berlin",
+    "venue": "Kosmos, Karl-Marx-Allee 131a, 10243 Berlin",
     "url": "https://www.meetup.com/berlinai/",
-    "source": "Meetup / Berlin AI",
-    "description": "Join 500+ engineers and technical leaders at AI Coding Summit Berlin to learn how teams use AI to build, test, and ship production software. Conference runs December 4-7 with online continuation. Features an algorave where artists live-code techno on stage, followed by DJ sets.",
-    "title_local": "AI Coding Summit Berlin 2026",
-    "description_local": "Treffen Sie 500+ Ingenieure und technische Führungskräfte beim AI Coding Summit Berlin, um zu lernen, wie Teams KI nutzen, um Produktionssoftware zu erstellen, zu testen und auszuliefern. Konferenz läuft vom 4.-7. Dezember mit Online-Fortsetzung. Mit Algorave, bei dem Künstler live Techno auf der Bühne programmieren, gefolgt von DJ-Sets.",
+    "source": "Berlin AI / Meetup",
+    "description": "Join 500+ engineers and technical leaders to learn how teams use AI to build, test, and ship production software. Discussion rooms, developer networking, and meet speakers between sessions. Followed by an algorave where artists live-code techno on stage and DJ sets. Continues online on December 7.",
+    "title_local": "AI Coding Summit Berlin",
+    "description_local": "Treffen Sie 500+ Ingenieure und technische Führungskräfte, um zu lernen, wie Teams KI zum Erstellen, Testen und Ausliefern von Produktionssoftware nutzen. Diskussionsräume, Entwickler-Networking und Treffen mit Speakern zwischen den Sessions. Gefolgt von einem Algorave, bei dem Künstler Techno live coden, und DJ-Sets. Fortsetzung online am 7. Dezember.",
     "city": "berlin",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-13",
     "id": "c927338a65708751"
   },
   {

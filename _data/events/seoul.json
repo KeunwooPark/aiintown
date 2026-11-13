@@ -665,7 +665,7 @@
     "description_local": "엔지니어, 창업자, 연구자, 제품 개발자를 위한 실전 AI 빌더 커뮤니티 밋업. AI 에이전트, 멀티모달 및 음성 인터페이스, RAG 및 지식 시스템, AI 코딩 도구, 워크플로우 자동화, 평가, 관찰성 및 프로덕션 AI 인프라에 대한 실제 프로젝트 데모",
     "city": "seoul",
     "first_seen": "2026-08-05",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "id": "e05542a7457ed01f"
   },
   {
@@ -1839,7 +1839,7 @@
     "description_local": "비즈니스 관리에서의 AI 적용 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-13",
     "id": "134eb44963400bcb"
   },
   {
@@ -1937,7 +1937,7 @@
     "description_local": "AI Research Conference가 주관하는 교육 및 학습 생태계에서 생성형 AI에 관한 세계 컨퍼런스입니다. 논문 제출 마감 2026년 12월 5일.",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-13",
     "id": "0fe6a14b3c58126c"
   },
   {
@@ -1955,17 +1955,17 @@
     "id": "eab31c8aa0ee0049"
   },
   {
-    "title": "Generative AI, Big Data Analytics & Responsible Innovation Conference (ICGAIBARI)",
+    "title": "Social Media Influence, Digital Branding & Marketing Innovation using AI Conference (GCSDMI)",
     "date": "2026-12-18",
     "venue": "Seoul, South Korea",
     "url": "https://www.allconferencealert.com/seoul/artificial-intelligence",
-    "source": "All Conference Alert",
-    "description": "Two-day conference on generative AI, big data analytics and responsible innovation, December 18-19, 2026.",
-    "title_local": "생성형 AI, 빅데이터 분석 및 책임있는 혁신 컨퍼런스 (ICGAIBARI)",
-    "description_local": "생성형 AI, 빅데이터 분석 및 책임있는 혁신에 관한 이틀간의 컨퍼런스. 2026년 12월 18-19일 개최.",
+    "source": "Academicsworld",
+    "description": "Two-day conference on social media, digital branding, and AI-driven marketing innovation. December 18-19, 2026.",
+    "title_local": "Social Media Influence, Digital Branding & Marketing Innovation using AI Conference (GCSDMI)",
+    "description_local": "소셜미디어 영향력, 디지털 브랜딩 및 AI 기반 마케팅 혁신 학술대회. 2일간 진행.",
     "city": "seoul",
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-13",
     "id": "b89ec0fad393b8e8"
   },
   {
