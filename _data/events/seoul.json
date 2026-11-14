@@ -665,7 +665,7 @@
     "description_local": "엔지니어, 창업자, 연구자, 제품 개발자를 위한 실전 AI 빌더 커뮤니티 밋업. AI 에이전트, 멀티모달 및 음성 인터페이스, RAG 및 지식 시스템, AI 코딩 도구, 워크플로우 자동화, 평가, 관찰성 및 프로덕션 AI 인프라에 대한 실제 프로젝트 데모",
     "city": "seoul",
     "first_seen": "2026-08-05",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-14",
     "id": "e05542a7457ed01f"
   },
   {
@@ -1871,6 +1871,20 @@
     "id": "5b863e7a2aa30205"
   },
   {
+    "title": "2026 AX Conference",
+    "title_local": "2026 AX컨퍼런스",
+    "date": "2026-12-01",
+    "venue": "SKY31 CONVENTION, Lotte World Tower, Seoul",
+    "url": "https://www.venturesquare.net/1128119",
+    "source": "Korea Venture Business Association",
+    "description": "Conference focused on AI transformation beyond proof-of-concept to enterprise-wide adoption, discussing barriers to AI adoption and sustainable collaboration between supply and demand companies.",
+    "description_local": "벤처기업협회가 12월 1일 서울 롯데월드타워 SKY31 CONVENTION에서 개최. 'AX 실증을 넘어 확산으로'를 주제로 AI 도입 장벽과 실증 이후 사업화, 시장 확대 방안 등을 논의합니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "id": "da6d89e3656ba78c"
+  },
+  {
     "title": "2026 인공지능 전환 (AX) 콘퍼런스",
     "date": "2026-12-01",
     "venue": "SKY31 Convention, Lotte World Tower 31F, Seoul",
@@ -1911,6 +1925,20 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-27",
     "id": "dbd478639179dca7"
+  },
+  {
+    "title": "AI x SOFTWAVE 2026 (11th Korea Software Exhibition)",
+    "title_local": "제11회 대한민국 소프트웨어 대전, AI x 소프트웨이브 2026",
+    "date": "2026-12-02",
+    "venue": "COEX Hall A, Seoul",
+    "url": "https://k-softwave.com/",
+    "source": "Softwave Organizing Committee",
+    "description": "Korea's leading AI and software business exhibition featuring IT services, packaged software, AI, fusion SW, internet SW, games, and content SW. B2B-focused platform connecting digital transformation and business innovation.",
+    "description_local": "과학기술정보통신부 SW주간 대표 행사. AI, 클라우드, 데이터, 보안, 엔터프라이즈 소프트웨어 등 다양한 분야의 최신 기술과 솔루션 소개. IT서비스, 패키지SW, AI, 융합SW, 인터넷SW, 게임, 콘텐츠SW 전시.",
+    "city": "seoul",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "id": "e4e49f38e9a0e4a3"
   },
   {
     "title": "AI for Finance Summit 2026 Asia",
