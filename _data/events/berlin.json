@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-15",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -392,7 +392,7 @@
     "description_local": "Monatliches praktisches KI-Builder-Meetup, Teil eines globalen Netzwerks mit 243 Städten und 114.000+ Mitgliedern. Drei-Stunden-Meetups mit Live-Demos von lokalen Buildern, die funktionierende Prototypen, Architektur-Lektionen und praktische Demos zeigen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-15",
     "id": "4867edb863b0a225"
   },
   {
@@ -701,7 +701,7 @@
     "description_local": "Die führende Event-Reihe der Stadt zur Konvergenz von agentischer KI und Blockchain. Mehrere Sessions bis Dezember 2026 einschließlich AI Agents Summit und Sub-Events, Branchen-Calls und Workshops.",
     "city": "berlin",
     "first_seen": "2026-07-21",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-15",
     "id": "6c1b442fc41ffe5f"
   },
   {
@@ -1735,7 +1735,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-15",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2284,7 +2284,7 @@
     "description_local": "Buildersklub monatliches Meetup mit Fokus auf souveräne und verantwortungsvolle KI-Einführung, mit echten Geschichten von Teams, die KI und Automatisierung nutzen.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-15",
     "id": "40b36f30494c75e2"
   },
   {
@@ -2298,7 +2298,7 @@
     "description_local": "Women's AI Breakfast Event mit Fokus auf den Weg von der Idee zum Startup, mit Sprecherinnen Serra Yosmaoglu, Stephanie Jonkers und Nicole Büttner.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-15",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -2888,6 +2888,20 @@
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "id": "2086ec2b763d859a"
+  },
+  {
+    "title": "AI Series: Jonas Geiping — Safety and Security of LLM Reasoning",
+    "date": "2026-11-17",
+    "venue": "TU Berlin Mathematikgebäude, Berlin",
+    "url": "https://luma.com/mvyomo7c",
+    "source": "luma.com",
+    "description": "Research Group Leader at Max Planck Institute for Intelligent Systems discusses safety and security of LLM reasoning. Part of BLISS AI Speaker Series.",
+    "title_local": "AI Series: Jonas Geiping — Sicherheit und Security von LLM-Reasoning",
+    "description_local": "Forschungsgruppenleiter am Max-Planck-Institut für Intelligente Systeme diskutiert Sicherheit und Security von LLM-Reasoning. Teil der BLISS AI Speaker Series.",
+    "city": "berlin",
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15",
+    "id": "acd0a1b81ca259ba"
   },
   {
     "title": "Africa AI Finance Executive Dialogue Series - Live from Berlin",
@@ -3572,7 +3586,7 @@
     "description_local": "Treffen Sie 500+ Ingenieure und technische Führungskräfte, um zu lernen, wie Teams KI zum Erstellen, Testen und Ausliefern von Produktionssoftware nutzen. Diskussionsräume, Entwickler-Networking und Treffen mit Speakern zwischen den Sessions. Gefolgt von einem Algorave, bei dem Künstler Techno live coden, und DJ-Sets. Fortsetzung online am 7. Dezember.",
     "city": "berlin",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-15",
     "id": "c927338a65708751"
   },
   {
@@ -3684,7 +3698,7 @@
     "description_local": "Branchenkonferenz mit Fokus auf generative KI, Geschäftsprozessautomatisierung und KI-Strategien in der Wohnungswirtschaft. Themen umfassen KI in der Immobilienverwaltung und im Immobilienwesen.",
     "city": "berlin",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-15",
     "id": "ba98018e90ebe848"
   },
   {

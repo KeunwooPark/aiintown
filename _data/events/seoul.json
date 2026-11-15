@@ -669,20 +669,6 @@
     "id": "e05542a7457ed01f"
   },
   {
-    "title": "Daytona HackSprint Seoul 해커톤",
-    "date": "2026-09-01",
-    "venue": "Seoul, South Korea",
-    "url": "https://luma.com/theaibuildersdev",
-    "source": "AI Builders, Daytona & Nosana",
-    "description": "AI development hackathon hosted by AI Builders community in Seoul",
-    "title_local": "Daytona HackSprint Seoul 해커톤",
-    "description_local": "서울의 AI Builders 커뮤니티가 주최하는 AI 개발 해커톤",
-    "city": "seoul",
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-09-01",
-    "id": "4dd277638ee5a9e8"
-  },
-  {
     "title": "Search SEOul",
     "date": "2026-09-01",
     "venue": "Seoul, South Korea",
@@ -1981,6 +1967,20 @@
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-12",
     "id": "eab31c8aa0ee0049"
+  },
+  {
+    "title": "AI Builders Seoul: December Meetup",
+    "date": "2026-12-11",
+    "venue": "Seoul, South Korea",
+    "url": "https://luma.com/theaibuildersdev",
+    "source": "AI Builders Community / Luma",
+    "description": "A community meetup for AI builders, developers, and innovators in Seoul. Part of the AI Builders network spanning Singapore, Tokyo, Seoul, and San Francisco Bay Area. Free general admission.",
+    "title_local": "AI Builders Seoul: 12월 밋업",
+    "description_local": "서울의 AI 개발자, 빌더, 혁신가들을 위한 커뮤니티 밋업. 싱가포르, 도쿄, 서울, 샌프란시스코 베이 에리어를 연결하는 AI Builders 네트워크의 일환. 무료 입장.",
+    "city": "seoul",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-11-15",
+    "id": "4dd277638ee5a9e8"
   },
   {
     "title": "Social Media Influence, Digital Branding & Marketing Innovation using AI Conference (GCSDMI)",
