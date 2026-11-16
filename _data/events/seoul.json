@@ -665,7 +665,7 @@
     "description_local": "엔지니어, 창업자, 연구자, 제품 개발자를 위한 실전 AI 빌더 커뮤니티 밋업. AI 에이전트, 멀티모달 및 음성 인터페이스, RAG 및 지식 시스템, AI 코딩 도구, 워크플로우 자동화, 평가, 관찰성 및 프로덕션 AI 인프라에 대한 실제 프로젝트 데모",
     "city": "seoul",
     "first_seen": "2026-08-05",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-16",
     "id": "e05542a7457ed01f"
   },
   {
@@ -1587,7 +1587,7 @@
     "description_local": "인공지능을 활용한 교육 및 학습 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-10-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-16",
     "id": "091d10ee586f64b1"
   },
   {
@@ -1813,6 +1813,20 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-11-09",
     "id": "deb32b78c3c75fc5"
+  },
+  {
+    "title": "AI Seoul - AI Adoption Talk",
+    "date": "2026-11-28",
+    "venue": "Gangnam Station area, Seoul",
+    "url": "https://www.meetup.com/ai-seoul-public/",
+    "source": "Meetup - AI Seoul",
+    "description": "Casual lunch meetup (12:00 PM) at a restaurant or café for learning and discussing AI adoption, AI/Robotics topics. Typically 6-14 attendees in an intimate setting with open session discussions.",
+    "title_local": "AI Adoption Talk - Learning & Talking on AI",
+    "description_local": "레스토랑이나 카페에서 점심 시간에 진행되는 AI 도입 및 AI/로보틱스 주제 학습 및 토론 모임. 주제 소개와 오픈 세션으로 구성.",
+    "city": "seoul",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "id": "585e3da8a9976884"
   },
   {
     "title": "International Conference on Application of AI in Business Management (ICAAIBM)",
