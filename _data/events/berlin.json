@@ -336,7 +336,7 @@
     "description_local": "Engineering-orientierter Tag in Berlin zum Aufbau autonomer KI-Agenten von Grund auf, Beherrschung des 'Vibe Coding'-Workflows mit Google-Experten und praktischen Labs. Themen: Agentische Orchestrierung, Reasoning und Planung mit Gemini, schnelle Entwicklung mit Agent Development Kit (ADK).",
     "city": "berlin",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-08-23",
+    "last_seen": "2026-11-17",
     "id": "0d7e0875ef229f2e"
   },
   {
@@ -392,7 +392,7 @@
     "description_local": "Monatliches praktisches KI-Builder-Meetup, Teil eines globalen Netzwerks mit 243 Städten und 114.000+ Mitgliedern. Drei-Stunden-Meetups mit Live-Demos von lokalen Buildern, die funktionierende Prototypen, Architektur-Lektionen und praktische Demos zeigen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-17",
     "id": "4867edb863b0a225"
   },
   {
@@ -2960,6 +2960,20 @@
     "id": "f1c3b9d267f424f4"
   },
   {
+    "title": "commerce.dev: Agentic Commerce & AI Meetup",
+    "date": "2026-11-17",
+    "venue": "Mindspace Zimmerstraße 78, Berlin-Mitte",
+    "url": "https://luma.com/mai9oijm",
+    "source": "Your Next Store × Vercel",
+    "description": "GTM Tech Week Berlin side event focused on how AI agents are transforming commerce. Discusses how AI agents now search, compare and buy on behalf of customers, and what this means for brands. Free event with soft drinks and snacks. Doors open 18:00, ends 21:00.",
+    "title_local": "commerce.dev: Agentic Commerce & KI-Meetup",
+    "description_local": "GTM Tech Week Berlin Side-Event, das sich darauf konzentriert, wie KI-Agenten den Handel transformieren. Diskutiert, wie KI-Agenten jetzt im Namen von Kunden suchen, vergleichen und kaufen, und was das für Marken bedeutet.",
+    "city": "berlin",
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "id": "c5fa5c52c215c2f5"
+  },
+  {
     "title": "BVDW KI-Meet-Up",
     "date": "2026-11-18",
     "venue": "Google AI Center Berlin",
@@ -3026,7 +3040,7 @@
     "description_local": "KI, Automatisierung und neue Konsumgewohnheiten verändern den Handel – und werfen Fragen nach dem Verhältnis von Technologie, Wirtschaft und Mensch auf.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-17",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -3301,12 +3315,12 @@
     "venue": "The Delta Campus, Donaustraße 44, 12043 Berlin",
     "url": "https://luma.com/research-to-commerce",
     "source": "AI Agents Berlin",
-    "description": "From Research to Action: Agents That Discover, Verify & Transact. Form a team, pick a track, ship a working demo by the evening — then carry the best builds through to AIB Demo Day in December. Friday, November 27, 14:00–21:00.",
-    "title_local": "Agentic Hackathon: Von der Forschung zum Handel",
-    "description_local": "Von der Forschung zur Aktion: Agenten, die entdecken, verifizieren & handeln. Bilden Sie ein Team, wählen Sie einen Track, liefern Sie bis zum Abend eine funktionierende Demo ab — dann bringen Sie die besten Builds zum AIB Demo Day im Dezember. Freitag, 27. November, 14:00–21:00 Uhr.",
+    "description": "Form a team, pick a track, ship a working demo by the evening — then carry the best builds through to AIB Demo Day in December. Friday, 14:00-21:00. Focus on agents that discover, verify & transact. Part of Berlin's agentic economy community.",
+    "title_local": "Agentischer Hackathon: Von der Forschung zum Handel",
+    "description_local": "Bilden Sie ein Team, wählen Sie einen Track, liefern Sie bis zum Abend eine funktionierende Demo – und bringen Sie die besten Builds dann zum AIB Demo Day im Dezember. Freitag, 14:00-21:00. Fokus auf Agenten, die entdecken, verifizieren und Transaktionen durchführen.",
     "city": "berlin",
     "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-17",
     "id": "ce22d167dcb7a58b"
   },
   {
@@ -3368,15 +3382,15 @@
   {
     "title": "AI Monday x Zeiss-Großplanetarium",
     "date": "2026-11-30",
-    "venue": "Zeiss-Großplanetarium Berlin, Prenzlauer Allee 80, 10405 Berlin",
+    "venue": "Zeiss-Großplanetarium, Prenzlauer Allee 80, 10405 Berlin",
     "url": "https://www.planetarium.berlin/veranstaltungen/ai-monday-berlin-x-planetarium-ki-raumfahrt",
-    "source": "Planetarium Berlin / Eventbrite",
-    "description": "Join AI Monday Berlin at the Zeiss-Großplanetarium for an evening exploring how artificial intelligence is transforming space observation, Earth monitoring, and spacecraft operations. Features talks from researchers and startups, followed by networking. Free entry with reservation.",
-    "title_local": "AI Monday Berlin x Planetarium: KI & Raumfahrt",
-    "description_local": "Wenn sich der AI Monday Berlin und die Stiftung Planetarium Berlin zusammenschließen, stehen Künstliche Intelligenz und Weltraum im Mittelpunkt. Freuen Sie sich auf spannende Vorträge und Diskussionen mit Expert*innen aus Wissenschaft, Forschung und der KI-Szene. Im Anschluss bietet ein gemeinsames Networking bei Snacks und Getränken Gelegenheit, neue Kontakte innerhalb der Berliner KI-Community zu knüpfen.",
+    "source": "AI Monday Berlin, ai.berlin, AI Nation, DFKI, Stiftung Planetarium Berlin",
+    "description": "Exploring how artificial intelligence is transforming space observation, understanding and leverage. Features talks from researchers, founders, industry experts and innovators working at the intersection of AI and space technologies. Networking with snacks and drinks. Free admission with advance ticket reservation. 18:30-20:30. Event in English.",
+    "title_local": "AI Monday x Zeiss-Großplanetarium",
+    "description_local": "Erkunden Sie, wie künstliche Intelligenz die Weltraumbeobachtung, das Verständnis und die Nutzung transformiert. Mit Vorträgen von Forschern, Gründern, Branchenexperten und Innovatoren an der Schnittstelle von KI und Weltraumtechnologien. Networking bei Snacks und Getränken. Freier Eintritt mit Voranmeldung.",
     "city": "berlin",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-17",
     "id": "c2d40857380538aa"
   },
   {
@@ -3553,12 +3567,12 @@
     "venue": "Hasso Plattner Institute, Potsdam (near Berlin)",
     "url": "https://hpi.de/en/ai-hpi-conference/",
     "source": "Hasso Plattner Institute",
-    "description": "Conference connecting leading voices from across sectors to discuss how AI is reshaping value creation across industries. Topics include AI and the future of value creation, AI in industrial systems, next-generation AI and new ventures, and human capital in the AI economy.",
+    "description": "Two-day conference 'Designing the Human-AI Economy' connecting leading voices from across sectors to discuss how AI is reshaping value creation across industries. Features speakers from academia, industry and policy including Prof. Klaus-Robert Müller (TU Berlin), Daniela Rittmeier (Capgemini), and Max Senges (UdK Berlin). Workshops, panel discussions on AI safety, societal impact, and AI for biological science. Dec 2-3, 2026.",
     "title_local": "AI@HPI Conference 2026",
-    "description_local": "Konferenz, die führende Stimmen aus verschiedenen Sektoren zusammenbringt, um zu diskutieren, wie KI die Wertschöpfung in allen Branchen verändert. Themen umfassen KI und die Zukunft der Wertschöpfung, KI in industriellen Systemen und menschliches Kapital in der KI-Wirtschaft.",
+    "description_local": "Zweitägige Konferenz 'Designing the Human-AI Economy', die führende Stimmen aus verschiedenen Sektoren zusammenbringt, um zu diskutieren, wie KI die Wertschöpfung in allen Branchen neu gestaltet. Mit Rednern aus Wissenschaft, Industrie und Politik. Workshops, Podiumsdiskussionen zu KI-Sicherheit, gesellschaftlichen Auswirkungen und KI für biologische Wissenschaften. 2.-3. Dez 2026.",
     "city": "berlin",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-17",
     "id": "7b3c084b5122f2a0"
   },
   {
@@ -3588,6 +3602,20 @@
     "first_seen": "2026-08-04",
     "last_seen": "2026-11-15",
     "id": "c927338a65708751"
+  },
+  {
+    "title": "AI Coding Summit Berlin",
+    "date": "2026-12-04",
+    "venue": "Kosmos, Karl-Marx-Allee 131a, 10243 Berlin",
+    "url": "https://ai-coding-summit.com/",
+    "source": "Berlin AI / Gitnation",
+    "description": "Conference for developers, tech leads, and engineering leaders on how teams use AI to build, test, and ship production software. 40+ talks and workshops with engineers from Microsoft, Hugging Face, AWS, and more. Includes an algorave (artists live-code techno) and DJ sets. December 4 in-person, continues online December 7.",
+    "title_local": "AI Coding Summit Berlin",
+    "description_local": "Konferenz für Entwickler, Tech Leads und Engineering-Führungskräfte darüber, wie Teams KI nutzen, um Produktionssoftware zu erstellen, zu testen und auszuliefern. 40+ Vorträge und Workshops mit Ingenieuren von Microsoft, Hugging Face, AWS und mehr. Beinhaltet eine Algorave (Künstler live-codieren Techno) und DJ-Sets.",
+    "city": "berlin",
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "id": "a39781312d52898c"
   },
   {
     "title": "AI Coding Summit Berlin 2026",
