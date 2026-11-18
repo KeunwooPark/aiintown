@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-18",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -336,7 +336,7 @@
     "description_local": "Engineering-orientierter Tag in Berlin zum Aufbau autonomer KI-Agenten von Grund auf, Beherrschung des 'Vibe Coding'-Workflows mit Google-Experten und praktischen Labs. Themen: Agentische Orchestrierung, Reasoning und Planung mit Gemini, schnelle Entwicklung mit Agent Development Kit (ADK).",
     "city": "berlin",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "id": "0d7e0875ef229f2e"
   },
   {
@@ -392,7 +392,7 @@
     "description_local": "Monatliches praktisches KI-Builder-Meetup, Teil eines globalen Netzwerks mit 243 Städten und 114.000+ Mitgliedern. Drei-Stunden-Meetups mit Live-Demos von lokalen Buildern, die funktionierende Prototypen, Architektur-Lektionen und praktische Demos zeigen.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "id": "4867edb863b0a225"
   },
   {
@@ -1735,7 +1735,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-18",
     "id": "22c4be5ddc567872"
   },
   {
@@ -2298,7 +2298,7 @@
     "description_local": "Women's AI Breakfast Event mit Fokus auf den Weg von der Idee zum Startup, mit Sprecherinnen Serra Yosmaoglu, Stephanie Jonkers und Nicole Büttner.",
     "city": "berlin",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-18",
     "id": "ba2e2e2af3a88d72"
   },
   {
@@ -3030,20 +3030,6 @@
     "id": "5702f87e302d6900"
   },
   {
-    "title": "Handelskongress 2026",
-    "date": "2026-11-18",
-    "venue": "JW Marriott Hotel Berlin, Stauffenbergstraße 26, 10785 Berlin",
-    "url": "https://berlinboxx.de/hauptstadtkalender/",
-    "source": "BERLINboxx",
-    "description": "Trade congress running November 18-19, 2026, exploring how AI, automation and new consumer habits are changing commerce and raising questions about the relationship between technology, economy and humans.",
-    "title_local": "Handelskongress 2026",
-    "description_local": "KI, Automatisierung und neue Konsumgewohnheiten verändern den Handel – und werfen Fragen nach dem Verhältnis von Technologie, Wirtschaft und Mensch auf.",
-    "city": "berlin",
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-11-17",
-    "id": "1f350ba6aefcfe3b"
-  },
-  {
     "title": "KI-X HR",
     "date": "2026-11-18",
     "venue": "Berlin, Germany",
@@ -3422,6 +3408,20 @@
     "id": "4b05b94843d9a0aa"
   },
   {
+    "title": "Podiumsdiskussion: Wie KI unseren Blick auf die Welt verändert",
+    "date": "2026-11-30",
+    "venue": "Invalidenstraße 43, 10115 Berlin",
+    "url": "https://berlinboxx.de/hauptstadtkalender/",
+    "source": "berlinboxx.de",
+    "description": "Panel discussion on how AI is changing our view of the world. Explores how AI opens new ways of data collection while raising questions about reliability, interpretive authority, and citizen participation.",
+    "title_local": "Podiumsdiskussion: Wie KI unseren Blick auf die Welt verändert",
+    "description_local": "KI eröffnet neue Wege der Datensammlung, stellt die Wissenschaft aber zugleich vor Fragen nach Verlässlichkeit, Deutungshoheit und Bürgerbeteiligung.",
+    "city": "berlin",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-11-18",
+    "id": "1f350ba6aefcfe3b"
+  },
+  {
     "title": "Bob DACH Community Gathering & Coding Watch Party Berlin",
     "date": "2026-12-01",
     "venue": "SRH Hochschule Berlin, Sonnenallee 221",
@@ -3488,7 +3488,7 @@
     "description_local": "Erforschen Sie KI-gesteuerte Softwareentwicklung mit IBM Bob bei einer kostenlosen, praxisorientierten Hybrid-Coding-Watch-Party in Berlin und online am 1. Dezember 2026. Workshop-Format mit Sebastian Grodzietzki von IBM.",
     "city": "berlin",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-18",
     "id": "b450cd094f29dad9"
   },
   {
@@ -3672,6 +3672,20 @@
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-08",
     "id": "b65233668c45f7e1"
+  },
+  {
+    "title": "Google AI Deep Dive (Ep 6) - Platform Engineering on GKE using Gemini",
+    "date": "2026-12-04",
+    "venue": "Virtual (online event)",
+    "url": "https://www.aicamp.ai/event/eventdetails/W2026120409",
+    "source": "meetup.com/berlin-ai-tech-talk",
+    "description": "Virtual deep dive session on platform engineering with Google Kubernetes Engine using Gemini. Part of the AI Deep Dive with Google series.",
+    "title_local": "Google AI Deep Dive (Ep 6) - Platform Engineering auf GKE mit Gemini",
+    "description_local": "Virtueller Deep-Dive zu Platform Engineering mit Google Kubernetes Engine unter Verwendung von Gemini.",
+    "city": "berlin",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "id": "899cb866c726bcde"
   },
   {
     "title": "International Conference on Finance and Economics with Artificial Intelligence (ICFEAI)",

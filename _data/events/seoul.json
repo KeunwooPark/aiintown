@@ -655,20 +655,6 @@
     "id": "000e9c0553ed87a7"
   },
   {
-    "title": "AI Tinkerers Seoul: August Demo Night ft PostHog and DanaIX",
-    "date": "2026-08-26",
-    "venue": "Seoul (venue TBD)",
-    "url": "https://seoul.aitinkerers.org/",
-    "source": "AI Tinkerers Seoul",
-    "description": "Hands-on AI builder meetup featuring live demos from local builders, technical Q&A, and networking. Focus on real projects: AI agents, multimodal and voice interfaces, RAG and knowledge systems, AI coding tools, workflow automation, evals, observability, and production AI infrastructure.",
-    "title_local": "AI Tinkerers Seoul: August Demo Night ft PostHog and DanaIX",
-    "description_local": "엔지니어, 창업자, 연구자, 제품 개발자를 위한 실전 AI 빌더 커뮤니티 밋업. AI 에이전트, 멀티모달 및 음성 인터페이스, RAG 및 지식 시스템, AI 코딩 도구, 워크플로우 자동화, 평가, 관찰성 및 프로덕션 AI 인프라에 대한 실제 프로젝트 데모",
-    "city": "seoul",
-    "first_seen": "2026-08-05",
-    "last_seen": "2026-11-17",
-    "id": "e05542a7457ed01f"
-  },
-  {
     "title": "Search SEOul",
     "date": "2026-09-01",
     "venue": "Seoul, South Korea",
@@ -1787,6 +1773,20 @@
     "id": "4399e81d9d459e3d"
   },
   {
+    "title": "AI Tinkerers Seoul : November Demo Night",
+    "date": "2026-11-24",
+    "venue": "Yeoksam, Seoul",
+    "url": "https://seoul.aitinkerers.org/",
+    "source": "AI Tinkerers Seoul",
+    "description": "AI Tinkerers Seoul hosts a technical Demo Night with live demos from local builders, technical Q&A, and networking. A hands-on AI builder meetup with live demos, technical discussion, and no-pitch networking for screened AI builders, founders, researchers, and engineers working with LLMs, agents, and generative AI.",
+    "title_local": "AI Tinkerers Seoul : November Demo Night",
+    "description_local": "AI Tinkerers Seoul은 LLM, 에이전트, 생성형 AI를 다루는 빌더들을 위한 기술 데모 나이트입니다. 라이브 데모, 기술 토론, 네트워킹이 진행됩니다.",
+    "city": "seoul",
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-11-18",
+    "id": "e05542a7457ed01f"
+  },
+  {
     "title": "Design Korea",
     "date": "2026-11-25",
     "venue": "COEX Convention Center, Seoul",
@@ -1813,6 +1813,34 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-11-09",
     "id": "deb32b78c3c75fc5"
+  },
+  {
+    "title": "언폴드엑스 2026 (Unfold X 2026)",
+    "date": "2026-11-26",
+    "venue": "문화역서울284 (Culture Station Seoul 284)",
+    "url": "https://www.newspim.com/news/view/20261117001262",
+    "source": "Seoul Metropolitan Government & Seoul Foundation for Arts and Culture",
+    "description": "Global art festival combining cutting-edge technology and art, featuring 28 teams from 8 countries with 29 works including AI technology experience exhibitions. The festival runs from November 26 to December 9, 2026, with evening performances on November 27-28 and December 5. Free admission.",
+    "title_local": "언폴드엑스 2026",
+    "description_local": "서울시와 서울문화재단이 첨단 기술과 예술을 결합한 글로벌 아트 페스티벌을 개최합니다. 11월 26일부터 12월 9일까지 14일간 문화역서울284에서 열리며, 8개국 28팀이 참여하여 전시 24점과 퍼포먼스 5점을 무료로 선보입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "id": "f0dc0981516352a0"
+  },
+  {
+    "title": "AI 활용 옥외광고 간판 디자인 공모전",
+    "date": "2026-11-27",
+    "venue": "Online",
+    "url": "https://onoffmix.com/event?s=%23AI",
+    "source": "OnOffMix",
+    "description": "AI-powered outdoor advertising signage design competition. Paid entry, runs until December 20, 2026.",
+    "title_local": "AI 활용 옥외광고 간판 디자인 공모전",
+    "description_local": "AI를 활용한 옥외광고 간판 디자인 공모전입니다. 11월 27일부터 12월 20일까지 진행됩니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "id": "7a125d44290c61b9"
   },
   {
     "title": "AI Seoul - AI Adoption Talk",
@@ -1869,6 +1897,20 @@
     "first_seen": "2026-10-04",
     "last_seen": "2026-10-04",
     "id": "5b863e7a2aa30205"
+  },
+  {
+    "title": "모두를 위한 접근 가능한 미래 구축: AI와 디지털 포용 세미나",
+    "date": "2026-11-30",
+    "venue": "Jung-gu, Seoul",
+    "url": "https://onoffmix.com/event?c=102",
+    "source": "OnOffMix",
+    "description": "Free seminar on building an accessible future for all: AI and digital inclusion. Topics include AI, digital accessibility for people with disabilities. 16:00-18:00.",
+    "title_local": "모두를 위한 접근 가능한 미래 구축: AI와 디지털 포용 세미나",
+    "description_local": "AI와 디지털 포용, 정보접근성, 장애인을 위한 접근성을 다루는 무료 세미나입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "id": "4b160dcaa570dbe9"
   },
   {
     "title": "2026 AX Conference",
@@ -1997,17 +2039,17 @@
     "id": "4dd277638ee5a9e8"
   },
   {
-    "title": "Social Media Influence, Digital Branding & Marketing Innovation using AI Conference (GCSDMI)",
+    "title": "International Conference on Generative AI, Big Data Analytics & Responsible Innovation (ICGAIBARI)",
     "date": "2026-12-18",
     "venue": "Seoul, South Korea",
     "url": "https://www.allconferencealert.com/seoul/artificial-intelligence",
     "source": "Academicsworld",
-    "description": "Two-day conference on social media, digital branding, and AI-driven marketing innovation. December 18-19, 2026.",
-    "title_local": "Social Media Influence, Digital Branding & Marketing Innovation using AI Conference (GCSDMI)",
-    "description_local": "소셜미디어 영향력, 디지털 브랜딩 및 AI 기반 마케팅 혁신 학술대회. 2일간 진행.",
+    "description": "Two-day conference covering generative AI, big data analytics, and responsible innovation. December 18-19, 2026.",
+    "title_local": "생성형 AI, 빅데이터 분석 및 책임있는 혁신 국제 콘퍼런스",
+    "description_local": "생성형 AI, 빅데이터 분석, 책임있는 혁신을 다루는 2일간의 국제 콘퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-18",
     "id": "b89ec0fad393b8e8"
   },
   {
