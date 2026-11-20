@@ -1549,20 +1549,6 @@
     "id": "5918ee4a037d696b"
   },
   {
-    "title": "International Conference on Cryptocurrency, Artificial Intelligence and Machine Learning (ICCAIML)",
-    "date": "2026-11-09",
-    "venue": "Seoul, South Korea",
-    "url": "https://www.conferencealerts.in/seoul/ai/november",
-    "source": "Conference Alerts",
-    "description": "International conference exploring the intersection of cryptocurrency, artificial intelligence, and machine learning technologies.",
-    "title_local": "암호화폐, 인공지능 및 머신러닝에 관한 국제 컨퍼런스",
-    "description_local": "암호화폐, 인공지능 및 머신러닝 기술의 교차점을 탐구하는 국제 컨퍼런스.",
-    "city": "seoul",
-    "first_seen": "2026-10-18",
-    "last_seen": "2026-11-08",
-    "id": "df95197c3f7e5ec3"
-  },
-  {
     "title": "International Conference on Education and Learning with Artificial Intelligence",
     "date": "2026-11-09",
     "venue": "Seoul, South Korea",
@@ -1573,7 +1559,7 @@
     "description_local": "인공지능을 활용한 교육 및 학습 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-10-04",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-20",
     "id": "091d10ee586f64b1"
   },
   {
@@ -1771,6 +1757,34 @@
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10",
     "id": "4399e81d9d459e3d"
+  },
+  {
+    "title": "International Conference on Intelligent Robots and Systems (IROS)",
+    "date": "2026-11-20",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.conferencealerts.in/seoul/ai/november",
+    "source": "conferencealert.com",
+    "description": "International conference on intelligent robots and systems. Part of a series of AI and robotics conferences held throughout November in Seoul.",
+    "title_local": "국제 지능형 로봇 및 시스템 컨퍼런스",
+    "description_local": "지능형 로봇 및 시스템에 관한 국제 학술 콘퍼런스입니다.",
+    "city": "seoul",
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-11-20",
+    "id": "df95197c3f7e5ec3"
+  },
+  {
+    "title": "AI Wave: Seoul 2026",
+    "date": "2026-11-23",
+    "venue": "Yongsan-gu, Seoul",
+    "url": "https://m.news.nate.com/view/20261110n25642",
+    "source": "news.nate.com",
+    "description": "Hosted by US venture capital firm Kindred Ventures, co-organized by SBVA and DS Investment & Securities. The invite-only event focuses on digital AI and physical AI featuring founders and presentations from AI, robotics, and deep tech startups including Rebellions, Architect Labs, Hydra Host, Parasail, Mecka, and Whisper Aero.",
+    "title_local": "AI 웨이브: 서울 2026",
+    "description_local": "미국 벤처캐피털 킨드레드 벤처스가 주최하고 SBVA와 DS투자증권이 공동 주관하는 행사입니다. 디지털 AI와 피지컬 AI 분야의 기술 개발 동향과 활용 방안을 공유하며, 리벨리온, 아키텍트 랩스, 하이드라 호스트, 패러세일, 메카, 위스퍼 에어로 등이 발표합니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "id": "9f515bd1a4c57568"
   },
   {
     "title": "AI Tinkerers Seoul : November Demo Night",
@@ -2007,7 +2021,7 @@
     "description_local": "AI Research Conference가 주관하는 교육 및 학습 생태계에서 생성형 AI에 관한 세계 컨퍼런스입니다. 논문 제출 마감 2026년 12월 5일.",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-20",
     "id": "0fe6a14b3c58126c"
   },
   {
@@ -2039,17 +2053,17 @@
     "id": "4dd277638ee5a9e8"
   },
   {
-    "title": "International Conference on Generative AI, Big Data Analytics & Responsible Innovation (ICGAIBARI)",
+    "title": "International Conference on Social Media Influence, Digital Branding & Marketing Innovation using AI (GCSDMI)",
     "date": "2026-12-18",
     "venue": "Seoul, South Korea",
     "url": "https://www.allconferencealert.com/seoul/artificial-intelligence",
-    "source": "Academicsworld",
-    "description": "Two-day conference covering generative AI, big data analytics, and responsible innovation. December 18-19, 2026.",
-    "title_local": "생성형 AI, 빅데이터 분석 및 책임있는 혁신 국제 콘퍼런스",
-    "description_local": "생성형 AI, 빅데이터 분석, 책임있는 혁신을 다루는 2일간의 국제 콘퍼런스입니다.",
+    "source": "allconferencealert.com",
+    "description": "Two-day conference on AI in social media, digital branding, and marketing innovation (Dec 18-19, 2026) organized by Academicsworld.",
+    "title_local": "AI를 활용한 소셜 미디어 영향력, 디지털 브랜딩 및 마케팅 혁신 국제 컨퍼런스",
+    "description_local": "AI를 활용한 소셜 미디어, 디지털 브랜딩 및 마케팅 혁신을 다루는 2일간의 국제 컨퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "id": "b89ec0fad393b8e8"
   },
   {
@@ -2077,7 +2091,7 @@
     "description_local": "혁신, 연구 개발, 실용적 응용 및 미래 트렌드를 포함한 광범위한 AI 및 머신러닝 주제를 다루는 국제 컨퍼런스. 전문가 세션, 기조 연설, 워크샵 및 네트워킹 기회 제공",
     "city": "seoul",
     "first_seen": "2026-08-22",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-20",
     "id": "05c48094a94ca6a6"
   },
   {

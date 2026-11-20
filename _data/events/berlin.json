@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -1735,7 +1735,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "id": "22c4be5ddc567872"
   },
   {
@@ -3268,6 +3268,20 @@
     "id": "e177750c26801382"
   },
   {
+    "title": "Rovo Hackathon: From Idea to Functional Agent",
+    "date": "2026-11-26",
+    "venue": "Quirin Privatbank AG, Kurfürstendamm 119, 10711 Berlin",
+    "url": "https://ace.atlassian.com/events/details/atlassian-berlin-presents-rovo-hackathon-from-idea-to-functional-agent/",
+    "source": "Atlassian Community Berlin",
+    "description": "Hands-on hackathon focused on building working AI agents with Atlassian Rovo tools. After a brief introduction, participants brainstorm ideas and challenges from everyday work and dive into real-world use cases involving Atlassian tools, automation, AI, and agents. Includes experimentation, testing, and learning. 14:30-20:00 UTC (15:30-21:00 CET).",
+    "title_local": "Rovo Hackathon: Von der Idee zum funktionalen Agenten",
+    "description_local": "Praxisorientierter Hackathon zum Aufbau funktionierender KI-Agenten mit Atlassian Rovo-Tools. Nach einer kurzen Einführung entwickeln Teilnehmer Ideen und Herausforderungen aus der täglichen Arbeit und tauchen in reale Anwendungsfälle mit Atlassian-Tools, Automatisierung, KI und Agenten ein. Mit Experimenten, Tests und Lernen. 14:30-20:00 UTC (15:30-21:00 MEZ).",
+    "city": "berlin",
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "id": "8c812f6bea797b42"
+  },
+  {
     "title": "SAP NOW AI Tour Germany",
     "date": "2026-11-26",
     "venue": "Wilhelm Studios Berlin",
@@ -3306,7 +3320,7 @@
     "description_local": "Bilden Sie ein Team, wählen Sie einen Track, liefern Sie bis zum Abend eine funktionierende Demo – und bringen Sie die besten Builds dann zum AIB Demo Day im Dezember. Freitag, 14:00-21:00. Fokus auf Agenten, die entdecken, verifizieren und Transaktionen durchführen.",
     "city": "berlin",
     "first_seen": "2026-11-13",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-20",
     "id": "ce22d167dcb7a58b"
   },
   {
