@@ -1983,6 +1983,20 @@
     "id": "dbd478639179dca7"
   },
   {
+    "title": "AI Summit Seoul & EXPO 2026",
+    "date": "2026-12-02",
+    "venue": "COEX Hall B, Seoul",
+    "url": "https://onoffmix.com/event/343751",
+    "source": "AI Summit Seoul organizing committee",
+    "description": "9th edition of Korea's leading AI business conference bringing together global companies, public institutions, research organizations and academia to share AI technology and industry applications.",
+    "title_local": "AI Summit Seoul & EXPO 2026",
+    "description_local": "2018년부터 개최되어 온 국내 대표 AI 비즈니스 컨퍼런스. 글로벌 기업, 공공기관, 연구기관, 학계 전문가들이 참여해 AI 기술과 산업 적용 사례를 공유.",
+    "city": "seoul",
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "id": "16c63d5982644125"
+  },
+  {
     "title": "AI x SOFTWAVE 2026 (11th Korea Software Exhibition)",
     "title_local": "제11회 대한민국 소프트웨어 대전, AI x 소프트웨이브 2026",
     "date": "2026-12-02",
@@ -2009,6 +2023,20 @@
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10",
     "id": "68b0c0557238c25e"
+  },
+  {
+    "title": "DDD Seoul 2026",
+    "date": "2026-12-04",
+    "venue": "Microsoft Korea, 13F The K Twin Towers A, Jongno-gu, Seoul",
+    "url": "https://www.meetup.com/topics/machine-learning/kr/",
+    "source": "DDD Seoul community",
+    "description": "Domain-Driven Design conference in Seoul. 09:00-18:00 KST.",
+    "title_local": "DDD Seoul 2026",
+    "description_local": "도메인 주도 설계(DDD) 컨퍼런스, 서울 마이크로소프트 본사에서 개최.",
+    "city": "seoul",
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "id": "6c156f1aa0de566f"
   },
   {
     "title": "World Conference on Generative AI in Education & Learning Ecosystems (WCGAELE)",

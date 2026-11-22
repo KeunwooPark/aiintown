@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -3250,7 +3250,7 @@
     "description_local": "Von SAP veranstaltetes KI-Treffen mit den Sprechern Olcayto Cengiz und Yuanzhen Ji über Fähigkeiten und Strategien für KI-Innovation. Veranstaltung um 15:00 Uhr.",
     "city": "berlin",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-22",
     "id": "db36fd55151c179a"
   },
   {
@@ -3618,6 +3618,20 @@
     "id": "60d661bbd42eeb62"
   },
   {
+    "title": "Startup Pitch Night December 2026",
+    "date": "2026-12-03",
+    "venue": "BBC Hub (Black Business & Career Hub), Lohmeyerstraße 4, Berlin",
+    "url": "https://www.eventbrite.de/e/startup-pitch-night-december-2026-tickets-2003811267442",
+    "source": "eye square GmbH via Eventbrite",
+    "description": "An evening of inspiring innovations, engaging pitches, and valuable discussions on how science, technology, and art intersect with the human experience in the era of AI. The Value of Human Experience in the Age of AI.",
+    "title_local": "Startup Pitch Night Dezember 2026",
+    "description_local": "Ein Abend mit inspirierenden Innovationen, fesselnden Pitches und wertvollen Diskussionen darüber, wie Wissenschaft, Technologie und Kunst mit menschlicher Erfahrung im Zeitalter der KI zusammentreffen. Der Wert der menschlichen Erfahrung im Zeitalter der KI.",
+    "city": "berlin",
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "id": "9e53195e8b5ccaa4"
+  },
+  {
     "title": "AI Coding Summit - Berlin Edition",
     "date": "2026-12-04",
     "venue": "Berlin, Germany",
@@ -3716,6 +3730,20 @@
     "id": "b65233668c45f7e1"
   },
   {
+    "title": "AI Future 2026 – Entwicklungen durch KI für die Wirtschaft",
+    "date": "2026-12-04",
+    "venue": "Berlin Bytes - Agentur für Mobile Apps und Softwareentwicklung, Berlin",
+    "url": "https://www.eventbrite.de/e/ai-future-2026-entwicklungen-durch-ki-fur-die-wirtschaft-tickets-1858177772739",
+    "source": "BVMW Berlin via Eventbrite",
+    "description": "Practical insights into AI that will significantly shape the medium-sized business sector in 2026. Discussing developments, opportunities and risks that are highly relevant for the economy.",
+    "title_local": "AI Future 2026 – Entwicklungen durch KI für die Wirtschaft",
+    "description_local": "Praxisnahe Einblicke in KI, die den Mittelstand 2026 entscheidend prägen werden. Welche Entwicklungen, Chancen & Risiken hoch relevant sind.",
+    "city": "berlin",
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "id": "5facf36744939e1a"
+  },
+  {
     "title": "Google AI Deep Dive (Ep 6) - Platform Engineering on GKE using Gemini",
     "date": "2026-12-04",
     "venue": "Virtual (online event)",
@@ -3730,6 +3758,20 @@
     "id": "899cb866c726bcde"
   },
   {
+    "title": "Forward Deploy Enterprise AI Summit 2026 - Berlin",
+    "date": "2026-12-05",
+    "venue": "Kraftwerk Berlin, Berlin-Mitte",
+    "url": "https://www.eventbrite.de/d/germany--berlin/telekom-ai/",
+    "source": "Eventbrite",
+    "description": "Dive into the future of AI with industry pros and cool tech at this can't-miss summit for enterprise innovators.",
+    "title_local": "Forward Deploy Enterprise AI Summit 2026 - Berlin",
+    "description_local": "Tauchen Sie ein in die Zukunft der KI mit Branchenprofis und cooler Technologie bei diesem unverzichtbaren Gipfel für Unternehmensinnovatoren.",
+    "city": "berlin",
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "id": "5f0d6db34853ac8e"
+  },
+  {
     "title": "International Conference on Finance and Economics with Artificial Intelligence (ICFEAI)",
     "date": "2026-12-07",
     "venue": "Berlin, Germany",
@@ -3740,7 +3782,7 @@
     "description_local": "Eintägige Konferenz (09:00-17:00) zur Präsentation aktueller Innovationen, Trends und praktischer Herausforderungen in Wirtschaft und KI mit Fokus auf Finanzanwendungen.",
     "city": "berlin",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-11-22",
     "id": "b7f5e36f8fc4ce02"
   },
   {
