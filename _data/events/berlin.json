@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -2830,7 +2830,7 @@
     "description_local": "Große Machine-Learning- und KI-Konferenz (16.-20. November 2026) mit Bootcamps 16.-17. Nov., Hauptkonferenz & Expo 18.-19. Nov. und Workshops 17. & 20. Nov. Mit 5 Tracks: KI-Agenten & Agentische Workflows, Advanced RAG, Multimodale KI, MLOps & Open Source LLMs sowie KI-Strategie, Organisation & Governance. Teil der AI Native Week inkl. VibeKode, AI Engineering Summit und API Conference. Erwartet werden 40+ Speaker mit praktischen Workshops und Keynotes.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-11-23",
     "id": "9a05b37a144a341e"
   },
   {
@@ -3424,15 +3424,15 @@
   {
     "title": "Enterprise DevSecOps 2026",
     "date": "2026-11-30",
-    "venue": "Berlin, Germany",
+    "venue": "Berlin",
     "url": "https://dev.events/meetups/EU/DE/ai",
     "source": "dev.events",
-    "description": "Two-day conference (Nov 30 - Dec 1) on enterprise DevSecOps with AI integration topics.",
+    "description": "Enterprise DevSecOps conference in Berlin focusing on AI, security, and development operations.",
     "title_local": "Enterprise DevSecOps 2026",
-    "description_local": "Zweitägige Konferenz (30. Nov. - 1. Dez.) über Enterprise DevSecOps mit KI-Integrationsthemen.",
+    "description_local": "Enterprise-DevSecOps-Konferenz in Berlin mit Schwerpunkt auf KI, Sicherheit und Entwicklungsoperationen.",
     "city": "berlin",
     "first_seen": "2026-09-04",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-11-23",
     "id": "4b05b94843d9a0aa"
   },
   {
@@ -3446,7 +3446,7 @@
     "description_local": "KI eröffnet neue Wege der Datensammlung, stellt die Wissenschaft aber zugleich vor Fragen nach Verlässlichkeit, Deutungshoheit und Bürgerbeteiligung.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-23",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -3684,7 +3684,7 @@
     "description_local": "Konferenz zu KI in der Softwareentwicklung mit Vorträgen und praktischen Workshops zu KI-gestützten Entwicklungstools. Für Softwareentwickler und Engineering-Führungskräfte, die KI-Coding-Tools einsetzen. Mit Algorave und DJ-Sets.",
     "city": "berlin",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-23",
     "id": "eaeffef4643a5815"
   },
   {
@@ -3716,20 +3716,6 @@
     "id": "725f092e472e82ca"
   },
   {
-    "title": "AI Coding Summit Berlin 2026",
-    "date": "2026-12-04",
-    "venue": "Kosmos, Karl-Marx-Allee 131A, Berlin",
-    "url": "https://bondcommunity.ai/conferences/berlin",
-    "source": "Bond Community / GitNation",
-    "description": "Conference on AI in software engineering with talks and practical workshops on AI-powered development tools, aimed at software engineers and engineering leaders adopting AI coding tools.",
-    "title_local": "AI Coding Summit Berlin 2026",
-    "description_local": "Konferenz über KI in der Softwareentwicklung mit Vorträgen und praktischen Workshops zu KI-gestützten Entwicklungstools.",
-    "city": "berlin",
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-08",
-    "id": "b65233668c45f7e1"
-  },
-  {
     "title": "AI Future 2026 – Entwicklungen durch KI für die Wirtschaft",
     "date": "2026-12-04",
     "venue": "Berlin Bytes - Agentur für Mobile Apps und Softwareentwicklung, Berlin",
@@ -3758,6 +3744,20 @@
     "id": "899cb866c726bcde"
   },
   {
+    "title": "React Day Berlin",
+    "date": "2026-12-04",
+    "venue": "Berlin",
+    "url": "https://bondcommunity.ai/conferences/berlin",
+    "source": "Bond Community",
+    "description": "Hybrid conference about React that brings together open source authors, trainers and web engineers in person and online. Suited to frontend and web developers working with React. Features speakers from React Academy, Stately AI, Microsoft and others.",
+    "title_local": "React Day Berlin",
+    "description_local": "Hybride Konferenz über React, die Open-Source-Autoren, Trainer und Web-Engineers persönlich und online zusammenbringt. Geeignet für Frontend- und Web-Entwickler, die mit React arbeiten. Mit Sprechern von React Academy, Stately AI, Microsoft und anderen.",
+    "city": "berlin",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-23",
+    "id": "b65233668c45f7e1"
+  },
+  {
     "title": "Forward Deploy Enterprise AI Summit 2026 - Berlin",
     "date": "2026-12-05",
     "venue": "Kraftwerk Berlin, Berlin-Mitte",
@@ -3782,7 +3782,7 @@
     "description_local": "Eintägige Konferenz (09:00-17:00) zur Präsentation aktueller Innovationen, Trends und praktischer Herausforderungen in Wirtschaft und KI mit Fokus auf Finanzanwendungen.",
     "city": "berlin",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "id": "b7f5e36f8fc4ce02"
   },
   {

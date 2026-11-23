@@ -819,7 +819,7 @@
     "description_local": "서울시와 서울AI재단이 주최하는 공공부문 AI 혁신 포럼으로, AI 행정혁신 사례와 활용 방향을 공유합니다.",
     "city": "seoul",
     "first_seen": "2026-08-10",
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-11-23",
     "id": "a0b1a76f574c22bc"
   },
   {
@@ -1815,6 +1815,20 @@
     "id": "e041237dbf93652f"
   },
   {
+    "title": "EdTech Together - Seoul",
+    "date": "2026-11-26",
+    "venue": "마루360 11F 담담(DahmDahm), Seoul",
+    "url": "https://www.eventbrite.com.au/d/south-korea/events/",
+    "source": "Eventbrite",
+    "description": "EdTech gathering exploring AI applications in education technology.",
+    "title_local": "EdTech Together - 서울",
+    "description_local": "교육 기술에서 AI 응용을 탐구하는 EdTech 모임입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "id": "a41db7b83765024f"
+  },
+  {
     "title": "International Conference on AI and Data Science for Personalized Medicine",
     "date": "2026-11-26",
     "venue": "Seoul, South Korea",
@@ -1827,6 +1841,20 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-11-09",
     "id": "deb32b78c3c75fc5"
+  },
+  {
+    "title": "[Venture Park] BEYOND AI: When Technology Transforms Reality",
+    "date": "2026-11-26",
+    "venue": "SVC Seoul, B1F Open Stage, 136 Yanghwa-ro, Mapo-gu, Seoul",
+    "url": "https://www.eventbrite.com/e/venture-park-beyond-ai-when-technology-transforms-reality-nov-26-thu-tickets-2004938699622",
+    "source": "Eventbrite",
+    "description": "Final Venture Park of 2026 exploring how Physical AI is bringing humans and robots closer together, looking back at AI in 2026 and exploring trends shaping global AI industry in 2027. Features speakers including Professor Kyung-Jeon Lee from Kyung Hee University. Free event with light meal and refreshments provided.",
+    "title_local": "[벤처파크] BEYOND AI: 기술이 현실을 변화시킬 때",
+    "description_local": "2026년 마지막 벤처파크로, Physical AI가 인간과 로봇을 어떻게 가깝게 만드는지, 2026년 AI를 되돌아보고 2027년 글로벌 AI 산업을 형성할 트렌드를 탐구합니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "id": "ad94954699c9f63f"
   },
   {
     "title": "언폴드엑스 2026 (Unfold X 2026)",
@@ -1855,6 +1883,20 @@
     "first_seen": "2026-11-18",
     "last_seen": "2026-11-18",
     "id": "7a125d44290c61b9"
+  },
+  {
+    "title": "AI Community Conference - AICO Seoul",
+    "date": "2026-11-28",
+    "venue": "Microsoft Korea, Seoul",
+    "url": "https://www.eventbrite.com/d/south-korea--seoul/november/",
+    "source": "Eventbrite",
+    "description": "AI Community Conference hosted at Microsoft Korea in Seoul.",
+    "title_local": "AI 커뮤니티 콘퍼런스 - AICO Seoul",
+    "description_local": "마이크로소프트 코리아에서 개최되는 AI 커뮤니티 컨퍼런스입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "id": "99348058b9e4acdf"
   },
   {
     "title": "AI Seoul - AI Adoption Talk",
@@ -2049,7 +2091,7 @@
     "description_local": "AI Research Conference가 주관하는 교육 및 학습 생태계에서 생성형 AI에 관한 세계 컨퍼런스입니다. 논문 제출 마감 2026년 12월 5일.",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "id": "0fe6a14b3c58126c"
   },
   {
@@ -2119,7 +2161,7 @@
     "description_local": "AI를 활용한 소셜 미디어, 디지털 브랜딩 및 마케팅 혁신을 다루는 2일간의 국제 컨퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "id": "b89ec0fad393b8e8"
   },
   {
