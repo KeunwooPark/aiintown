@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -3240,20 +3240,6 @@
     "id": "91a0410d1d3a03ac"
   },
   {
-    "title": "AI Meetup Berlin: Skills and Strategies for AI Innovators with SAP",
-    "date": "2026-11-26",
-    "venue": "SAP Berlin",
-    "url": "https://www.aicamp.ai/event/eventsquery?city=Germany-Berlin",
-    "source": "aicamp.ai",
-    "description": "AI meetup hosted by SAP featuring speakers Olcayto Cengiz and Yuanzhen Ji on skills and strategies for AI innovation. Event at 3:00 PM CET.",
-    "title_local": "AI Meetup Berlin: Fähigkeiten und Strategien für KI-Innovatoren mit SAP",
-    "description_local": "Von SAP veranstaltetes KI-Treffen mit den Sprechern Olcayto Cengiz und Yuanzhen Ji über Fähigkeiten und Strategien für KI-Innovation. Veranstaltung um 15:00 Uhr.",
-    "city": "berlin",
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-11-22",
-    "id": "db36fd55151c179a"
-  },
-  {
     "title": "AICon 2026",
     "date": "2026-11-26",
     "venue": "Forum Digitale Technologien, Salzufer 15/16, 10587 Berlin",
@@ -3502,7 +3488,7 @@
     "description_local": "Community-First. KI-gestützt. Hands-on. Entdecken Sie KI-gesteuerte Softwareentwicklung mit IBM Bob bei einer kostenlosen, praktischen hybriden Coding Watch Party in Berlin und online.",
     "city": "berlin",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-24",
     "id": "9aef45a67e3244f9"
   },
   {
@@ -3630,6 +3616,20 @@
     "first_seen": "2026-11-22",
     "last_seen": "2026-11-22",
     "id": "9e53195e8b5ccaa4"
+  },
+  {
+    "title": "Thoughtworks YTalks Berlin - AI in Product Development",
+    "date": "2026-12-03",
+    "venue": "Thoughtworks Berlin",
+    "url": "https://www.aicamp.ai/event/eventdetails/W2025120309",
+    "source": "AICamp / Thoughtworks",
+    "description": "Expert talks and interactive panel on AI in product development. Features Lisa Wagner (Lead Product Consultant) on 'Don't Outsource Your Thinking to AI' and Joanna Stoffregen. For product managers, developers, designers, and AI enthusiasts. Food and drinks provided.",
+    "title_local": "Thoughtworks YTalks Berlin - KI in der Produktentwicklung",
+    "description_local": "Expertenvorträge und interaktives Panel zu KI in der Produktentwicklung. Mit Lisa Wagner (Lead Product Consultant) über 'Lagere dein Denken nicht an KI aus' und Joanna Stoffregen. Für Produktmanager, Entwickler, Designer und KI-Enthusiasten. Mit Verpflegung.",
+    "city": "berlin",
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "id": "ca60252fb4c51d9a"
   },
   {
     "title": "AI Coding Summit - Berlin Edition",
@@ -3772,6 +3772,20 @@
     "id": "5f0d6db34853ac8e"
   },
   {
+    "title": "AI Meetup (Berlin): End of Year Celebration for AI, GenAI, LLMs and ML",
+    "date": "2026-12-06",
+    "venue": "Berlin",
+    "url": "https://www.aicamp.ai/event/eventsquery?city=Germany-Berlin",
+    "source": "AICamp",
+    "description": "End of year celebration meetup for AI, GenAI, LLMs and ML practitioners in Berlin. Community gathering with 5+ speakers sharing insights on latest developments in AI and machine learning.",
+    "title_local": "AI Meetup (Berlin): Jahresabschlussfeier für AI, GenAI, LLMs und ML",
+    "description_local": "Jahresabschluss-Meetup für AI, GenAI, LLMs und ML-Praktiker in Berlin. Community-Treffen mit 5+ Speakern, die Einblicke in die neuesten Entwicklungen in KI und maschinellem Lernen teilen.",
+    "city": "berlin",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-11-24",
+    "id": "db36fd55151c179a"
+  },
+  {
     "title": "International Conference on Finance and Economics with Artificial Intelligence (ICFEAI)",
     "date": "2026-12-07",
     "venue": "Berlin, Germany",
@@ -3826,6 +3840,90 @@
     "first_seen": "2026-10-18",
     "last_seen": "2026-11-15",
     "id": "ba98018e90ebe848"
+  },
+  {
+    "title": "Berlin Experimentation Meetup #11",
+    "date": "2026-12-11",
+    "venue": "Delivery Hero, Berlin",
+    "url": "https://luma.com/h7m3rhh9",
+    "source": "Luma",
+    "description": "Experimentation meetup focusing on AI-powered marketing and A/B testing. Sponsored by Iterable. Discussion on experimentation and optimization in modern martech. Networking with Glühwein and snacks. Doors open 17:00, talks start ~17:30.",
+    "title_local": "Berlin Experimentation Meetup #11",
+    "description_local": "Experimentation-Meetup mit Fokus auf KI-gesteuertem Marketing und A/B-Testing. Gesponsert von Iterable. Diskussion über Experimentation und Optimierung im modernen Martech. Networking mit Glühwein und Snacks. Türöffnung 17:00, Vorträge ab ~17:30.",
+    "city": "berlin",
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "id": "effd2ac2221f62cd"
+  },
+  {
+    "title": "DACHINA Brand Summit 2026: KI und Markenaufbau",
+    "date": "2026-12-14",
+    "venue": "Axica Convention Center, Berlin",
+    "url": "https://bwa-deutschland.com/index.php/dachina-brand-summit-2026-ki-und-markenaufbau-berlin",
+    "source": "BWA Deutschland",
+    "description": "Third DACHINA Brand Summit focusing on brand development in the age of artificial intelligence. Explores strategic use of AI, new business opportunities, and role of trust in international competition. Hosted by Brand University and BWA. 9:00-18:00.",
+    "title_local": "DACHINA Brand Summit 2026: KI und Markenaufbau",
+    "description_local": "Dritter DACHINA Brand Summit mit Fokus auf Markenentwicklung im Zeitalter der Künstlichen Intelligenz. Untersucht strategische Nutzung von KI, neue Geschäftspotenziale und die Rolle von Vertrauen im internationalen Wettbewerb. Gehostet von Brand University und BWA. 9:00-18:00 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "id": "7a1ffa72981e1214"
+  },
+  {
+    "title": "BLISS AI Speaker Series: Flexible Cognition in Brains and AI - Ida Momennejad",
+    "date": "2026-12-15",
+    "venue": "TU Berlin, Institut für Chemie, Str. des 17. Juni 115",
+    "url": "https://bliss.berlin/",
+    "source": "BLISS",
+    "description": "Microsoft Principal Researcher Ida Momennejad discusses algorithmic geometry of flexible cognition in brains and AI. Research talk on memory and planning in cognitive neuroscience and AI. Part of BLISS winter 2026/2027 speaker series. 7:00-9:00pm CET.",
+    "title_local": "BLISS AI Speaker Series: Flexible Kognition in Gehirnen und KI - Ida Momennejad",
+    "description_local": "Microsoft Principal Researcher Ida Momennejad spricht über algorithmische Geometrie flexibler Kognition in Gehirnen und KI. Forschungsvortrag über Gedächtnis und Planung in kognitiver Neurowissenschaft und KI. Teil der BLISS Winter 2026/2027 Speaker Series. 19:00-21:00 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "id": "bf54807e56f5a8ba"
+  },
+  {
+    "title": "Forward Deploy Enterprise AI Summit 2027 - Berlin",
+    "date": "2027-01-09",
+    "venue": "Kraftwerk Berlin, Köpenicker Straße 70",
+    "url": "https://www.eventbrite.com/e/forward-deploy-enterprise-ai-summit-2027-berlin-tickets-1998071812578",
+    "source": "Eventbrite",
+    "description": "AI Summit for Enterprises bringing together business leaders, innovators, and AI experts. Explore practical AI use cases, emerging technologies, and real-world strategies through expert talks, panels, and networking. 9:00 AM - 6:00 PM.",
+    "title_local": "Forward Deploy Enterprise AI Summit 2027 - Berlin",
+    "description_local": "KI-Gipfel für Unternehmen, der Geschäftsführer, Innovatoren und KI-Experten zusammenbringt. Erkunde praktische KI-Anwendungsfälle, aufkommende Technologien und reale Strategien durch Expertenvorträge, Panels und Networking. 9:00-18:00 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "id": "7a44a87d2e6c66ec"
+  },
+  {
+    "title": "prompt:UX 2027",
+    "date": "2027-02-24",
+    "venue": "Arena Berlin, Eichenstraße 4",
+    "url": "https://eventbrowse.com/venue/arena-berlin",
+    "source": "EventBrowse",
+    "description": "Two-day UX and AI design conference organized by Westwerk Events. Explores intersection of user experience design and artificial intelligence. February 24-25, 2027. 8:00 AM - 6:00 PM CET.",
+    "title_local": "prompt:UX 2027",
+    "description_local": "Zweitägige UX- und KI-Design-Konferenz organisiert von Westwerk Events. Erkundet die Schnittstelle zwischen User Experience Design und künstlicher Intelligenz. 24.-25. Februar 2027. 8:00-18:00 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "id": "a56745ae1db7ccfe"
+  },
+  {
+    "title": "Rise of AI 2027",
+    "date": "2027-05-01",
+    "venue": "Berlin",
+    "url": "https://riseof.ai/",
+    "source": "Rise of AI",
+    "description": "Europe's premier AI conference. 300 curated guests, 40+ speakers. Full day of keynotes, panels, workshops and conversations spanning business, policy, research and startups. Themes include sovereignty, governance, industrial adoption, infrastructure, talent. Exclusive Speaker Dinner evening before.",
+    "title_local": "Rise of AI 2027",
+    "description_local": "Europas führende KI-Konferenz. 300 kuratierte Gäste, 40+ Speaker. Ganztägige Keynotes, Panels, Workshops und Gespräche zu Business, Politik, Forschung und Startups. Themen: Souveränität, Governance, industrielle Adoption, Infrastruktur, Talente. Exklusives Speaker Dinner am Vorabend.",
+    "city": "berlin",
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "id": "e0230a49c967746d"
   },
   {
     "title": "AI Reliability and Observability Meetup",
