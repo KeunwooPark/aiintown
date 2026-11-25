@@ -1559,7 +1559,7 @@
     "description_local": "인공지능을 활용한 교육 및 학습 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-10-04",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-25",
     "id": "091d10ee586f64b1"
   },
   {
@@ -1727,7 +1727,7 @@
     "description_local": "머신러닝 분야의 학습, 연구 교류 및 전문성 개발을 지원하는 AI 기반 이미지 인식 및 데이터 과학 관련 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-25",
     "id": "299a307f265fbfa2"
   },
   {
@@ -1923,7 +1923,7 @@
     "description_local": "비즈니스 관리에서의 AI 적용 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-25",
     "id": "134eb44963400bcb"
   },
   {
@@ -2091,7 +2091,7 @@
     "description_local": "AI Research Conference가 주관하는 교육 및 학습 생태계에서 생성형 AI에 관한 세계 컨퍼런스입니다. 논문 제출 마감 2026년 12월 5일.",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "id": "0fe6a14b3c58126c"
   },
   {
@@ -2123,6 +2123,20 @@
     "id": "e3e75d26e8363edb"
   },
   {
+    "title": "International Conference on AI and Data Science for Genomic Medicine",
+    "date": "2026-12-08",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea/seoul/december",
+    "source": "internationalconferencealerts.com",
+    "description": "International conference on AI and data science applications in genomic medicine.",
+    "title_local": "유전체 의학을 위한 AI 및 데이터 과학 국제 학술대회",
+    "description_local": "유전체 의학에서의 AI 및 데이터 과학 응용에 관한 국제 학술대회.",
+    "city": "seoul",
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "id": "9f490ee9cd85d851"
+  },
+  {
     "title": "COMEUP 2026",
     "date": "2026-12-09",
     "venue": "Seoul",
@@ -2135,6 +2149,20 @@
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-12",
     "id": "eab31c8aa0ee0049"
+  },
+  {
+    "title": "2026 전국민 AI 페스티벌",
+    "date": "2026-12-11",
+    "venue": "동대문디자인플라자(DDP) 아트홀, Seoul",
+    "url": "https://campingfriend.co.kr/festivals/2515174",
+    "source": "campingfriend.co.kr",
+    "description": "A public AI festival organized by the Ministry of Science and ICT for all citizens to experience AI technology. Features AI competition awards, future tech exhibitions, chef vs AI cooking competition, and Minecraft competition.",
+    "title_local": "2026 전국민 AI 페스티벌",
+    "description_local": "과학기술정보통신부 주최 국민 참여형 AI 축제. 전국민 AI 경진대회 시상식, 미래 AI 기술 전시 및 체험, 셰프와 AI의 요리 대결, 마인크래프트 경진대회 등 운영. 슬로건은 'AI, 모두의 일상으로'.",
+    "city": "seoul",
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "id": "1897775d5e874ad4"
   },
   {
     "title": "AI Builders Seoul: December Meetup",
@@ -2161,7 +2189,7 @@
     "description_local": "AI를 활용한 소셜 미디어, 디지털 브랜딩 및 마케팅 혁신을 다루는 2일간의 국제 컨퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "id": "b89ec0fad393b8e8"
   },
   {

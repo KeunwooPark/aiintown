@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -336,7 +336,7 @@
     "description_local": "Engineering-orientierter Tag in Berlin zum Aufbau autonomer KI-Agenten von Grund auf, Beherrschung des 'Vibe Coding'-Workflows mit Google-Experten und praktischen Labs. Themen: Agentische Orchestrierung, Reasoning und Planung mit Gemini, schnelle Entwicklung mit Agent Development Kit (ADK).",
     "city": "berlin",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-25",
     "id": "0d7e0875ef229f2e"
   },
   {
@@ -3352,6 +3352,20 @@
     "id": "47bb0034ed71fae8"
   },
   {
+    "title": "AI Tinkerers Berlin - Come build with us @ St. Oberholz",
+    "date": "2026-11-29",
+    "venue": "St. Oberholz, Rosenthaler Str. 72A, 10119 Berlin",
+    "url": "https://luma.com/stq8od3m",
+    "source": "AI Tinkerers Berlin / Luma",
+    "description": "Full-day AI co-working session (10 AM - 8 PM) for builders, founders, and hackers. A dedicated 10-hour session for engineers focused on shipping the next generation of intelligence. Bring your laptop and build alongside other AI Tinkerers.",
+    "title_local": "AI Tinkerers Berlin - Baue mit uns @ St. Oberholz",
+    "description_local": "Ganztägige AI-Coworking-Session (10-20 Uhr) für Builder, Gründer und Hacker. Eine dedizierte 10-Stunden-Session für Ingenieure, die sich auf die nächste Generation von Intelligenz konzentrieren. Bring deinen Laptop mit und baue zusammen mit anderen AI Tinkerers.",
+    "city": "berlin",
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "id": "6c4c618c63526df4"
+  },
+  {
     "title": "AI Monday x Zeiss-Großplanetarium",
     "date": "2026-11-30",
     "venue": "Zeiss-Großplanetarium Berlin",
@@ -3432,7 +3446,7 @@
     "description_local": "KI eröffnet neue Wege der Datensammlung, stellt die Wissenschaft aber zugleich vor Fragen nach Verlässlichkeit, Deutungshoheit und Bürgerbeteiligung.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -3492,6 +3506,20 @@
     "id": "9aef45a67e3244f9"
   },
   {
+    "title": "IBM Bob Coding Watch Party in Berlin",
+    "date": "2026-12-01",
+    "venue": "SRH University Berlin, Sonnenallee 221, 12059 Berlin",
+    "url": "https://www.meetup.com/big-data-developers-in-berlin/",
+    "source": "Data, Cloud and AI in Berlin / Meetup",
+    "description": "Final hybrid event of 2026 around IBM Bob, the new AI-powered development partner. Hands-on AI dev event with tracks for beginners, intermediate and experts. Free of charge, with limited onsite tickets.",
+    "title_local": "IBM Bob Coding Watch Party in Berlin",
+    "description_local": "Abschließende hybride Veranstaltung 2026 rund um IBM Bob, den neuen KI-gestützten Entwicklungspartner. Praktische KI-Entwicklungsveranstaltung mit Tracks für Anfänger, Fortgeschrittene und Experten. Kostenlos, begrenzte Vor-Ort-Tickets.",
+    "city": "berlin",
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "id": "22e6df6401a02366"
+  },
+  {
     "title": "IBM Bob Coding Watch Party in Berlin & Online",
     "date": "2026-12-01",
     "venue": "Berlin (hybrid)",
@@ -3502,7 +3530,7 @@
     "description_local": "Erforschen Sie KI-gesteuerte Softwareentwicklung mit IBM Bob bei einer kostenlosen, praxisorientierten Hybrid-Coding-Watch-Party in Berlin und online am 1. Dezember 2026. Workshop-Format mit Sebastian Grodzietzki von IBM.",
     "city": "berlin",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-25",
     "id": "b450cd094f29dad9"
   },
   {
@@ -3828,6 +3856,20 @@
     "id": "f3a1018cede256e8"
   },
   {
+    "title": "Tagesspiegel Background Fachkonferenz Digitalisierung & KI",
+    "date": "2026-12-08",
+    "venue": "Tagesspiegel-Haus, Berlin",
+    "url": "https://veranstaltungen.tagesspiegel.de/event/fachkonferenz-digitalisierung-ki/summary",
+    "source": "Tagesspiegel",
+    "description": "Conference bringing together decision-makers from politics, business, science and regulation. Focus on digitalization and AI topics.",
+    "title_local": "Tagesspiegel Background Fachkonferenz Digitalisierung & KI",
+    "description_local": "Die Fachkonferenz bringt Entscheider:innen aus Politik, Wirtschaft, Wissenschaft und Regulierung zusammen. Fokus auf Digitalisierungs- und KI-Themen.",
+    "city": "berlin",
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "id": "d9e1424c1812a134"
+  },
+  {
     "title": "BBA KI-Konferenz 2026",
     "date": "2026-12-09",
     "venue": "Berlin (Hauptstraße 78-79, 12159 Berlin)",
@@ -3861,12 +3903,12 @@
     "venue": "Axica Convention Center, Berlin",
     "url": "https://bwa-deutschland.com/index.php/dachina-brand-summit-2026-ki-und-markenaufbau-berlin",
     "source": "BWA Deutschland",
-    "description": "Third DACHINA Brand Summit focusing on brand development in the age of artificial intelligence. Explores strategic use of AI, new business opportunities, and role of trust in international competition. Hosted by Brand University and BWA. 9:00-18:00.",
+    "description": "Third DACHINA Brand Summit focusing on brand development in the age of artificial intelligence. Organized by Brand University of Applied Sciences and Federal Association for Business Development and Foreign Trade (BWA). Features keynotes on brand perception and intercultural brand communication in the AI age.",
     "title_local": "DACHINA Brand Summit 2026: KI und Markenaufbau",
-    "description_local": "Dritter DACHINA Brand Summit mit Fokus auf Markenentwicklung im Zeitalter der Künstlichen Intelligenz. Untersucht strategische Nutzung von KI, neue Geschäftspotenziale und die Rolle von Vertrauen im internationalen Wettbewerb. Gehostet von Brand University und BWA. 9:00-18:00 Uhr.",
+    "description_local": "Dritter DACHINA Brand Summit mit Fokus auf Markenentwicklung im Zeitalter der Künstlichen Intelligenz. Organisiert von der Brand University of Applied Sciences und dem Bundesverband für Wirtschaftsförderung und Außenwirtschaft (BWA). Mit Keynotes zur Markenwahrnehmung und interkultureller Markenkommunikation im KI-Zeitalter.",
     "city": "berlin",
     "first_seen": "2026-11-24",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "id": "7a1ffa72981e1214"
   },
   {
