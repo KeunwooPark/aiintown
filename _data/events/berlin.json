@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -2704,7 +2704,7 @@
     "description_local": "Wochenend-Robotik- und KI-Hackathon organisiert von HackLab. Veranstaltung läuft von Samstag bis Sonntag mit Live-Pitches und Preisverleihung. Plätze sind stark begrenzt und als ausverkauft gelistet.",
     "city": "berlin",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-26",
     "id": "bde19dc8b129c082"
   },
   {
@@ -3618,6 +3618,34 @@
     "id": "7b3c084b5122f2a0"
   },
   {
+    "title": "OEB Global 2026",
+    "date": "2026-12-02",
+    "venue": "InterContinental Berlin, Budapester Strasse 2, 10787 Berlin",
+    "url": "https://oeb.global/",
+    "source": "OEB Global",
+    "description": "OEB 2026 brings together an international, cross-sector community for three days in Berlin. The 32nd edition of the international conference and exhibition focuses on digital learning, education technology and the future of workplace training. The 2026 theme is 'Sovereign Learning: Trust, Agency & the Education Reset,' examining how artificial intelligence is reshaping education while preserving human judgement, institutional independence and public trust.",
+    "title_local": "OEB Global 2026",
+    "description_local": "OEB 2026 bringt eine internationale, branchenübergreifende Community für drei Tage in Berlin zusammen. Die 32. Ausgabe der internationalen Konferenz und Ausstellung konzentriert sich auf digitales Lernen, Bildungstechnologie und die Zukunft der betrieblichen Weiterbildung. Das Thema 2026 lautet 'Sovereign Learning: Trust, Agency & the Education Reset' und untersucht, wie künstliche Intelligenz die Bildung neu gestaltet und gleichzeitig menschliches Urteilsvermögen, institutionelle Unabhängigkeit und öffentliches Vertrauen bewahrt.",
+    "city": "berlin",
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "id": "740cf83d9f388ad8"
+  },
+  {
+    "title": "Berlin Industrial AI Meetup",
+    "date": "2026-12-03",
+    "venue": "Berlin, DE",
+    "url": "https://www.industry40.tv/events/berlin-industrial-ai-meetup",
+    "source": "industry40.tv",
+    "description": "Lightning talks, demos, and open discussion with the Berlin industrial data and AI community. Food, drinks, and plenty of hallway track.",
+    "title_local": "Berlin Industrial AI Meetup",
+    "description_local": "Lightning talks, Demos und offene Diskussion mit der Berliner Industrial Data und AI Community. Essen, Getränke und viel Networking.",
+    "city": "berlin",
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "id": "41e90f24e655aea3"
+  },
+  {
     "title": "KI-Symposium des BfDI: Wege zur datenschutzkonformen KI-Entwicklung",
     "date": "2026-12-03",
     "venue": "Landesvertretung Rheinland-Pfalz in Berlin",
@@ -3912,6 +3940,20 @@
     "id": "7a1ffa72981e1214"
   },
   {
+    "title": "DACHINA Brand Summit 2026: KI und Markenaufbau",
+    "date": "2026-12-14",
+    "venue": "Axica Convention Center, Berlin",
+    "url": "https://www.bwa-deutschland.com/dachina-brand-summit-2026-ki-und-markenaufbau-berlin",
+    "source": "BWA Deutschland",
+    "description": "The 3rd DACHINA Brand Summit focuses on brand development in the age of artificial intelligence. The event explores how companies can strategically use AI developments, what new business potentials emerge, and what role strong brands and trust play in international competition.",
+    "title_local": "DACHINA Brand Summit 2026: KI und Markenaufbau",
+    "description_local": "Der 3. DACHINA Brand Summit widmet sich der Markenentwicklung im Zeitalter der Künstlichen Intelligenz. Die Veranstaltung untersucht, wie Unternehmen KI-Entwicklungen strategisch nutzen können, welche neuen Geschäftspotenziale entstehen und welche Rolle starke Marken und Vertrauen im internationalen Wettbewerb spielen.",
+    "city": "berlin",
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "id": "90664a24896568f0"
+  },
+  {
     "title": "BLISS AI Speaker Series: Flexible Cognition in Brains and AI - Ida Momennejad",
     "date": "2026-12-15",
     "venue": "TU Berlin, Institut für Chemie, Str. des 17. Juni 115",
@@ -3964,8 +4006,36 @@
     "description_local": "Europas führende KI-Konferenz. 300 kuratierte Gäste, 40+ Speaker. Ganztägige Keynotes, Panels, Workshops und Gespräche zu Business, Politik, Forschung und Startups. Themen: Souveränität, Governance, industrielle Adoption, Infrastruktur, Talente. Exklusives Speaker Dinner am Vorabend.",
     "city": "berlin",
     "first_seen": "2026-11-24",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-26",
     "id": "e0230a49c967746d"
+  },
+  {
+    "title": "4th International Conference on Machine Learning, Artificial Intelligence & Data Science (ICMLAI-2027)",
+    "date": "2027-05-24",
+    "venue": "Berlin, Germany",
+    "url": "https://www.createwith.com/event/berlin-4th-international-conference-on-machine-learning-artificial--may-2027",
+    "source": "Pages Conferences",
+    "description": "An international conference on machine learning, artificial intelligence and data science. Includes keynotes, paper presentations and networking for researchers and industry practitioners.",
+    "title_local": "4. Internationale Konferenz zu maschinellem Lernen, künstlicher Intelligenz und Data Science (ICMLAI-2027)",
+    "description_local": "Eine internationale Konferenz zu maschinellem Lernen, künstlicher Intelligenz und Data Science. Beinhaltet Keynotes, Paperpräsentationen und Networking für Forscher und Industriepraktiker.",
+    "city": "berlin",
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "id": "ed5a81df6ffcffe6"
+  },
+  {
+    "title": "World Conference on Artificial Intelligence, Machine Learning and Data Science (WCAMD-2027)",
+    "date": "2027-08-23",
+    "venue": "Berlin, Germany",
+    "url": "https://www.machinelearning.theiconicmeetings.com/",
+    "source": "The Iconic Meetings",
+    "description": "A prestigious global event bringing together leading minds from academia, industry, and research to explore the latest innovations, challenges, and breakthroughs in AI, Machine Learning and Data Science. Hybrid event with in-person and virtual participation options.",
+    "title_local": "Weltkonferenz zu künstlicher Intelligenz, maschinellem Lernen und Data Science (WCAMD-2027)",
+    "description_local": "Eine prestigeträchtige globale Veranstaltung, die führende Köpfe aus Wissenschaft, Industrie und Forschung zusammenbringt, um die neuesten Innovationen, Herausforderungen und Durchbrüche in KI, maschinellem Lernen und Data Science zu erkunden. Hybrid-Event mit Präsenz- und virtuellen Teilnahmemöglichkeiten.",
+    "city": "berlin",
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "id": "b0544d8e53cfdd91"
   },
   {
     "title": "AI Reliability and Observability Meetup",

@@ -1559,7 +1559,7 @@
     "description_local": "인공지능을 활용한 교육 및 학습 국제 컨퍼런스.",
     "city": "seoul",
     "first_seen": "2026-10-04",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "id": "091d10ee586f64b1"
   },
   {
@@ -1829,20 +1829,6 @@
     "id": "a41db7b83765024f"
   },
   {
-    "title": "International Conference on AI and Data Science for Personalized Medicine",
-    "date": "2026-11-26",
-    "venue": "Seoul, South Korea",
-    "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea",
-    "source": "International Conference Alerts",
-    "description": "Conference exploring the application of AI and data science in personalized medicine and healthcare.",
-    "title_local": "맞춤 의료를 위한 AI 및 데이터 사이언스 국제 컨퍼런스",
-    "description_local": "맞춤 의료 및 헬스케어 분야에서 AI와 데이터 사이언스 응용을 탐구하는 컨퍼런스",
-    "city": "seoul",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-11-09",
-    "id": "deb32b78c3c75fc5"
-  },
-  {
     "title": "[Venture Park] BEYOND AI: When Technology Transforms Reality",
     "date": "2026-11-26",
     "venue": "SVC Seoul, B1F Open Stage, 136 Yanghwa-ro, Mapo-gu, Seoul",
@@ -2053,6 +2039,20 @@
     "id": "e4e49f38e9a0e4a3"
   },
   {
+    "title": "AI 시대 기업법과 규제법의 이슈와 과제",
+    "date": "2026-12-02",
+    "venue": "Law Firm Sejong, 24F Seminar Room, Jongno-gu, Seoul",
+    "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229880",
+    "source": "Law Times",
+    "description": "Joint seminar by Korean Business Law Association, Korean Information and Communications Law Association, and Law Firm Sejong. Discusses structural gaps in director oversight obligations in AI-native companies and corporate compliance strategies for AI regulation implementation.",
+    "title_local": "AI 시대 기업법과 규제법의 이슈와 과제",
+    "description_local": "한국경영법률학회·한국정보통신법학회·법무법인(유) 세종 공동 주최 세미나. AI 네이티브 기업 환경에 적합한 이사의 감시의무 구조적 공백을 진단하고 AI 규제법 시행 및 규제 환경 변화에 대응하는 기업의 효과적인 컴플라이언스 구축 방안을 논의합니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "id": "60efaf2987862744"
+  },
+  {
     "title": "AI for Finance Summit 2026 Asia",
     "date": "2026-12-04",
     "venue": "Park Hyatt Seoul, 3F The Salon",
@@ -2091,7 +2091,7 @@
     "description_local": "AI Research Conference가 주관하는 교육 및 학습 생태계에서 생성형 AI에 관한 세계 컨퍼런스입니다. 논문 제출 마감 2026년 12월 5일.",
     "city": "seoul",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "id": "0fe6a14b3c58126c"
   },
   {
@@ -2123,17 +2123,17 @@
     "id": "e3e75d26e8363edb"
   },
   {
-    "title": "International Conference on AI and Data Science for Genomic Medicine",
+    "title": "International Conference on AI-Based Bioinformatics Tools and Applications",
     "date": "2026-12-08",
     "venue": "Seoul, South Korea",
     "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea/seoul/december",
-    "source": "internationalconferencealerts.com",
-    "description": "International conference on AI and data science applications in genomic medicine.",
-    "title_local": "유전체 의학을 위한 AI 및 데이터 과학 국제 학술대회",
-    "description_local": "유전체 의학에서의 AI 및 데이터 과학 응용에 관한 국제 학술대회.",
+    "source": "International Conference Alerts",
+    "description": "Two-day conference (Dec 8-9) focused on AI-based tools and applications in bioinformatics.",
+    "title_local": "International Conference on AI-Based Bioinformatics Tools and Applications",
+    "description_local": "AI 기반 생물정보학 도구 및 응용 국제 컨퍼런스",
     "city": "seoul",
     "first_seen": "2026-11-25",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "id": "9f490ee9cd85d851"
   },
   {
@@ -2151,17 +2151,31 @@
     "id": "eab31c8aa0ee0049"
   },
   {
+    "title": "피지컬 AI & AI 데이터센터: 기획부터 운영까지",
+    "date": "2026-12-09",
+    "venue": "Jipyong Law Firm, Grand Central B Building 3F Auditorium, Jung-gu, Seoul",
+    "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229881",
+    "source": "Law Times",
+    "description": "Joint seminar by Jipyong Technology Center and AI-Infra Center examining Physical AI commercialization trends in the automotive industry, patent and technology trends, and practical issues in AI data center special legislation from industry perspective.",
+    "title_local": "피지컬 AI & AI 데이터센터: 기획부터 운영까지",
+    "description_local": "지평기술센터·AI-Infra센터 연합 세미나. 자동차 산업 피지컬 AI 상용화 동향과 특허·기술 동향을 살펴보고, 현장의 시각에서 바라본 AIDC 현황과 AIDC 특별법 제정 현황 및 실무적 쟁점을 검토합니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "id": "5c8aeeeea1662380"
+  },
+  {
     "title": "2026 전국민 AI 페스티벌",
     "date": "2026-12-11",
-    "venue": "동대문디자인플라자(DDP) 아트홀, Seoul",
+    "venue": "Dongdaemun Design Plaza (DDP) Art Hall 1 & 2, Seoul",
     "url": "https://campingfriend.co.kr/festivals/2515174",
-    "source": "campingfriend.co.kr",
-    "description": "A public AI festival organized by the Ministry of Science and ICT for all citizens to experience AI technology. Features AI competition awards, future tech exhibitions, chef vs AI cooking competition, and Minecraft competition.",
+    "source": "CampingFriend",
+    "description": "National AI festival hosted by Ministry of Science and ICT, running Dec 11-13. Theme: 'AI, into everyone's daily life.' Features AI competition awards ceremony, future AI tech exhibitions and experiences, chef vs AI cooking competition, Minecraft competition, and participatory AI content. Free admission, 10am-5pm daily with opening ceremony Dec 11, 11am-12pm.",
     "title_local": "2026 전국민 AI 페스티벌",
-    "description_local": "과학기술정보통신부 주최 국민 참여형 AI 축제. 전국민 AI 경진대회 시상식, 미래 AI 기술 전시 및 체험, 셰프와 AI의 요리 대결, 마인크래프트 경진대회 등 운영. 슬로건은 'AI, 모두의 일상으로'.",
+    "description_local": "과학기술정보통신부 주최, 한국과학창의재단·정보통신산업진흥원(NIPA)·한국지능정보사회진흥원(NIA)·한국정보통신기술협회(TTA) 공동 주관하는 국민 참여형 AI 축제. 슬로건은 'AI, 모두의 일상으로'. 1년간 진행된 전국민 AI 경진대회 시상식, 미래 AI 기술 전시 및 체험, 셰프와 AI의 요리 대결, 마인크래프트 경진대회 등으로 구성.",
     "city": "seoul",
     "first_seen": "2026-11-25",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "id": "1897775d5e874ad4"
   },
   {
@@ -2179,6 +2193,20 @@
     "id": "4dd277638ee5a9e8"
   },
   {
+    "title": "International Conference on Secure Software Architecture and IT Systems",
+    "date": "2026-12-17",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/artificial-intelligence/south-korea",
+    "source": "International Conference Alerts",
+    "description": "Two-day conference (Dec 17-18) focusing on secure software architecture and IT systems in the AI era.",
+    "title_local": "International Conference on Secure Software Architecture and IT Systems",
+    "description_local": "안전한 소프트웨어 아키텍처 및 IT 시스템 국제 컨퍼런스",
+    "city": "seoul",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-11-26",
+    "id": "deb32b78c3c75fc5"
+  },
+  {
     "title": "International Conference on Social Media Influence, Digital Branding & Marketing Innovation using AI (GCSDMI)",
     "date": "2026-12-18",
     "venue": "Seoul, South Korea",
@@ -2189,7 +2217,7 @@
     "description_local": "AI를 활용한 소셜 미디어, 디지털 브랜딩 및 마케팅 혁신을 다루는 2일간의 국제 컨퍼런스입니다.",
     "city": "seoul",
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "id": "b89ec0fad393b8e8"
   },
   {
@@ -2233,6 +2261,48 @@
     "first_seen": "2026-10-16",
     "last_seen": "2026-11-02",
     "id": "01434a8ac1ca3f99"
+  },
+  {
+    "title": "AI × CINEMA Conference [창작과 기술의 경계]",
+    "date": "2027-01-13",
+    "venue": "Seoul Film Center, Screening Room 1, Jung-gu, Seoul",
+    "url": "https://onoffmix.com/event/336669",
+    "source": "Onoffmix",
+    "description": "Conference exploring AI's role in cinema and visual arts creation, discussing new creative paradigms as technology expands into art. Focus on how AI technology is transforming film and video production.",
+    "title_local": "2026 AI × CINEMA Conference [창작과 기술의 경계]",
+    "description_local": "AI, 기술을 넘어 예술로: 창작 패러다임의 새로운 가능성을 함께 논의해보고자 합니다. 기술로 시작해 예술로 확장되는 AI 시대, 영화·영상 창작의 미래를 탐색합니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "id": "1b89bc33fc5e16d9"
+  },
+  {
+    "title": "AI Connect Seoul 2026 | Azure & AI Training Day",
+    "date": "2027-01-15",
+    "venue": "DIMOA Main Building 1F Auditorium, Yongsan-gu, Seoul",
+    "url": "https://onoffmix.com/event/336829",
+    "source": "Onoffmix",
+    "description": "Microsoft Azure and Copilot practical insights event featuring project demos and enterprise networking. Covers AI trends and business implementations with Azure and AI technologies.",
+    "title_local": "AI Connect Seoul 2026 | Azure & AI Training Day",
+    "description_local": "MS Azure & Copilot 실무 인사이트, 프로젝트 데모, 기업 네트워킹까지 한 자리에서. AI가 비즈니스의 속도를 재정의하는 지금, 실무 인사이트를 얻으세요.",
+    "city": "seoul",
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "id": "4eb2f87e165434fd"
+  },
+  {
+    "title": "AI SEOUL 2026",
+    "date": "2027-01-30",
+    "venue": "COEX Grand Ballroom, Seoul",
+    "url": "https://www.seoulaihub.kr/board/board_basic/board_detail.asp?scrID=0000000170&bd_num=00000001702025000071",
+    "source": "Seoul AI Hub",
+    "description": "Global AI conference hosted by Seoul Metropolitan Government and Seoul AI Hub under the theme 'The Transformation Era: Beyond Adoption'. Discusses practical transformation across industries and cities beyond AI technology adoption, bringing together AI industry professionals, researchers, and policy officials.",
+    "title_local": "AI SEOUL 2026",
+    "description_local": "서울시와 서울 AI 허브가 주최하는 글로벌 AI 컨퍼런스. [The Transformation Era: Beyond Adoption(전환의 시대, 도입을 넘어서)]를 주제로, AI 기술 도입을 넘어 산업과 도시 전반의 실질적 변화를 논의하는 글로벌 컨퍼런스입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "id": "6953e9eec410c667"
   },
   {
     "title": "AI EXPO KOREA 2027",
