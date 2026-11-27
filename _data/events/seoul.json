@@ -1997,6 +1997,20 @@
     "id": "98f6cb8894011367"
   },
   {
+    "title": "Devin Meetup Seoul",
+    "date": "2026-12-01",
+    "venue": "Seoul, South Korea",
+    "url": "https://luma.com/devin-meetup-seoul",
+    "source": "allai.events",
+    "description": "The inaugural meeting of Devin users and enthusiasts in Korea. This offline meetup is an open event with no entry fee, targeting individuals interested in Devin AI coding assistant.",
+    "title_local": "Devin Meetup Seoul",
+    "description_local": "한국 내 Devin 사용자 및 애호가들의 첫 모임입니다. 무료 오프라인 밋업으로 Devin AI 코딩 어시스턴트에 관심 있는 사람들을 대상으로 합니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "96b676eff48f1b5e"
+  },
+  {
     "title": "International Conference on Software Engineering Solutions for Cyber Defense",
     "date": "2026-12-01",
     "venue": "Seoul, South Korea",
@@ -2009,6 +2023,20 @@
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-27",
     "id": "dbd478639179dca7"
+  },
+  {
+    "title": "2026 오픈소스 페스티벌",
+    "date": "2026-12-02",
+    "venue": "Seoul, South Korea",
+    "url": "https://festa.io/opensourcefestival2026",
+    "source": "holaworld.io",
+    "description": "Open source festival featuring presentations and discussions on open-source projects and technologies.",
+    "title_local": "2026 오픈소스 페스티벌",
+    "description_local": "오픈소스 프로젝트와 기술에 대한 발표와 토론을 특징으로 하는 오픈소스 페스티벌입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "836b667510370ef2"
   },
   {
     "title": "AI Summit Seoul & EXPO 2026",
@@ -2095,6 +2123,20 @@
     "id": "0fe6a14b3c58126c"
   },
   {
+    "title": "DevFest Seoul 2026",
+    "date": "2026-12-06",
+    "venue": "Seoul, South Korea",
+    "url": "https://gdg.community.dev/events/details/google-gdg-seoul-presents-devfest-seoul-2026/",
+    "source": "holaworld.io, dev-event.vercel.app",
+    "description": "DevFest is the world's largest annual community-led event series hosted by Google Developer Groups (GDG), featuring the latest Google AI technologies, Cloud, Android, and Web tech through interactive sessions and workshops.",
+    "title_local": "DevFest Seoul 2026",
+    "description_local": "Google Developer Groups(GDG)가 주최하는 세계 최대 연례 커뮤니티 주도 이벤트 시리즈로, 최신 Google AI 기술, 클라우드, 안드로이드, 웹 기술을 인터랙티브 세션과 워크숍을 통해 선보입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "f0222e81004c9bd0"
+  },
+  {
     "title": "2026 국회·AI안전포럼 정책세미나",
     "date": "2026-12-07",
     "venue": "National Assembly Library Small Auditorium B103, Yeouido, Seoul",
@@ -2109,6 +2151,20 @@
     "id": "2990dd1658e3b605"
   },
   {
+    "title": "Agentic Payments Korea",
+    "date": "2026-12-07",
+    "venue": "Seoul, South Korea",
+    "url": "https://luma.com/agentic-payments-korea",
+    "source": "allai.events",
+    "description": "An offline meetup focusing on the future of payment technology, particularly the role of AI agents in executing payments.",
+    "title_local": "Agentic Payments Korea",
+    "description_local": "결제 기술의 미래, 특히 결제 실행에서 AI 에이전트의 역할에 초점을 맞춘 오프라인 밋업입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "f176db004d70f6e3"
+  },
+  {
     "title": "한국인공지능법학회 2026년 하반기 정기학술대회",
     "date": "2026-12-07",
     "venue": "Seoul National University Law School, Geundae Law Education Centennial Memorial Hall (Bldg 84), 1F Choi Jong-gil Hall",
@@ -2121,6 +2177,20 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "id": "e3e75d26e8363edb"
+  },
+  {
+    "title": "GMI AI Night Seoul - with NVIDIA & SIT",
+    "date": "2026-12-08",
+    "venue": "MARU360, Gangnam District, Seoul, South Korea",
+    "url": "https://luma.com/gmi-ai-night-seoul",
+    "source": "luma.com, allai.events",
+    "description": "AI-focused meetup organized by GMI Cloud, Startup Island Taiwan (SIT), and AI Builders, with sponsorship from NVIDIA. It brings together AI startup founders, venture capitalists, and technical leaders from Korea and across Asia. Event runs from 18:30 to 21:00.",
+    "title_local": "GMI AI Night Seoul - NVIDIA & SIT와 함께",
+    "description_local": "GMI Cloud, Startup Island Taiwan(SIT), AI Builders가 주최하고 NVIDIA가 후원하는 AI 중심 밋업입니다. 한국 및 아시아 전역의 AI 스타트업 창업자, 벤처 캐피탈리스트, 기술 리더들이 모입니다. 18시 30분부터 21시까지 진행됩니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "5190471772ea7305"
   },
   {
     "title": "International Conference on AI-Based Bioinformatics Tools and Applications",
@@ -2191,6 +2261,34 @@
     "first_seen": "2026-09-01",
     "last_seen": "2026-11-15",
     "id": "4dd277638ee5a9e8"
+  },
+  {
+    "title": "Antler Innovation Forum: Breakthrough & Scale",
+    "date": "2026-12-11",
+    "venue": "Seoul, South Korea",
+    "url": "https://luma.com/antler-innovation-forum-seoul",
+    "source": "allai.events",
+    "description": "Innovation forum focused on breakthrough technologies and scaling, taking place in Seoul.",
+    "title_local": "Antler Innovation Forum: Breakthrough & Scale",
+    "description_local": "혁신적인 기술과 스케일링에 초점을 맞춘 혁신 포럼이 서울에서 개최됩니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "ba1a2245e45661c5"
+  },
+  {
+    "title": "AutoRAG Agent Open Source Conference 2026",
+    "date": "2026-12-14",
+    "venue": "Textile Center, Seoul, South Korea",
+    "url": "https://luma.com/autorag2026",
+    "source": "allai.events, holaworld.io",
+    "description": "An emerging conference specifically designed for creators and developers of AI open-source projects, featuring discussions and networking opportunities centered on open-source AI projects. The event runs from 12:30 to 17:40.",
+    "title_local": "AutoRAG Agent 오픈소스 컨퍼런스 2026",
+    "description_local": "AI 오픈소스 프로젝트의 창작자와 개발자를 위해 특별히 설계된 신흥 컨퍼런스로, 오픈소스 AI 프로젝트를 중심으로 한 토론 및 네트워킹 기회를 제공합니다. 12시 30분부터 17시 40분까지 진행됩니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "d88a88e890769177"
   },
   {
     "title": "International Conference on Secure Software Architecture and IT Systems",
@@ -2305,6 +2403,34 @@
     "id": "6953e9eec410c667"
   },
   {
+    "title": "International Conference on Advances in Machine Learning Algorithms (ICALA)",
+    "date": "2027-02-08",
+    "venue": "Seoul, South Korea",
+    "url": "https://internationalconferencealerts.com/event-icala-seoul-kr-202702-101686134",
+    "source": "internationalconferencealerts.com",
+    "description": "Two-day conference on advances in machine learning algorithms with 11 session tracks and 20+ research topics. Runs February 8-9, 2027.",
+    "title_local": "International Conference on Advances in Machine Learning Algorithms (ICALA)",
+    "description_local": "11개 세션 트랙과 20개 이상의 연구 주제를 다루는 머신러닝 알고리즘 발전에 관한 이틀간의 컨퍼런스입니다. 2027년 2월 8일부터 9일까지 진행됩니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "7030a2ea15a0cee2"
+  },
+  {
+    "title": "AI-ESS 2027 Seoul Forum on AI-Driven Education and Social Symbiosis",
+    "date": "2027-03-22",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.aaseconference.org/2027-events/ai-seoul",
+    "source": "aaseconference.org",
+    "description": "In-person conference on AI-driven education and social symbiosis for scholars, researchers, and professionals. Runs March 22-26, 2027.",
+    "title_local": "AI-ESS 2027 Seoul Forum - AI 기반 교육 및 사회 공생",
+    "description_local": "학자, 연구자, 전문가를 위한 AI 기반 교육 및 사회 공생에 관한 대면 컨퍼런스입니다. 2027년 3월 22일부터 26일까지 진행됩니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "379ceabf4de5886e"
+  },
+  {
     "title": "AI EXPO KOREA 2027",
     "date": "2027-04-09",
     "venue": "COEX, Seoul",
@@ -2317,6 +2443,62 @@
     "first_seen": "2026-07-20",
     "last_seen": "2026-07-20",
     "id": "e86fd1bf673090e9"
+  },
+  {
+    "title": "Web Discovery Workshop: Seoul",
+    "date": "2027-04-13",
+    "venue": "Seoul, South Korea",
+    "url": "https://www.ortus.club/events/web-discovery-seoul",
+    "source": "allai.events",
+    "description": "Exclusive executive workshop and networking session for Korea's leading AI, data, and engineering professionals, hosted by The Ortus Club and Bright Data.",
+    "title_local": "Web Discovery Workshop: Seoul",
+    "description_local": "The Ortus Club과 Bright Data가 주최하는 한국의 주요 AI, 데이터, 엔지니어링 전문가를 위한 고급 워크숍 및 네트워킹 세션입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "83504e0cb6962738"
+  },
+  {
+    "title": "Microsoft AI Tour: Seoul 2027",
+    "date": "2027-04-14",
+    "venue": "Seoul, South Korea",
+    "url": "https://envision.microsoft.com/en-US/ai-tour",
+    "source": "allai.events",
+    "description": "One-day conference focusing on the transformative impact of artificial intelligence, organized by Microsoft.",
+    "title_local": "Microsoft AI Tour: Seoul 2027",
+    "description_local": "인공지능의 혁신적인 영향에 초점을 맞춘 Microsoft 주최 1일 컨퍼런스입니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "7b348007e239e108"
+  },
+  {
+    "title": "IEAI 2027 - 8th International Conference on Industrial Engineering and Artificial Intelligence",
+    "date": "2027-04-28",
+    "venue": "Seoul, South Korea",
+    "url": "https://ieai.net/",
+    "source": "ieai.net",
+    "description": "Conference focusing on industrial engineering and artificial intelligence, covering smart manufacturing, robotics, machine learning, predictive maintenance, digital twins, and AI integration in industrial processes. Runs April 28-30, 2027.",
+    "title_local": "IEAI 2027 - 제8회 산업공학 및 인공지능 국제 컨퍼런스",
+    "description_local": "스마트 제조, 로봇공학, 머신러닝, 예지보전, 디지털 트윈, 산업 프로세스에서의 AI 통합을 다루는 산업공학 및 인공지능 컨퍼런스입니다. 2027년 4월 28일부터 30일까지 진행됩니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "3a9c63d983ef732f"
+  },
+  {
+    "title": "ICRA 2027 - International Conference on Robotics and Automation",
+    "date": "2027-05-24",
+    "venue": "COEX, Seoul, South Korea",
+    "url": "https://2027.ieee-icra.org/",
+    "source": "eventify.io",
+    "description": "One of the two flagship IEEE robotics conferences, covering the full breadth of robotic systems from mechanical design to learning-based control. Runs May 24-28, 2027.",
+    "title_local": "ICRA 2027 - 국제 로봇공학 및 자동화 컨퍼런스",
+    "description_local": "기계 설계부터 학습 기반 제어까지 로봇 시스템 전반을 다루는 IEEE의 양대 로봇공학 컨퍼런스 중 하나입니다. 2027년 5월 24일부터 28일까지 진행됩니다.",
+    "city": "seoul",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "2387158d4bf3e94b"
   },
   {
     "title": "AI SALON X Dev Korea",

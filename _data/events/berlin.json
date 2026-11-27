@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -3450,6 +3450,20 @@
     "id": "1f350ba6aefcfe3b"
   },
   {
+    "title": "BLISS AI Speaker Series: Sovereign AI from a Perspective of Model Building and AI Governance - Jonathan Schwarz",
+    "date": "2026-12-01",
+    "venue": "Technische Universität Berlin, Institut für Chemie, Chemiegebäude, Str. des 17. Juni 115, 10623 Berlin",
+    "url": "https://luma.com/pday4uph",
+    "source": "BLISS AI Speaker Series 2026/2027",
+    "description": "In-person AI research talk by Imperial College London Visiting Professor Jonathan Schwarz on sovereign AI, model building and AI governance. Part of the BLISS AI Speaker Series winter 2026/2027. Event runs 7:00-8:30 PM CET.",
+    "title_local": "BLISS AI Speaker Series: Souveräne KI aus der Perspektive des Modellbaus und der KI-Governance - Jonathan Schwarz",
+    "description_local": "Präsenzvortrag von Jonathan Schwarz, Gastprofessor am Imperial College London, über souveräne KI, Modellbildung und KI-Governance. Teil der BLISS AI Speaker Series Winter 2026/2027. Veranstaltung von 19:00-20:30 Uhr.",
+    "city": "berlin",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "de071c6925b0406b"
+  },
+  {
     "title": "Bob DACH Community Gathering & Coding Watch Party Berlin",
     "date": "2026-12-01",
     "venue": "SRH Hochschule Berlin, Sonnenallee 221",
@@ -3952,6 +3966,20 @@
     "first_seen": "2026-11-26",
     "last_seen": "2026-11-26",
     "id": "90664a24896568f0"
+  },
+  {
+    "title": "DACHINA Brand Summit 2026: The Algorithm of Trust",
+    "date": "2026-12-14",
+    "venue": "AXICA Kongress- und Tagungszentrum, Pariser Platz 3, 10117 Berlin",
+    "url": "https://dachina.berlin/en/",
+    "source": "Brand University of Applied Sciences, BWA, Communication University of China, International Academy of Brand Science",
+    "description": "Third DACHINA Brand Summit bringing together around 500 decision-makers from Germany and China to discuss brand development and AI-driven business transformation in the age of artificial intelligence. Theme: 'The Algorithm of Trust - The Fusion and Symbiosis of Chinese and German Brands in the AI Era'. Features keynotes, Hidden Champions dialogue, and networking opportunities. 9:00 AM - 6:00 PM (doors open 8:30 AM).",
+    "title_local": "DACHINA Brand Summit 2026: Der Algorithmus des Vertrauens",
+    "description_local": "Dritter DACHINA Brand Summit bringt rund 500 Entscheider aus Deutschland und China zusammen, um Markenentwicklung und KI-getriebene Transformation im Zeitalter der Künstlichen Intelligenz zu diskutieren. Leitthema: 'Der Algorithmus des Vertrauens - Die Fusion und Symbiose chinesischer und deutscher Marken im KI-Zeitalter'. Mit Keynotes, Hidden Champions Dialog und Networking. 09:00-18:00 Uhr (Einlass 08:30 Uhr).",
+    "city": "berlin",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "id": "a219e3379d64a9a1"
   },
   {
     "title": "BLISS AI Speaker Series: Flexible Cognition in Brains and AI - Ida Momennejad",
