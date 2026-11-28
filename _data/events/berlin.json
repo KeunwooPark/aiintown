@@ -142,7 +142,7 @@
     "description_local": "Im Sommer 2026 veranstaltet BLISS e.V. eine spannende Vortragsreihe vor Ort in Berlin mit exzellenten Forschern von cohere, ETH Zürich, University of Oxford, HuggingFace und Stanford University. Die Veranstaltung umfasst einen Vortrag von Thomas Wimmer (ETH Zürich) zum Thema 'Beyond Patches: Learning Dense Visual Features', gefolgt von Networking mit KI-Enthusiasten bei kostenlosen Getränken und Pizza. Diese Veranstaltung ist offen für alle, die sich für modernste KI-Forschung interessieren, insbesondere Studenten, Doktoranden, akademische Forscher und Branchenfachleute.",
     "city": "berlin",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "id": "3f5021a85ab2cd80"
   },
   {
@@ -1735,7 +1735,7 @@
     "description_local": "Diese dreitägige Veranstaltung (12.-14. Oktober 2026) bringt Forscher, Branchenführer und Entwickler aus der ganzen Welt zusammen, um die neuesten Fortschritte in KI, ML, Datenanalyse und verantwortungsvoller Automatisierung zu erkunden. Unter dem Thema 'KI, Maschinelles Lernen & Data Science: Die nächste Welle der digitalen Transformation vorantreiben.' Fast dreißig fokussierte wissenschaftliche Sessions zu Robotik, autonomen Systemen, Klimawissenschaftsanwendungen, MLOps, vertrauenswürdiger KI und multimodaler KI.",
     "city": "berlin",
     "first_seen": "2026-06-15",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-28",
     "id": "22c4be5ddc567872"
   },
   {
@@ -3446,7 +3446,7 @@
     "description_local": "KI eröffnet neue Wege der Datensammlung, stellt die Wissenschaft aber zugleich vor Fragen nach Verlässlichkeit, Deutungshoheit und Bürgerbeteiligung.",
     "city": "berlin",
     "first_seen": "2026-06-28",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-28",
     "id": "1f350ba6aefcfe3b"
   },
   {
@@ -3488,7 +3488,7 @@
     "description_local": "Konferenz der Deutschen Presseakademie mit Schwerpunkt auf KI und effizienter Produktion. Mit 22 Referent:innen, darunter Friederike Schiller (DIE ZEIT), Sascha Lobo (Autor, Blogger, Spiegel-Online-Kolumnist) und anderen aus führenden Medien- und Kommunikationsorganisationen.",
     "city": "berlin",
     "first_seen": "2026-08-27",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-11-28",
     "id": "7c66ab55c8a51ce8"
   },
   {
@@ -3660,6 +3660,20 @@
     "id": "41e90f24e655aea3"
   },
   {
+    "title": "Designer in the loop",
+    "date": "2026-12-03",
+    "venue": "Zoom (online event associated with Berlin AI Designer Club)",
+    "url": "https://luma.com/AIDesignerClub",
+    "source": "Luma - AI Designer Club",
+    "description": "AI Designer Club event focused on the role of designers in AI workflows and systems.",
+    "title_local": "Designer in the Loop",
+    "description_local": "AI Designer Club Event über die Rolle von Designern in KI-Workflows und -Systemen.",
+    "city": "berlin",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "866bac634160399e"
+  },
+  {
     "title": "KI-Symposium des BfDI: Wege zur datenschutzkonformen KI-Entwicklung",
     "date": "2026-12-03",
     "venue": "Landesvertretung Rheinland-Pfalz in Berlin",
@@ -3824,7 +3838,7 @@
     "description_local": "Hybride Konferenz über React, die Open-Source-Autoren, Trainer und Web-Engineers persönlich und online zusammenbringt. Geeignet für Frontend- und Web-Entwickler, die mit React arbeiten. Mit Sprechern von React Academy, Stately AI, Microsoft und anderen.",
     "city": "berlin",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-28",
     "id": "b65233668c45f7e1"
   },
   {
@@ -3926,6 +3940,34 @@
     "id": "ba98018e90ebe848"
   },
   {
+    "title": "The Gate is the Brain - Primion x Projector",
+    "date": "2026-12-09",
+    "venue": "Merantix AI Building, Berlin",
+    "url": "https://allai.events/human-ai-interaction-events/germany",
+    "source": "allai.events",
+    "description": "Innovative event combining keynote presentation and hackathon focused on human-AI interaction.",
+    "title_local": "Das Tor ist das Gehirn - Primion x Projector",
+    "description_local": "Innovative Veranstaltung, die Keynote-Präsentation und Hackathon kombiniert, mit Fokus auf Mensch-KI-Interaktion.",
+    "city": "berlin",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "cd62be6ed8726e8b"
+  },
+  {
+    "title": "AI Salon at CIC Berlin - The Future of Art, The Digital Renaissance",
+    "date": "2026-12-10",
+    "venue": "Æthos Station, 3rd Floor, Lohmühlenstraße 65, Kreuzberg, Berlin",
+    "url": "https://luma.com/vth6jo9u",
+    "source": "Luma",
+    "description": "An immersive and intellectual gathering at the intersection of AI, VR/XR, and Music, bringing together artists, researchers, and innovators to explore the emerging Digital Renaissance through live performances, interactive installations, and dialogue.",
+    "title_local": "KI-Salon im CIC Berlin - Die Zukunft der Kunst, die digitale Renaissance",
+    "description_local": "Eine immersive und intellektuelle Veranstaltung an der Schnittstelle von KI, VR/XR und Musik, die Künstler, Forscher und Innovatoren zusammenbringt, um die aufkommende digitale Renaissance durch Live-Performances, interaktive Installationen und Dialog zu erkunden.",
+    "city": "berlin",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "8902f5b3044a1b7d"
+  },
+  {
     "title": "Berlin Experimentation Meetup #11",
     "date": "2026-12-11",
     "venue": "Delivery Hero, Berlin",
@@ -3982,6 +4024,20 @@
     "id": "a219e3379d64a9a1"
   },
   {
+    "title": "AI Builders Monthly - Berlin",
+    "date": "2026-12-15",
+    "venue": "Mindspace Zimmerstrasse, Berlin",
+    "url": "https://luma.com/ber-dec15",
+    "source": "Luma",
+    "description": "Monthly AI Builders meetup featuring innovative AI demos from EU and Silicon Valley leaders, builder tool demos, networking, pizza and drinks. For devs, product people, data lovers, ML engineers, and founders building with AI.",
+    "title_local": "AI Builders Monatlich - Berlin",
+    "description_local": "Monatliches AI Builders Meetup mit innovativen KI-Demos von EU- und Silicon Valley-Führungskräften, Builder-Tool-Demos, Networking, Pizza und Getränken. Für Entwickler, Produktleute, Datenliebhaber, ML-Ingenieure und Gründer, die mit KI bauen.",
+    "city": "berlin",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "4502c12ebe27d69d"
+  },
+  {
     "title": "BLISS AI Speaker Series: Flexible Cognition in Brains and AI - Ida Momennejad",
     "date": "2026-12-15",
     "venue": "TU Berlin, Institut für Chemie, Str. des 17. Juni 115",
@@ -4010,6 +4066,48 @@
     "id": "7a44a87d2e6c66ec"
   },
   {
+    "title": "BLISS AI Speaker Series: Model Specs and AI Safety - Robert McCarthy",
+    "date": "2027-01-12",
+    "venue": "Technische Universität Berlin, Institut für Chemie, Berlin",
+    "url": "https://allai.events/event/bliss-ai-speaker-series-sovereign-ai-from-a-perspective-of-model-building-and-ai-governance---jonathan-schwarz",
+    "source": "allai.events / BLISS Berlin",
+    "description": "BLISS AI Speaker Series presentation on the importance of model specs and constitutions for AI safety by Robert McCarthy.",
+    "title_local": "BLISS KI-Vortragsserie: Modellspezifikationen und KI-Sicherheit - Robert McCarthy",
+    "description_local": "BLISS KI-Vortragsserie-Präsentation über die Bedeutung von Modellspezifikationen und Verfassungen für KI-Sicherheit von Robert McCarthy.",
+    "city": "berlin",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "06f232243a929f85"
+  },
+  {
+    "title": "BLISS AI Speaker Series: Agentic Web Opportunities and Challenges - Nenad Tomasev",
+    "date": "2027-01-26",
+    "venue": "Technische Universität Berlin, Institut für Chemie, Berlin",
+    "url": "https://allai.events/agentic-ai-events/germany",
+    "source": "allai.events / BLISS Berlin",
+    "description": "Senior Staff Researcher at Google DeepMind Nenad Tomasev presents on agentic web opportunities and challenges. Part of BLISS AI Speaker Series 2026/2027.",
+    "title_local": "BLISS KI-Vortragsserie: Agentisches Web - Chancen und Herausforderungen - Nenad Tomasev",
+    "description_local": "Senior Staff Researcher bei Google DeepMind Nenad Tomasev präsentiert über Chancen und Herausforderungen des agentischen Webs. Teil der BLISS KI-Vortragsserie 2026/2027.",
+    "city": "berlin",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "4f997157d37f2e93"
+  },
+  {
+    "title": "BLISS AI Speaker Series: Rethinking RL Algorithm Discovery",
+    "date": "2027-02-09",
+    "venue": "Technische Universität Berlin, Berlin",
+    "url": "https://allai.events/machine-learning-events/germany",
+    "source": "allai.events / BLISS Berlin",
+    "description": "BLISS AI Speaker Series presentation on rethinking reinforcement learning algorithm discovery.",
+    "title_local": "BLISS KI-Vortragsserie: RL-Algorithmen-Entdeckung neu denken",
+    "description_local": "BLISS KI-Vortragsserie-Präsentation über das Neudenken der Entdeckung von Reinforcement-Learning-Algorithmen.",
+    "city": "berlin",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "3eab873e084b6a85"
+  },
+  {
     "title": "prompt:UX 2027",
     "date": "2027-02-24",
     "venue": "Arena Berlin, Eichenstraße 4",
@@ -4022,6 +4120,48 @@
     "first_seen": "2026-11-24",
     "last_seen": "2026-11-24",
     "id": "a56745ae1db7ccfe"
+  },
+  {
+    "title": "KI-X PR 2027 - Die KI-Konferenz für Kommunikation",
+    "date": "2027-03-02",
+    "venue": "Berlin",
+    "url": "https://aieventlist.ai/en/events/ki-x-pr-berlin-2027/",
+    "source": "aieventlist.ai",
+    "description": "Conference on artificial intelligence in corporate communication organized by Quadriga Media Berlin. Two-day event in German.",
+    "title_local": "KI-X PR 2027 - Die KI-Konferenz für Kommunikation",
+    "description_local": "Konferenz über künstliche Intelligenz in der Unternehmenskommunikation, organisiert von Quadriga Media Berlin. Zweitägige Veranstaltung auf Deutsch.",
+    "city": "berlin",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "65d830eb60a13254"
+  },
+  {
+    "title": "AI Agents Summit 2027",
+    "date": "2027-03-11",
+    "venue": "Spielfeld Digital Hub, Skalitzer Str. 85/86, 10997 Berlin",
+    "url": "https://luma.com/ai-agents-summit-2027",
+    "source": "Luma",
+    "description": "AI Agents Summit returns to Berlin. Organized by AI Agents Berlin, the community for the agentic economy.",
+    "title_local": "KI-Agenten-Gipfel 2027",
+    "description_local": "Der KI-Agenten-Gipfel kehrt nach Berlin zurück. Organisiert von AI Agents Berlin, der Community für die agentische Wirtschaft.",
+    "city": "berlin",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "f1ec00bd1f4d1e52"
+  },
+  {
+    "title": "Chatbot Summit Berlin 2027",
+    "date": "2027-04-07",
+    "venue": "Ritz-Carlton Berlin",
+    "url": "https://www.moin.ai/en/chatbot-wiki/chatbot-conferences",
+    "source": "moin.ai",
+    "description": "14th edition of the world's leading conference for conversational and agentic AI. Features masterclasses, workshops, networking, and live demonstrations. Topics include Agentic AI, Data & GenAI, Security & Governance, and Business Transformation.",
+    "title_local": "Chatbot Summit Berlin 2027",
+    "description_local": "14. Ausgabe der weltweit führenden Konferenz für konversationelle und agentische KI. Bietet Masterclasses, Workshops, Networking und Live-Demonstrationen. Themen umfassen agentische KI, Daten & GenAI, Sicherheit & Governance und Business Transformation.",
+    "city": "berlin",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "b88482643e5b7fbd"
   },
   {
     "title": "Rise of AI 2027",

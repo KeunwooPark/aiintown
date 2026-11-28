@@ -1941,6 +1941,20 @@
     "id": "5b863e7a2aa30205"
   },
   {
+    "title": "AI Freaks x Builders Meetup",
+    "date": "2026-11-29",
+    "venue": "Cry Cheese Burger Yangjae, 8 Gangnam-daero 41-gil, Seocho District, Seoul",
+    "url": "https://luma.com/jsyolttk",
+    "source": "luma.com",
+    "description": "A meetup for AI service builders and developers, hosted by AI Freaks (Instagram @ai_freaks.kr with 130k+ followers). Includes networking, catering, and sessions on building AI products. Free admission for startup employees, individual builders, and AI enthusiasts.",
+    "title_local": "AI Freaks x Builders Meetup",
+    "description_local": "AI 서비스를 만드는 사람들과 더 가까이 만나기 위한 밋업. AI FREAKS 세션, 케이터링, 자유 네트워킹 포함. 제품을 만들고 있는 스타트업 임직원, 1인 개인 빌더, AI를 활용한 서비스 개발 및 AI에 대한 관심이 많으신 분 환영. 50명 이내 참가, 무료.",
+    "city": "seoul",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "81afa3d512f437f5"
+  },
+  {
     "title": "모두를 위한 접근 가능한 미래 구축: AI와 디지털 포용 세미나",
     "date": "2026-11-30",
     "venue": "Jung-gu, Seoul",
@@ -2025,6 +2039,20 @@
     "id": "dbd478639179dca7"
   },
   {
+    "title": "Sognag University Open AI Student Collective Studio Session",
+    "date": "2026-12-01",
+    "venue": "Chong Hasang Hall, Sogang University, Seoul",
+    "url": "https://allai.events/event/sognag-university-open-ai-student-collective-studio-session",
+    "source": "allai.events",
+    "description": "An OpenAI Student Collective studio session at Sogang University for refining AI projects and experiments. Offline event organized by OpenAI Student Collective at Sogang University, 7:00-8:00 PM. Free admission.",
+    "title_local": "서강대학교 Open AI Student Collective Studio Session",
+    "description_local": "서강대학교 OpenAI Student Collective 스튜디오 세션. AI 프로젝트와 실험을 개선하고 집단 학습과 창의성을 장려하는 오프라인 행사. 초안 개념 소개나 특정 질문에 대한 조언 구하기 가능. 정하상관에서 개최.",
+    "city": "seoul",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "e7d7b0d8a106041c"
+  },
+  {
     "title": "2026 오픈소스 페스티벌",
     "date": "2026-12-02",
     "venue": "Seoul, South Korea",
@@ -2107,6 +2135,20 @@
     "first_seen": "2026-11-22",
     "last_seen": "2026-11-22",
     "id": "6c156f1aa0de566f"
+  },
+  {
+    "title": "[Sogang univ.] OpenAI Student Collective Showcase",
+    "date": "2026-12-04",
+    "venue": "Sogang University, Seoul",
+    "url": "https://allai.events/event/sogang-univ-openai-student-collective-showcase",
+    "source": "allai.events",
+    "description": "A showcase highlighting innovative projects developed by Sogang University students using ChatGPT and Codex AI technologies. Includes live project demonstrations and presentations of innovative AI applications. Free admission, 7:00-8:30 PM.",
+    "title_local": "[서강대] OpenAI Student Collective Showcase",
+    "description_local": "서강대학교 학생들이 한 학기 동안 ChatGPT와 Codex AI 기술을 사용하여 개발한 혁신적인 프로젝트를 선보이는 쇼케이스. 라이브 프로젝트 데모와 혁신적인 AI 활용 사례 발표 포함.",
+    "city": "seoul",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "id": "3f97ab5a794fc1c1"
   },
   {
     "title": "World Conference on Generative AI in Education & Learning Ecosystems (WCGAELE)",
